@@ -1,0 +1,114 @@
+* 2021-10-14
+
+** Withdrawing from the EU: introduction
+
+- *00:00:00*.
+- Withdrawal from the Union can be formal, or /de facto/.
+- Art. 50 TEU, which contains the exiting or withdrawal clause, has been introduced by the Lisbon treaty in 2007.
+- *00:03:00*.
+- Before the Lisbon treaty, EU primary law didn't provide any references to the possibility for MS to leave the Union.
+- The question arose as to whether MS had in any case the possibility to withdraw from the EU, even if nothing in the treaties mentioned such a possibility.
+- When EU treaties don't say anything about a specific prerogative or power of MS, in order to understand if MS have that prerogative or power, it's necessary to fall back to international law, and in particular, the VCLT.
+- Art. 56 VCLT deals with the case where a treaty doesn't provide any mechanisms to withdraw from the treaty itself.
+- According to art. 56, the general rule is that the contracting parties to that treaty cannot leave the treaty unilaterally.
+- However, there are two possible exceptions.
+- The first exception has to do with the nature of the treaty itself.
+- *00:06:00*.
+- It applies it's implied that it's possible to withdraw from the treaty, even in the absence of specific provisions.
+- The second exception is related to the intent showed by the contracting parties in negotiating or acceeding to the treaty.
+- If the idea of contracting parties was to establish a cooperation, and the intention is that States are free to leave the cooperation in the future, States can leave even if the treaty doesn't say anything.
+- One exception looks at the nature of the treaty, the other looks at the position of the States while negotiating the treaty or acceeding into it.
+- Question: was it possible to apply art. 56 VCLT to the EU, before the Lisbon treaty?
+- *00:09:00*.
+- Answer: it was, if one takes into account the intention of States, it was implied that they could leave the Union, even in the absence of a specific clause.
+- The nature of the treaties wouldn't allow MS to withdraw, since art. 1 TEU specifies that it wants to attain an "ever-closer union among the peoples of Europe".
+- The only exception that can be of use is the intention of MS, and there are some elements that demonstrate the intention that States may want to leave the Union.
+- E.g., in the 80's there was a referendum in the UK regarding whether they should leave the Community.
+- *00:12:00*.
+- E.g., Greenland is under the jurisdiction of Denmark, and originally was under EU law, but later the decision was taken to no longer apply EU law in the region.
+- Before the Lisbon treaty, States did believe that they could leave the Union.
+- After the Lisbon treaty, it's undeniable that States can leave the Union.
+- Art. 50 was already present in the Constitutional treaty (which was adopted in 2004, but never came into force due to the opposition of France and Netherlands).
+- It seems contradictory that a Constitution would include a provision to leave the Union.
+- Especially since the purpose of the constitutional treaty was to establish a new legal order, with a strong constitutional basis.
+- However, there was a specific reason for the inclusion of that provision.
+- *00:15:00*.
+- 2004 was also the year in which ten new countries joined the Union.
+- On one hand, there was a long and complex process that was required for these countries to join.
+- On the other, there was a political need to speed up the enlargement process, so that the EU could begin to exercise a stronger political influence over them, before the Russian Federation would.
+- This led to a rushed and superficial assessment, and all the participating parties were aware of that fact.
+- This is why art. 50 was introduced (or better, copied over from the constitutional treaties).
+- It was intended to provide the new MS, who may struggle to live up to the EU's standards (in particular, the fundamental values of the EU legal order), with an exit strategy.
+- *00:18:00*.
+- As early as the constitutional process, the exit clause was intentional, to provide the newcomers with an exit strategy.
+- There were also discussions about the possibility to introduce an expulsion clause.
+- They were set aside because such a clause was considered inconsistent with the "ever-closer union" and the nature of EU treaties.
+- *00:21:00*.
+- If a State decides to leave the Union, it must do so in accordance with its constitutional requirements, and it must notify the decision to the European Council.
+- After that, a negotiation will start between the Union and the MS concerned, regarding the withdrawal agreement, containing the conditions for leaving the Union, and future relations.
+- After 2 years since the notification of the decision to leave, even if the withdrawal agreement doesn't enter into force, in any case the State will cease to be a MS of the EU.
+- The European Council and the concerned MS can jointly decide to postpone that deadline.
+- Brexit represents the only example of a MS using art. 50 to leave.
+- *00:24:00*.
+- Art. 50(1) imposes two limitations.
+- The first one is that the constitutional requirements must be respected, in taking such a decision.
+- This is not strictly a EU limitation, it's based on national law.
+- *00:27:00*.
+- When it comes to the implementation of international and EU law, the details of national law are not relevant.
+- That means that States can't invoke their national law to justify breaches of internationa law.
+- However, art. 50(1) introduces an exception to that general rule, a national requirement takes on a supra-national relevance.
+- If a State decided to leave the EU without respecting their constitutional process, besides the issues at the internal level, such a decision would not be effective at the EU level.
+- This is one of the very few cases in the treaties where respect of the national law is relevant at the EU level.
+- It's a similar provision to the one found in art. 46 VCLT, which has to do with treaties that are concluded by States by violating fundamental constitutional norms that regulate how to join international agreements.
+- *00:30:00*.
+- If a State concludes an agreement, but violates its constitutional law, this can make the treaty invalid at the international level.
+- Art. 50(1) isn't speaking about validity, but effectiveness.
+- There is a second, implied limitation.
+- *00:33:00*.
+- Exiting from the Union is not a simple process, and if a State is unsatisfied with the obligations, exiting from the Union would be an excessive reaction, when there are other solutions.
+- *00:36:00*.
+- The second limitation is that the State can't only leave the euro zone, but stay in the Union, it has to leave the Union as a whole.
+- *00:39:00*.
+- This is the only substantive limitation, all the other ones are procedural limitations.
+- In the past, in some countries, there was the idea to organize referenda to leave the euro zone.
+- The reason as to why it's impossible to leave the euro zone is found in art. 4(2) TEU, the principle of equality.
+- States can't decide unilaterally how to participate in the Union, and while differentiated integration is possible, it requires the unanimous consent of the other MS.
+- Choosing which forms of cooperation to support is inconsistent with the principle of good faith and sincere cooperation, but most importantly, with the principle of equality of MS.
+- *00:42:00*.
+- If a State decides to leave, is it possible for it to revoke the intention to leave?
+- *00:45:00*.
+- On a purely political level, it would be hard to reverse the decision.
+- *00:48:00*.
+- Until the deadline in art. 50(3) is reached, the State can change its mind on wanting to leave.
+- Since deciding to leave is a unilateral decision that is taken before starting the negotiations, it can revoked, and it is a State's sovereign power to do so.
+- *00:51:00*.
+- The last argument has been used by the EUCJ when asked if a State could reverse the decision to leave in the Wightman case, which was decided in December 2018.
+- It was a difficult moment in the negotiations between the UK and the EU.
+- The UK notified the decision to leave in March 2017, and was expected to leave at the latest in December 2019.
+- There were difficulties in drafting the withdrawal agreement, and there was a concrete risk of having a "hard Brexit".
+- *00:54:00*.
+- The Plenary of the EUCJ consists of all the judges in the Court, and is used very rarely, only for the most important cases.
+- In the Wightman case the Court was asked whether or not a State had the chance to revoke their decision to leave.
+- In point 50 of the judgement says that according to art. 50(1) TEU, the decision to withdraw is taken unilaterally, in accordance with a State's constitutional requirements.
+- Therefore, according to the EUCJ, withdrawing from the EU is a sovereign choice for MS.
+- *00:57:00*.
+- Furthermore, it can't be discussed with other actors, unlike other sovereign prerogatives, which can be influenced by the EU.
+- E.g., in the case of national security and sincere cooperation, the principle of sincere cooperation may change how States exercise their prerogatives.
+- They're acting as MS, as parties to an international organization.
+- However, when a State decides to invoke art. 50, it is acting as a "sovereign" State, not as a "member" State.
+- The consequences of that decision for the other States in the Union, and the Union itself, are irrelevant in taking that decision, that's the meaning of the "sovereign choice" in art. 50.
+- *01:00:00*.
+- The underlying implication in this decision is that the EU is still just based on international law.
+- In the opinion given by the AG, it's stated that the EU is still an international law organization.
+- The EU legal order is still not completely autonomous, given that MS can still decide, without limitations, to leave the Union, as an exercise of the sovereign powers.
+- There are many cases which talk about sovereign powers, but they're about powers that have been transferred to EU institutions.
+- E.g., in Van Gend en Loos there is a reference to the sovereign power of States, that have been transferred to the Union, which is now able to exercise sovereign powers.
+- It's unusual to have references to sovereign powers that the MS can still exercise.
+- *01:03:00*.
+- The decision of the Court was meant to encourage the UK to reconsider their decision to leave the EU.
+- All the UK had to do in order to stay was revoke their intention to leave, using the same constitutional measures.
+- The AG did make the argument that if there are no limitations, it's entirely possible for a state to abuse the mechanism to manipulate how other MS act.
+- It's unlikely that this would happen, given the "constitutional requirement" clause, so it would be difficult to strategically notify and withdraw the intent to leave.
+- *01:06:00*.
+- The EUCJ is aware of the potential for abuse, but art. 50 doesn't provide for any limitations to that power.
+- Furthermore, in the preparatory works of the constitutional treaties, all proposals to introduce limitations to the power of States to leave the Union were set aside, in order to safeguard their sovereign power.

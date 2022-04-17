@@ -1,0 +1,104 @@
+* 2021-10-20
+
+** Summary
+
+- *00:00:00*.
+- The negotiations for future relations was held separately from the negotiations for the withdrawal.
+- This was a mistake, given how closely related the two are.
+- During the transition period (January 2020 to December 2020), the parties negotiated the new agreement.
+- The agreement that was negotiated was a trade agreement, and both the UK and EU are members of the WTO (a UN organization, with a specific mandate on trade facilitation).
+- Given these two circumstances (the need to establish trade cooperation, and the fact that both were WTO members), only two possible solutions are according to international law.
+- According to the WTO rules, developed countries may collaborate by choosing between creating a customs union, or a free-trade area.
+- *00:03:00*.
+- The EU is a customs union.
+- Goods may move freely inside the members of the customs union (this is the internal dimension).
+- *00:06:00*.
+- As for the external dimension, goods from third countries are subject to formalities when they enter the territory of the union, such as customs tariffs.
+- The customs tariff is the same across all the States participating in the Union.
+- A free-trade area only includes the internal cooperation, but each State is free to determine their own customs tariffs.
+- *00:09:00*.
+- According to the WTO, those were the two possibilities for a trade agreement.
+- According to EU law, in the context of commercial cooperation with third countries, there are three possible models.
+- The first model is the European Economic Area (EEA) agreement, which was concluded between the EU, Liechtenstein, Norway and Switzerland.
+- The goal was to create a strong trade cooperation, and transfer a set of rules from the EU acquis.
+- The UK refused this model, because it would be too strongly tied to the EU.
+- The second model is to conclude an association agreement, which are concluded often in the context of the enlargement process.
+- When third countries are thinking of joining the Union, they are concluded as one of the first steps.
+- *00:12:00*.
+- Again, the UK rejected this model as well, since EU law would have to prevail.
+- The third model is the "new generation" trade agreements that the EU is negotiating with third countries.
+- They have a peculiar structure and content, they use a holistic approach.
+- Besides the trade cooperation mechanism, there are provisions related to the protection of environment, of human rights, of health, rules on general procurement...
+- The objective is to establish a general cooperation platform between the EU and third countries, mainly based on trades, but also encompassing other fields, which are ancillary but relevant.
+- *00:15:00*.
+- The first new-generation trade agreements were concluded with South Korea, Japan, Canada (the CETA), Australia, etc...
+- The UK decided to conclude a new-generation trade agreement with the EU.
+- *00:18:00*.
+- The text of the trade agreement demonstrates a complete change in the attitude shown by the parties.
+- The agreement entered into force in May 2021.
+- The preamble explains the object and scope of the cooperation agreement, and it's useful in interpreting the provisions.
+- *00:21:00*.
+- The "essential" clause, or "essential elements" clause is commonly found in treaties concluded by the EU with third countries.
+- It contains a list of elements the protection of which is considered essential.
+- If one of the parties fails to fulfil the obligations in the agreement that are related to these elements, it's possible for the other party to invoke a material breach, according to art. 60 VCLT.
+- *00:24:00*.
+- Art. 60(1) VCLT regulates the breach of a bilateral treaty by one of the parties, and allows the other to either terminate or suspend its operation.
+- The agreement between the EU and UK is a bilateral treaty.
+- This kind of clause is used often in trade agreements, to introduce a sort of conditionality mechanism for developing countries.
+- The EU will aid those countries, provided that they provide a certain level of protection of human rights, which is usually based on the two UN Covenants, and other UN instruments.
+- The EU can decide to suspend financial assistance if those countries violate this obligation, which is why this provision is called the "human rights clause".
+- *00:27:00*.
+- The first three elements are the same found in art. 2 TEU (democracy, rule of law, human rights), so one could say that this agreement is based on the values of the EU.
+- *00:30:00*.
+- The UK used to be a EU MS, so EU values are still relevant even after its withdrawal.
+- On the other hand, this is not a purely EU instrument, it's an international law instrument that has been concluded with a State that's no longer a member of the Union.
+- The trade agreement also makes a reference to weapons of mass destruction and climate change, which are absent in art. 2 TEU.
+- The fact that there are similar expressions in the trade agreement and in the TEU doesn't mean that the context is the same.
+- The context has changed, cf. the preamble, point 5.
+- *00:33:00*.
+- The solutions to solve disputes between the parties must respect the autonomy and respective legal orders, and recognize the UK's status as a country outside the Union.
+- In the withdrawal agreement, EU law and the jurisdiction of the EUCJ is still relevant. 
+- *00:36:00*.
+- The dispute resolution mechanism was introduced after looking at past cases, such as the MOX case.
+- Furthermore, the Court stressed the importance of ensuring the autonomy of the EU legal order, which means also to respect the mandate of the EUCJ as the sole judge in charge of interpreting EU law.
+- The provision in the trade agreeement affirms the autonomy of the UK legal order, and the need to respect it.
+- This means that EU law no longer enjoys a position of primacy or priority, but there's equal treatment of the legal systems of the two parties, which may only be found in international law.
+- Art. 5 of the withdrawal agreement, the good faith clause, but there is a significant difference.
+- *00:39:00*.
+- There is a relevant difference between art. 5 of the withdrawal agreement and art. 3 of the trade and cooperation agreement.
+- There is no reference to the principle of sincere cooperation, or any reference to the law, another element that suggests that the attitude has changed.
+- *00:42:00*.
+- Art. 4 of the agreement states that EU law is no longer binding, but just the "domestic law" of one of the parties, just like UK law is the domestic law of the other party.
+- Domestic law can't be invoked by the parties, according to international law, in order to justify the way in which the parties implement the treaty obligations.
+- This is unlike in the withdrawal agreement, where EU law was quite relevant, and UK judges have to follow the EUCJ's interpretations.
+- The provisions in the treaty can't be interpreted in the light of the fundamental values of the EU.
+- *00:45:00*.
+- Furthermore, an interpretation of the treaty given by the court of either party shall not be binding on the other party.
+- Art. 5(1) of the agreement denies the direct effect doctrine, which is strictly related to the EU legal order, which is a domestic legal order, and no longer the prevailing legal system.
+- It is clear that the UK is no longer an exiting State, but a third country, and all relations with it must be regulated by international law.
+- *00:48:00*.
+- However, the withdrawal agreement is still in force, and it is based on stricter adherence to EU law.
+- It's necessary to reconcile these two agreements and attitudes.
+- The /lex specialis/ and /lex posteriori/ doctrines could be used to resolve any contradictions in favor of the trade and cooperation agreement.
+- *00:51:00*.
+- However, the scope of application and topics of the treaties are not the same, despite the parties staying the same, so it's not possible to apply that criteria.
+- It's difficult to determine which one "prevails", because they're not comparable, in that they cover different subjects.
+- There is no deadline given to implement the withdrawal agreement.
+- *00:54:00*.
+- In theory, these rules could be applied for years, if not decades to come.
+- The distinction between the "withdrawal" phase and the "future relations" phase is clear in theory, but not in practice.
+- On one hand, the UK should still honor the EU legal system (conform to the case law of the EUCJ, sincere cooperation, EU law) when considering the "withdrawal" issues.
+- On the other, when the UK looks at the EU as a commercial party, they should interpret the trade and cooperation agreement without regard for the EUCJ's case law.
+- *00:57:00*.
+- There is a protocol on the cooperation between Ireland and Northern Ireland.
+- According to the first version of the protocol, the EU customs union obligations were still valid, regarding the movement of goods between Ireland and Northern Ireland.
+- This solution was rejected by the UK authorities.
+- The new solution is that there is a free movement of goods betweenn Ireland and Nothern Ireland, which isn't an implementation of EU rules.
+- Rather, it's subject to a democratic assessment, meaning that it's possible for the parties to limit this freedom.
+- In the very last days, there was a political struggle, related to the difficulty in obtaining goods.
+- *01:00:00*.
+- The PM stated that it was necessary to amend the protocol, to ensure the movement of goods between Ireland and Northern Ireland.
+- The EU argued that it's not possible to amend the protocol again, because the result may be unpredictable.
+- Rather, the solution is to implement those rules, according to good faith, and taking into account the particular situation.
+- This is another point of friction, having the freedom of movement of goods without having a customs union.
+- *01:03:00*.

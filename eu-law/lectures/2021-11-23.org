@@ -1,0 +1,67 @@
+* 2021-11-23
+
+- There are some principles that the Court wants to protect, in order to preserve the identity of the EU
+- ...
+- EU law is different than ordinary international law
+- Autonomy, primacy and direct effect are not principles written in treaties, but were developed in the case law of the EUCJ
+- If States decide to amend the Treaties, the amendment is subject to the EUCJ's jurisdiction, so that it can determine whether it's undermining fundamental principles of the EU, and following the procedure in art. 48 TEU
+- ...
+- If States wanted to terminate the Treaties, from a general international law point of view (from the outside) they could, but as subjects of the EU legal order (from the inside) it would be illegal
+- ...
+
+** Ordinary revision procedure
+
+- ...
+
+** Simplified revision procedure
+
+- It can only be used for Part Three of the TFEU (internal policies and action of the EU)
+- The EU Council has to decide unanimously, but the decision needs to be ratified, according to the constitutional requirements of the MS
+- This procedure can't be used to increase the powers of the EU
+- However, a strict interpretation of the last subpar. is limiting, and a more flexible interpretation that disallows decreasing the powers of the EU as well would be more useful
+- Question: ...
+- ...
+
+** Second simplified revision procedure
+
+- Qualified majority ...
+- 
+
+** Pringle case
+
+- Context ...
+- The ESM is not EU law
+- MS chose the legal form of an independent, international treaty, which is outside of EU law
+
+** First argument: the ESM infringes EU's exclusive competence
+
+- The EU has an exclusive competence in the area of monetary policy, and its main objective is maintaining price stability
+- On the other hand, the ESM is a regulatory framework to strenghten the stability of the Euro area as a whole
+- ...
+- The ESM has an indirect effect on monetary policies, but those indirect effects are both unavoidable and desirable
+
+** Second argument: the ESM increases competence
+
+- If it's an economic policy, it may increase the competence of EU in economic policies
+- ...
+
+** Third argument: the ESM violates the "no bail-out" clause
+
+- Art. 123 and 125 TFEU prohibit the mutualization of sovereign debt
+- The EUCJ interprets art. 125 TFEU to mean that not all kinds of financial assistance are prohibit, they can be granted as long as the debtor State will repay the creditor State, and the debtor State must respect a strict budgetary policy ...
+- This is to avoid MS to ...
+
+** Fourth argument: the ESM violates the EU institutions
+
+- MS can entrust new tasks on the EU institutions, even if they're regulated outside of the EU legal order, as long as those tasks are consistent with the essential characters of the EU instutions
+- It is a very flexible reading of art. 13 TEU, which was necessitated by the crisis situation
+
+** Fifth argument: the ESM violates the principle of sincere cooperation
+
+- ...
+
+** Pringle case: conclusions
+
+- This is a typical case of constitutional containment, in order to facilitate more EU integration, with objectives which are consistent with EU 
+- A strict interpretation of the principle of conferral reduces the EU's ability to face crises
+- 

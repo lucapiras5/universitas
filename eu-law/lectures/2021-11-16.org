@@ -1,0 +1,139 @@
+* 2021-11-16
+
+** 17:26 ECB: introduction
+
+- The ECB, among EU institutional frameworks, looks like a self-contained institution
+- It's not an expression of representative democracy, and it has limited connections with other institutions
+- However, the ECB can take part in the law-making process, because it is able to adopt binding instruments (mostly regulations)
+- These instruments are subject to the control of the CoJ, so there is a way to exercise jurisdictional control over the ECB
+- It is a quasi-self-contained institution
+
+** 19:11 ECB: internal structure
+
+- Internally, the ECB is divided in three different bodies
+- The first body is the governing council, the main decision-making body
+- It is composed by six members from the executive board, and the governors of the national central banks of the MS in the euro zone
+- This body is in charge of defining the monetary policy
+- The second body is the executive board, which is charge of carrying out the decisions taken by the governing council
+- It is composed by six individuals, which are appointed by the European Council, according to a qualified majority vote
+- The president of the executive board is also the president of the ECB
+- The general council is composed by all the governors of the central banks of all the MS, including the non-euro zone ones
+- It isn't a very relevant body, and it is in charge of collecting statistical data, to aid the work of other bodies and institutions
+
+** 23:41 ECB mandate: monetary policy
+
+- Art. 127 TFEU defines the mandate of the ESCB (European System of Central Banks, which includes the ECB, and the central banks of each MS), which is, to maintain price stability
+- Par. 2 defines more specific tasks
+- "Define and implement the monetary policy of the Union" is an exclusive competence of the EU and ECB, which means that MS can't adopt binding decision in this field anymore
+- Only the ECB can adopt binding decisions in the monetary policy, not to be confused with economic policies
+- In the economic domain, the EU can only try to harmonize policies
+- There is a imbalance between the "monetary pillar", which is completely controlled by the EU, and the "economic pillar", where the EU only has a soft power influence
+
+** 29:34 ECB mandate: other tasks
+
+- There are other tasks, besides defining a monetary policy
+- Conduct foreign exchange operations
+- Manage the foreign reserves of MS
+- Promote the smooth operation of payment systems
+- These subtasks are also relevant to maintaining price stability
+
+** 31:00 ECB's first reaction to the financial crisis
+
+- The spread rate during the crisis peaked during 2012, but after that year it lowered significantly, and returned to average by 2015
+- At the very beginning of the crisis, what the ECB did was the classical reaction
+- All decisions taken by the ECB were related to the interest rate of operations
+- This wasn't effective in terms of practical result
+- In 2012, it was decided to increase the purchase of sovereign debts from MS in the euro zone
+- This decision was taken without any kind of conditionality or control, but it wasn't effective
+
+** 35:22 European Stability Mechanism
+
+- In 2012, it was decided to adopt a new program, the "Outright Monetary Transaction" program (OMT)
+- In order to properly understand the functioning of the OMT, it's necessary to discuss the European Stability Mechanism (ESM)
+- The ESM was adopted by MS with an international treaty, outside of the EU legal order
+- The purpose was to introduce mutual financial assistance, for the States in need
+- The ESM was subject to a conditionality mechanism, States had to sign a memorandum of understanding with the so-called EU Troika (ECB, EC and IMF)
+- This memorandum listed the commitments of the State, related to the financial assistance, such as budgetary constraints
+
+** 40:44 Outright Monetary Transaction program
+
+- It was announced by the ECB as the monetary dimension of the ESM
+- The ESM was understood as a means of economic cooperation between States, while the OMT was understood as a monetary measure, complementary to the former
+- The idea of the OMT was to buy MS bonds (debt), with strict conditionality rules, consistent with those of the ESM
+- In other words, the idea was to create a EU instrument, controlled by EU institution, that was connected to the ESM, which existed outside of the EU
+- The OMT has never been implemented by the ECB, it was only announced
+- Instead, the "Public Sector Purchase" program was adopted, and it was similar to the OMT
+- The mere announcement of the OMT was able to affect the spread rates, because it signified a change of attitude from the ECB regarding the crisis
+- The EU bank was ready to do whatever it takes to save the Euro, including creating ad-hoc instruments, intertwined with the mechanisms created by States
+- It was a major change in the attitude of the ECB, and how it interpreted its mandate
+- This led to problems in some EU contries, in terms of accepting the shift in the ECB's attitude
+
+** 45:34 Gauweiler case: introduction
+
+- The CoJ was asked to intervene in the Gauweiler case, which was initiate in Germany, one of the countries that took issue with the change of attitude by the ECB
+- The decision of the ECB to adopt the OMT program was challenged in Germany, and there was a dispute before German judges
+- They decided to stay the proceedings, and ask the intervention of the CoJ, who was asked to decide whether the OMT program was valid or not
+- In particular, two major argumnets were made, to challenge the validity of the OMT program
+
+** 47:40 Arguments against the OMT
+
+- The OMT was understood as an economic instrument, not a monetary one
+- Therefore, the logical consequence was that the ECB had no authority to adopt such a measure, economic policies are left to States
+- Since the OMT would produce economic effects, the ECB would be acting beyond their powers, and the allocation of competences between the EU and MS would be violated
+- The other argument was that according to the new treaties, EU institutions couldn't buy the debts of MS, which was exactly what the OMT scheme was about
+
+** 52:06 (Teacher disconnects)
+
+** 55:26 (Teacher reconnects)
+
+** 55:38 EUCJ's "center of gravity" theory
+
+- We have a decision, taken by the ECB, which can produce economic consequences, beyond any doubt
+- There were major consequences, according to the macro-economic parameters, at least in the Euro zone
+- What the CoJ has done, in the Gauweiler case, is try and apply a "center of gravity" theory
+- In order to determine if this is an economic or monetary measure, the essential elements, the "center of gravity" have to be considered, because there could be effects on other policy domains
+- According to the ECB, even though there surely are economic effects, the center of gravity of the OMT is still in the monetary domain
+- Any effects in policy domains on which the ECB has no control (e.g., economic measures) are irrelevant, because they're indirect, and can't be avoided
+- In other words, the consequences of the use of the instrument doesn't change the inherent nature of the instrument
+- This is a substantive approach, not a formalistic approach, because it doesn't stop at labels, but looks into the actual content of the measure
+- This approach leads to the preservation of the instrument at stake
+
+** 1:00:40 EUCJ's opinion on the validity of the ESM
+
+- The EUCJ was also asked to assess the validity of the ESM, which is the "economic" pillar
+- In the case of the ESM, the Court used the opposite argument, it argued that it was a monetary instrument, because it produced monetary consequences
+- However, this agreement was taken outside of the EU legal order, thus violating the exclusive competence of the EU on monetary policies
+- The EUCJ used the "center of gravity" test to determine the fundamental traits of the ESM, and stated it's clear that it's an economic instrument, producing monetary consequences
+- Therefore, the ESM was saved as well, using the same approach
+
+** 1:03:38 Question: what divides the economic dimension from the monetary one?
+
+- What divides the economic dimension from the monetary one?
+- Buying MS's debt in the secondary market introduces money into their banking system, which in turn allows for economic recovery
+- The monetary dimension is that money is being injected into the system, the economic dimension is the consequences of that injection of funds
+- In the ESM, there is the opposite scenario, because money is being injected as a consequence of economic reforms, which will be adopted by the State, as promised in the memorandum of understanding
+- The Court says that it's obvious that the OMT is a monetary policy instrument, with consequences on the economy, and the ESM is the opposite
+
+** 1:07:53 Substantive argument
+
+- Both cases share the same approach by the Court, meant to save them, it's a substantive approach, that looks at the center of gravity
+- The substantive approach strongly relies on interpretation, 
+which is not objective
+- Also, it's an argument based on the division of compentences
+
+** 1:10:19 Formalistic argument
+
+- The other argument is based on art. 123 TFEU, which prohibits EU institutions to buy MS's debt
+- Here, the approach is formalistic
+- The ECB is not buying debts from MS, but it's buying debts from private actors, in the secondary market
+- So, it's not participating in a bonds program that was directly launched by States
+- States usually issue and sell bonds to private parties, and then these private actors can sell those bonds on the secondary market
+- E.g., a large banking group could buy bonds from the State, and then sell them to the ECB
+- It's a very formalistic approach, which only looks at the formal elements of the operation
+- The court decides to stress this interpretation, to save the instrument
+- At the end of the day, it's a debatable interpretation, it's evident that the ECB is buying debt
+
+** 1:15:02 Conclusion
+
+- The approach taken by the EU judges is a combination of a substantive and formal approach, in order to save the measures
+- The idea was to do whatever was necessary, within the mandate, to save the Euro, implying that an extensive interpretation of the mandate is possible

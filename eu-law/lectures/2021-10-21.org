@@ -1,0 +1,174 @@
+* 2021-10-21
+
+- *00:00:00*
+- There is a legal framework in EU primary law, and further developed by the EUCJ, used when States are violating the fundamental values of the EU.
+- The Repubblika case concerns the respect of the rule of law in Malta, and is related to the organization of the judiciary system.
+- The factual background of the case isn't important, what matters is the reasoning the EUCJ made regarding the Copenhagen dilemma.
+- The Court start its reasoning by referring to art. 49 TEU, which defines the enlargement procedure.
+- States who enter into the Union have an obligation to respect the values upon which the Union is based, and this obligation flows from art. 49 TEU.
+- *00:03:00*.
+- There is a connection between fundamental values and the integration process.
+- The integration process has both a political and a legal dimension.
+- MS show mutual trust among themselves, because they all share the same fundamental values.
+- E.g., the European arrest warrant is an instrument of cooperation in criminal justice, that has been introduced at EU level.
+- A prosecutor in a MS can issue an arrest warrant, and all other MS are obliged to carry it out within their territory, if they can, the warrant is recognized automatically.
+- This is possible because there is mutual trust between the various MS. 
+- *00:06:00*.
+- In order to implement mutual trust, one needs common values, is the point the Court is making in the Repubblika case.
+- Compliance with the values in art. 2 TEU is a condition to enjoy the rights deriving from the application of the treaties to that MS.
+- A MS can't amend its legislation in such a way to reduce the protection of the value of the rule of law.
+- The Court is introducing a principle that should aid in solving the Copenhagen dilemma.
+- Oonce a State becomes a MS, it is obliged to continously implement and respect EU values, and that it's impossible to introduce reforms that cause regressions.
+- The Copenhangen dilemma lies in the fact that the control as to whether States are respecting the fundamental values is less effective.
+- In other words, it's more difficult to scrutinize the respect of fundamental values by existing MS, than it is for States who are entering the Union.
+- It's called the "Copenhagen dilemma" in reference to the Copenhagen criteria of 1993.
+- *00:09:00*.
+- The Court seems to provide an answer, that there should be no such dilemma, because it should be impossible to have regressions.
+- The starting point for the protection of the fundamental values of the EU is art. 7 TEU.
+- It introduces a special form of control which is used exclusively for the protection of fundamental values by MS, it is an article with a very limited scope of application.
+- The nature of the control is political, not judicial.
+- According to EU law, it's possible to bring a MS before the CJEU, in the infringement procedure, in order to assess whether that State has respected EU obligations.
+- The infringement procedure is the judicial mechanism, thanks to which the CJEU determines if a State has violated EU law.
+- *00:12:00*.
+- Art. 7 is a special mechanism, which only regards the respect of fundamental values, which completely excludes the possibility for the Court to assess the behavior of MS.
+- Under art. 7, the only jurisdiction the Court may exercise is whether the procedure has been respected, but it can't judge on the merit of the decision.
+- It is a "peer-review", where Member States (/rectius/, the political institutions of the EU composed by States) judge the behavior of other Member States.
+- Art. 7 is divided in three "steps".
+- The first step is the "early warning procedure", a procedure that may be triggered if there's a serious risk of a violation.
+- After a proposal made by one-third of the MS, or the European Commission or Parliament, the Council of the EU, acting on a majority of four-fifths of its members, and obtaining the consent of the EU Parliament, may determine that there is a clear risk, of a serious breach by a MS of the values in art. 2 TEU.
+- *00:15:00*.
+- The result of this first step is a declaratory decision, taken by the Council (an institution composed by States), which requires a qualified majority, and the consent of the EU Parliament.
+- All those requirements only to state that there is a risk.
+- The early warning procedure was originally not present in art. 7.
+- It originated after an element of practice.
+- After the elections in Austria, it was possible to have a majority with an extremist, xenophobic party.
+- The decision was taken to create a commission to try and solve the problem, before it could get worse.
+- *00:18:00*.
+- After a while, it was decided to amend art. 7 to include an early warning procedure.
+- The second step is the declaration of a serious and consistent breach of fundamental values by the MS.
+- In this case, the European Council is entitled to take the decision by unanimity, and only after the consent of the European Parliament.
+- The result of this procedure is a decision taken by the European Council, another political institution composed by the heads of government of the Member States.
+- The decision only declare that there is a violation, which must be "serious and persistent", meaning that it must be able to produce systemic consequences in the legal system of the MS.
+- If even a single country opposes a veto, it's impossible to adopt this decision, and some European countries have agreements in place so that if one is accused, the other will oppose a veto.
+- *00:21:00*.
+- E.g., Poland and Hungary have made such a deal, and therefore, it's almost impossible to trigger art. 7(2) TEU.
+- However, it's only a declaration of a breach, it doesn't carry any practical consequences, such as sanctions.
+- Sanctions can only be introduced in the third step of the procedure, the Council adopts sanctions according to a simple qualified majority.
+- The Council may decide to suspend some rights deriving from the membership of the MS concerned, including the voting rights of that country.
+- The possibility to introduce sanctions is the result of a further step in the procedure, after the declaration of the breach, but the declaration doesn't automatically imply sanctions.
+- It's possible to have a decision declaring a breach, without a further decision imposing sanctions.
+- The wording in art. 7 is "may", not "shall" or "should".
+- *00:24:00*.
+- It means that it's a discretional choice, they have no duty to determine the existance of a breach, it's a political decision.
+- Regarding the order of operations, it's possible to have a declaration of a violation without an early warning.
+- However, it's not possible to impose sanctions without having a decision on the existence of the violations.
+- Art. 7(3) expressly states that sanctions can only be imposed if the decision in art. 7(2) has been taken by the Council, whereas art. 7(2) doesn't mention art. 7(1).
+- Art. 7 has been triggered twice, in 2017 and 2018, against Poland and Hungary, in particular art. 7(1), but the decisions are still pending.
+- The situation was clear even before 2017--2018, the main problems regarding the respect of the rule of law trace back to 2011, concerning Hungary in particular.
+- It's clear that art. 7 doesn't work, and there are several reasons (unanimity, the need to reach a super-qualified majority, the consent of the European Parliament...).
+- *00:27:00*.
+- There are obstacles that are introduced in the provision itself, but there is also a political and legal reason.
+- Barroso in 2012 was the President of the EU Commission, and in that year it was clear that there were issues in Hungary, concerning the respect of the rule of law.
+- In 2011 Hungary adopted a brand new constitution, and also following the victory of Viktor Orbán, the country adopted policies leaning towards an "illiberal democracy".
+- During the speech on the state of the Union, before the plenary of the European Parliament, Barroso said that the situation demonstrated the limits of the institutional instruments.
+- The only alternatives were either soft power of political persuation, or the "nuclear option" of art. 7 TEU.
+- *00:30:00*.
+- States should find other ways, and use art. 7 as the last resort mechanism, and set it aside unless absolutely necessary.
+- The issue of protecting the fundamental values of the EU is first and foremost an issue of protection of the rule of law.
+- The rule of law is one of the fundamental values, but it's considered as the most important one.
+- *00:33:00*.
+- That is, if a State is able to implement the rule of law, they're able to implement all other values (fundamental rights, democracy, equality, etc...).
+- The rule of law principle implies that all public powers are subject to the law, so they'll have to respect fundamental rights, the structure of the state, human dignity, etc.
+- However, rule of law is also the fundamental value that is subject to the most violations.
+- The first reaction of the CJEU was a typical one, they deal with the rule of law violations by using the infringement procedure.
+- The infringement procedure is started by the European Commission.
+- In 2012, there was an infringement procedure, the Commission v. Hungary.
+- This infringement procedure was launched by the Commission because of a reform in the judiciary system in Hungary.
+- *00:36:00*.
+- This reform was meant to lower the age limit for magistrates, and change the composition of the judiciary.
+- At first it seems like a neutral reform, since age is an objective criterion, but if one considers the practical consequences, the change allowed for magistrates who were politically closer to Orbán's party to become magistrates.
+- This way, it would become easier to influence the judiciary system, despite the neutral requirement.
+- The decision taken by the European Commission was to set aside art. 7 TEU, given the unpredictable consequences.
+- Rather, they brought Hungary before the EUCJ, for failing to fulfil the obligations deriving from the Directive 2000/78.
+- *00:39:00*.
+- In particular, the argument made by the Commission is that the Directive introduces a general principle of non-discrimination in working conditions, which includes discrimination based on age.
+- The reform in Hungary only concerned the judiciary system, while other public employees were not involved, and this discrimination was based on age.
+- The EUCJ did condemn Hungary for having violated that Directive.
+- *00:42:00*.
+- Given the difficulty in invoking art. 7 TEU, it's a good solution, and it's also a binding solution.
+- The decision is not really addressing the lack of respect for the rule of law, it's just trying to find an alternative solution to the problem.
+- The only problem with this approach is that it's unable to cover the value-based dimension of the breach.
+- *00:45:00*.
+- In the judgement of the court, there is no reference to the rule of law, but only to the breach of the directive.
+- However, in doing so it's reducing the importance of the violation, from a "rule of law" violation, to an "ordinary" violation, which may be solved by means of ordinary instruments.
+- Due to this situation, the European Commission decided to introduce a new instrument for assessing the respect of the rule of law by MS in 2014, without any change to existing law.
+- It used an internal document, a communication.
+- *00:48:00*.
+- The idea was to introduce a new step before triggering art. 7 TEU, which consists in a political dialogue between the European Commission and the State concerned.
+- If the Commission is aware of the threat of a systemic violation of the rule of law in a MS, it may decide to launch an assessment of the respect of the rule of law in that country.
+- The result is a non-binding Opinion, which is notified to the State at stake.
+- If the State explains its decision, or makes changes according to the Commission's suggestion, and the parties come to an agreement, the procedure ends there.
+- However, if the State doesn't do any of the above, the Commission produces a Recommendation, which is also non-binding, but it's stronger, and asks the State to do something.
+- If even after the Recommendation, the State doesn't do anything, then the Commission may decide to trigger art. 7.
+- *00:51:00*.
+- Either the "early warning" procedure or the violation procedure.
+- The idea is to introduce beforehand a dialogue, to try and prevent the activation of art. 7.
+- However, given that art. 7 is not mean to be used, it seems strange to create a preceding step.
+- However, the European Commission could trigger art. 7, and it could feel more confident in doing so, if it has tried to have a dialogue with the State, and failed to reach a solution.
+- Therefore, it's fully evident to all actors that there's no other choice but to use art. 7.
+- The issue is that it postpones the decision.
+- The mechanism was used in the case of Poland, when it started to introduce reforms that limit the independence and impartiality of the judiciary system, and in particular, the Supreme Court.
+- In that case, the Commission adopted four Recommendations, and Poland protested, claiming that it was an unlawful interference.
+- *00:54:00*.
+- It granted some small changes, and the Commission granted an additional period, and introduced a new Recommendation, and this repeated several times.
+- In 2014, a different instrument was introduced, at the level of the European Council, devoted to the rule of law.
+- The idea was to create a dialogue among peers, in order to share best practices and the same approach towards rule of law.
+- However, this approach is not sufficient when States are violating the rule of law, faster and more effective reactions are needed.
+- In 2018, the CJEU decided the /Associação Sindical dos Juízes Portugueses/ case.
+- It's a judgement given by the CJEU concerning the implementation by Portugal of austerity measures, in the context of the economic and financial crisis.
+- *00:57:00*.
+- In order to reduce the State budget, Portugese authorities decided to introduce some limitations to the salary of Portugese judges, in particular the Court of Auditors.
+- This was done in order to implement measures introduced in the EU context.
+- The association of Portugese judges argued that it was a threat to the independence and impartiality of judges, and so it was a violation of the rule of law.
+- So, they decided to request the intervention of the EUCJ, to determine whether it was possible to act that way, in light of the rule of law.
+- This case has nothing to do with the rule of law crisis in Poland and Hungary, but it is the case that introduced the change in the approach of the EUCJ to the rule of law crisis.
+- Art. 19 TEU is the treaty provision defining the mandate of the EUCJ, but this provision also includes a second part, addressed to the MS.
+- *01:00:00*.
+- There is a multi-level jurisdictional protection of the EU legal order.
+- The EUCJ's mandate is to ensure the respect of the law in the interpretation and implementation of the treaties.
+- National judges as well are requested to ensure protection for the legal situations flowing from EU law.
+- Thanks to the direct effect, it's possible for individuals to invoke the protection rights from EU law, before national judges.
+- National judges are also judges of the EU legal order, so States have to act to ensure that the judicial system is able to ensure proper protection of the rights flowing from EU law.
+- Therefore, independent and impartial judges are needed, /inter alia/.
+- With this reasoning, art. 2 TEU (rule of law) and art. 19 TEU are connected.
+- According to the principle of sincere cooperation, art. 19 represents a codification of the rule of law obligations mentioned in art. 2 TEU.
+- Therefore, the EUCJ can exercise a significant degree of control on the judiciary system of MS, in order to asses whether these systems are consistent with art. 19, and therefore, the rule of law.
+- *01:03:00*.
+- This decision is a sort of "Trojan horse", because by means of an infringement procedure, it allows the EUCJ to exercise a strict control in the way in which every single MS has established its judicial system.
+- In theory, the organization of the judiciary is a prerogative of the States, and not a competence of the EU.
+- However, thanks to the principle of sincere cooperation, it's possible to assess whether this prerogative has been exercised in line with the obligations under EU law.
+- In this case, the obligations are related to the fundamental value of the rule of law.
+- *01:06:00*.
+- It's a shift in how the Court looks at the infringement procedure, it's no longer an instrument to detect ordinary violations.
+- Rather, it has become an instrument to exercise systemic control over the judicial system of MS, and preventing systemic breaches of EU law.
+- The Court is using the same instrument in order to detect systemic obligations that are related to a fundamental value of the EU.
+- After the Portuguese judges case, which was a preliminary ruling, several infringement procedures were launched against Poland, for failing to fulfil the obligations from art. 2 and 19 TEU.
+- This gave the EUCJ the opportunity to evaluate the judicial system in Poland, in light of the rule of law, in 2019.
+- This decision was related to the one found in Hungary, because also Poland decided to follow the way inaugurated by Hungary, and decided to lower the age limit for magistrates.
+- Instead of invoking the violation of the principle of non-discrimination on the grounds of age, in this case the EU Commission decided to launch an infringement procedure against Poland, regarding art. 2 and 19 TEU.
+- *01:09:00*.
+- This marks a change, because it's no longer an ordinary violation of a piece of legislation of EU law, but a violation of the fundamental values of the EU. 
+- *01:12:00*.
+- This approach is better than the previous one, but it still has problems.
+- The infringement procedure requires a violation, while art. 7 TEU can be invoked even in the absence of a violation.
+- It seems that in order to have an infringement procedure concerning fundamental rights violations, art. 2 TEU in itself is not sufficient.
+- One needs another provision (in this case, art. 19 TEU) codifying the obligations from art. 2.
+- *01:15:00*.
+- The Court says that art. 19 provides the "flesh" to art. 2, and this is a valid point, given that art. 2 is too generic.
+- If the CJEU only required an infringement of art. 2, then judges would have to interpret what those vague terms (e.g. "democracy") mean, as values, instead of assessing whether those values have been respected.
+- *01:18:00*.
+- If there isn't a specific provision in the treaties, then it becomes impossible to use this solution.
+- In the Repubblika case, the Court seems to suggest that there is another way to exercise control over MS, which is to combine art. 2 TEU with the obligations from art. 49 TEU (the obligations States have assumed when they joined the Union).
+- *01:21:00*.
+- Art. 49 makes a reference to all the obligations MS have assumed with regards to EU law, in theory, one could cover all obligations related to fundamental values.
+- However, defining the content of fundamental values should be for the political organs to decide, especially for the more vague fundamental value, that can have multiple interpretations.

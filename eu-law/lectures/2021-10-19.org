@@ -1,0 +1,193 @@
+* 2021-10-19
+
+** Summary: origin of art. 50
+
+- *00:00:00*.
+- Art. 50 was introduced to give the new MS an exit strategy, in case they didn't want to deal with the structural elements of the Union.
+- According to the EUCJ, leaving the EU is a sovereign power, and States don't have to take into account EU law.
+- The only limitation is from a national law perspective, with the need to respect their constitutional requirements.
+- The withdrawal agreement is the result of a specific treaty-making power within the EU.
+- The Union can conclude this very specific agreements with MS when they decide to leave the Union, in which the conditions for leaving are negotiated by the Union, not the individual MS.
+
+** Nature of the treaty resulting from the withdrawal agreement
+
+- In essence, it's not different from other agreements that the EU concludes with third countries.
+- *00:03:00*.
+- In turn, this means that this agreement must respect EU primary law.
+- In theory, the EUCJ could be asked to assess the validity of a withdrawal agreement, in the light of EU primary law.
+- The Court could state that the treaty is invalid, since it violates EU primary law.
+
+** Brexit
+
+- *00:06:00*.
+- The idea was for the UK to leave the EU in March 2019, two years after the notification of the intention to leave.
+- In the meantime, the EU Council had to adopt the negotiation guidelines, and then negotiations had to be organized between the parties, to reach a consensus on the withdrawal agreement.
+- This timeline hasn't been respected fully, because the withdrawal agreement came into force in January 2020.
+- This was possible because of three different decisions by the EU Council (in unanimity), together with the UK, to postpone the deadline, all taken in 2019.
+- Eventually the parties found an agreement on the content of the withdrawal treaty, which was adopted, ratified, and entered into force in January 2020, concluding Brexit.
+- The agreement is divided in 6 different sections (or "parts"), and 3 protocols, which have the same rank as the agreement, but they're focused on three different subjects.
+- The first part is devoted to general provisions, concerning the cooperation put in place by the withdrawal agreement.
+- *00:09:00*.
+- These provisions are still considering EU law.
+- The second part is dedicated to the status of the UK citizens in EU territory, after December 2020, and the status of EU citizens residing in UK territory, it defines the rights of these individuals.
+- The third part looks at the existing forms of cooperation between the UK and EU, and defines the conditions that the UK has to respect in exiting.
+- For every and each policy in the EU, there is a different set of arrangements concerning the exiting.
+- The fourth part introduces a transition period, to make leaving the EU smoother.
+- *00:12:00*.
+- The fifth part is devoted to the bill the UK had to pay, in order to leave the Union.
+- The sixth part is dedicated to the institutional structure of the agreement, and the mechanism to resovle disputes between the parties.
+- There is a protocol on Gibraltar, which enjoys a special political condition (it is a British colony in Spanish territory).
+- There is a protocol on Cyprus, due to their political situation there were military bases in the southern part of the island, and it was necessary to clarify what law was applicable.
+- The last protocol is about the border between Ireland and Northern Ireland.
+- *00:15:00*.
+- The common provisions share the idea that EU law is still relevant, and can't be set aside just because the UK is leaving, the country still has to pay due regard to EU law.
+- There are different principles regarding how the UK has to consider EU law.
+- According to the withdrawal agreement, the provisions therein must have the same effect in the territory of the UK or in the territory of the other MS, in order to maintain their consistency and coherence of the provisions in the agreement.
+- The provisions of the treaty have direct effect in the EU and UK.
+- *00:18:00*.
+- The principle of "direct effect" goes back to Van Gend en Loos.
+- It means that if there's a EU provision that grants rights to individuals, and it's clear, precise and unconditional, then individuals may invoke that provision before a national judge, without having to wait for it to be implemented into national law.
+- This doctrine is extremely important for EU integration, as it expands the possibility to enforce EU law.
+- *00:21:00*.
+- The structural principle of "direct effect" is still relevant in the implementation of the withdrawal agreement, even though the UK is no longer a MS.
+- The principle of primacy is closely related to the one of direct effect.
+- EU provisions that enjoy direct effect shall prevail over national law that is inconsistent, EU law in general should prevail.
+- According to the withdrawal agreement, the primacy of EU law is still recognized, even by the UK.
+- One of the recurring political themes behind Brexit was to neutralize the EUCJ's jurisdiction on the UK.
+- *00:24:00*.
+- There is a provision saying that all references to EU law must be interpreted in the light of existing and future case law of the EUCJ.
+- These provisions demonstrate how deeply EU law is embedded into a State, States can't just cease to be MS and return to being pure States immediately.
+- *00:27:00*.
+- Even though the UK became a third country, EU law is still relevant, and it will take time to completely set aside the EU legal order.
+- Art. 5 of the withdrawal agreement is titled "good faith", and it seems like a reference to art. 26 VCLT ("pacta sunt servanda").
+- The wording is similar to the art. 4(3) TEU (the principle of sincere cooperation).
+- There article even specifies that it shall be applied "without prejudice" to other principles of EU law, and in particular, the one regarding sincere cooperation.
+- *00:30:00*.
+- However, the name of the article is not "sincere cooperation", it's "good faith", because the State is no longer a MS, but a third country.
+- Even though in theory the relationships between the UK and other MS are regulated by international law, in practice the EU still exercises a strong influence.
+- Question: to what extent should UK judges apply EU law?
+- The exact extent of how UK judges should apply EU law is unclear (referencing EU law, using the same reasoning, etc...).
+- *00:33:00*.
+- It's a weak obligation, but it's significant that it was mentioned regardless.
+- Question: ...
+- In theory, there should be two treaties, one to withdraw from the EU, and another to define future relationships.
+- However, it's hard to distinguish between the two situations, and in practice, the current treaty can be seen as governing the future situation as well.
+- *00:36:00*.
+- The second treaty is completely governed by international law, and contains no references to EU law.
+- Both treaties are binding, and abiding by the first treaty will necessarily influence the second treaty, so in the short-term, the UK is still influenced by EU law.
+
+** Brexit withdrawal agreement: second part
+
+- *00:39:00*.
+- The rights acquired by EU citizens legally residing in the UK by the end of 2020 are kept.
+- The same applies to the rights of UK citizens legally residing in the territory of MS.
+- There is an exception for political rights, the UK citizens are no longer allowed to participate in the European elections.
+
+** Brexit withdrawal agreement: third part
+
+- It contains a set of rules for every single field of cooperation in EU law, and defines the exiting requirements.
+- *00:42:00*.
+
+** Brexit withdrawal agreement: fourth part
+
+- Just like it is hard to enter the Union, it is hard to leave it, and so a transition period of time was introduced in the withdrawal agreement as well.
+- The deadline in the final version of the withdrawal agreement was December 2020.
+- From the entry into force of the treaty (January 2020) and the deadline (December 2020), the UK had to respect EU law in any case, even though it was no longer a MS.
+- If the UK breached EU law, it could be brought before the EUCJ for the infringement procedure.
+- The transition period was designed to give the UK and EU find an agreement in future relations.
+- *00:45:00*.
+- However, during the agreement, nothing changes, and the UK still has to respect EU law.
+- The agreement contains a mechanism that can be trigged unilaterally to solve disputes, which is helpful, since it's not unlikely to have disputes in interpreteing and implementing the agreement.
+
+** Brexit withdrawal agreement: fifth part
+
+- E.g., in the fifth part of the agreement, regarding the compensation the UK has to pay to the EU, and other financial issues.
+- The treaties don't mention a specific amount of money, but only criteria to determine the amount, and there can be disagreements on how these criteria should be interpreted and implmented.
+- *00:48:00*.
+- The dispute resolution mechanism produces binding solution between the parties.
+
+** Brexit withdrawal agreement: dispute resolution mechanism
+
+- The mechanism is largely based on international law, but there's a part which also makes EU law relevant.
+- If there is a dispute between the parties, the first step is to start a negotiation within the joint committee.
+- The joint committee is in charge of managing the withdrawal agreement, and is composed of representatives of the UK and EU.
+- Negotiating a solution is an international law instrument, and if a solution is found, the process ends there.
+- However, if the parties couldn't agree, they can unilaterally convene an arbitration tribunal.
+- *00:51:00*.
+- The arbitration tribunal will produce a binding solution, and this is still an international law instrument, it's similar to the Croatia v. Slovenia case.
+- However, if the tribunal has to take into consideration EU law to solve the dispute, and there are preliminary questions regarding EU law, it has to stay the proceedings.
+- Then, it must ask the EUCJ how to interpret the law, and the tribunal's award must be consistent with EUCJ's decision.
+- *00:54:00*.
+- Since the agreement has to do with leaving the EU, it is likely that the dispute will have to do with EU law, and so it is likely that the arbitration tribunal will be bound by the EUCJ's ruling.
+- Not asking the EUCJ to solve a preliminary question is a duty, and an award that violates that requirement would be unlawful.
+- EU law becomes predominant again. and is able to affect the effectiveness of the arbitration award.
+- This obligation wasn't introduced because of Brexit, but comes from another case decided by the EUCJ, the MOX case.
+- MOX was the name of a plant that was located in the UK, in front of the Irish sea.
+- *00:57:00*.
+- The plant produced energy from plutonium.
+- There was a dispute between the UK and Ireland, regarding UNCLOS (UN Convention on the Law Of the Sea), a convention adopted in 1982 to codify international law on the sea.
+- The dispute concerned the activity of this plant, Ireland was concerned about the possible consequences on the marine sea deriving from the plant's activities.
+- The two parties were unable to find a solution, and that's why Ireland has decided to unilaterally trigger the arbitration mechanism contained in UNCLOS.
+- The arbitration tribunal was established, but the EU decided to bring Ireland before the EUCJ for violating the principle of sincere cooperation.
+- In bringing the UK before an arbitration tribunal, Ireland had acted outside of the EU legal order, and harmed its autonomy.
+- *01:00:00*.
+- The case still involved EU law, because the EU is a party to UNCLOS, together with the individual MS, UNCLOS is also EU law, and not pure international law.
+- Therefore, disputes involving UNCLOS must be brought before the EUCJ first.
+- In fact, Ireland was condemned for violating the jurisdiction of the EUCJ.
+- EU law doesn't have autonomy, if the jurisdiction of the EUCJ is not recognized, if there is a dispute regarding EU law.
+- That's why there is such a mechanism in the withdrawal agreements, to protect the autonomy of EU law and the jurisdiction of the EUCJ.
+- The EUCJ has the exclusive power to interpret EU law.
+- *01:03:00*.
+- The withdrawal agreement requires the UK to take into consideration EU law, and to some extent loyalty duties, even though the UK is no longer a MS.
+- However, the principle of sincere cooperation is mutual, so the EU to pay respect towards the UK.
+- The EU Council has adopted three decisions in 2019 to postpone the deadline (in March 2019, April 2019, and October 2019).
+- Those decisions were taken while the UK was still a MS, and they were negotiating the terms for its withdrawal, so the UK still had to apply EU law.
+- *01:06:00*.
+- In those decisions, the expression "Exiting State" is used for the first time, and a State who uses art. 50 TEU enjoys a specific status under EU law.
+- An exiting State still has to respect EU law, but at the same time the EU can't ignore the specificities of a State leaving the Union.
+- Such a State may eventually adopt policies that are not fully compliant with EU law, or even contradict it, but it's to be expected, since the State is leaving the Union.
+- The mutual nature of the sincere cooperation also means that EU institutions have to pay due regard to the status of the exiting country.
+- *01:09:00*.
+- As such, it wouldn't make any sense to start an infringement procedure if the exiting State has infringed EU law.
+- A balance must be made, to allow the exiting State to leave the EU.
+- The EU Commission decided to start an infringement procedure against the UK, over the issue of the composition of the EU Commission.
+- The mandate of the EU Commission lasts 5 years, and corresponds with the mandate of the EU Parliament.
+- In 2019 the EU elections took place, and the UK participated in them.
+- After the formation of the Parliament, the procedure for the formation of the Commission started taking place.
+- Every State has to select a potential commissioner, and the president of the European Commission to take this list, and bring it to the Parliament.
+- The Parliament will discuss the list, and eventually the Commissioners will be elected.
+- *01:12:00*.
+- In the 2019 elections, the UK refused to name a commissioner, given that they were going to leave the Union soon.
+- The European Commission decided to open an infringement procedure against the UK for failing to fulfil the principle of sincere cooperation.
+- On one hand, MS have to respect a strict interpretation of the principle of sincere cooperation.
+- *01:15:00*.
+- On the other hand, the UK is not an ordinary MS, but an exiting State, so a different balancing of interests would've been a better choice.
+- It's understandable that the Court wants to reinforce the idea that EU law must be respected even if a State is exiting the Union, but it's unreasonable to expect the normal level of compliance.
+- The withdrawal agreement is a useful instrument in solving possible disputes, but it's also possible to have a hard exit, where the parties aren't able to come to an agreement.
+- *01:18:00*.
+- If there are no postponements, the result is that the State will leave the Union without a clear legal framework guiding its exit.
+- The applicable instruments will be general (customary) international law, and treaty law (as long as the exiting State and the EU are parties to the same treaties).
+- E.g., the WTO agreements could be relevant.
+- However, there are two problems, which make a hard exit the worst scenario.
+- International law is less complex than EU law, so transitioning from the latter to the former could lead to a lack of specific regulation in specific topics.
+- E.g., one of the issues for a hard Brexit was that there were no agreements governing air traffic between the UK and EU, there was a concrete risk to block all air traffic.
+- *01:21:00*.
+- In the absence of treaties it's possible to use general international law, but the issue is that it's too general to be useful.
+- E.g., another issue was cooperation in the fishieries, which is an important field for the UK and some EU States.
+- The pre-existing fishing agreements date back to almost a century ago.
+- The second problem is related to the possibility to solve disputes.
+- If a dispute arises, there isn't a treaty regulating how disputes must be solved between the two parties.
+- E.g., in the case of a hard Brexit, there is a dispute on the bill that the UK should pay to the EU.
+- *01:24:00*.
+- The UK could claim that due to art. 50 TEU, the EU treaties cease to be applied, and so the UK is no longer bound by EU law.
+- The EU could argue that due to art. 70(1)(b) VCLT, the existing obligations at the time of the termination would still have to be fulfilled.
+- The UK took the position that in the case of a hard Brexit, they wouldn't pay the EU anything.
+- It wouldn't be possible for the EU to bring the UK before an arbitration tribunal, since the UK would have to consent (with a treaty), and it's clear that they wouldn't in this case.
+- *01:27:00*.
+- It may be possible to adopt unilateral sanctions, but it wouldn't solve the underlying dispute.
+- Individual MS may have negotiated treaties in the past with the UK, that provide them with a general arbitration clause.
+- E.g., Germany found a convention from 1947, which provides a general clause to solve disputes between the parties.
+- Each party may unlaterally trigger the jurisdiction of the ICJ (the UN court).
+- Germany proposed to bring the UK before the ICJ, on behalf of the EU.
+- *01:30:00*.
+- Without a pre-existing treaty, it's very difficult to solve such a dispute, and that's why a hard Brexit should be avoided.

@@ -1,0 +1,179 @@
+* 2021-10-07
+
+** Question: the role of conditionality mechanisms w.r.t. the enlargement process.
+
+- *00:00:00*.
+- Question: clarify the conditionality mechanism with regards to the enlargement process.
+- There were two cases, between Croatia and Slovenia, and Turkey and Cyprus, and in both cases, international law was used to solve the issue.
+- Between Croatia and Slovenia, an arbitration agreement was concluded outside of the EU legal order.
+- Furthermore, the definition of a State's borders is a State prerogative, with which the EU can't interfere.
+- Between Turkey and Cyprus, there is a violation of the sovereingty of Cyprus, according to international law, so the response uses international law instruments, such as sanctions.
+- In both cases, the enlargement process wasn't mentioned, and it doesn't seem to be able to change the attitude of candidate countries towards other Member States.
+- *00:03:00*.
+- The conditionality mechanism of this process, related to the assistance that the EU can provide to these countries, aren't able to influence the attitude of candidate countries.
+
+** Summary of the previous lecture.
+
+- The principles governing the interactions between the EU and MS are found in art. 4 TEU.
+- They are the principle of conferral, of equality, and national identities.
+- In particular, regarding the definition  of national identities, there are a lot of issues regarding their exact content, and the subjects who are allowed to define their content.
+- *00:06:00*.
+- In some EUCJ cases, it seems like MS can invoke the national identity clause only as long as the national identity is consistent with the fundamental elements of the EU legal order.
+- It's possible to have contrasts between the EUCJ and national supreme courts, and the only way to resolve this conflict is by establishing a genuine dialogue.
+- E.g., in the Taricco cases, the Constituional court of Italy and the EUCJ collaborated to reach an agreement.
+- Eventually, the EUCJ conceded the possibility to invoke the country's national identity.
+- In the first instance ruling, in which it applied a very strict interpretation of the primacy of EU law.
+- It's hard to foresee a conclusion, also due to the lack of case law, since the clause was introduced with the Lisbon treaty
+- *00:09:00*.
+- The existing case law isn't focused on defining a general principle, but only solving the current case, which makes it even harder to develop a general doctrine.
+- Art. 4 par. 2 TEU mentions three fields which the Union can't interfere with ("ensuring the territorial integrity", "maintaining law and order", and "safeguarding national security").
+- In particular, national security is the sole responsibility of Member States, meaning that the EU can't influce how MS act in order to promote national security.
+- *00:12:00*.
+- However, in practice, this is not true.
+
+** 2015 migrant crisis
+
+- There's a 2020 case regarding some decisions in the context of the refugee crisis.
+- In 2015, there was a large movement of refugees from non-EU States into EU MS, which took place illegally, and was a result of the Syrian war and the political situation in Libya.
+- *00:15:00*.
+- Due to the situation, there was the need to provide relief to the MS which were most affected from this migration, which were in particular, Italy and Greece, due to their geographical position.
+- According to the criteria in the Dublin Regulation, which identify the MS which is responsible for asylum claims.
+- The main criterion in the Dublin Regulation is related to a situation of illegal entrance into the territory of the EU.
+- If a third-country national enters into a EU MS, that State is responsible for handling the asylum request presented by the individual.
+- Even if the subject may move to another State, and submit the request for asylum there, it's the State of first entrance who has the duty to process to request.
+- *00:18:00*.
+- E.g., if a migrant first arrives in Italy, and then moves to France, and submits the request for asylum there, French authorities have to forward it to Italian authorities.
+- *00:21:00*.
+- In 2015, there were two kinds of movements: from non-EU countries to Italy and Greece, and from EU countries back to Italy and Greece (due to the Dublin Regulation).
+
+** Question: what is the advantage for Italy and Greece in adopting this regulation?
+
+- Question: what is the advantage for Italy and Greece in adopting this Regulation?
+- Initially, it was a convention.
+- Probably, the countries thought there would've been a limited number of asylum-seekers, or didn't consider the possible consequences.
+- Other countries are trying to change this procedure, but it's difficult.
+
+** Question: are other countries obligated to help?
+
+- *00:24:00*.
+- Question: are other countries obligated to help?
+- Thanks to the EUCJ and ECHR, the Dublin Regulation has been reinterpreted.
+- Now it's possible for other States to process the requests themselves, based on the principle of solidarity, instead of sending them back to the State of first entry.
+
+** 2015 migrant crisis (cont.)
+
+- Italy and Greece were in difficulty, due to this "double movement".
+- On the basis of the principle of solidarity, decisions were taken at the EU level to introduce a relocation scheme.
+- The idea was to introduce (first on a voluntary basis, then as binding obligations) a distribution scheme for asylum-seekers entering into the Italian or Greek territory, into all MS.
+- Each MS would have a quota, and would have to admit asylum-seekers into its territory according to that.
+- *00:27:00*.
+- In theory, this was supposed to ease the burden those two countries.
+- In practice, the implementation of the relocation scheme was difficult, and faced by opposition from the Visegrád group (Hungary, Poland, and the Slovak Republic).
+- They tried to stop this mechanism in several different ways.
+- First, they tried to challenge the validity of the decisions that introduced the mechanism, in front of the EUCJ, who rejected their arguments.
+- Second, they decided not to implement the relocation decision, in particular the binding clauses, and the European Commission activited the infringement procedure.
+- The EUCJ would have to decide whether or not the States had complied with the obligations in the relocation decision.
+- *00:30:00*.
+- Those countries argued before the court that they didn't implement those obligations, in order to preserve national security.
+- Since national security is an exclusive prerogative of MS, the Court couldn't hold them liable.
+- The decision to qualify this situation as a mattery of national security was a political decision.
+- *00:33:00*.
+- However, the "national security" label could be abused to avoid implementing EU law.
+- If each State started implementing nationalistic policies, the whole idea of cooperation would fall apart.
+- When "national identity" or "national security" is invoked, the context of EU cooperation and integration should be taken into account.
+- *00:36:00*.
+- There are some articles in the EU treaties that allow States to derogate from EU law, on the grounds of national security, protection of public order, of public health...
+- However, it can't be inferred that the treaties contain an inherent and general exception excluding all measures taken for reasons of law and order, or public security, from the scope of EU law.
+- The recognition of such an exception would run contrary to the binding nature and uniform application of EU law.
+- Art. 4 par. 2 can't be interpreted as a general reservation, and the consequences of its application on the other MS must be taken into account.
+- The Court recognizes the existence of State prerogatives, but also demands due regard to EU law in their execution, meaning that the effectiveness of EU law shall be preserved.
+- *00:39:00*.
+- The EUCJ is reshaping the allocation of competences between the EU and MS, which is an example of how the EUCJ can also affect how the principle of conferral is operating within the EU legal order.
+- National security is still the sole responibility of each MS, but with the additional condition of "having due regard to EU law".
+- In the Slovenia v. Croatia case, the EUCJ made two arguments.
+- First, the dispute was a matter of international law (the EU was not a party in the arbitration convention).
+- Second, that the definition of borders was a State prerogative (outside of the competence of the EU).
+- However, the EUCJ in the relocation scheme decision stated that EU law can have some influence on national security, which is a prerogative of MS.
+- *00:42:00*.
+- In one case, the EUCJ is stressing the role of EU law, and restricting the use of national prerogatives, whereas in the other it's denying that EU law applies to national prerogatives.
+- There is an inconsistency between the two decisions, which can be probably be explained by the fact that the EUCJ is not ready to state that EU law can intervene in the definition of the MS' territories.
+- It's a topic that's too politically sensitive.
+
+** Principle of sincere cooperation
+
+- *00:45:00*.
+- Art. 4 par. 3 contains the principle of sincere cooperation.
+- This principle has existed from the very beginning, and perfectly illustrates the multilateral dimension of the EU legal order.
+- The EU legal order interacts at the same time at the international level (with other countries), at the municipal level (with each MS), and has its own supranational legal order (EU law).
+- The principle of sincere cooperation is found in the municipal legal system of federal Member States.
+- *00:48:00*.
+- The corresponding principles in international law are /pacta sunt servanda/ (art. 26 of the VCLT), and the good faith clause (art. 2(2) of the UN Charter).
+- *00:51:00*.
+- There is a connection to international law, and the principle of good faith, which isn't surprising, since the EU treaties are also international treaties.
+- However, the EU treaties have a special nature, and there is a connection with the municipal law of MS, and in particular with the municipal law of federal MS.
+- The principle of /Bundestreue/ (lit. "federal loyalty") requires that the German /Bundesländer/ (federal States) cooperate together to achieve the objectives of the federal State.
+- *00:54:00*.
+- They must cooperate in a loyal manner, and show mutual support.
+- The same principle is found in Austria, Belgium, and Italy (even though it's a quasi-federal State, the Regions must cooperate with the State to achieve the goals of the Republic).
+- In general, the idea is that authorities at any level should cooperate to act together.
+- EU law looks at international and municipal law, but it is also its own legal order, so  principle of sincere cooperation is also the expression of supranational integration.
+- According to the first sentence of art. 4 par. 3, sincere cooperation between the EU and MS shall be "in full mutual respect", meaning that the Union has to show loyalty to the MS too.
+- *00:57:00*.
+- However, art. 4 par. 3 only mentions the duties MS have towards the Union, and doesn't mention any duties on the EU's part.
+- MS have positive obligations (they have to take all appropriate measures in order to fulfil the EU objectives), and negative obligations (they have to refrain from acting if they risk jeopardizing EU law).
+- *01:00:00*.
+- Why aren't EU duties mentioned?
+- *01:03:00*.
+- The lack of EU duties is even more puzzling, since the treaty was written by the Member States.
+
+*** First reason: historical reason
+
+- The first reason is a historical one.
+- The principle of sincere cooperation has always been a part of the history of the EU (since the beginning of the European Community).
+- However, the principle of mutual cooperation was only introduced as late as the Lisbon treaty, which in turn codified the case law of the EUCJ.
+
+*** Second reason: MS are the implementing actors.
+
+- *01:06:00*.
+- The MS, and then the European Commission, are responsible for the implementation of EU law.
+- The European Commission isn't just the executive power of the EU, that is an oversimplification, it exercises its executive powers only when MS don't implement EU law.
+- The second reason is that MS have to show loyalty towards the EU in the first place, because they're the implementing actors.
+- Art. 2(2) of the UN Charter shares the same logic, it mentions the States' duties first, because they are the ones who have to fulfil the obligations deriving from the Charter.
+- The principle of loyal cooperation is strongly influenced by an international law mindset. 
+- *01:09:00*.
+- This approach is perfectly in line with the provisions in the UN charter, or other treaties establishing international organizations.
+- They impose the duty to act in good faith when implementing the treaty's obligations.
+- The problem is that at the EU level, despite the mutual loyalty clause, there is no indication of what the EU's duties are.
+- There are very few cases in which the EUCJ has tried to identify which duties belong to the EU, while the great majority of cases deal with the States' obligations towards the EU.
+
+** EU Commission vs Sweden
+
+- It's an infringement procedure, and it's related to the implementation of the Stockholm convention on persistent pollutants.
+- There is a secretariat managing a list of prohibited pollutants.
+- *01:12:00*.
+- The substances listed in that list can't be produced or traded in the contracting parties.
+- The list is updated regularly, and any contracting party may request to add a new substance to the list.
+- The EU and its MS have adopted the convention; not all competences are covered by EU law, so the MS have to join it individually as well.
+- Non-EU MS have joined the convention too.
+- Sweden wanted to include a new element into the list, and at first, decided to ask the EU Council to take a decision regarding this element.
+- The idea was that other EU countries would back up Sweden's request.
+- However, due to political reasons in the Council, it was not possible to reach an agreement.
+- *01:15:00*.
+- After a while, Sweden decided to submit the request unilaterally, but this was seen by the EU Commission as a violation of EU law, and the principle of sincere cooperation.
+- According to the EU Commission, Sweden jeopardized the unity of the international representation of the European Union, which is in turn an objective of the EU as a whole.
+- Therefore, there was a violation of the negative loyalty duty, whereby States must abstain from acting, if they would harm the goals of the EU.
+- The EU Commission decided to open an infringement procedure before the EUCJ, who was asked to assess the behavior of Sweden, under the loyalty clause.
+- Sweden's representative stated that before submitting the unilateral application, they tried to have a decision by the Council. 
+- *01:18:00*.
+- Sweden is a contracting party to the Convention, so if the EU is unable to act, Sweden should be able to act on its own.
+- While it is true that Sweden has a loyalty duty to the EU, so does the EU towards Sweden, which means that if the Union is unable to act, the States should be free to act on their own.
+- Otherwise, the internal power of MS would be undermined.
+- However, the EUCJ decided to condemn Sweden for not respecting its loyalty duties, and completely ignored Sweden's argument about the loyalty duties of the EU.
+- *01:21:00*.
+- This decision implies that MS are no longer free to act on the international stage, when there is a mixed situation, if the Union isn't able to reach a common position.
+- The EUCJ is diminishing the power of States, using the principle of loyal cooperation, without making any reference to the mutual loyalty principle.
+- This kind of mbalance in power will lead to instability in the long term.
+- Given that the case law of the EUCJ is not helpful in determining the duties of the EU, is it possible to determine a possible list of EU duties?
+- *01:24:00*.
+- Question: is it possible to appeal against a decision by the EUCJ?
+- If it's a decision by the General Court, it is possible to appeal it, it can be appealed before the EUCJ, but if it's taken by the latter, it's not possible.
