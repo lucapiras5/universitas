@@ -1,0 +1,19 @@
+site_name: Economia Politica M-Z 2021-2022
+theme:
+    name: material
+    language: it
+    font:
+      text: Fira Sans
+    palette:
+        scheme: slate
+        primary: cyan
+        accent: cyan
+extra_css:
+    - stylesheets/video.css
+extra_javascript:
+    - js/video.js
+markdown_extensions:
+    - smarty
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
