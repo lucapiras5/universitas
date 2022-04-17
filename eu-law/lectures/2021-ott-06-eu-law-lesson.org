@@ -1,0 +1,171 @@
+* 2021-10-06
+
+- *0:00*.
+- The notion of State at the EU level is perfectly consistent with the notion of State used in international law.
+- It's possible to attribute a specific behavior to States.
+- This is an important point when it comes to EU law, when the institutions have to assess if a specific behavior can be attributed to a specific State.
+- In this aspect as well, EU law uses the same solution used in international law, in particular, the one in the 2001 draft articles on the /Responsibility of States for Internationally Wrongful Acts/.
+- *3:00*.
+- It is a document that has been elaborated in 2001 by the UN Interational Law Commission, which is an auxiliary body of the UN General Assembly.
+- The ILC is composed of renown international law scholars, who are in charge of codifying general international law, and promoting its development.
+- Sometimes, these documents are adopted as draft articles (as it was in this case), and they will be transformed at a later stage into a convention.
+- This gives the UN member States time to consider this text, negotiate a convention, and sign and ratify it.
+- E.g., the VCLT is the result of this mechanism.
+- Sometimes, States are not willing to transform the draft articles into a convention.
+- E.g., they're not ready to take on further obligations, they're not convinced by the ILC's solution... so they decide to wait and see.
+- *6:00*.
+- The 2001 draft articles haven't been transformed into a binding instrument yet, but this doesn't mean that the document is irrelevant.
+- First, there are provisions that can be considered as a codification of general international law, which is already binding for States.
+- Secondly, it's more and more recurrent in the practice of States, and international bodies, courts and tribunals, to reference the draft articles in order to define the national responsibility of States.
+- Despite its non-binding nature, it is widely used in practice.
+- Art. 4 states that any time that an organ of the State puts in place a certain conduct, regardless of the nature or mandate of the organ, that conduct can be attributed to the State.
+- If this conduct is inconsistent with intl. law, the State will be considered responsbile for that.
+- *9:00*.
+- E.g., if a national judge adopts a decision that violates intl. law, the subject responsible for that violation, at the international level, is the State.
+- For intl. law, the internal organization of States is irrelevant, and States can't invoke their internal law as a justification for its failure to fulfil its obligations at the international level.
+- The very same attitude is shown by EU law, in the context of the attribution of conducts to Member States.
+- E.g., under EU law, State aids are illegal; a State aid is an economic measure taken by a Member State, to provide financial assistance to a specific field or company.
+- Such aids are illegal, because they endanger the competition in the internal market.
+- E.g., in Italy it's quite common for Regions to provide economic support, and it is one of their competences, according to the Constitution.
+- Regional laws are used to provide support to companies in need.
+- *12:00*.
+- These measures frequently violate the EU prohibition of State aids, but the EU doesn't bring individual Regions before the EUCJ, holding them responsible for the violation.
+- In any case, it will be Italy who will have to respond for that violation, as a State.
+- The same thing happens if the violation is due to a judge.
+- E.g., if a judge in a EU country adopts a judgement that is inconsistent with EU law, there is a breach of EU law, and the State will be responsible for that.
+- This is consistent with art. 4.
+- There is also the internal dimension, the internal consequences of that breach. E.g., the judge will be considered liable for damages, and there may be an action at the national level.
+- The internal consequences, based on internal law, are irrelevant to the EU.
+- The attitude concerning the implementation of EU law is similar to the one found at the intl. level.
+- The main principles governing the interaction between the EU and MS, and MS among themselves, are contained in art. 4 of the TEU.
+- *15:00*.
+- There are different principles established in art. 4.
+- Par. 1 states that all competences not explicitly listed in the treaties remain to the MS.
+- It is the principle of conferral, which is further elaborated in art. 5 TEU, and represents the cornerstone of the system.
+- The EU is still an intl. org., and is founded on the principle of conferral.
+- The States have decided to create an organization, and give it a specific mandate, and its institutions must stay within that mandate.
+- *18:00*.
+- The principle is stated in a "negative" way, rather than a "postitive" way, along the lines of "The Union has to act within the confines of its mandate", which is instead used in art. 5.
+- Art. 4's wording emphasizes how compentences not conferred to the Union stay with the Member States, despite it already being a logical consequence of only assigning some competences.
+- *21:00*.
+- The wording is meant to stop the EUCJ from extending the scope of application of EU law.
+- In the past, the EUCJ had extended the competences by means of interpretation.
+- This formulation was introduced in the Lisbon treaty, after the failure of the constitutional process.
+- The idea was to set aside all elements referring to the constituional dimension of EU law, and reaffirm that it was only related to international cooperation, albeit in a peculiar form of it.
+- States decided to make it clear that they were still competent, in the areas not covered by EU law.
+- However, despite the wording, the EU can violate the principle of conferral, and States can accept it and not take any action.
+- Today, the interpretation of competences between the MS and the Union is subject to a relevant degree of flexibility, but at the time of the Lisbon treaty, the intention was to limit the competences of the Union.
+- *24:00*.
+- Par. 2 states two different principles, the principle of equality of MS, and the principle of national identities.
+- The principle of equality is understood as a limit for Union.
+- This principle is found in international law as well, but it was reworded to be more EU-oriented.
+- *27:00*.
+- It almost sounds like a declaration of rights, e.g. "all individuals are equal before the law".
+- This wording was chosen deliberately, the equality of MS is instrumental to assert the equality of EU citizens before the treaties.
+- As per Van Gend en Loos, the EU citizens (citizens of MS) are also subjects of the EU legal order.
+- One of the basic principles regarding EU citizens is the principle of non-discrimination on the grounds of nationality.
+- EU citizens can't be equal in practice, if MS aren't equal before the treaties.
+- However, differentiated integration contrasts with this principle, there can be differences in how States are integrated into the EU.
+- *30:00*.
+- The treaties mandate formal equality, but at the same time, EU law permits formal inequality.
+- Substantive inequality (the "importance" of each State) is not a legal issue.
+- *33:00*.
+- Equality is relevant only at the beginning, all States must have the same starting point.
+- All differentiation regimes were established after an unanimous decision of all the MS, differentiated regimes are not an unilateral decision by the State who joined.
+- Historically, the conditions of participation of certain countries have been changed.
+- It's possible for the States who are able to and willing to join "enhanced cooperation" agreements in specific domains.
+- There isn't the need to take a decision by unanimity every time.
+- *36:00*.
+- These enhanced cooperation agreements were possible due to changes introduced in EU law by unanimity.
+- States only have to be equal when they join, then there can be changes.
+- The second principle is the principle of national identity.
+- It introduces an obligation, the Union shall respect the national identity of MS.
+- This principle (or clause) is understood as a limitation to EU law, the national identities prevail over EU law.
+- States can decide to invoke their national identities in order to block the implementation of EU law.
+- The first problem is determining what is a "national identity".
+- There are some elements, the national identity must be strictly connected to the fundamental political and constitutional elements of a State.
+- *39:00*.
+- It's difficult to give a definition of "national identity", and the treaties don't define it on purpose, to give themselves some flexibility in that regard.
+- However, the lack of a definition makes it hard to determine if a State is validly invoking this defense.
+- Furthermore, it's unclear who is in charge of determining what is a national identity (the MS, the EU institutions, the EUCJ, the MS' constitutional courts...).
+- *42:00*.
+- In an age of national populism, MS could exploit this principle to limit how the EU influences their national legal system, it can turn into a Trojan horse that can be used to undermine EU law.
+- In 2014, the EUCJ decided a case, about the conditions imposed by Italian law to become a lawyer.
+- In Italy, according to the Constitution, lawyers have to pass a State exam, and it was argued that this requirement would violate EU law.
+- In particular, it would violate the freedom of establishment in other countries, and the free movement of goods and services.
+- The judge asked the EUCJ to intervene, and clarify the matter.
+- *45:00*.
+- The representative of the Italian government stated that this requirement was part of national identity.
+- Therefore, Italy could limit the implementation of EU law in this specific law, to preserve its national identity.
+- The AG doesn't give a definition of what a "national identity" is, but says that not every provision in the Constitution of MS can be automatically considered part of their "national identity", as-is.
+- Therefore, the "national identity" must be interpreted in a strict manner.
+- *48:00*.
+- There was a similar case in Germany regarding beer, an alcoholic beverage couldn't be sold as beer unless it followed a specific method of production.
+- This was an issue for other countries, who followed other methods, and couldn't sell their product as beer.
+- Germany invoked the historical background of the law on the production of beer, and thus their national identity, as a justification for their restrictions on the free movement of goods.
+- The Court replied that due to the principle of mutual trust between States, Germany had to trust the method of production of beer by other countries, and allow its sale.
+- *51:00*.
+- However, the Italian case was more related to the doctrine of counter-limits.
+- According to well-established case law of some constitutional courts of MS, EU law can enjoy primacy over national law, so long it is consistent with the fundamental principles of the legal system.
+- The national identity clause is analogous to this kind of argument, and there are some scholars who believe it is a codification at the EU level of the counter-limits doctrine.
+- In the 2010 Sayn-Wittgenstein case, she was an Austrian citizen who was interested in buying and selling castles.
+- After a while, she was adopted by a nobleman, and she inherited his last name, which enhanced her reputation as a dealer of real estate.
+- *54:00*
+- According to Austrian law, titles of nobility had been abolished, and a constitutional reform in the past had prevented the use of titles of nobility in the surname of Austrian citizens.
+- This meant that she couldn't use her title of nobility in Austria, but could in Germany and other countries, and had to use different names in different countries.
+- The difference in names could create issues which would restrict her freedom of movement.
+- The Austrian judges decide to stay the proceedings, and assess the situation.
+- *57:00*.
+- The EUCJ references the arguments made by the referring court, and the governments that presented observations.
+- In particular, the Austrian government maintained that the abolition of the titles of nobility was part of their national identity, and it is closely related to  principle of formal equality before the law for Austrian citizens.
+- *1:00:00*.
+- The idea was to abolish nobility to strengthen the republican structure of the country.
+- The second point is that abolishing the titles of nobility is also compatible with the general principles of EU law.
+- In particular, art. 20 of the chart of fundamental rights (all citizens are equal before EU law).
+- Finally, the EU is to respect the national identity of States, as per art. 4 par. 2.
+- In this case, the Court agrees that it's possible to invoke the national identity of MS to limit those freedoms.
+- The Court seems to be implicitly defining a test which can be applied every time a State decides to invoke their national identity. 
+- *1:03:00*.
+- It's a two-stage test.
+- The first stage is choosing an element that is a fundamental principle of the State, on which the national identity is based.
+- E.g., the fundamental principle of formal equality before the law, which is also related to the republican form of government.
+- The second stage is determining whether that element is consistent with the fundamental principles of EU law.
+- *1:06:00*.
+- The second requirement is understandable from the EUCJ's point of view, since it is supposed to be the gatekeeper of the EU's legal order, and it can't allow States to undermine it.
+- With this kind of argument it's possible to have a conflict between having to respect the State's national identity, and the national identity being in conflict with the EU law's fundamental principles.
+- *1:09:00*.
+- There's a case from Spain, that was decided by the Court in 2019.
+- It was related to the proceedings against Oriol Junqueras Vies, the president of the parliamentary assembly in Catalonia.
+- He was involved in the movement dedicated to the declaration of indipendence of Catalonia.
+- He was prosecuted, and condemned to reclusion, but in the meanwhile, he had become a member of the EU Parliament.
+- In order to enjoy their immunities and privileges granted by the EU law, they have to participate to the first plenary session, which is held every year in May, after the elections.
+- Junqueras wasn't allowed to attend the ceremony, because he was in detention.
+- So, there was a dispute about the possibility for Spain to limit the privileges and immunities of a member of the EU Parliament.
+- *1:12:00*.
+- One of the argument by Spain was that there was the need to preserve the territorial integrity and national identity of Spain.
+- That was the reason why Junqueras had to be prosecuted.
+- The EUCJ decided to stress the relevance of the immunities and privileges.
+- It was perfectly aware that the criminal prosecution in Spain was an expression of the unity of the kingdom, and the protection of its territorial integrity.
+- However, on the other hand, the immunities and privileges are the expression of the fundamental EU principle of democracy.
+- Therefore, it is unacceptable for a State to unilaterally invoke their national identity to restrict the applciation of a fundamental principle.
+- *1:15:00*.
+- In this case, the EUCJ decided to give the EU principle precedence over the expression of the national identity of a State, in the balancing of interests.
+- If a Constitutional Court decided to prioritize national unity instead, there would be a conflict, despite the fact that the EU and its MS are largely based on the same principles.
+- It's difficult to determine who should have the authority to decide in this situation.
+- *1:18:00*.
+- The best solution would for the court to collaborate, and reach a solution together.
+- The Taricco case was decided by the Italian constitutional court, and the EUCJ, which revolved around an Italian law on the limitation of criminal statutes.
+- There were several reforms to introduce a limitation to prosecution, but the EU saw this as a threat to the effectiveness of EU law.
+- In particular, when it comes to prosecuting those who violate the financial interests of the EU, and its budgetary rules.
+- *1:21:00*.
+- E.g., natural or legal persons who receive EU funds, and have violated the EU rules on the use of such funds, it's possible to prosecute them.
+- However, if one introduces limitations at the national level, the effectiveness of EU law could be undermined.
+- The constitutional court of Italy argued that the law introduced limitations was related to the national identity, and in particular, the principle of legality.
+- It decided to stay the proceedings, and invoke the EUCJ, who replied that the obligation to protect EU law enjoyed primacy over national law.
+- *1:24:00*.
+- The constitutional court of Italy decided to react against the EUCJ's flat refusal.
+- In a second case, the constitutional court replies that they'd be forced to set aside a constitutional principle, which is unacceptable, and asked the EUCJ to reconsider their position.
+- The EUCJ's second response was that EU law must prevail, and Italy must protect the EU's economic interests, but only as long as doing so doesn't conflict with the fundamental constitutional principles.
+- *1:27:00*.
+- The only possibility to solve a conflict between courts is a dialogue, between the EUCJ and the national constitutional courts.
+- This is the fault line of the system, it's always changing, and it's the most delicate point.
