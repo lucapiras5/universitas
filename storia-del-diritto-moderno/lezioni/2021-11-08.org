@@ -1,0 +1,160 @@
+* 2021-11-08
+
+** 13:40 Riassunto: art. 833 c.c.
+
+- Quelli che erano formalmente gli obiettivi del legislatore del 1942, di creare una norma-chiave, che ribadisse che l'ordinamento giuridico tutelava solo le estrinsecazioni del diritto di proprietà che rispondessero ai principi di solidarietà, e che la proprietà venisse messa al servizio della collettività.
+- Questo obiettivo formale viene però tradito dal fatto che vengono richiesti due elementi costitutivi, uno oggettivo (la mancaza di assoluta utilità per il proprietario), e soggettivo (la volontà esclusiva di danneggiare il terzo proprietario).
+- Nella relazione del guardiasigilli Dino Grandi, in primo luogo viene richiamata l'importanza ideologica della solidarietà e della socialità con cui il diritto deve essere esercitato.
+- Nel secondo capoverso, afferma l'opportunità di aggiungere all'elemento oggettivo anche un elemento soggettivo.
+
+** 17:36 Aggiunta dell'elemento soggettivo
+
+- Il motivo dell'aggravamento della prova è stato dettato dall'esigenza di evitare che il diritto di proprietà, il diritto soggettivo principe nel codice civile, potesse essere eccessivamente limitato da una eccessiva facilità nel dimostrare la condotta emulativa.
+- Tuttavia, questa aggiunta ha effetti deleteri sull'applicazione dell'art. 833, dovuti alla difficoltà di provare la presenza di entrambi gli elementi, e quindi portando ad una disapplicazione di fatto dell'articolo.
+- La giurisprudenza è stata costante nel rigettare l'invocata condotta emulativa sollevata dall'attore, e pertanto, fondare l'azione sull'art. 833 risultava essere inutile.
+
+** 21:02
+
+- La difficoltà di applicare entrambi gli elementi era stata percepita pochi anni dopo l'entrata in vigore del codice civile.
+- Nel primo commentario al codice civile (il commentario Scialoja--Branca) del 1946, Francesco De Martino ha il compito di commentare l'art. 833, e afferma esplicitamente che questi due elementi costitutivi finiscono per bloccarsi a vicenda.
+- Nell'elemento soggettivo c'è l'intima volontà del proprietario di agire esclusivamente al fine di danneggiare il terzo, l'animo doloso, la volontà esclusiva di nuocere.
+- Tuttavia, viene neutralizzato dall'utilità, anche se minima, che il proprietario abbia ottenuto con la sua condotta dolosa.
+- Viceversa, anche la sproporzione fra la minima utilità che il proprietario trae dalla condotta dolosa, rispetto all'entità del danno che produce, non vale a perfezionare l'atto emulativo.
+- È la descrizione del fallimento del tentativo del legislatore di fare dell'art. 833 un limite al diritto di proprietà.
+- L'articolo potrà essere sicuramente invocato, ma in misura molto ridotta rispetto all'obiettivo di una clausola equitativa, perché sono una figura di illecito, caratterizzati da un dolo specifico.
+
+** 26:40 Domanda: spiegazione del primo commento?
+
+- Il commento di Franceso De Martino all'art. 833 è un commento fortemente scettico, sulla capacità di quell'articolo di funzionare realmente come limite equitativo all'esercizio del diritto di proprietà.
+- Il commentatore afferma che i due elementi costitutivi (oggettivo e soggettivo) finiscono per neutralizzarsi a vicenda, impendendo la prova dell'atto emulativo.
+- La presenza del dolo viene meno se il proprietario ricava dalla condotta dolosa un'utilità anche minima, e non importa se c'è un'assoluta sproporzione fra il danno arrecato ed il vantaggio ottenuto.
+- Pertanto, De Martino conclude dimostrando che questo articolo consente ad una serie di condotte inutilmente dannose a terzi ed antisociali di non essere qualificate come condotte emulative.
+
+** 29:30
+
+- Il legislatore è arrivato all'art. 833 c.c. dopo un lungo processo di codificazione.
+- Era iniziato negli anni '80 dell'Ottocento, con la rivoluzione industriale, ed i primi due decenni del nuovo secolo, che avevano dimostrato i limiti del codice civile unitario del 1865.
+- Il codice non prevedeva la disciplina del lavoro operaio subordinato, l'istituto dell'espropriazione per pubblica utilità, la dichiarazione di morte presunta che richiedeva l'autorizzazione maritale.
+- Il progetto originale era di riformare il codice civile, ma successivamente si arrivò alla creazione di un intero nuovo codice civile, ampliandolo fino al punto di includere la giurisdizione commerciale.
+- In queste tensioni riformistiche, ci sono anche dei giuristi che ritengono opportuno configurare il limite emulativo al diritto di proprietà.
+
+** 32:22
+
+- È un limite che ha avuto una lunga evoluzione in età medioevale e moderna, era stato creato dai glossatori e sviluppato dai commentatori, ma era stato eliminato dall'ideologia rivoluzionaria.
+- Ossia, il recuperare la proprietà nella sua pienezza ed assolutezza, accessibile a tutti, incomprimibile, in cui si esprimeva la dignità del soggetto di diritto e proprietario.
+- Una delle frasi attribuite a Napoleone nella fase di progettazione del codice civile, fu di dire che "Come il cittadino ha la proprietà, lo Stato ha l'impero".
+- In altre parole, entrambi sono assoluti arbitri, uno della proprietà, uno dell'impero, a dimostrazione dell'importanza che il diritto di proprietà aveva nella tradizione codicistica francese.
+
+** 35:12 Art. 544 cod. civ. francese
+
+- Negli ultimi vent'anni dell'ottocento e agli inizi del '900, si inizia a ripensare la scelta originale del codice civile unitario.
+- Gli articoli che definiscono la proprietà nel codice civile napoleonico ed italiano sono assolutamente corrispondenti.
+- L'art. 544, emblematico della proprietà borghese del codice civile, è entrato in vigore nel 1804 in Fracia, e poi esteso nel 1806 in Italia.
+
+** 36:40 (inizio pausa)
+
+** 40:18 (fine pausa)
+
+** 40:50 (cont.)
+
+- La formulazione è molto vicina a quella del codice civile vigente in Italia, il quale prende come riferimento il "proprietario", e descrive le sue facoltà.
+- Invece, l'art. 544 e l'art. sulla proprietà nel progetto del codice civile del 1942 prendono come punto di riferimento la "proprietà".
+- La differenza è significativa, perché definire il diritto di proprietà in termini di facoltà implica che la condotta del proprietario può essere sindacata e limitata.
+- Invece, l'art. 544 (che sarà ripreso in maniera letterale dall'art. 436 del codice civile d'Italia del 1866) è lapidario, e gli articoli successivi non prevedono alcuna limitazione all'esercizio del diritto di proprietà.
+- Se diventerà necessario limitare la proprietà, lo Stato provvederà in seguito, con leggi o regolamenti, che dovranno avere natura eccezionale ed essere usati solo in casi di emergenza.
+
+** 46:25 Codice napoleonico: servitù
+
+- Per soddisfare quelle esigenze ineludibili di contemperamento di diritti fra proprietari, il legislatore del codice napoleonico aveva regolato l'istituto più tipi di servitù prediali e urbane.
+- L'istituto ha origine romanistica, e consiste in un gravame imposto su un fondo a favore di un altro fondo.
+- Esistono numerosi tipi di servitù, ma possono essere divise fra servitù prediali (fra fondi rustici) ed urbane (tra fondi urbani).
+- Affinché si possa costituire una servitù servono due elementi oggettivi.
+- Il primo è la contiguità del fondo servente rispetto a quello servito.
+- Il secondo è l'assoluta necessità per il proprietario del fondo servito di avvalersi di una qualche prerogativa del fondo servente, per esercitare a pieno il diritto di proprietà.
+- Ad es., per raggiungere il fondo deve passare sul fondo del vicino, per far arrivare l'acqua deve far passare una tubatura attraverso la proprietà del vicino, ecc.
+- L'utilità che il fondo servente offre al fondo servito non può essere ottenuta in altro modo.
+
+** 52:03 Servitù: interpretazione estensiva
+
+- La dottrina e giurisprudenza francesi hanno lavorato a lungo, per sfruttare al massimo, senza tradire gli elementi costitutivi, le potenzialità delle servitù.
+- In via di interpretazione, vengono ricondotte a questo istituto tutta una serie di situazioni che non solo erano configurabili come rapporti di servitù, ma soddisfacevano la dimensione sociale ed equitativa del diritto di proprietà.
+- C'è una fiorente trattatistica sulle servitù in francese, che poi si diffonderà in tutti i paesi che hanno seguito il modello codicistico francese.
+
+** 53:33 Codice civile del 1865: proprietà
+
+- Il codice civile del 1865 si era modellato per quanto riguardava la struttura, su quello napoleonico, ed era diviso in tre libri (persone e famiglia, proprietà e sue modificazioni, modi di acquisto della proprietà).
+- Il codice civile del 1865 era anche influenzato dalla Restaurazione.
+- I Savoia nel 1865 diventano i Re d'Italia, ma nel 1837 Carlo Alberto aveva promulgato il codice civile albertino, che era l'antecedente dal punto di vista contenutistico del codice civile unitario.
+- In ogni caso, per quanto riguardava il regime della proprietà, il codice albertino non si era distanziato dal codice napoleonico, e lo stesso vale per il codice civile napoleonico.
+- La proprietà è assoluta ed incomprimibile, il codice non prevede limitazioni, ma solo la possibilità di introdurne (solo in casi eccezionali) con leggi o regolamenti.
+- Nel momento della riforma del codice del 1865, esistevano altri codici civili in Europa, che potevano essere presi come riferimento da parte della commissione per la riforma del codice civile.
+
+** 57:39 ALR prussiano: introduzione
+
+- Il primo codice in cui si trova una formulazione espressa è l'ALR prussiano del 1794, il codice civile territoriale per il regno di Prussia da Federico II, per i territori soggetti alla sua giurisdizione.
+- Non era un codice civile in senso moderno, ma era una consolidazione (anche se con interpolazioni) delle consuetudine radicate nel regno di Prussia, unite alle costituzioni regie.
+- L'ALR rientra nell'ottica di una ideologia giusnaturalista, di principi immanenti di diritto, comuni a tutti gli uomini per diritto di natura o ragione, che il sovrano-legislatore aveva il potere-dovere di positivizzare.
+- L'ALR contiene due paragrafi (l'equivalente germanico dell'articolo è il paragrafo), che sono entrambi esplicativi (secondo il carattere della legge, nell'area germanica).
+
+** 1:01:18 ALR: par. 27 e 28
+
+- Il par. 27 afferma che nessuno può abusare della sua proprietà per offendere o danneggiare altri.
+- È un divieto fondato esclusivamente sull'elemento soggettivo (la volontà di danneggiare altri), senza riferimento alla mancanza di utilità.
+- Il par. 28 spiega la nozione di "abuso", ossia un uso tale della proprietà che per sua natura può solo avere per intenzione l'offesa di un altro.
+- L'ordinamento giuridico prussiano sanzionava l'abuso del diritto di proprietà, inteso come l'uso doloso del proprio diritto.
+- In questa formulazione si ritrova la tradizione antichissima delle popolazioni germaniche della proprietà collettiva, che non esisteva più, se non nella disciplina dei beni comuni o ad uso civico.
+- Tuttavia, sopravvive nello spirito del diritto, e comporta una sensibilità verso il bisogno di usare il proprio diritto senza danneggiare i terzi.
+
+** 1:06:02 Codice civile del Montenegro: introduzione
+
+- Sono poche le testimonianze codicistiche, e tranne una, sono tutte dall'area germanica o slava, quelle che fra la fine dell'ottocento e l'inizio del novecento contemplavano il divieto di atti emulativi.
+- Non sono tutte uguali per calibro e diffusione, e possono riguardare anche codici applicabili a piccole giurisdizioni, ma che possono comunque essere stati di ispirazione per il legislatore.
+- Il codice civile generale del principato del Montenegro entra in vigore nel 1888.
+- Elena regina d'Italia era montenegrina, e quindi si era creato un rapporto fra le due monarchie, quella montenegrina e quella italiana.
+- La formulazione rispecchia la natura di una piccola realtà rurale, dove il rispetto fra vicini fa parte di un principio di solidarietà e socialità innato, che ispira il codice, invece di esserne una conseguenza.
+
+** 1:09:27 Codice civile del Montenegro: rapporti fra vicini
+
+- La limitazione del diritto di proprietà è collegata nella parte del codice dedicata ai rapporti di vicinato.
+- I vicini devono esercitare il diritto di proprietà in modo da non molestarsi né danneggiarsi reciprocamente.
+- Un altro articolo afferma che normalmente la proprietà è piena e assoluta, ma nei rapporti fra vicini, proprio perché tra vicini bisogna usare determinate accortezze, può essere limitata.
+- Tuttavia, si tratta di un limite non esportabile al di fuori della realtà sociale del Montenegro, e applicabile in un contesto territoriale di piccole dimensioni.
+
+** 1:15:27 (inizio pausa)
+
+** 1:24:17 (fine pausa)
+
+** 1:24:28 Cantone di Zurigo
+
+- Nel 1888, il cantone di Zurigo è il primo nella Confederazione Elvetica a promulgare un proprio codice civile, e nel 1912 ad un codice civile confederale svizzero.
+- Non tutti i cantoni ebbero un codice, ma il cantone di Zurigo era il più grande ed importante, e diventerà il modello per il codice confederale.
+- Il par. 189 prevede che l'uso lecito del proprio fondo o cosa che causa fastidio agli "occhi, orecchie o naso del vicino" non autorizza a protestare.
+- Solo se l'uso è fatto fuori misura, o è doloso, si può invocare l'intervento della polizia o dell'attività giudiziaria.
+- La tecnica è diversa da quella del legislatore francese, il quale prevede articoli brevi e precettivi, mentre il codice civile svizzero ha un carattere descrittivo e usa termini colloquiali.
+
+** 1:29:20 BGB
+
+- Nel 1900 viene promulgato il codice civile tedesco, che è ancora in vigore.
+- Riprende l'impianto concettuale romanistico sviluppato dalla scuola pandettistica tedesca, ed enfatizza il principio dello /ius utendi et abutendi/ del proprietario.
+- Tuttavia, la pandettistica aveva male interpretato il significato della norma, perché /abutendi/ significa usare la cosa fino al punto di distruggerla.
+- Il par. 226 BGB ha come rubrica /Chicaneverbot/, il divieto di condotte emulative, dolosamente lesiva della proprietà altrui.
+- Dispone che l'esercizio del proprio diritto sia inammissibile quando non abbia scopo diverso dal nuocere ad altri.
+- Viene ripresa la tradizione dell'ALR, per cui era rilevante solo la volontà che motivava l'azione.
+- Nel par. 826 si prevede l'obbligo di risarcimento per i danni causati con un comportamento contrario alla morale.
+- Il legislatore non spiega cosa sia la "morale", perché è un valore implicito nel BGB, come l'equità o buona fede.
+
+** 1:34:54 Codice civile svizzero
+
+- Sono pochi i codici che fuori dall'Italia formalizzano il divieto di abuso della proprietà, e sono tutti di area tedesca.
+- Il codice civile svizzero dl 1812 è basato su quello del cantone di Zurigo, ma con alcuni elementi originali.
+- L'art. 2 prevede che oguno è tenuto ad agire secondo buona fede, sia nell'esercizio dei diritti, che nell'adempimento dei propri obblighi, ed il manifesto abuso del diritto non è protetto dalla legge.
+- L'uso equo del proprio diritto e la buona fede è un prinicipio generale, che vale per l'intero codice, e si fonda sulla fiducia nei propri cittadini.
+- Pertanto, può operare solo in un contesto come quello elvetico (di piccole dimensione, in cui la buona fede è già un valore fondamentale della società).
+
+** 1:38:37 Conclusione
+
+- Il codice civile messicano è derivato dalla tradizione romanistica, mediante il colonialismo europeo, non ha avuto grandi influssi sul codice civile italiano.
+- Il panorama europeo non offriva molti elementi, che erano diversi da quelli che il legislatore avrebbe seguito.
+- Ci sono sicuramente delle interferenze (la Svizzera era geograficamente vicina, il Montenegro era la patria della regina, il BGB era un modello sviluppato da delle scuole di pensiero che si erano diffuse in Italia).
+- Tuttavia, l'evoluzione ed i ragionamenti che verranno sviluppati dalla dottrina e giurisprudenza italiana seguiranno prevalentemente gli orientamenti francesi.
+- Sono orientamenti interpretativi del codice, che cercano di mitigare l'assolutezza del diritto di proprietà.

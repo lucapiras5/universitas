@@ -1,0 +1,107 @@
+* 2021-11-22
+
+** 19:15 Riassunto
+
+- Le /quaestiones de facto emergentes/ risalivano al 1100--1200, sono state messe a stampa nel 1400, e in alcuni casi, sono state pubblicate delle edizioni critiche.
+- Consistevano in una modalità didattica sviluppata dai docenti per insegnare agli studenti la modalità della dialettica processuale, fra la posizione favorevole e contraria alle ragioni dell'attore.
+- L'attore era colui che aveva adito il giudice sostenendo di avere subito un danno dalla condotta abusiva del diritto di proprietà del vicino, e ne portava le prove, mentre il convenuto cerca di provare la legittimità delle sue azioni.
+- I casi pratici proposti erano spesso stati vissuti dai /legum doctor/ (professori) che li proponevano, come giudice, avvocato, consulente, ecc.
+- Sono una fonte che non consiste nella spiegazione teorica delle fonti giustinianee, ma nella loro concreta applicazione a casi giuridici ipotetici, ma largamente ispirati alla pratica.
+
+** 23:34 Riassunto: prima /quaestio/
+
+- La prima /quaestio/ è di uno degli allievi diretti di Irnerio, ed è stata scritta da Martino.
+- Sempronio aveva acquistato il terreno di Tizio, con la condizione (che Tizio aveva voluto fosse posta a contratto) che Sempronio fosse tenuto a costruire sul suo terreno un ponte sopra al fiume, così che Tizio potesse raggiungere un altro suo terreno.
+- Sempronio costruisce il ponte a regola d'arte, ma una pioggia torrenziale porta allo straripamento del fiume ed il crollo del ponte.
+- Martino domanda se Sempronio sia tenuto a ricostruire il ponte, o se Tizio deve rassegnarsi a restare escluso dalla sua proprietà.
+- Dato che Sempronio ha costruito il ponte a regola d'arte, e l'evento che l'ha distrutto era talmente grave da non essere ragionevolmente prevedibile, gli studenti ritengono che Sempronio debba ritenersi liberato dall'obbligazione.
+- Martino propone una soluzione che sposta il ragionamento dal puro diritto, all'equità.
+- Martino era contrapposto a Bulgaro, un altro studente di Irnerio che invece era severamente tecnico, e legato al /rigor iuris/, e non accettava l'introduzione di principi non contenuti in norme giuridiche.
+- Martino sostiene che da questo incidente naturale Sempronio finirebbe per ottenere un ingiusto arricchimento, perché godrebbe di una proprietà che Tizio non può più raggiungere, e potrebbe usucapirla, diventandone proprietario legittimo.
+- Secondo un principio di equità, che è di origine canonica, e si ispira all'etica cristiana, per cui nessuno può arrichirsi con la sfortuna di altri, il ponte deve essere ricostruito da Sempronio.
+
+** 29:14 Riassunto: seconda /quaestio/
+
+- La seconda /quaestio/ riguarda l'uso privato di acque pubbliche, che era oggetto di conflitti frequenti, soprattutto nelle regioni della Pianura Padana, ricche d'acqua.
+- I fiumi pubblici, navigabili o perenni spesso venivano incanalati all'interno delle mura cittadine per dare forza motrice ai mulini per filare il cotone o la seta, e nelle campagne per macinare i cereali che venivano coltivati.
+- Il caso tipico consiste nel mugnaio, che esercita da lungo tempo la loro professione, sostiene che il nuovo mulino costruito a monte del suo, da un altro proprietario, sul proprio terreno, aveva ridotto il flusso d'acqua, e quindi riduce la sua produttività.
+- La /quaestio/ deriva da una raccolta di Pillio da Medicina, che poi è stata messa a stampa nel 1400.
+- La fortuna della raccolta deriva anche dal fatto che era stata largamente utilizzata nelle scuole dei giuristi.
+- Per Pillio, l'esercizio da più lungo tempo del mestiere di mugnaio ha costituito un diritto di acquedotto, nel corso di 30 anni si è costituita una prelazione rispetto alla forza motrice del corso d'acqua.
+- In entrambe le questioni, non si usa esplicitamente l'argomento della condotta emulativa (Sempronio non costruisce il ponte, il nuovo mugniaio ha costruito un mulino).
+- Anche se le argomentazioni sono diverse, il principio fondamentale è lo stesso, l'equità nei rapporti fra i proprietari di fondi.
+
+** 37:05 /Quaestio/ della salina e del forno: fatti
+
+- Le altre /quaestio/ riguardano conflitti fra proprietari di immobili, e sono di nuovo tratte dalla raccolta di Pillio da Medicina.
+- La prima /quaestio/ riguarda un padre di famiglia borghese, proprietario sia di una salina, sia di un forno, era stato proprietario per lungo tempo, ed aveva sempre tenuto unite queste due attività, perché una era funzionale all'altra.
+- Alla sua morte, il testamento dispone che ad uno dei suoi figli venga lasciata la salina, e all'altro il forno, rompendo così la destinazione unitaria che le due attività avevano in origine.
+- Il fratello che ha ricevuto la salina ha anche subito il danno maggiore, perché il sale produce un reddito minore. e pertanto decide di costruire un forno accanto alla salina.
+- L'altro fratello, invece di costruire una salina, agisce in giudizio contro il fratello, affermando che la costruzione del forno gli ha causato un danno economico, ed il fratello non aveva il diritto di costruirlo.
+- Pertanto, l'attore chiede che il forno del fratello sia distrutto, oppure cessi l'attività.
+
+** 46:23 Argomenti dell'attore e del convenuto
+
+- L'argomento più importante del fratello-fornaio era la destinazione unitaria che il padre aveva dato ad entrambe industrie.
+- Le due industrie andavano esercitate insieme, così come lo erano state per lunghissimo tempo, rispettando una sorta di destinazione del buon padre di famiglia.
+- La condotta del fratello ha violato la volontà paterna, e la regola per cui a ognuno è lecito agire in suo, a meno che non disturbi l'attività altrui (del vicino).
+- L'altro fratello risponde che aveva agito con intento migliorativo, e non di danneggiare altri.
+- Il primo fratello risponde che la violazione della destinazione assegnata all'industria riguarda un principio etico e fondamentale per la comunità, e gli interessi della comunità devono prevalere su quelli del singolo.
+- Il principio di libera concorrenza è il punto fondamentale della difesa del convenuto, ed è il principio che permette il funzionamento dell'economia cittadina.
+- Il migliore rendimento di un fondo migliora anche il benessere collettivo, e il fratello ha agito sul proprio terreno, e con l'unico intento di giovare a sé stesso, mettendo a frutto quella produzione di sale che altrimenti non avrebbe reso il suo pieno potenziale, senza alcuna intenzione di nuocere al fratello.
+
+** 51:54 Soluzione del caso
+
+- Pillio da Medicina è pienamente favorevole alle ragioni del convenuto, ed ha un atteggiamento estremamente moderno, privilegiando le logiche dell'economia su quelle dell'interpretazione letterale del diritto.
+- In questo caso, non c'era stata una vera e propria violazione del diritto, ma si sarebbe potuto argomentare diversamente.
+- Pillio confronta il caso con la situazione degli insegnanti di diritto, ogni /legum doctor/ aveva la sua scuola privata, e le varie scuole rivaleggiavano fra di loro.
+- Impedire la concorrenza sarebbe come se i professori impedissero ai loro alunni di creare le loro scuole private di diritto, temendo che potrebbero sottrargli degli studenti.
+- Per Pillio, è una situazione assurda, perché è irragionevole bloccare l'attività economica.
+- L'emulazione virtuosa (la competizione) fra scuole aiutava a mantenere alto il livello della didattica bolognese.
+- Anche se non viene espressamente menzionato l'atteggiamento emulativo, è comunque implicito che l'attore (proprietario del forno) pensi che il fratello abbia costruito un altro forno, al solo fine di danneggiarlo.
+
+** 58:24 (Inizio pausa)
+
+** 1:09:49 (Fine pausa)
+
+** 1:09:52 /Quaestio/ della torre: premessa storica
+
+- I comuni dell'Italia centro-settentrionale erano ricchi di torri, e la torre all'interno della città dimostrava la presenza di una famiglia aristocratica che vi abitava stabilmente.
+- A Bologna, c'erano molte famiglie che si potevano permettere o una casa-torre (una casa alta che fungeva da torre), o una torre costruita affianco alla loro casa.
+- Le varie famiglie si sfidavano nella costruzione di torri (per numero, dimensioni, bellezza), per dimostrare chi avesse la maggiore influenza sulla città.
+- Tuttavia, questo tipo di costruzioni creavano problemi, perché le torri venivano costruite sempre più alte, senza rispettare i limiti architettonichi, e spesso crollavano, causando danni a cose e persone.
+- Gli statuti delle città prevedevano delle disposizioni relative alla costruzione di torri (distanza, dimensioni, ecc.) per evitare questo tipo di incidenti, dannosi per la comunità.
+- L'ulteriore problema sono le tensioni e rivalità che si creavano fra le famiglie abbienti, che si sfidavano nella costruzione di torri.
+- Era una pratica che andava regolata, dato il suo potenziale distruttivo.
+
+** 1:17:35 Fatti del caso
+
+- Ad agire in giudizio è una donna, che conviene in giudizio il tutore del suo fratello, ancora soggetto a tutela, perché ritiene che il tutore sta spendendo male il patrimonio del fratello.
+- Il danno colpisce non solo il fratello, ma anche la donna, perché la sua dote sarà presa dal patrimonio del fratello.
+- La cattiva gestione del patrimonio consisteva nella costruzione di una torre che non era necessaria, e serviva solo allo scopo di creare discordia fra le famiglie aristocratiche.
+- Il tutore viene chiamato in giudizio, e sostiene la piena legittimità del suo agire, sostenendo che il suo ufficio non si limita solo alla saggia gestione del patrimonio del pupillo, ma anche la tutela del buon nome del casato a cui il pupillo appartiene.
+
+** 1:24:09 Soluzione di Pillio
+
+- Pillio ammette che la costruzione delle torri è pericolosa e regolata dagli statuti, ma allo stesso tempo, è anche una pratica largamente diffusa fra le famiglie che hanno un "qualche prestigio" in città, e pertanto rigetta la domanda della sorella.
+- La sorella menziona gli elementi dell'atto emulativo, la torre è stata costruita solo per generare discordia, come le opere menzionate nel frammento di Macro /opus novum/.
+
+** 1:27:19 Motivo per cui non si usa l'argomento emulativo
+
+- In queste /quaestiones/, il tema della condotta emulativa da parte del proprietario, sia nelle campagne che in città, non è mai espressamente menzionato, anche se si compievano delle allusioni.
+- Per cercare una spiegazione, anche allora la condotta emulativa richiedeva un'azione inutile e dolosa, ed era difficile da provare, e quindi i difensori preferivano argomentazioni più semplici da dimostrare.
+- Al più, l'argomento emulativo aveva un valore residuale, e veniva inserita /ad abundatiam/ rispetto alle argomentazioni principali, e a volte non veniva nemmeno menzionata.
+
+** 1:30:03 Glossa ordinaria di Accursio
+ 
+- L'ultimo gruppo di fonti sono quelle relative alla Glossa Ordinaria di Accursio.
+- Attraverso l'interpretazione di singole parole del testo, viene completato lo sviluppo degli elementi del divieto di atti emulativi.
+- Alla fine degli anni '20 del 1200, Accursio era nato a Firenze, ma si sposta a Bologna per studiare presso la scuola di Azzone, e poi aveva aperto una scuola di grande successo, e attirato numerosi studenti.
+- Decide di dedicarsi ad un'operazione complessa ed onerosa, ma utile per la pratica e didattica.
+- Esistono numerosissime glosse ed apparati, che sono stati prodotti a partire dall'inizio dell'età irneriana (circa un secolo prima).
+- La presenza di interpretazioni discordanti creava problemi sia per la didattica, sia per la pratica.
+- L'obiettivo di Accursio è di selezionare le glosse, e quali mantenere e quali scartare, per ogni opera di Giustiniano.
+- L'opera viene completata intorno agli anni '30 del 1200, ma nel giro di pochi decenni diventa "ordinario", ossia utilizzato da tutti, una serie di interpretazioni definitive da cui non ci si discosta.
+- La scuola dei glossatori entrerà in crisi, perché bastava fare riferimento all'opera di Accursio.
+- Le glosse possono essere divise in 3 gruppi (glosse in cui il proprietario danneggia altri senza utilità, in cui il proprietario ha solo un intento doloso, e glosse in cui si si valorizzano entrambi gli elementi).
+- È infine presente un ultimo gruppo, in cui viene usato il termine "emulazione", e giustifica la distinzione fra "atti emulativi" per gli edifici, e "atti inutili e dolosi" per i fondi rustici.

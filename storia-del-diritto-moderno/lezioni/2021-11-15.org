@@ -1,0 +1,180 @@
+* 2021-11-15
+
+** 14:08 Riassunto
+
+- Scialoja critica gli interventi degli studiosi del diritto civile e del diritto giurisprudenziali che erano favorevoli o a riformare il codice civile, per inserire una norma che sanzionasse le condotte emulative.
+- Oppure, secondo la maggioranza, interpretare in via estensiva gli articoli del codice civile vigente (al tempo, il codice unitario del 1865).
+- La sanzione degli atti emulativi poteva essere considerata come una implicita misura equitativa che era poteva essere ricondotta ai suoi principi generali, come aveva fatto lo studioso di diritto internazionale privato Carlo Lozzi, usando l'art. 3 delle disposizioni preliminari, che permettevano di riempire i vuoti codicistici.
+- Scialoja nega che si possa far dire al codice qualcosa che consapevolmente era stato escluso.
+- Le limitazioni all'uso e godimento del diritto di proprietà erano previste espressamente, solo da leggi speciali, per la materia della condivisione delle acque, una materia troppo speciale per essere suscettibile di generalizzazione.
+
+** 17:45
+
+- Scialoja, che nasceva come romanista, critica anche l'argomento della tradizione storica e dell'origine romanistica dell'istituto.
+- Nega che esistessero norme (costituzioni imperiali o frammenti del Digesto) che contengano in via espressa o letterale il divieto che si voleva configurare.
+- Il sostantivo /aemulatio/ ricorre solo in due passi dei libri giustinianei.
+- Il primo passo è una Costituzione del libro XII del Codice di Giustiniano rivolto alla magistratura dell'Annona.
+- Si vietava lo sconfinamento nelle competenze di altre magistrature, usando l'espressione "emulazione segreta", ossia le rivalità interne.
+- Il secondo passo è un frammento dal libro L del Digesto, detto /opus novum/, di Emilio Macro, per cui chiunque può abbellire la città con edifici o monumenti senza l'autorizzazione del Principe.
+- Tuttavia, l'autorizzazione è necessaria in tre situazioni critiche (le opere costruite /ad aemulationem alterius civitatis/, le opere che fomentano sedizioni, o le opere che si trovano vicino a circhi, teatri o anfiteatri).
+- Il principe dovrà verificare se l'opera sia opportuna, ed i vantaggi siano maggiori dei rischi.
+
+** 23:20
+
+- Nel caso dell'opera costruita /ad aemulationem alterius civitatis/, il termine /aemulatio/ ha lo stesso significato che nella costituzione, la "rivalità" con un'altra città con cui si è in competizione, una situazione pericolosa e da evitare.
+- Questo sostantivo, per come era stato usato nella compilazione giustinianea, non può essere identificato con l'"atto emulativo", inteso come atto inutile e maligno, dettato dal movente doloso di nuocere ad altrui.
+- Viene riportato anche un brano indicato da Scialoja, /De Tusculanae disputationes/ di Cicerone, in cui l'autore spiega che il termine /aemulatio/ ha due significati.
+- Il significato positivo è quello dell'imitazione al fine di migliorare sé stessi, quello negativo è quello dell'invidia e rivalità.
+- Il secondo significato sarà usato nella compilazione giustinianea, rispetto alla quale Cicerone vive tre secoli prima.
+- Scialoja conclude la trattazione della voce "emulazione" nell'Enciclopedia giuridica italiana, affermando che l'emulazione è stato creato dai giuristi medievali.
+- I giuristi medievali confondevano diritto e religione, e creano il divieto partendo da un piccolo gruppo di frammenti giustinianei, che non affermavano nulla del genere.
+- L'origine romanistica del divieto era in realtà una creazione medioevale, e non è mai esistita nel diritto romano, sia in quello classico che giustinianeo.
+- L'unica limitazione di tipo equitativo riguardava l'uso delle acque, ma era una materia speciale, che non era suscettibile di generalizzazione a beni diversi dall'acqua.
+
+** 28:40
+
+- Scialoja afferma che nella compilazione giustinaena sono presenti passaggi, specialmente nel Digesto, che possono servire sia a negare l'esistenza del divieto di atti emulativi, sia ad affermarlo.
+- La presenza di antinomie non è eccezionale nei libri di Giustiniano, dato che aveva riorganizzato fonti normative risalenti di secoli in maniera sistematica, per libri e titoli.
+- Tuttavia, non si era proceduto ad eliminare le contraddizioni, che esistevano perché le norme erano state emanate in epoche diverse, e lontane fra di loro.
+- Questi frammenti saranno fatti oggetto della scienza giuridica dei glossatori, che fra il XII e XIII secolo getterà le fondamenta degli atti emulativi.
+- Sono prevalentemente frammenti del Digesto, che conteneva /iura/, ed i dibattiti giurisprudenziali erano il luogo migliore per sviluppare ragionamenti, che sarebbero stati utili per creare nuove figure del diritto.
+
+** 32:17 Frammenti che negano l'esistenza del divieto di atti emulativi
+
+- Nel titolo 17 dell'ultimo libro del Digesto si trovano due regole.
+- Il primo è di Gaio, nessuno può essere imputato di dolo quando sta esercitando un suo diritto.
+- La seconda è di Paolo, nessuno può essere ritenuto responsabile del danno, a meno che avesse il diritto di fare ciò che ha fatto.
+- Esistono altri frammenti, meno lapidari, che invece sembrano affermare l'esistenza di atti emulativi.
+
+** 36:15 Frammento di Ulpiano: /De damno infecto/
+
+- Nel frammento /De damno infecto/ (D 39.2) di Ulpiano, viene descritto il /casus/ di colui che scavando nel suo fondo, causa danni o mette a rischio il fondo vicino.
+- Può essere equiparato al caso di chi scava sul proprio fondo, cercando una vena d'acqua, finisce per recidere la vena d'acqua che alimentava il fondo vicino.
+- Il soggetto che ha scavato è responsabile per il danno causato, ossia, il vicino può agire nei suoi confronti utilizzare l'azione /de damno infecto/?
+- Nel diritto romano classico, le azioni che potevano essere utilizzate in giudizio erano tipiche, e l'azione /de damno infecto/ riguardava i dannni materiali derivanti dall'attività del vicino.
+- Ulpiano nega la possibilità di applicare l'azione, o la presenza del dolo, perché il soggetto ha agito nel suo pieno diritto.
+- Pertanto, non c'è responsabilità per il danno prodotto, salvo il caso per cui lo scavo sia stato più profondo del necessario.
+- Ad es., non doveva scavare così in profondità per trovare l'acqua, ma facendolo, ha intaccato le mura del vicino, o ha tagliato la vena del pozzo.
+- In questo caso il vicino potrà agire per il risarcimento, se riesce a provare l'eccesso da parte dell'altro proprietario.
+- Ulpiano dimostra una qualche sensibilità verso l'uso della proprietà in maniera giusta ed equilibrata, uno scavo troppo profondo è inutile.
+- Manca l'elemento del dolo, e quindi non è propriamente un atto emulativo, ma comunque c'è il /fumus/ della logica degli atti emulativi, che è stata utilizzata dai giuristi medioevali.
+
+** 43:12 Frammento di Celso: /De rei vindicatione/
+
+- È un frammmento nel libro VI del Digesto, e riguarda l'azione per ottenere la /rei vindicatio/, la restituzione di una cosa che è stata sottratta ingiustamente.
+- Celso prende il /casus/ di un soggetto che acquista incautamente un fondo o edificio da un soggetto che diceva di esserne il proprietario, ma non lo era.
+- Il legittimo proprietario agisce in giudizio, affinché gli sia restituita la sua proprietà.
+- Tuttavia, l'incauto acquirente è già entrato nella sua disponibilità, ed aveva apportato delle migliorie (ad es., ha costruito una recinzione, affrescato le pareti, etc.).
+- La restituzione del bene incautamente acquistato è obbligatoria, ma il problema è se l'incauto acquirente debba essere risarcito dal legittimo proprietario, per le migliorie di cui andrà a godere quando tornerà in possesso del bene.
+- Per Celso, il risarcimento è obbligatorio, ma va determinato dal giudice, perché può decidere fra la restituzione del bene, o il pagamento del suo equivalente in denaro.
+- La decisione non spetta all'incauto acquirente, ma al giudice, sulla base della natura di queste, perché ci sono opere che possono essere materialmente asportate, e opere che se venissero asportate si distruggerebbero.
+- Ad es., è impossibile asportare un affresco.
+- Per Celso, l'incauto acquirente /malitiis non est indulgendum/, non deve chiedere la restituzione invece del risarcimento, deve comportarsi secondo ragione ed equità.
+- Questa forumla ricorrerà spesso nelle opere dei giuristi medioevali, e il sostantio /malitia/ diventerà sinonimo di /aemulatio/, gli "atti maliziosi" sono atti senza utilità e compiuti solo per nuocere agli altri.
+- Anche in questo frammento non c'è una situazione di atto emulativo, perché c'è un'utilità per l'incauto acquirente, ma è malizioso ed inutilmente dispettoso chiedere la restituzione.
+
+** 50:40 /Actio de aquae pluviae arcendae/
+
+- È tratto dal D 39.3, il titolo successivo a quello del /damno infecto/.
+- L'azione /de aquae pluviae arcendae/ era destinata a contenere le acque piovane, ed era un'azione antica, risalente al diritto romano classico.
+- Era stata sviluppata dai magistrati dell'Italia centrale, e rappresentava uno strumento di difesa contro la sovrabbondanza dei corsi d'acqua e delle piogge.
+- D'inverno, i corsi d'acqua tendevano ad esondare ed allagare i fondi, non solo quello in cui scorreva, ma anche quelli vicini.
+- I soggetti i cui fondi erano stati allagati, per mezzo del fondo vicino, avevano il diritto di deviare il corso d'acqua per contenerlo.
+- Questo poteva privare i terzi dell'acqua, ma non c'era responsabilità, ed il danno era giustificato per il fatto di proteggere il proprio fondo da allagamenti.
+
+** 54:55 Interpolazione nella compilazione giustinianea
+
+- Questa azione viene ripresa dalla compilazione giustinianea, e viene adattata al contesto geografico dell'impero romano d'oriente.
+- I compilatori vivevano nell'odierna Turchia, dove i fiumi e le piogge erano molto più ridotti.
+- Il lavoro dei compilatori prevedeva una serie di interventi sui frammenti, che sono chiamate "interpolazioni", per adeguare il diritto al contesto al tempo di Giustiniano.
+- Il rendere attuale l'/actio aquae pluviae arcendae/ significava che potesse essere utilizzata non solo per contenere le acque in eccesso, ma anche evitare di essere privati dell'acqua.
+- Pertanto, qualsiasi attività del vicino (storno, diga, sbarramento) che limitasse o bloccasse il corso poteva essere rimossa, se si dimostrava in giudizio che era stata costruita dolosamente, con l'intento di privare il vicino dell'acqua.
+
+** 57:48 (Inizio pausa)
+
+** 1:12:04 (Fine pausa)
+
+** 1:13:13 Frammento di Paolo, /De aqua et de aquae pluviae arcende/
+
+- Nel suo frammento, Paolo fa riferimento ad un altro giurista ancora più antico, Labeone.
+- Labeone dice che se il vicino devia un "torrente" che scorre sul suo fondo (i torrenti sono corsi d'acqua stagionali, e quindi non pubblici), affinché non arrivi sul fondo, e così facendo, priva il vicino dell'acqua, il vicino può agire contro di lui, con l'azione /aquae pluviae arcendae/?
+- Non può, perché quell'azione serve ad evitare che l'acqua /non influat/ (non allaghi), e questo principio è ancora più valido se non abbia agito con l'intenzione di arrecare danno, ma affinché il danno non incomba su di sé.
+
+** 1:18:28 Interpolazione dei compilatori giustinianei
+
+- Quest'ultima parte non è del giurista Paolo, ma è un'interpolazione da parte dei compilatori giustinianei, per far sì che l'azione possa essere invocata anche quando il soggetto non devia l'acqua per giovare a sé stesso (cosa che è lecita), per evitare che le acque allaghino il suo terreno, ma lo fa per togliere l'acqua al vicino.
+- In questo modo l'azione ideata per evitare che l'acqua sovrabbondante inondasse viene adattata alla situazione in cui la scarsa acqua viene sottratta.
+
+** 1:20:50 Ricerca delle origini degli atti emulativi
+
+- Nel dibattito fra il codice civile del 1865 e del 1942, la ricerca di origini autorevoli degli atti emulativi era diventata un punto fondamentale, per chi sosteneva l'opportunità di recuperare questo divieto, rifacendosi alla tradizione storica del paese.
+
+** 1:22:08 Domanda: ripetere lo scopo dell'interpolazione
+
+- Domanda: ripetere lo scopo dell'interpolazione nel frammento di Paolo.
+- In questo caso, lo scopo dell'interpolazione dei compilatori giustinianei è stata di allargare la possibilità di utilizzare l'azione.
+- Il caso originario è quello in cui il proprietario del fondo devia il torrente, per evitare che allagasse il suo fondo.
+- Il caso aggiunto è quello in cui la deviazione priva di acqua il vicino, ed è stato fatto con dolo, non è stato fatto per salvare le proprie colture, ma per danneggiare il vicino.
+
+** 1:24:18 Storici del diritto medioevale
+
+- I romanisti si concentrano sul diritto giustinianeo, e affermano che il divieto non esisteva nell'età classica, ma sicuramente esisteva nell'età giustinianea.
+- Gli storici del diritto medievale (che allora si chiamavano "storici del diritto italiano") cercano origini alternative.
+- Francesco Schupfer negli anni '20 del 1900 prospetta l'origine nelle consuetudini dei popoli germanici.
+- Schupfer era altoatesino, e conosceva la tradizione giuridica dei popoli germanici, in specie i longobardi e franchi, che hanno avuto grande influenza in Italia durante il periodo altomedioevale.
+- Scrive una storia del diritto privato germanico, in tre volumi (libere persone della famiglia, obbligazioni e proprietà).
+- Nel libro sulla proprietà, si occupa anche agli atti di emulazione, partecipando al dibattito che era in corso, e portando il suo contributo.
+- Schupfer sostiene che il divieto degli atti emulativi faccia parte della tradizione giuridica longobardo-franca, e porta la testimonianza delle fonti a supporto della sua tesi.
+
+** 1:27:52 Fonti utilizzate
+
+- Gli editti dei longobardi erano stati raccolti qualche dopo secolo a Pavia, che era la capitale del regno d'Italia, in una grande raccolta scritta, in ordine cronologico, detta /Liber Papiensis/, che dal primo degli editti longobardi (quello di Rotari) arriva all'ultimo dei capitolari franchi (alla fine del 900).
+- La versione che lo Schupfer usa è quella critica novecentesca, che fa parte di una raccolta chiamata /Monumenta Germaniae Historica/.
+- Schupfer analizza alcuni capitoli dall'Editto di Rotari e alcuni capitoli del capitolare di Carlo Magno.
+
+** 1:30:50 Editto di Rotari, cap. 358
+
+- A nessun viandante può essere vietato di raccogliere erba dal prato che sta attraversando, salvo che ci si trovi nella stagione della mietitura (perché si danneggerebbe il raccolto).
+- Al di fuori del periodo della mietitura, il proprietario del terreno può vietare ai viandanti di raccogliere l'erba solo per quanto attiene a ciò che è recintato.
+- Tuttavia, tutto quello che esce fuori dalla recinzione può essere liberamente raccolto, ed il proprietario del non può rivendicarne la proprietà,
+- Questo passaggio dell'Editto di Rotari viene grandemente valorizzato da Schupfer, laddove affermava che quando esuberasse dai confini segnati dal proprietario, proprio perché in minima entità, non potesse essere da lui rivendicato.
+- In questo caso, il capitolo riguarda la mancanza di utilità, è inutile che il proprietario cerchi di impedire al viandante di raccogliere una quantità minima di erba.
+
+** 1:34:42 Capitolare di Carlo Magno, cap. 14, /per iterantibus/
+
+- Il provvedimento di Carlo Magno riguarda i viandanti.
+- Nei confronti dei viandanti, che si dirigono verso il palazzo imperiale, non si può negare la colletta (la raccolta del necessario).
+- Nessuno può raccogliere erba durante il tempo della mietitura, salvo che non stia inseguendo un nemico, oppure sia un messo dell'imperatore, e sia in missione ufficiale.
+- Vengono contemperate due esigenze diverse, quelle del proprietario del fondo pronto per essere mietuto, e quella dell'utilità superiore di situazioni eccezionali, davanti alle quali la proprietà privata deve essere sacrificata.
+
+** 1:39:16
+
+- C'è sicuramente una sensibilità nei confronti della necessità altrui, a fronte di una scarsissima utilità del proprietario di difendere il suo.
+- Tuttavia, questa necessità riguarda un terzo generico, "i viandanti" in generale, e non si è all'interno di un rapporto fra due proprietari, ed il diritto dell'uno invade dolosamente ed inutilmente il diritto dell'altro.
+- Quindi, certamente manca quel contesto tipico del divieto di atti emulativi, perché il rapporto riguarda il proprietario rispetto all'esterno, con i viandanti che vanno e vengono, attraversando i campi.
+
+** 1:41:38 Rotari 292, 296
+
+- Per Rotari 292, se qualcuno coglie più di 3 o 4 chicchi d'uva, è tenuto a pagare una sanzione di 6 soldi, perché ha commesso un furto.
+- Per Rotari 296, se qualcuno raccoglie più di 3 chicchi d'uva dalla vite altrui è tenuto a comporre il danno pagando 3 soldi, perché fino a 3 chicchi non c'è alcuna responsabilità per furto, e chi li ha raccolti lo ha fatto per soddisfare un'esigenza primaria.
+
+** 1:44:41 Osservazioni
+
+- Il carattere solidale di questi due capitoli, e anche da quelli precedenti, che menzionavano un'attenzione particolare per i viandanti, era il punto debole della teoria di Schupfer.
+- Questi passi rispecchiano non tanto lo spirito germanico, che prevedeva una proprietà originariamente indivisa, e la comunione della terra.
+- Piuttosto, dimostrano l'ibridazione fra la tradizione di diritto germanico, che si è ibridata con la conversione dall'arianesimo al cattolicesimo, non con il diritto romano (anche questa ibridazione era sucessa), ma con i principi del Vecchio e Nuovo Testamento.
+
+** 1:46:53 Deuteronomio 23, 24-25
+
+- Se si prendono alcuni passi del Vecchio Testamento, è chiara l'origine dei capitoli di Rotari.
+- Il contesto dell'Editto di Rotari e del Capitolare di Carlo Magno sono lontani dal contesto del divieto di atti emulativi.
+
+** 1:48:31 Anticipazioni
+
+- I giuristi della scienza dei glossatori contribuiscono alla costruzione degli atti emulativi.
+- Il dibattito sviluppato nella seconda metà dell'ottocente non valorizzò al meglio il contibuto dei glossatori, anche a causa della critica di Scialoja.
+- Si criticava il fatto che i principi della morale e della religione tendevano a confondersi, ma è una critica anti-storica ed ingiusta, perché la morale e la religione erano elementi fondamentali per lo sviluppo del diritto.
+- Tra la fine dell'ottocento e l'inizio del novecento si fissa la /sedes materiae/ nel diritto positivo degli atti emulativi, fra le limitazioni all'esercizio del diritto di proprietà.
+- Il dibattito si era interrotto sull'origine del diritto, senza prestare attenzione alla sua evoluzione nel tempo.
+- La Glossa Ordinaria di Accursio sarà il punto di arrivo per la scienza dei glossatori, ed il punto di partenza per la dottrina successiva.
+

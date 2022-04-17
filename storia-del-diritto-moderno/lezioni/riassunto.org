@@ -1,0 +1,73 @@
+* 2021-10-05
+
+- Settecento come secolo di proposte (antico regime, abrogazione privilegi feudali, riforme diritto penale)
+- Collezioni (riordino cronologico, senza organizzazione per materia, creazione di sommari ed indici)
+- Consolidazioni (riordino per materia di materiale previgente, il Codice e Digesto erano consolidazioni)
+- Monarchie assolute (vogliono riorganizzare il proprio patrimonio normativo)
+- Savoia (Regno di Sardegna, conservatori, usano la riforma per motivi politici)
+- Vittorio Amedeo II
+
+* 2021-10-11
+
+** Codice penale Leopoldino
+ - Codice penale Leopoldino (vero codice penale, principi dell'illuminismo penale, unità soggetto giuridico, principio di legalità, abolizione pena di morte, riconoscimento funzione rieducatrice della pena)
+** Repubblica di Venezia
+ - Repubblica di Venezia (conquista da Napoleone, Austria dopo la Restaurazione, pubblicazione consolidazioni delle consuetudini e leggi vigenti chiamate "codici", codice feudale e codice dei commerci)
+** Codice estense
+ - Ducato di Modena (casate degli Asburgo ed Estensi)
+ - Supremo Consiglio di Giustizia (ultimo dei grandi tribunali, obbligo di motivazione)
+ - Prima deputazione di Francesco III (raccolta materiale giuridico, intero diritto)
+ - Seconda deputazione di Francesco III (solo diritto ducale, segue modello consolidazione piemontese)
+ - Codice Estense (abrogazione delle fonti diverse dal diritto comune, i contenuti non sono nuovi, mancanza dell'inscriptio)
+ - Interpretazione autentica del codice estense (rimessa al Supremo Consiglio di giustizia, usata infrequentemente, raccolte non messe a stampa)
+ - Sorte storica (abrogazione con Napoleone, recupero dopo la Restaurazione, continua a vigere per la situazione politica stabile ed economica agiata)
+ - Approvazione di un vero codice e proprio codice nel 1850, estensione del Codice Albertino a tutta Italia nel 1861
+ - Permanenza in vigore dei codici penali preunitari
+** Francia del '700
+ - Francia non partecipa al riformismo settecentesco
+ - Aristocrazia (primo stato, privilegi), borghesia (secondo stato, attività economica, chiedeva rappresentanza politica), terzo stato (popolo senza fonte di reddito, influenzato da altre classi)
+** Francia del '600
+ - Luigi XIV (espansionismo) e Colbert (riordino del diritto vigente, senza codificazione)
+ - Ordinanza sul commercio (separazione del diritto commerciale, mantenuta nel tempo, riunione solo nel 1942)
+ - Statalizzazione del diritto commerciale (precedenti statuti delle corporazioni e tribunali dei mercanti, creazione di tribunali di commercio sovrani, giudici togati e non, nominati dallo Stato)
+** Francia del '700 (cont.)
+ - Luigi XIV (sovrano assoluto, ultima convocazione degli Stati generali)
+ - Richieste contenute nei cahiers, timore del sovrano di rivolte
+ - Inerzia del sovrano alimenta moti rivoluzionari, assenza dal riformismo settecentesco
+** Prussia ed Impero asburgico
+ - Impero asburgico (Austria, Ungheria, parte dei Balcani)
+ - Regno di Prussia (dal Reno al mare del nord, frammentazione politica)
+ - Divisione marcata delle società in ceti (Stände), ognuno con la propria giurisdizione
+ - Giusnaturalismo oggettivistico (sovrano tutela le leggi di natura, già esistenti)
+** Federico II
+ - Cocceio (incaricato di organizzare il diritto vigente, giusnaturalista ispirato al diritto romano, proposta non appoggiata dal sovrano ed aristocrazia perché troppo romanistica)
+ - Federico II (sovrano illuminato, crea codice di procedura civile)
+ - Codice processuale civile prussiano supera la divisione in Stände nell'amministrazione della giustizia
+ - Usa il modello germanico invece di quello canonico, richiede la motivazione della sentenza, impone il principio di legalità
+ - Corrisponde ai requisiti del riformismo illuminato
+ - Federico II non approva il lavoro di Cocceio, ha un successo puramente teorico
+** ALR
+ - ALR (consolidazione per materia delle consuetudini territoriali e leggi regie)
+ - Assenza di giusnaturalismo o fonti romane, solo fonti tradizionali germaniche
+ - Due parti (diritto privato proprio, diritto privato di interesse pubblico)
+ - Rimane in vigore fino a 1900
+
+* 2021-10-12
+
+** Asburgo d'Austria
+
+ - Imperatrice Maria Teresa (sposata con Francesco Stefano di Lorena, madre di Pietro Leopoldo e Giuseppe II)
+ - Austria (territorio ampio, diversamente sviluppato, differenze di etnie e ceto, giurisdizione speciale per il clero)
+ - Creazione di identità nazionale (tallero come moneta unica, abolizione dazi interni, libera circolazione merci)
+
+** Codex Theresianus
+
+ - Maria Teresa vuole unificare il diritto nell'impero, dispone la creazione di una consolidazione
+ - Impostazione giusnaturalistica e romanistica
+ - Estremamente dettagliato e conservatore (mantiene divisione in classi, privilegi)
+ - Non accolto con favore
+ - Constitutio criminalis Theresiana (rimedio ad antico regime, principi di legalità, uguaglianza di trattamento)
+
+** Giuseppe II
+
+ - 

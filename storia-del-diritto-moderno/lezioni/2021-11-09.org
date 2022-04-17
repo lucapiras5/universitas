@@ -1,0 +1,166 @@
+* 2021-11-09
+
+** 11:49
+
+- Il modello originario del primo legislatore unitario italiano era stato il codice civile napoleonico, che nel regolamentare il diritto di proprietà, vi aveva inserito quell'esclusività ed assolutezza tipiche della stagione rivoluzionaria, e della legislazione del decennio del diritto intermedio.
+- La proprietà era diventata emblematica dell'assolutezza dei diritti soggettivi, ed era vista come il diritto principe, nel quale si estrinsecava la personalità umana.
+- Il codice civile francese è pensato per il cittadino proprietario e borghese, segnando un distanziamento dalle utopie rivoluzionarie di una proprietà comune ed indivisa, e rappresentando gli interessi della nuova classe sociale emergente dalla Rivoluzione.
+- Il codice del 1865 riprende il modello della proprietà del codice napoleonico, nella struttura, nella scelta del carattere del proprietà, l'art. 544 del codice napoleonico e l'art. 436 del codice civile del regno d'Italia sono identici.
+- Il soggetto dell'articolo è la "proprietà", di cui ne fissano l'assolutezza e l'inviolabilità, riconoscendo solo alla legge (che è espressione della volontà ed interesse dello Stato) la possibilità di limitare il diritto.
+- Per Napoleone, il cittadino era il signore assoluto dei beni di sua proprietà così come lo Stato era il signore assoluto dell'impero.
+
+** 17:22
+
+- Il silenzio di entrambi i codici per quanto riguarda la limitazione del diritto di proprietà se venisse esercitato in maniera iniqua, egoista, "malizioso".
+- Il termine "malizioso" veniva usato nella storia medioevale e moderna degli atti emulativi, nel significato di condotte tenuto con il solo scopo di nuocere ad altri, senza ottenerne alcuna utilità.
+- È stato proprio il silenzio dei codici che ha consentito alla dottrina e giurisprudenza di sviluppare un'interpretazione estensiva, nella direzione di una costruzione che non contraddicesse, ma anzi, lo rispetti.
+- L'obiettivo è di configurasse il divieto di abusare del diritto di proprietà, di usare e godere senza andare oltre quella regola non scritta della solidarietà, che deve legare i membri della comunità, e nel rispetto della funzione del medesimo.
+
+** 21:02
+
+- In Italia, questo percorso precede i lavori di riforma del codice civile, che iniziano nel 1924 con l'insediamento della commissione reale per la riforma del codice civile.
+- È un percorso che inizia dalla metà dell'Ottocento, e si sviluppa nella seconda metà del secolo.
+- Non viene immediatamente recepito nel codice, ma prepara la cultura dottrinale e giurisprudenziale, affinché i lavori di ricodificazione prevedessero nel nuovo codice il limite emulativo all'esercizio del diritto di proprietà.
+- Questo percorso inizia in Francia, con il /code civil/ dell 1804, e sarà più lento e tardivo in Italia, dato che il primo codice unitario entra in vigore nel 1866.
+- Mentre in Francia l'elaborazione del limite emulativo rimane un'elaborazione puramente dottrinale ed interpretativa, e non  richiederà alcuna modifica al codice civile.
+- Il codice civile ancora vigente in Francia non prevede gli atti emulativi, ma la sanzione di condotte definibili come emulativi è una prassi della giurisprudenza francese.
+- In Italia, si prevederà la loro espressa condanna e sanzione in un nuovo articolo, l'art. 833 che nel nuovo codice del 1942 configura gli atti di emulazione.
+
+** 25:07
+
+- Gli studiosi di diritto civile che erano sensibili all'impatto dell'assolutezza del diritto, in una società che era ormai avviata verso i principi solidaristi e socialisti.
+- Il "portabandiera" di questo tipo di studi che tenevano conto della ricerca storica e sociologica era stato Stefano Rodotà, che offre elementi importanti per la stagione precedente alla codificazione del divieto di atti emulativi.
+
+** 27:29
+
+- Una dottrina consolidata ha individuato in una sentenza di una piccola corte d'appello della Francia settentrionale, il punto di avvio simbolico di una rilettura dell'art. 544 del codice civile francese, e della sua assolutezza, in termini di un uso solidale ed equo del diritto, oltre il quale la tutela da parte dell'ordinamento giuridico viene meno.
+- La corte di appello di Colmar, nel 1855, viene a giudicare una fattispecie tipica dei rapporti fra proprietari di immobili contigui, che più facilmente possono turbarsi a vicenda.
+- Il caso è quello del proprietario di un edificio che sostiene di aver ricevuto un danno dal proprietario dell'edificio confinante.
+- Il vicino, esercitando il suo pieno diritto di usare e godere ha costruito sul tetto del suo palazzo un comignolo eccessivamente grande, che produce ombra sulla parete del palazzo di proprietà di terzi.
+- L'ombra gettata dal camino sproporzionato impedisce di ricevere un'illuminazione adeguata, e alcune stanze restano sempre al buio.
+
+** 32:38 Caso di Colmar: fatti
+
+- Il proprietario che si ritiene danneggiato avanza al giudice di primo grado la richiesta motivata di riconoscimento del danno da lui subito, a causa della condotta iniqua del vicino, e chiede che il trbunale ordini la demolizione di quel comignolo.
+- Il tribunale di primo grado rigetta la richiesta, e applica in maniera rigorosa il principio contenuto nell'art. 544 c.c., affermando che chi ha costruito il camino, indipendentemente da come lo ha costruito, aveva il diritto di farlo.
+- Ha agito nel suo, non c'è stata nessuna immissione nella proprietà altrui, e pertanto, nulla può essere obiettato.
+- Il danneggiato decide di impugnare la sentenza, ed è la decisione dei giudici di appello che diventa emblematica di una nuova sensibilità della giurisprudenza francese verso il tema del contemperamento dell'assolutezza del diritto di proprietà, di fonte all'eguale diritto altrui.
+- Non è l'unica sentenza a dimostrare questo tipo di sensibilità ed attenzione, ma è quella che è diventata un /leading case/, anche perché presenta un'esposizione chiara del ragionamento.
+
+** 36:39 Caso di Colmar: ragionamento della corte d'appello
+
+- La corte di appello di Colmar afferma che il diritto di proprietà, come tutti gli altri diritti, deve avere per limite la soddisfazione di un interesse serio e legittimo.
+- Già la corte va oltre il dettato letterale dell'art. 544, che non specifica una funzione della proprietà, o del movente serio e legittimo nel suo uso e godimento.
+- La corte spiega che questa affermazione apparentemente in contrasto con il silenzio dell'art. 544 si basa sui principi della morale e dell'equità, che impongono che la giustizia sanzioni un'azione ispirata dalla malizia.
+- Ossia, un'azione che non sia giustificata da nessuna utilità personale, e che produca un grave pregiudizio a terzi.
+- Tutto questo, nel rispetto del dettato codicistico, perché il giudice non si richiama all'art. 544, ma ai principi non scritti della morale e dell'equità che devono guidare l'interpretazione del codice.
+- La condotta del proprietario che va oltre i limiti della morale o equità, l'ordinamento giuridico non garantisce i diritti del proprietario.
+
+** 41:52
+
+- La sentenza va ancora oltre, perché definisce come si configuri un comportamento che vada oltre i principi non scritti della morale ed equità.
+- In altre parole, un comportamento ispirato solo dall'unico obiettivo di nuocere, e che non abbia portato alcuna utilità a chi l'abbia posto in essere.
+- Nel caso concreto, il vicino avrebbe potuto costruire un comignolo di dimensioni più ridotte, traendone comunque la stessa utilità.
+- Pertanto, la corte inferisce che la sproporzione è stata messa in atto solo per danneggiare il vicino, e privarlo della luce.
+- Il dispositivo dimostra l'interpretazione del codice civile, che non contraddiceva il metodo dell'esegesi, che utilizzava un'interpretazione logica e letterale del testo del codice, perché invoca i principi dello stesso codice.
+
+** 46:15 Abuso di diritto
+
+- La sentenza di Colmar ispira un percorso seguito da filosofi del diritto e giuristi, a concentrare la loro speculazione sulla figura dell'abuso di diritto.
+- Nella seconda metà dell'Ottocento, una delle figure più importanti è Louis Josserand.
+- La dottrina francese della seconda metà dell'Ottocento, con esponenti come Josserand e Charmont, si dedicano al tema dell'abuso di diritto.
+- L'abuso di diritto è un principio, che non può essere racchiuso in un singolo articolo, e le sue caratteristiche e limiti sono discussi dalla dottrina francese, che è molto sensibile al tema.
+- Uno dei possibili motivi per cui la dottrina si dedica al tema è anche perché permetteva di intervenire sul codice civile senza doverlo riformare.
+- Piuttosto, l'obiettivo è di creare un principio superiore, il divieto di abuso di diritto, nel quale può calarsi il divieto di atti emulativi, ed il divieto dell'abuso di diritto rappresenta un principio fondamentale nell'interpretazione del codice.
+- La dottrina in Francia non sviluppa la riforma del codice civile, ma riesce a creare un dibattito sulla illimitatezza ed incomprimibilità dell'uso e godimento nel diritto di proprietà.
+
+** 51:15
+
+- In Italia, la strada che viene percorsa, e che prende avvio dalla fine degli anni '70 del 1800 è caraterizzata dall'essere molto più concreto, e avversa alle teorizzazioni.
+- A testimonianza di una maturata sensibilità anche italiana dell'ingiustizia di condotte proprietarie inutilmente lesive del diritto altrui, esistono due sentenze emblematiche della nuova attitudine della nuova stagione.
+- Sono due sentenze, una della Cassazione di Firenze, ed una della Cassazione di Palermo.
+- Le corti di Cassazione erano cinque, perché il governo aveva ritenuto mantenere attive le corti di Cassazione dei cinque regni preunitari più grandi.
+- Solo nel 1920 si arriverà alla corte di Cassazione unica, con sede a Roma.
+
+** 55:15 (inizio pausa)
+
+** 1:08:08 (fine pausa)
+
+** 1:08:13
+
+- È importante che si tratti di giudizi di Cassazione, ossia giudizi di legittimità, dove si portano le istanze relative alla mancata o non corretta applicazione di un articolo di legge.
+- Nel codice civile non era presente alcun articolo che vietasse gli atti emulativi, ma la Cassazione produce alcune sentenze che dimostrano una sensibilità simile a quella della corte d'appello di Colmar.
+- Rimangono solo le due massime, e non il caso.
+
+** 1:09:50 Prima massima: Cassazione di Firenze
+
+- La prima è la massima della Corte di Cassazione di Firenze, secondo cui gli atti emulativi devono ritenersi proibiti, anche se non menzionati nelle leggi vigenti.
+- Anche se l'art. 553 autorizza il comproprietario di un muro di alzarlo, senza il consenso dell'altro, tale facoltà non può essere esercitata per spirito di emulazione.
+- La massima usa la parola "emulazione", riprendendolo dal latino /aemulatio/, che nel tempo aveva assunto un significato preciso, una condotta inutile e dettata solo dalla volontà di danneggiare.
+- L'emulazione è vietata, anche se il codice del 1865 non la proibisce espressamente, ed è implicito sia perché non corrisponda all'equità e morale, quei principi generali del diritto a cui il codice si ispira.
+
+** 1:13:13 Seconda massima: Cassazione di Palermo
+
+- La seconda massima segue a due anni di distanza, e deriva dalla Corte di Palermo.
+- Nasce un conflitto fra due proprietari di fondi rustici, entrambi bagnati dallo stesso corso d'acqua, quando per uno diventa assolutamente necessario compiere delle opere per evitare l'allagamento delle sue colture per cause di forza maggiore.
+- Tuttavia, queste opere danneggiano il vicino, perché le acque così sbarrate o deviate esondano nel fondo del vicino.
+- Il proprietario che opera gli sbarramenti ha agito nel suo pieno diritto, perché è rimasto nel suo fondo, e ne usa e ne gode così come la legge gli consente.
+- Tuttavia, il diritto protegge il proprietario anche se produce un danno contro il vicino? In questo caso, solo se l'opera compiuta era l'unica che avrebbe potuto evitare un danno.
+- Se invece era possibile compiere un'opera diversa ed ugualmente efficace, ed il proprietario non l'ha compiuta, si configura un comportamento, un abuso del diritto del proprietario, che non è supportato dalla necessità e dall'utilità.
+- Pertanto, è un principio di equità che va applicato all'uso e godimento del diritto, anche se non è scritto in un articolo di legge, perché l'equità è un principio fondamentale del codice.
+
+** 1:19:59
+
+- La seconda sentenza riguarda la materia delle acque.
+- L'acqua è un bene primario, una /res omnium communes/, una cosa comune a tutti.
+- Se passavano in un fondo, il proprietario poteva usarne e goderne, ma senza appropiarsene, senza diminuire la quantità e forza delle acque.
+- Il letto del fiume invece fa parte del fondo.
+- Proprio per la sua natura particolare, la materia delle acque è importante per la dottrina più sensibile all'uso solidaristico del diritto di proprietà.
+- Permetteva di dare una nuova interpretazione al codice, senza incontrare l'opposizione della società borghese e proprietaria, e della corrispondente dottrina (non tutti erano favorevoli a queste sensibilità).
+- La materia delle acque non avrebbe creato scandalo, se i giudici e la dottrina intervenissero con sentenze e produzioni orientate ad un uso equo e solidale dell'acqua fra proprietari di fondi contigui.
+- In questa seconda metà del '800, gli scritti più importanti sono trattati in materia di diritto delle acque.
+
+** 1:25:27 Sebastiano Gianzana
+
+- Gli autori includono Sebastiano Gianzana, Giacomo Giovanetti, e Gian Domenico Romagnosi (che può essere considerato il "padre" della trattatistica del diritto delle acque, prima che iniziasse a sviluppare il codice di procedura penale unitario).
+- Sebastiano Gianzana scrive un trattato sulle acque nel diritto civile italiano, all'interno del quale viene sviluppata un'argomentazione, collocata in un titolo dedicato alla repressione dell'emulazione, e la facoltà dell'autorità giudiziaria di vietare le attività emulative.
+- Gianzana parte dal silenzio del codice del 1865, per affermare che la repressione dell'emulazione è un principio fondamentale, che è derivabile da più disposizioni.
+- Gli argomenti di Gianzana sono non lontani da quelli della dottrina francese, ma sono strettamente legati alla materia delle acque.
+- Inoltre, per Gianzana il codice si ispira al diritto romano e alla scienza giuridica medioevale, laddove si afferma che la condotta emulativa è vista come una condotta dannosa per la convivenza sociale, e l'aggregazione dei cittadini allo scopo per l'utile comune.
+- Sono principi superiori del codice, ma che operano esclusivamente per la materia circoscritta delle controversie relative alla condivisione delle acque.
+- Inoltre, l'argomento dell'esistenza del divieto di atti di emulazione serve a dare autorevolezza alla tesi, ma in realtà è infondato, perché esistevano solo alcune allusioni, e non sono mai stati esplicitamente vietati.
+
+** 1:33:13 Giacomo Giovanetti
+
+- Giovanetti è allievo di Romagnosi, e riprende la posizione del suo maestro, sostenendo che il diritto di proprietà debba essere subordinato alla legge sociale, ed alle esigenze comuni.
+- Non bisogna confondere il "dominio naturale", che non presuppone alcun rapporto sociale, con il "dominio civile", che invece impone le necessità della vita comune e della convivenza.
+- Obbedire alla legge della vita comune non è obbedire ad un altro uomo, ma alla necessità delle cose, e non toglie né cambia il diritto, ma gli dà una direzione confacente a tutti.
+- È quasi un ragionamento giusnaturalista, per cui il diritto soggettivo di proprietà è un diritto primario, assoluto ed incomprimibile.
+- Tuttavia, nella realtà storica e contingente è un diritto civile, legato alle necessità ed esigenze ineludibili della convivenza civile, che richiedono limitazioni del diritto soggettivo, in favore dell'interesse superiore della collettività e solidarietà che deve unire i membri della comunità.
+
+** 1:36:29 Gian Domenico Romagnosi
+
+- Questo ragionamento trova la sua fonte nel trattato /Della ragione civile delle acque nella rurale economia/ di Romagnosi, scritto nel 1834, prima del codice civile preunitario.
+- Romagnosi viveva durante il periodo degli Stati preunitari, tutti ispirati al modello napoleonico per quanto riguardava la proprietà (e quindi non prevedevano gli atti emulativi).
+- Romagnosi fissa nella materia delle acque una distinzione.
+- Il diritto di proprietà delle acque "naturale", in base al quale i soggetti sono titolari, ed esclusivi fruitori, anche nella logica di un eventuale conflitto.
+- Il diritto di proprietà "sociale" è derivato dall'essere calato all'interno di un contesto sociale, il quale richiede che il diritto di proprietà dell'acqua non sia esercitato in maniera abusiva, per pura malevolenza o invidia, ma nel rispetto dell'interesse altrui e collettivo.
+
+** 1:41:56 Problema del silenzio del codice
+
+- Sono principi generali, che dimostrano il percorso tracciato ancora prima che si arrivasse all'unità nazionale e giuridica con il primo codice civile unitario.
+- Rappresentano una correzione dell'assolutezza del modello napoleonico in forma interpretativa.
+- Queste elaborazioni dottrinali sono possibili grazie al silenzio del codice del 1865, ma d'altra parte, l'omissione degli atti emulativi era consapevole.
+- Esistono giuristi che si impegnano nel cercare di individuare nel codice stesso un aggancio testuale, e non puramente interpretativo, per il divieto di emulazione.
+
+** 1:44:24 Carlo Lozzi
+
+- Uno di questi giuristi è Carlo Lozzi, uno dei primi comparatisti italiani, e nel 1880 scrive /Introduzione al codice civile e al diritto internazionale privato/.
+- È in polemica con Scialoja, e argomenta che il divieto di atti emulativi può essere argomentato dal diritto comune, dalle disposizioni del codice civile.
+- Ad ogni modo, appare manifesto dal principio equitativo, ammesso come fonte di interpretazione dall'art. 3 del titolo preliminare, e richiamato dalle dottrine dell'economia sociale.
+
+** 1:47:03 Scialoja: introduzione
+
+- Le teorie di Lozzi entrano in conflitto con quelle di Scialoja, che inizia come romanista e continua come civilista.
+- Negli anni della gioventù, fino alla fine dell'800, si impegnerà nel dibattito dottrinale riguardante il recupero della sensibilità della dottrina e giurisprudenza verso gli atti emulativi, ed ad una sua configurazione ed inserimento nel codice.
+- Scialoja ritiene che dove il codice tace, non gli si possa far dire quello che non ha voluto dire, e sarà una linea di pensiero inizialmente vincente, ma qualche decennio dopo sarà abbandonata, con i lavori della commissione reale di riforma nel 1924.
