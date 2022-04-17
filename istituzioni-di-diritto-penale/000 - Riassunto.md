@@ -1,0 +1,247 @@
+# Riassunto
+
+## Riserva di legge
+
+- Riserva di legge, ordinamento fascista, fonti sovranazionali, common law
+- **Parlamento**: volontà popolare, maggiore ponderazione
+- **Illecito penale**: garanzie (riserva di legge assoluta, libertà personale)
+- Stato sociale, diritto penale sovranazionale
+- Area sottoposta a riserva di legge:
+  - **Formale** (pene)
+  - **Sostanziale** (libertà personale, limitazione o esclusione sanzione penale)
+- Atti con forza di legge:
+  - Esecutivo
+  - **Decreto-legge**: fini politici, partecipazione minoranze, requisiti urgenza/necessità, reiterazione
+  - **Decreto legislativo**: natura puramente tecnica, bene in legge delega
+- Leggi penali regionali:
+  - **Uniformità** sistema penale (valutazione sociale, depenalizzazione, cause di estinzione, nuove incriminazioni)
+  - **Competenza esclusiva** stato (ordine pubblico, ordinamento penale)
+  - **Peculiarità** territoriali
+- Fonti **subordinate**:
+  - Norma **penale**: bene protetto (disubiddienza come tale) e sanzione
+  - Norma **subordinata**: meramente tecnica, non politica criminale
+  - **Strumentalizzazione** fonti tecniche
+- Norma penale **in bianco**:
+  - Rinvio a **legge**, **regolamento previgente**
+  - Regolamenti futuri, rinvio generale
+- **Consuetudine**:
+  - Funzione incriminante, scriminante (previsto dalla legge, contenuti determinati)
+- Corte costituzionale:
+  - Indirizzo conservativo (salvare norme, evitare conflitti), pragmatico
+  - Caratteristiche **diritto penale moderno**: amministrativo, riserva di legge relativa, istanze sovranazionali
+  - Divieto aumento **area punibilità** (nuove incriminazioni, aggravamento, criterio formalistico/sostanzialistico)
+  - **Decreti-legge**: urgenza e necessità, reiterazione, decreti "omnibus"
+  - **Decreti legislativi**: legge delega (legittimità, rispetto direttive), scelte discrezionali
+  - **Leggi regionali**: politica criminale (positivo/negativo), concretizzare fattispecie nazionale
+  - **Fonti sovranazionali**:
+    - Regolamenti, direttive self-executing, giurisprudenza corte giusziai
+    - Disapplicazione diritto interno
+  - **Fonti subordinate, norme penali in bianco**:
+    - Pre-determinare **disvalore**, **contenuti**
+    - Rinvio **recettizio**
+- **Fonti sovranazionali**:
+  - Costituzione: apertura a diritto sovranazionale, divieto influenza diritto penale
+  - Diritto comunitario, CEDU, principi generali internazionali
+  - **Principi tradizionali** (legalità, irretroattività, determinatezza/tassatività, offensività, riserva di legge)
+  - **Principi moderni** (conoscibilità legge, prevedibilità decisioni)
+- **Fonti comunitarie**:
+  - Tradizionalmente (**deficit** competenza, democraticità, prevalenza **riserva di legge**)
+  - **Interazioni**:
+    - **Leale collaborazione**
+    - **Interpretazione conforme** (potere/dovere giudice, limite contra legem/effetti in malam partem, direttive, decisioni quadro, legge nazionale anche precedente)
+    - **Disapplicazione norme contrastanti** (efficacia erga omnes, limite effetti in malam partem)
+  - **Competenza**:
+    - Obblighi di tutela adeguata, decisioni quadro (nuovi reati/strumenti repressivi), corte di giustizia (**armonizzazione**, non vincolanti)
+    - **Competenza autonoma** (eurocrimes, sanzioni minime), **accessoria** (misure di armonizzazione), tutela budget comunitario
+    - Direttiva, legge di recepimento, Corte costituzionale (inadempimento)
+- **CEDU**:
+  - Consiglio d'Europa
+  - **Materia costituzionale**, tutela **oggettiva** (ricorso interstatuale, tutela apolidi, irrilevanza decadenza interesse soggettivo, reciprocità)
+  - **Organi** (Corte EDU, Consiglio dei ministri)
+  - **Sentenza** (riparare, compenso, valore erga omnes)
+  - **Ricorso statale, individuale** (esperimento rimedi giudiziali, soggettività di diritto internazionale)
+  - **Convenzione EDU** (interpretazione teleologica, diritti essenziali ed elastici, valore pronunce giurisprudenziali)
+  - **Decisioni**:
+    - Metodo casistico, lesione CEDU in concreto, **bilanciamento di interessi**
+    - Vincolanti, esecuzione, **decisione-pilota** (legislazione, prassi Stato), validità erga omnes
+  - **Rango interposto** (interpretazione conforme, questione di costituzionalità, **revisione giudicato**)
+- **Conseguenze giurisprudenza CEDU**:
+  - Evoluzione:
+    - Tradizionalmente: CEDU subordinata a Costituzione, **sussidiarietà** (esaurimento ricorso interno), **vantaggiosità** (CEDU fissa standard minimo)
+    - Attualmente: **potenziamento** garanzie tradizionali
+  - **Principio di legalità**:
+    - Legge include **decisioni giurisprudenziali**
+    - Valorizzazione **conoscibilità e prevedibilità**, incertezza applicazione giurisprudenziale
+    - **Irretroattività** pronunce in malam partem
+  - **Materia penale**:
+    - **Natura illecito** (**rango** interessi tutelati)
+    - **Natura sanzione** (**scopo afflittivo**/preventivo)
+    - **Confisca**: per equivalente (formalmente misura di sicurezza, sostanzialmente pena pecuniaria), veicolo (guida in stato di ebrezza, veicolo inutilizzabile)
+    - **Misure di sicurezza personali** (natura preventiva/afflittiva)
+  - **Retroattività legge più favorevole**:
+    - Corollario principio di irretroattività, inderogabile, tutela qualitativamente migliore
+  - **Probizione tortura**:
+    - Divieto assoluto ed inderogabile, evitare ogni possibile lesione
+    - Espulsione vero stati terzi, carcere duro/perpetuo, sovraffollamento carcerario
+    - Stati terzi
+  - **Diritto alla vita**:
+    - Alikaj et al. (uso delle armi dall pubblica autorità, indagini non imparziali)
+    - Giuliani e Gaggio (legittima difesa, irrilevanza inadeguatezza indagini)
+  - Obblighi di tutela penale:
+    - **Sproporzione per eccesso** (reati contro giornalisti, questione di costituzionalità)
+    - **Sproporzione per difetto** (legislatore, vittimocentrismo, divieto creazioni nuovi reati, analogia, necessità intervento Parlamento)
+- Sistemi giuridici nazionali e sovranazionali:
+  - Giudice ordinario (integrazione)
+  - Limiti (estensione area penale, vittimocentrismo)
+
+## Principio di determinatezza/tassatività
+
+- Definizione di determinatezza/tassatività
+- **Illecito penale** (tipico, libertà personale, comando)
+- **Fonti**:
+  - Diritto alla difesa, obbligo del PM
+  - Conoscibilità delle leggi penali, misure cautelari
+- **Grado di tassatività**:
+  - Norme **generali** (partecipazione criminosa)
+  - Norme **speciali** (clausole generali, casistica troppo minuziosa)
+- **Elementi descrittivi**:
+  - Naturalistici, giuridici
+  - Elastici (necessità)
+- **Fondamento** del reato:
+  - **Evento** (commisivo, pericolo), **condotta** (reato omissivo)
+  - Reati di **puro disvalore** (favoreggiamento personale), **puramente psichici** (dolo specifico)
+- Determinazione della **sanzione**:
+  - Limiti minimi e massimi
+  - Limitare arbitrio giudice, finalità rieducativa, ergastolo
+- **Divieto di analogia**:
+  - Nozione (caso simile, principi generali)
+  - In malam partem: incriminazioni e aggravanti
+  - In bonam partem: attenuanti (Costituzione, preleggi)
+  - **Eccezionalità** della **norma incriminatrice**
+  - Cause di giustificazione come **principi generali**
+  - Abuso dell'analogia in bonam partem (prilegi, assenza di lacune normative)
+- **Interpretazione estensiva**:
+  - Differenza con analogia
+  - Interpretazione estensiva (divieto, giurisprudenza italiana)
+  - **Analogia interna** (parametro di riferimento univoco)
+- Giurisprudenza costituzionale:
+  - Fino anni '80: interpretazione estensiva, sentenze interpretative di rigetto
+  - Anni '80: "proclività a delinquere", plagio, frode fiscale, espulsione dello straniero
+- Rango del bene, **indeterminatezza norme** (spettacoli osceni)
+
+## Principio di irretroattività
+
+- Illuminismo, civil law (Ottocento), common law
+- Irretroattività in diritto civile, penale
+- Fonti:
+  - Costituzione, codice penale
+  - CEDU (Scoppola c. Italia), crimini di guerra (CEDU, Patto di New York)
+- Legislazione comparata:
+  - Civil law: irretroattività, retroattività più favorevole
+  - Common law:
+    - Statues, reati di origine giurisprudenziale
+    - Criminal code, carta dei diritti fondamentali
+  - Principio di irretroattività, irretroattività della legge sfavorevole, retroattività della legge favorevole
+- Retroattività **legge più favorevole**:
+  - Principio di **certezza**, principio di **sicurezza giuridica**
+  - Fondamenti: precedenti storici, diritto internazionale, principio di uguaglianza, di rieducazione
+  - **Derogabilità**
+  - **Abolitio criminis**, **lex mitior** (derogabili con leggi eccezionali o temporanee)
+- Irretroattività:
+  - **Norme sostanziali**
+  - **Norme processuale** (custodia cautelare, prova)
+  - **Misure di sicurezza** (natura terapeutica, tempus regit actum, retroattività, afflittività)
+- **Decreti legge**:
+  - Contrasto (cod. pen. e Costituzione, Parlamento e Governo)
+  - Stesso fatto, comesso prima o dopo decreto che depenalizza
+- Dichiarazione di incostituzionalità:
+  - Legge **sfavorevole** (retroattività anche con giudicato)
+  - Legge **favorevole** (norme di favore/diritto comunitario)
+- Tempus commissi delicti:
+  - Evento, non conseguenze
+  - Reati di durata (ultimo, non primo momento)
+- **Crimini contro l'umanità**/di guerra:
+  - **Norimberga**, diritto penale internazionale attuale
+  - Tesi di **Radbruch** (CEDU, Patto di New York, fatto ritenuto criminale, reato sostanziale, riconoscimento formale)
+  - Corte Penale Internazionale (giurisdizione)
+  - Passaggio fra regimi (Germania dell'Est, dottrina, giurisprudenza)
+- **Retroattività occulta**:
+  - Per **omissione**
+  - **Civil law** (dottrina, cambiamento giurisprudenziale)
+  - **Common law** (prospective overruling, ignorantia juris)
+  - **CEDU** (conoscibilità e prevedibilità)
+
+## Principio di colpevolezza
+
+- Pene collettive, ereditarie
+- Condannato, dolo/colpa
+- Giustificazione, scusanti
+- Giurisprudenza costituzionale:
+  - Anni '60 (responsabilità oggettiva, fatto altrui, fatto proprio, concorso)
+  - Seconda metà anni '60 (concezione retributiva, rieducativa)
+  - Anni '80 (scusabilità ignoranza)
+- Sent. 364/1988:
+  - Colpevolezza-**principio** (art. 27 Cost., elementi principali)
+  - Colpevolezza-**categoria dogmatica** (dolo e colpa)
+  - Rimproverabilità, motivabilità
+- **Condizione oggettiva** di punibilità (estrinseche, intrinseche, frode fiscale)
+- **Aggravanti** (colpevolezza)
+- Reati **aggravati da azione non voluta** (azione in contesto illecito, imputazione oggettiva, come aggravante o elemento essenziale)
+- **Irrilevanza errore età** reati sessuali (punibilità per dolo/colpa)
+- Colpa in contesto illecito (senso stretto, lato)
+- Responsabilità oggettiva occulta
+- **Imputazione fatto** (fatto sopravvenuto sufficiente, posizione di garanzia, successione di posizioni, rifuto atti d'ufficio)
+- **Commisurazione pena** (colpevolezza, codice penale, Costituzione)
+- Concezione normativa, psicologica (limiti)
+
+## Principio di materialità/offensività
+
+- **Materialità**:
+  - Effetti materiali (accertabili, riconducibili a persona, manifestazione pensiero)
+  - Mera intenzione
+  - Necessaria materialità, violazione:
+    - **Reati non empiricamente verificabili** (plagio)
+    - **Pericolo indiretto** (pericolo di situazione pericolosa)
+    - **Delitti di attentato** (tentativo anche inidoneo)
+    - **Reato omissivo proprio** (interessi generali, aumento rischio, mera disubbidienza)
+    - **Prevalenza elemento psicologico** (disvalore in dolo, fatto altrimenti lecito, dolo specifico distingue fattispecie)
+    - **Reati di possesso/sospetto** (sospetto ingiustificato di valori, strumenti scasso)
+- **Società**:
+  - Sanzioni amministrative nei confronti della società
+  - Sistema para-penale (reato di base, accertamento processo penale, afflittività)
+- **Offensività**:
+  - Evoluzione:
+    - Giusnaturalismo, Rosseau, Beccaria, Ottocento
+    - Positivismo, Zanardelli, Rocco, Germania Nazista
+- **Valutazione offensività**:
+  - Lesione in **astratto** (tassatività/determinatezza, bene giuridico)
+  - Lesione in **concreto** (inidoneità, disvalore)
+  - **Clausole liberatorie** (codici penali Est Europa, valutazioni sociali incerte)
+- **Offensività e costituzione**:
+  - **Bene giuridico protetto** (Costituzione)
+  - **Neutralità politica**, **rango beni** lesi da pena (libertà personale, reputazione...)
+  - Vincolo **legislatore** (solo **negativo**), **giudice** (**interpretazione**)
+- **Danno e pericolo**:
+  - **Danno** (lesione effettiva, integrità bene)
+  - **Pericolo** (rischio di danno, godimento indisturbato, delitto tentato)
+  - **Distinzione** danno e pericolo (beni materiali, immateriali)
+  - Pericolo **concreto** (elemento espresso, da verificare)
+  - Pericolo **astratto** (presunzione legale, leggi di esperienza, non da verificare, protezione beni collettivi, anticipazione tutela)
+- **Offensività concreta**:
+  - Pericolo concreto (incendio, apologia di reato)
+  - Pericolo astratto (irragionevole, manifestamente arbitrario, impossibilità prova contraria)
+  - Indicazione **livello minimo** di pericolo
+  - **Disciplina stupefacenti**:
+    - Rischio propria salute, assenza pericolo per altri
+    - Esigenze politica criminale contingenti, narcotraffico, criterio di esiguità
+  - **Reato di clandestinità**:
+    - Punizione status persona, non fatti
+    - Fatti precedenti, lesione beni giuridici strumentali
+- **Offensività astratta**:
+  - Lesione di beni costituzionali: moderazione discrezionalità, non vincolo
+  - **Beni strumentali** (efficienza forze armate, controllo flussi migratori)
+  - Ubriachezza con condanna precedente, aggravante di clandestinità (incostituzionalità)
+  - Abuso beni strumentali (interpretazione estensiva, perdita significato lesività, diritto penale di supporto per altre sanzioni)
+  - Vincolo alla Costituzione (revisione costituzionale, reinterpretazione)
+- **Delitto tentato**: teoria **oggettiva** (comportamenti idonei), **soggettiva** (intenzione)
+- Reato impossibile: non-punibilità (mancanza necessaria offensività, inidoneità tentativo)

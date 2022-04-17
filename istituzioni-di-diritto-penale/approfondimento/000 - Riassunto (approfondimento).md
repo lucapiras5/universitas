@@ -1,0 +1,105 @@
+# Riassunto (approfondimento)
+
+## Principio di legalità del reato e pena
+
+- **Principio di legalità**: fondamento, contenuto
+- **Irretroattività della norma penale**:
+  - Materie extrapenali, materia penale (protezione da arbitri, autodeterminazione, inderogabile)
+- Reato/pena
+- **Misure di sicurezza** (natura preventiva, retroattività, confisca dell'autoveicolo)
+- **Retroattività della norma più favorevole**:
+  - Codice penale, Costituzione
+  - Derogabilità (principio di uguglianza, deroghe ragionevoli)
+  - Disciplina della prescrizione (generalità prescrizione, specificità dibattimento, primo grado, gradi superiori)
+  - Scoppola c. Italia (fondamento della retroattività, derogabilità, esclusivamente reati e pene)
+- **Riserva di legge**:
+  - Fondamento (patto sociale, riduce pluralismo, esclude arbitri)
+  - Riserva di fonte, non di organo
+  - Decreto legislativo (genericità principi, eccesso di delega)
+  - Decreto-legge (necessità ed urgenza, legge di conversione)
+  - Fonti comunitarie (assenza di competenza, effetti diretti), norma europea (effetto diretto e disapplicazione, effetto indiretto e questione di costituzionalità)
+  - **Fonti regionali**:
+    - Fondamento monopolio statale
+    - Vicende vietate (incrminazione, abrogazione, sanzioni diverse, cause di estinzione del reato, regolazione attività vietata)
+    - Sanzioni **amministrative** (disciplina sostanziale, autonomia rispetto a diritto penale)
+    - Sanzioni **penali** (competenza statale esclusiva su ordinamento penale, incidenza su materie concorrenti e residuali)
+    - **Ordine pubblico e sicurezza** (agenzia per i beni sequestrati, tracciabilità dei fondi pubblici)
+    - **Integrazione tecnica** (specificazione tecnica, scarico liquami, autorizzazione generale)
+  - **Fonti subordinate**:
+    - **Teoria della disobbedienza** (fonte subordinata come mero presupposto di applicazione, disvalore come mera disubbidienza, art. 15 TULPS)
+    - **Sufficiente determinazione della fattispecie**:
+      - Distinzione precetto e sanzione, camere di commercio e legge forestale
+      - Integrazione tecnica, modello ingiunzionale/norme penali in bianco
+      - Disvalore, sent. 282/1990 e individuazione soggetti attivi, art. 650 c.p.
+      - Valutazione conformità a legge, della legge
+  - **Pronunce addittive in malam partem**:
+    - **Divieto nuove incriminazioni** (maltrattamento di animali, uccisione ingiustificata), **ripristino ragionevolezza** (vilipendio religione di Stato, bestemmia), modifica politica criminale (discrezionalità legislativa), aggravamento punibilità (esclusione di cause di non punibilità)
+    - **Vizi procedurali**: riserva di legge correttamente formata, difetto di delega (zone franche, effetti su sentenza principale, art. 2 c.p.)
+    - **Norme di favore**: non nuova incriminazione (eliminazione eccezione a disciplina generale), non contrasta con irretroattività (art. 2 c.p.), retroattivita legge più favorevole (deroga legittima)
+  - **Diritto giurisprudenziale**:
+    - Revoca sentenza di condanna, retroattività legge più favorevole per mutamento giurisprudenziale, equparazione CEDU
+    - Limiti (mutamento giurisprudenziale, deroga ragionevole, sovversione sistema)
+
+## Principio di ragionevolezza
+
+- Violazione art. 3 Cost:
+  - Conversione pena pecuniaria in detentiva
+  - Bestemmia, vilipendio religione di Stato
+  - Privilegi e norme di favore
+- Trattamento sanzionatorio:
+  - Disparità trattamento sanzionatorio
+  - Ingiustificata parificazione (codice penale militare, omicidio tentato e consumato)
+  - Ingiustificata discriminazione (rifiuto servizio militare, attenuante sequestro a scopo di estorsione)
+- Pene fisse:
+  - Ragionevolezza
+  - Pena fissa (sanzione, come recidiva)
+  - Pena accessoria fissa (reato di bancarotta fraudolenta, graduabilità sequestro)
+- Proporzione reato e pena:
+  - Estensione pena edittale (rifiuto chiamata, obiezione di coscienza)
+  - Illegittimità minimo edittale (ingiuria ed oltraggio)
+  - Tertium comparationis (sostanziale identità, non disciplina generale)
+- Automatismi:
+  - Alterazione stato civile al momento della nascita (interessi fanciullo)
+  - Retroattività lex mitior
+  - Compressione diritto difesa, rieducazione
+  - Rigetto istanza di regolarizzazione
+  - Svolgimento del lavoro di pubblica utilità
+
+## Principio di rieducazione
+
+- Evoluzione:
+  - **Concezione polifunzionale** pena (finalità ultima ma non unica, bilanciamento ragionevole)
+  - **Liberazione condizionale** (concessione discrezionale, diritto alla rieducazione, **fase esecutiva**)
+  - **Scusabilità ignoranza/errore legge** (divieto pura deterrenza), **applicazione pena su richiesta parti** (sindacato giudice, rigetto accordo), fase **applicazione** legge
+  - **Funzione rieducativa come ontologica**, fase **definizione** legge
+- **Bilanciamento funzioni**:
+  - Impossibilità gerarchia statica, valutazione caso per caso
+  - Pena detentiva (non aumentabile, ma riducibile e sospendibile)
+  - Ragionevolezza (minimo sacrificio, adeguatezza, proporzionalità, divieto di escludere misure alternative alla dentenzione per extracomunitari irregolari)
+- Vincoli per legislatore/giudice:
+  - **Pene rigide** (a meno che ragionevoli)
+  - **Automatismi arbitrari** (diminuzione valutazione discrezionale fatto, presunzione non empiricamente fondata, esclusione utilizzo criteri applicazione attenuanti per recidivi)
+- **Individualizzazione della pena**:
+  - **Proporzionalità pena** (divieto pene fisse, automatismi punitivi)
+  - **Divieto revoca automatica** (per nuovo reato, interruzione irragionevole, verifica in concreto pericolosità)
+  - **Divieto concessione automatica** (valorizzazione progressi raggiunti)
+  - **Interpretazione in senso rieducativo** legislazione penitenziaria (divieto automatismi, valorizzazione sforzi positivi, progressività trattamento)
+  - **Prevalenza altre funzioni** (esclusione sospensione condizionale, reati elettorato attivo e liste elettorali, esclusione non irragionevole)
+- **Misure alternative pena**:
+  - **Detenzione domiciliare** (applicazione automatica, divieto sospensione automatica)
+  - **Affidamento in prova al servizio sociale** (detrazione da sentenza totale, valutazione progressi)
+  - **Semilibertà** (concessione ai **mafiosi**)
+  - **Liberazione anticipata** (valutazione semestri individuali)
+  - **Benefici penitenziari** (collaborazione irrilevante/impossibile per **crimine organizzato**, **successione di leggi** e **maturazione benefici**)
+  - **Lavoro di pubblica utilità** (divieto vincolo a provincia)
+- **Liberazione condizionale**:
+  - Garanzia **giurisdizionale**
+  - Estensione all'**ergastolo** (liberazione anticipata, finalità rieducativa)
+  - Valutazione **progressi** (revoca, concessione, rispetto legalità, **rapporto con vittima**)
+- **Grazia** (non mera clemenza, revoca automatica per mancato adempimento condizioni)
+- **Giustizia minorile**:
+  - Giudici (esperti recupero sociale)
+  - Personalizzazione giudizio (reati militari, ergastolo, estradizione)
+  - Divieto automatismi, obbligo valutazione caso per caso
+  - Obbligo **misure differenziate** per minori (ad es., divieto restrizioni misure funzionali a rieducazione, detenzione come extrema ratio)
+  - Prevalenza interesse recupero sociale
