@@ -1,41 +1,188 @@
-# Informazioni
+---
+title: Lezioni di Economia Politica
+---
 
-## Formato delle lezioni
+# Febbraio 2022
 
-Le lezioni sono registrate in formato WEBM. Su smartphone Android, o su computer con Google Chrome o Edge, non ci dovrebbero essere problemi per la loro riproduzione.
+## 21 febbraio
 
-Dovrebbe anche essere possibile la riproduzione del video in modalità picture-in-picture (click destro su computer, pressione lunga su smartphone).
+[Registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-02-21-economia-politica-lezione.mp4)
 
-Su smartphone Apple o su Safari, [dovrebbero comunque funzionare](https://caniuse.com/?search=webm), altrimenti, si può provare ad installare VLC.
+* Introduzione al corso.
 
-## Argomenti trattati in ogni lezione
+## 22 febbraio
 
-| Lezione | Capitoli | Pagine | *Parole* |
-|---------|----------|--------|-------|
-| 2022-02-22 | 1.2--1.5 | 3--7 | 1, 2 |
-| 2022-02-23 | 1.5--1.6 | 7--10 | &mdash; |
-| 2022-02-28 | 1.6--1.9 | 9--15 | &mdash; |
-| 2022-03-01 | 1.8--1.10, 1.17.2 | 13--18, 38--40 | &mdash; |
-| 2022-03-02 | 1.9, 1.17.2, 1.18.2, 1.11 | 16, 17, 58, 40, 44, 45, 18--20 | 3 |
-| 2022-03-07 | 1.11, 1.13, 1.15, 1.12, 1.14. | 21, 24, 25, 20, 21--23 | &mdash; |
-| 2022-03-08 | 1.15--1.16.1 | 24--31 | &mdash; |
-| 2022-03-09 | 1.16.2, 2.1, 2.2 | 32--33, 56--59, 86--87, 58--61 | &mdash; |
-| 2022-03-14 | 2.2--2.2.1 | 60--67 | &mdash; |
-| 2022-03-15 | 2.2--2.3 | 61, 65, 66, 69--71 | 6 |
-| 2022-03-16 | 2.3--2.3.2 | 71--82 | 6 |
-| 2022-03-21 | TODO --3.1.1 | 119--122 | &mdash; |
-| 2022-03-22 | 3.1.2 | 122--126 | 8 |
-| 2022-03-23 | 3.1.2--3.1.3, 3.5 | 126--131, 140 | &mdash; |
-| 2022-03-27 | TODO | TODO | &mdash; |
-| 2022-03-28 | 3.3.1, 3.5 | 132--135, 140--142 | &mdash; |
-| 2022-03-29 | 3.7, 4 | 143--146, 163--165 | 4 |
-| 2023-03-30 | 4.3, 4.4 | 180--183, 186--192 | 9 |
-| 2022-04-04 | TODO | TODO | 10 |
-| Da fare ... | &mdash; | &mdash; | &mdash; |
-| 2022-04-05 | 4.5, 5.2--5.3.3 | 193--195, 218--234 | 10 |
-| 2022-04-06 | 5.3.3--5.4 | 228--242 | &mdash; |
+[Registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-02-22-economia-politica-lezione.mp4)
 
-## Da fare
+* Manuale, cap. 1.2 (Gli agenti economici).
+* Manuale, cap. 1.3 (La teoria neoclassica del consumo).
+* Manuale, cap. 1.4 (L'insieme dei panieri disponibili).
+* Manuale, cap. 1.5 (Il vincolo di bilancio).
+* *Parole*, cap. 1 (Razionalità).
+* *Parole*, cap. 2 (Individualismo metodologico).
+
+## 23 febbraio
+
+[Registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-02-23-economia-politica-lezione.mp4)
+
+* Manuale, cap. 1.5 (Il vincolo di bilancio).
+* Manuale, cap. 1.6 (Le preferenze del consumatore).
+
+## 28 febbraio
+
+[Registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-02-28-economia-politica-lezione.mp4)
+
+* Manuale, cap. 1.6 (Le preferenze del consumatore).
+* Manuale, cap. 1.7 (Le curve di indifferenza).
+* Manuale, cap. 1.8 (La forma delle curve di indifferenza).
+* Manuale, cap. 1.9 (La scelta del paniere ottimale del consumatore).
+
+# Marzo 2022
+
+## 1 marzo
+
+* Manuale, cap. 1.8 (La forma delle curve di indifferenza).
+* Manuale, cap. 1.9 (La scelta del paniere ottimale del consumatore).
+* Manuale, cap. 1.10 (Variazioni del reddito monetario).
+* Manuale, cap. 1.17.2 (Alcune tipologie di curve di indifferenza).
+
+## 2 marzo
+
+* Manuale, cap. 1.9 (La scelta del paniere ottimale del consumatore).
+* Manuale, cap. 1.17.2 (Alcune tipologie di curve di indifferenza).
+* Manuale, cap. 1.18.2 (La determinazione del paniere ottimale in caso di sazietà).
+* Manuale, cap. 1.11 (Costruzione della curva di domanda individuale).
+* *Parole*, cap. 3 (Bisogni e condizionamento sociale).
+
+## 7 marzo
+
+* Manuale, cap. 1.11 (Costruzione della curva di domanda individuale).
+* Manuale, cap. 1.13 (La funzione di domanda inversa).
+* Manuale, cap. 1.15 (Il surplus o sovrappiù del consumatore).
+* Manuale, cap. 1.12 (Costruzione della curva di domanda di mercato).
+* Manuale, cap. 1.14 (Le interazioni fra i consumatori.
+
+## 8 marzo
+
+* Manuale, cap. 1.15 (Il surplus o sovrappiù del consumatore).
+* Manuale, cap. 1.16 (L'elasticità della domanda).
+* Manuale, cap. 1.16.1 (Elasticità di breve e lungo periodo).
+
+## 9 marzo
+
+* Manuale, cap. 1.16.2 (Altre elasticità).
+* Manuale, cap. 2.1 (Le ipotesi sul comportamento dell'impresa).
+* Manuale, cap. 2.2 (La tecnologia dell'impresa: la funzione di produzione).
+
+## 14 marzo
+
+* Manuale, cap. 2.2 (La tecnologia dell'impresa: la funzione di produzione).
+* Manuale, cap. 2.2.1 (Il prodotto marginale, il prodotto medio e il prodotto totale).
+
+## 15 marzo
+
+* Manuale, cap. 2.2 (La tecnologia dell'impresa: la funzione di produzione).
+* Manuale, cap. 2.2.1 (Il prodotto marginale, il prodotto medio e il prodotto totale).
+* Manuale, cap. 2.2.2 (I rendimenti di scala).
+* Manuale, cap. 2.3 (La struttura dei costi di impresa: i costi di breve e di lungo periodo).
+* Manuale, cap. 2.3.1 (I costi di produzione nel breve periodo).
+* *Parole*, cap. 6 (Costo opportunità).
+
+## 16 marzo
+
+* Manuale, cap. 2.3 (La struttura dei costi di impresa: i costi di breve e di lungo periodo).
+* Manuale, cap. 2.3.1 (I costi di produzione nel breve periodo).
+* Manuale, cap. 2.3.2 (I costi di produzione nel lungo periodo).
+* *Parole*, cap. 6 (Costo opportunità).
+
+## 21 marzo
+
+* Manuale, cap. 3.1 (L'impresa in concorrenza perfetta: l'equilibrio di breve periodo e la curva di offerta).
+* Manuale, cap. 3.1.1 (La concorrenza perfetta).
+
+## 22 marzo
+
+* Manuale, cap. 3.1.2 (La scelta di produzione dell'impresa nel breve periodo).
+* *Parole*, cap. 8 (Profitto).
+
+## 23 marzo
+
+* Manuale, cap. 3.1.2 (La scelta di produzione dell'impresa nel breve periodo).
+* Manuale, cap. 3.1.3 (La curva di offerta di breve periodo dell'impresa).
+* Manuale, cap. 3.5 (L'equilibrio fra domanda e offerta sul mercato dei beni di concorrenza perfetta).
+
+## 27 marzo
+
+## 28 marzo
+
+* Manuale, cap. 3.1.3 (La curva di offerta di breve periodo dell'impresa).
+* Manuale, cap. 3.5 (L'equilibrio fra domanda e offerta sul mercato dei beni di concorrenza perfetta).
+
+## 29 marzo
+
+* Manuale, cap. 3.7 (L'equilibrio fra domanda e offerta sul mercato dei beni di concorrenza perfetta).
+* Manuale, cap. 4.1 (I fallimenti di mercato: un inquadramento storico-metodologico).
+* *Parole*, cap. 4 (Equilibrio).
+
+## 30 marzo
+
+* Manuale, cap. 4.3 (Beni pubblici).
+* Manuale, cap. 4.4 (Informazione asimmetrica).
+* *Parole*, cap. 9 (Beni pubblici).
+
+# Aprile 2022
+
+## 4 aprile
+
+* *Parole*, cap. 10 (Esternalità).
+
+## 5 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-05-economia-politica-lezione.webm)
+
+* Manuale, cap. 4.5 (Esternalità e la soluzione di Ronald Coase).
+* *Parole*, cap. 10 (Esternalità).
+* Manuale, cap. 5.2 (Potere di mercato).
+* Manuale, cap. 5.3 (Monopolio).
+* Manuale, cap. 5.3.1 (Equilibrio del monopolista).
+* Manuale, cap. 5.3.2 (Analisi di benessere e monopolio: perdita secca).
+* Manuale, cap. 5.3.3 (Antitrust, monopoli pubblici, regolamentazione dei prezzi).
+
+## 6 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-06-economia-politica-lezione.webm)
+
+* Manuale, cap. 5.3.3 (Antitrust, monopoli pubblici, regolamentazione dei prezzi).
+* Manuale, cap. 5.3.4 (Discriminazione dei prezzi).
+* Manuale, cap. 5.4 (Concorrenza monopolistica).
+
+## 11 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-11-economia-politica-lezione.webm)
+
+* Manuale, cap. 5.4 (Concorrenza monopolistica).
+* Manuale, cap. 5.5 (Oligopolio).
+* Manuale, cap. 5.5.1 (Oligopoli non collusivi e collusivi).
+
+## 12 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-12-economia-politica-lezione.webm)
+
+* Manuale, cap. 6.1 (L'analisi del benessere (o welfare) nel pensiero economico).
+* Manuale, cap. 6.4 (L'intervento dello Stato I: l'imposizione del prezzo).
+
+## 13 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-13-economia-politica-lezione-parziale.webm)
+
+* Manuale, cap. 6.5 (L'intervento dello Stato II: la tassazione).
+
+## 27 aprile
+
+[Lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-13-economia-politica-lezione-parziale.webm)
+
+
+# Da fare
 
 * 7 marzo: finire riassunto.
 * 23, 29, 30 marzo: trovare lezioni intere.
