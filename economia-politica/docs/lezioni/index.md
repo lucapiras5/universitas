@@ -38,7 +38,7 @@ Lezione 28 marzo: [registrazione](http://lp-me-lezioni.eu-central-1.linodeobject
 
 Lezione 29 marzo: [registrazione parte 1](http://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-03-29-economia-politica-lezione-parziale-1.webm), [registrazione parte 2](http://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-03-29-economia-politica-lezione-parziale-2.webm), 3.7, 4.1, 4 (*Parole*).
 
-Lezione 30 marzo: [registrazione (MKV)](http://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-03-30-economia-politica-lezione.mkv) 4.3, 4.4, 9 (*Parole*).
+Lezione 30 marzo: [registrazione](http://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-03-30-economia-politica-lezione.mp4), 4.3, 4.4, 9 (*Parole*).
 
 Lezione 4 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-04-economia-politica-lezione.webm). 
 
@@ -61,6 +61,8 @@ Lezione 27 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobje
 Lezione 2 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-02-economia-politica-lezione.mp4).
 
 Lezione 3 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-03-economia-politica-lezione.mp4).
+
+Lezione 4 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-04-economia-politica-lezione.mp4).
 
 <!-- **Argomenti da ricontrollare**
 
