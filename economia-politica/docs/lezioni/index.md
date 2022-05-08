@@ -56,7 +56,7 @@ Lezione 20 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobje
 
 Lezione 26 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-26-economia-politica-lezione.mp4), 7.2.3, 7.3, 7.4, 7.4.1.
 
-Lezione 27 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-27-economia-politica-lezione.mp4).
+Lezione 27 aprile: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-04-27-economia-politica-lezione.mp4), 7.4.1, 7.4.2, 8.1.
 
 Lezione 2 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-02-economia-politica-lezione.mp4).
 
