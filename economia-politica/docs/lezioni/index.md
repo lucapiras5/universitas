@@ -62,7 +62,7 @@ Lezione 2 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjec
 
 Lezione 3 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-03-economia-politica-lezione.mp4), 8.4, 8.5, 8.5.1, 8.5.2, 8.5.3, 8.6, 8.7, 8.10, 9.1, 9.3, 9.4, 9.4.1.
 
-Lezione 4 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-04-economia-politica-lezione.mp4).
+Lezione 4 maggio: [registrazione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/economia-politica/2022-05-04-economia-politica-lezione.mp4), 9.4, 9.4.1, 9.4.2, 9.5, 9.6, 9.7.2, 9.8, 9.9.
 
 <!-- **Argomenti da ricontrollare**
 
