@@ -9,3 +9,9 @@
 * Autorità paterna ebraica.
 * Autorità paterna greca.
 * Licurgo, Platone, Aristotele (Etica).
+
+24 febbraio 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-02-24-storia-del-diritto-moderno-lezione.mp4)
+
+* Diritto romano: Gaio, Ulpiano, poteri della patria potestà, peculio.
+* Patriarcato cristiano: Paolo di Tarso, Lattanzio.
