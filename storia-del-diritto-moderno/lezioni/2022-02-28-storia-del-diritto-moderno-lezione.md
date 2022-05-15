@@ -181,7 +181,7 @@ Viceversa, si *presume* che:
 
 Sono presunzioni che vengono utilizzate quando è necessario fare delle scelte, e possono avere un peso significativo.
 
-## Tommaso D'Aquino: potere correzionale (55m)
+## Tommaso D'Aquino: giustizia domestica (55m)
 
 Tommaso D'Aquino è l'autore della Summa teologica, e una parte della Summa è dedicata alla teologia morale, che include anche una serie di situazioni giuridiche, tra cui anche il diritto di famiglia.
 
