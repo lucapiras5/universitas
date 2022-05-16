@@ -25,3 +25,12 @@
 * Cassiodoro (maggiore età figli).
 * Partiarcato di diritto comune (diritto volgare, filius pars patris), Alessandro Tartagni (presunzioni).
 * Tommaso D'Aquino (giustizia domestica).
+
+## Marzo 2022
+
+2 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-02-storia-del-diritto-moderno-lezione.mp4)
+
+* Tommaso d'Aquino: giurisdizione, comunità perfetta, verberatio nella pratica.
+* Odofredo: obbiendienza a padre o a Stato.
+* Brocardo: ognuno è Re in casa propria.
