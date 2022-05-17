@@ -34,3 +34,16 @@
 * Tommaso d'Aquino: giurisdizione, comunità perfetta, verberatio nella pratica.
 * Odofredo: obbiendienza a padre o a Stato.
 * Brocardo: ognuno è Re in casa propria.
+
+3 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-03-storia-del-diritto-moderno-lezione.mp4)
+
+* Affetto e rapporto con la madre: presunzioni, risoluzione controversie giuridiche.
+* Alfonso X: reciprocità.
+* Bartolo da Sassoferrato: qualità e modo della punizione.
+* Angelo Gambiglioni: casi di violenza lecita, incarcerazione.
+* Statuto di Ferrara: violenza legittima.
+* Statuto di Lucca: incarcerazione anche privata di figli e moglie.
+* Rimedi alternativi nella prassi: triremi o nave privata, discolato.
+* Polizia e sovrani illuminati: sovrani illuminati, polizia a sostegno delle famiglie.
+* Emancipazione: volontaria, tacita, revoca per ingratitudine.
