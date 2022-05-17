@@ -47,3 +47,12 @@
 * Rimedi alternativi nella prassi: triremi o nave privata, discolato.
 * Polizia e sovrani illuminati: sovrani illuminati, polizia a sostegno delle famiglie.
 * Emancipazione: volontaria, tacita, revoca per ingratitudine.
+
+7 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-07-storia-del-diritto-moderno-lezione.mp4)
+
+* Controllo matrimoniale: diritto romano, matrimonio-sacramento.
+* Società familista: matrimonio come alleanza politica, valenza politica famiglia.
+* Concilio di Trento: matrimonio senza consenso, matrimonio di disparaggio.
+* Francia: atti rispettosi, ratto di seduzione.
+* Resto d'Europa: sanzioni patrimoniali e fisiche.
