@@ -71,3 +71,11 @@
 * Giusnaturalisti: fondamento e durata della patria potestà, titolarità, estensione.
 * Locke: tutela (temporanea, privilegio dei figli), diritto al rispetto (perpetuo, principio di reciprocità).
 
+14 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-14-storia-del-diritto-moderno-lezione.mp4)
+
+* Montesquieu, Beccaria: rapporto politica e famiglia.
+* Rousseau: prospettiva delle madri, diritti dei bambini.
+* Rivoluzione francese: illuminismo, leggi sulla patria potestà.
+* Statualismo: Danton, Robespierre.
+* Napoleone: progetti di codice, codice definitivo.
