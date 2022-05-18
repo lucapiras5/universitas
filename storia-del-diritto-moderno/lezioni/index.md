@@ -62,3 +62,12 @@
 
 * Grida di Modena: sanzioni per i matrimoni di disparaggio.
 * Umanesimo: Michel de Montaigne, Erasmo da Rotterdam.
+
+10 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-10-storia-del-diritto-moderno-lezione.mp4)
+
+* Servi di famiglia: pars domini, rapporti giuridici, serve di famiglia, poteri correzionali.
+* Rapporto fra giusnaturalisti ed illuministi.
+* Giusnaturalisti: fondamento e durata della patria potestà, titolarità, estensione.
+* Locke: tutela (temporanea, privilegio dei figli), diritto al rispetto (perpetuo, principio di reciprocità).
+
