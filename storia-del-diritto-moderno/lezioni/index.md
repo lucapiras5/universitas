@@ -56,3 +56,9 @@
 * Concilio di Trento: matrimonio senza consenso, matrimonio di disparaggio.
 * Francia: atti rispettosi, ratto di seduzione.
 * Resto d'Europa: sanzioni patrimoniali e fisiche.
+
+9 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-09-storia-del-diritto-moderno-lezione.mp4)
+
+* Grida di Modena: sanzioni per i matrimoni di disparaggio.
+* Umanesimo: Michel de Montaigne, Erasmo da Rotterdam.
