@@ -79,3 +79,17 @@
 * Rivoluzione francese: illuminismo, leggi sulla patria potestà.
 * Statualismo: Danton, Robespierre.
 * Napoleone: progetti di codice, codice definitivo.
+
+16 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-16-storia-del-diritto-moderno-lezione.mp4)
+
+Patria potestà nel codice napoleonico:
+
+* Titolarità e durata, imposizione della residenza.
+* Assenza di norme sul potere correzionale.
+* Incarcerazione dei figli.
+* Assenza di norme sull'abuso della patria potestà.
+* Usufrutto dei genitori, tutela.
+* Riforme successive: introduzione abuso patria potestà, abrogazione incarcerazione.
+* Matrimonio.
+* Diritto successorio.
