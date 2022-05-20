@@ -93,3 +93,18 @@ Patria potestà nel codice napoleonico:
 * Riforme successive: introduzione abuso patria potestà, abrogazione incarcerazione.
 * Matrimonio.
 * Diritto successorio.
+
+17 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-17-storia-del-diritto-moderno-lezione.mp4)
+
+ABGB:
+
+* Rapporti fra genitori e figli.
+* Continuazione della patria potestà.
+* Abuso della patria potestà, sanzioni penali.
+
+Restaurazione:
+
+* Situazione storica.
+* Codice di Parma: critiche contro il codice napoleonico.
+* Riforme della Restaurazione.
