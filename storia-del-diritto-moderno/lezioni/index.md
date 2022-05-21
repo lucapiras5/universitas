@@ -108,3 +108,14 @@ Restaurazione:
 * Situazione storica.
 * Codice di Parma: critiche contro il codice napoleonico.
 * Riforme della Restaurazione.
+
+21 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-21-storia-del-diritto-moderno-lezione.mp4)
+
+* Haller: nozione di "Restaurazione".
+* Restaurazione in Italia: Ducato di Modena e Torino.
+* Kant e Hegel.
+* Rosmini: lotta fra Stato e Famiglia.
+* D'Azeglio: giuridicizzazione della società.
+* De Bonald: la legislazione primitiva.
+* De Margherita: patria potestà perpetua ma con limitazione degli effetti.
