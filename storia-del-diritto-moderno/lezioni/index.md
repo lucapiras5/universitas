@@ -119,3 +119,10 @@ Restaurazione:
 * D'Azeglio: giuridicizzazione della società.
 * De Bonald: la legislazione primitiva.
 * De Margherita: patria potestà perpetua ma con limitazione degli effetti.
+
+23 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-23-storia-del-diritto-moderno-lezione.mp4)
+
+* Novecento: secolo del figlio, totalitarismi.
+* Fascismo: tensione fra politica (famiglia tradizionale) e diritto (padre come funzionario).
+* Reati contro la famiglia nel Codice Rocco.
