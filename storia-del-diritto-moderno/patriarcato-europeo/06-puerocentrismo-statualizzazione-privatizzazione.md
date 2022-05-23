@@ -1,5 +1,9 @@
 # 6. Puerocentrismo, statualizzazione, privatizzazione
 
+<!--
+vim: spell:spelllang=it
+-->
+
 ## 1. Novecento come secolo del bambino, e dello Stato-padre di famiglia
 
 Prima degli anni '60--'70 del XX secolo, la struttura della famiglia era ancora basata sui codici ottocenteschi, con alcuni temperamenti, come la repressione degli abusi domestici, la scomparsa dei poteri di coazione matrimoniale e di internamento.
@@ -257,5 +261,3 @@ Il puerocentrismo marxista si è affermato per motivi esclusivamente politici.
 	- **Matrimonio**: **mantenimento, istruzione ed educazione** fanno riferimento alle **capacità, inclinazioni e aspirazioni** dei **figli**
 	- **Stato**: **tutela** il **minorenne** ed i suoi **diritti** rispetto alla "parte forte"
 	- **Potere correzionale**: non può consistere in forme di violenza
-
-<!-- vim: set spell spelllang=it : -->

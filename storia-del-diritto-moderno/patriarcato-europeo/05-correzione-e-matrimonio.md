@@ -1,5 +1,9 @@
 # 5. Correzione e matrimonio, un'armonia ottocentesca
 
+<!--
+vim: spell:spelllang=it
+-->
+
 ## 1. Correzione e garanzie domestiche in Francia tra rivoluzione e bonapartismo
 
 Il potere di incarcerazione si era conservato nell'antico regime.
@@ -218,7 +222,3 @@ L'egalitarismo relativo di Napoleone aveva incontrato resistenze in Italia, per 
 Durante gli anni francesi, i padri italiani cercarono ogni modo per favorire un figlio sull'altro, e durante la restaurazione, i governi riducono la legittima rispetto al modello francese ed austriaco.
 
 La diseredazione viene definitivamente abrogata con il codice civile unitario del 1865, e si abbandonava la concezione "regale" del padre di famiglia, che non poteva più "scegliere il suo successore".
-
-<!--
-vim: spell:spelllang=it
--->
