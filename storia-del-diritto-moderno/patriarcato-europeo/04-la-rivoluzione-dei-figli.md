@@ -4,92 +4,158 @@
 vim: spell:spelllang=it
 -->
 
-## Patria potestà naturale
+## 4.1. Patria potestà naturale (91)
 
-- **Giusnaturalismo**:
-	- Sottopone Stato e famiglia ad una **revisione razionalista**
-	- Lo **Stato** è soggetto al **contratto sociale**, la **famiglia** prevede una ripartizione di **diritti e doveri**
-- **Fondamento della potestà**:
-	- **Tesi gerarchica**: il padre ha "proprietà" sul figlio perché lo ha **generato** volontariamente (cfr. occupazione)
-	- **Tesi contrattualistica**: la potestà è giustificata dal **tacito consenso** del figlio
-	- **Tesi funzionale--utilitaria**: la potestà è necessaria perché i **figli non sono autonomi**, e necessitano di una **guida**
-- **Titolarità dei poteri**: è **sempre bititolare**, ma la **definizione dei confini** varia fra piena bititolarità, a preminenza del padre
-- **Estensione dei poteri**: nel corso del tempo **tende** sempre di più al **puerocentrismo**
+Il **giusnaturalismo** sottopone i modelli di famiglia **aristotelici, romani e medioevali** ad una **critica razionalista**.
+È una conseguenza della **critica della legittmazione dello Stato**, che viene rifondato sul **contratto sociale**.
 
-## Svolta democratica
+Esistono tre tesi sul **fondamento** della patria potestà:
 
-### Locke
+* La tesi **gerarchica**, fondata sull'atto di **generazione volontaria**, o sul **riconoscimento del figlio** come proprio.
+* La tesi **contrattualistica**, fondata sul **tacito consenso** dei figli.
+* La tesi **funzionale ed utilitaria**, fondata sulla **incapacità dei figli** di provvedere a loro stessi, e sulla **necessità** che il padre li educhi.
 
-- Il **potere politico** deve sempre **fondarsi** sul **consenso**
-- **Critica** la **trasformazione** della **tutela genitoriale** in **arbitrio assoluto** del **padre**:
-	- La **titolarità** spetta ad **entrambi i genitori**
-	- Il **dominio arbitrario** del padre dura fino alla loro **maggiore età**
-	- Il suo **esercizio** è un **privilegio per i figli**, **non** una **prerogativa** dei genitori
-	- I **doveri dei figli** di rispetto, reverenza, aiuto, condiscendenza **sono perpetui**
-- **Alaleona**:
-	- Rifiuta la titolarità della madre ed il contrattualismo di Locke
-	- Richiama il **diritto romano**, gli **autori classici** e la **religione** a sostegno delle sue tesi
+La **titolarità**:
 
-### Rousseau
+* È opinione comune che spetti ad **entrambi i genitori**.
+* Esistono differenze fra la **ripartizione delle competenze**, fra piena uguaglianza e prevalenza del padre.
 
-- La **società pubblica** è retta dal **piacere di comandare**, la **società domestica** dall'**amore per i figli**
-- **Pedagogia materna**:
-	- In *L'Emilio*, definisce i **diritti del bambino**, tra cui la **felicità**
-	- Concepisce il bambino come una **tabula rasa**, che non è naturalmente buono o cattivo, ma è il **prodotto dell'educazione**
-	- Valorizza il **ruolo materno** nell'**educazione**, e l'**attenuazione** del naturale **egocentrismo** a favore della società
+La **estensione** dei poteri si **evolve** nel tempo verso posizioni **sempre più garantiste per i figli**.
 
-## Diderot e Goldoni
+## 4.2. Svolta democratica: da Locke a Rousseau (92)
 
-- **Diderot e Goldoni** scivono commedie che criticano in senso **illuminista** l'**influenza del padre** nel matrimonio
-- **Cicisbeato**:
-	- È un'istituzione tipica del **tardo antico regime**, talvolta previste nelle **clausole matrimoniali**
-	- Il cicisbeo è un **accompagnatore** (e talvolta **amante**), e serve ad alleviare **matrimoni imposti**
+L'idea della **analogia fra padre e re** era collegata a concezioni **autoritarie ed assolutistiche**.
+Il testo classico era un **saggio di Robert Filmer**, che sarà criticato da **John Locke**.
 
-## Cesare Beccaria
+Locke scrive un **saggio sull'educazione**, in cui riprende le **tradizioni umaniste cinquecentesche**, e si **oppone alle punizioni corporali**.
 
-- Interpreta la **famiglia patriarcale** in **senso politico**:
-	- In uno **Stato dispotico**, la potestà è **perpetua**, di **diritto pubblico**, è **dispotica**, e prevale lo **spirito di famiglia**
-	- In uno **Stato democratico**, la potestà è **limitata**, di **diritto privato**, ed è fondata su **diritti e doveri**, e prevale lo **spirito dello Stato**
-- L'interpretazione è il **contario** di quella di **Montesquieu**:
-	- Nella **repubblica** la scarsa capacità di coazione è bilanciata da una **patria potestà dispotica**
-	- Nella **monarchia** il potere pubblico è bilanciato dalla **patria potestà democratica**
+Nel "**Secondo trattato sul governo**" **contesta l'analogia fra padre e principe**.
+Propone:
 
-## Polemica illuminista per una patria potestà minima e temperata
+* La sostituzione del termine "patria potestà", che considerava fuorviante, con "**potere parentale**".
+* La **bititolarità** comune anche alla madre.
+* La **limitazione alla minore età**, fino a quando la prole era incapace di gestirsi autonomamente.
 
-### Dibattito illuminista
+La **tutela genitoriale** nel tempo si è trasformata in un **dominio assoluto ed arbitrario** del padre.
+Bisogna **distinguere** fra:
 
-- **Beccaria** ispira un dibattito fra gli intellettuali italiani
-- **Contrattualismo**: per gli illuministi, anche il **patriarcato** è un **contratto sociale**
-- **Educazione**: gli illuministi chiedono **scuole pubbliche** per **limitare** l'arbitrio paterno, e sostengono che il **potere del padre** si fonda sull'**educazione**
-- **Diritto naturale**: i **poteri paterni** fanno parte del **diritto naturale** ("dolce e utile obbligazione domestica"), mentre il **dominio paterno** fa parte del **diritto contingente**
+* Un **governo temporaneo** limitato alla minore età dei figli.
+* Un **diritto perpetuo** al rispetto, reverenza, aiuto e condiscendenza.
 
-### Richiamo alla natura
+La **patria potestà** viene concepita come un **dovere dei genitori** e **privilegio dei figli**, e **non viceversa**.
 
-- **Illuministi**: è interpretata in maniera razionalista, serve per **limitare** i poteri del padre
-- **Ottocento**: serve per **aumentare** l'autorità paterna
-- **Cocceji**: bilancia tradizionalismo (potestà perpetua, figli come strumento "naturale" del padre) e moderazione (castighi ragionevoli, controllo giurisdizionale sull'arresto)
+**Giuseppe Alaleona** critica l'attribuzione della titolarità alla madre e la scomparsa del privilegio paterno.
+Mentre la tesi di Locke è fondata sulla ragione, la sua tesi si fonda a **richiami di autori classici**.
 
-## Rivoluzione e abbattimento della patria tirannide
+**Rousseau** distingue fra:
 
-- **Potestà nella Francia**:
-	- **Centro-sud**: segue il modello **romano**, **padronale e perpetuo**
-	- **Nord**: segue il modello **consuetudinario**, di natura **tutoria**
-	- **Illuminismo**: gli intellettuali **contestano** la patria potestà
-- **Evoluzione della potestà**:
-	- **Progetti moderati**: si vuole **riformare** la potestà con **garanzie** nel campo **educativo ed ereditario**
-	- **Progetti radicali**: si vuole **abolire** la potestà e sostituirla con un **dovere di protezione**
-	- **Età emancipatrice**: la **maggiore età** comporta l'**emancipazione automatica**
-- **Radicalismo illuminista**:
-	- La patria potestà è **completamente abolita**
-	- La famiglia diventa una **comunità di individui**, che diventano **autonomi** quando diventano capaci di autogestirsi
-	- I figli devono conformarsi all'**educazione pubblica**, e appartengono allo **Stato** prima che alla famiglia
+* La **società domestica**, governata dal sentimento **dell'amore per i figli**.
+* La **società pubblica**, governata dal sentimento del **piacere di comandare**.
 
-## Primi ripensamenti
+In **L'Emilio** vengono menzionati i **diritti dei bambini**.
 
-- L'**Institut de France** propone un concorso accademico sul **ruolo del padre di famiglia**
-- **Petitain**: è radicale, e prevede lo **scioglimento** della famiglia, e l'equiparazione fra marito e moglie
-- **Nougarède**: è **critico** verso la legislazione rivoluzionaria, e desidera riportarla all'ordine
-- **Guidauret**: sostiene che la **rivoluzione** è **terminata**, e prevede una **formalizzazione** delle istituzioni
+Nel settecento esistevano varie concezioni sulla moralità del bambino:
+
+* **Cattivo per natura**, a causa del peccato originario.
+* **Buono per natura**, e meritevole di essere difeso dalle cattive influenze.
+* **Né buono né cattivo**, e formato dalle esperienze di vita, che diventerà la **posizione maggioritaria**.
+
+Rousseau menziona:
+
+* **L'importanza della madre** nella **formazione dei figli** e nel **perseguimento della felicità**, in opposizione al **materialismo dei padri**.
+* Il **ruolo dell'educazione** nel abituare le persone, egocentriche per natura, a vivere in comunità.
+
+## 4.3. Diderot e Goldoni (94)
+
+**Diderot e Goldoni** scrivono commedie che criticano **in senso illuminista** il **controllo del padre** sulle scelte matrimoniali.
+
+Il **cicisbeato** aristocratico è diffuso in Italia.
+Dimostra **l'insofferenza aristocratica** verso il dominio dei padri sul regime matrimoniale.
+Il cicisbeo è un **accompagnatore** (e talvolta **amante**), e serve ad alleviare **matrimoni imposti**
+
+## 4.4. Cesare Beccaria (95)
+
+**Beccaria** critica la **famiglia patriarcale come organismo politico**.
+
+In "**Dei delitti e delle pene**" menziona la **patria potestà** in un libro sul diritto penale.
+
+In uno **Stato familista**, **solo i padri** sono uomini **liberi**, mentre il **resto** della famiglia è **schiavo**.
+In uno **Stato repubblicano**, **tutti i cittadini** sono **uomini liberi**, e **non** esistono **schiavi**.
+
+Viene data una **lettura politica** della patria potestà:
+
+* Nello **Stato dispotico** di **antico regime**, la ragione della **famiglia prevale** su quella pubblica.
+* Viceversa, nello **Stato democratico** e **individualista** prevale la **morale dello Stato** su quella della famiglia.
+
+Secondo Beccaria, la famiglia deve **ritornare** alle proprie **caratteristiche naturali**, e perdere la **valenza politica** che aveva assunto nel Medioevo.
+
+L'interpretazione di Beccaria è **opposta** a quella di **Montesquieu**, per cui:
+
+* Nella **repubblica** la scarsa capacità di coazione è bilanciata da una **patria potestà dispotica**.
+* Nella **monarchia** il potere pubblico è bilanciato dalla **patria potestà democratica**.
+
+## 4.5. Polemica illuminista per una patria potestà minima e temperata (97)
+
+**Beccaria** ispira un dibattito fra gli intellettuali italiani sullo **spirito della famiglia**.
+
+**Alcuni criticano la natura pattizia** dei rapporti domestici.
+Sostengono che il **padre ha un'autorità naturale**, o che i genitori hanno una **superiorità fisica**.
+
+Altri proponevano:
+
+* Una **educazione pubblica** per limitare l'arbitrio paterno nell'educazione.
+* Riforme a **favorire del commercio** della **prole (dal punto di vista patrimoniale)**.
+* La **diminuzione dei poteri** del padre all'aumentare dell'età e maturità del figlio.
+* La **definizione dei doveri naturali del padre**, tenuti **distinti dal dominio paterno**, che erano espressione di **contingenze politiche**.
+
+Il **richiamo al diritto naturale** portava ad esiti diversi.
+**Nell'ottocento** sarà utilizzato per **giustificare la reintegrazione della potestà**.
+Il **contrattualismo** si prestava di meno ad interpretazioni che giustificassero il paternalismo tradizionale.
+
+**L'assolutismo illuminato** presenta delle **ambiguità**.
+Ad es., il progetto del codice civile di **Cocceji**:
+
+* Nonostante i richiami alla **ragione**, ci si ispira al **diritto romano tradizionale**.
+* Si prevede una **potestà perpetua e patriarcale**, con un forte **controllo matrimoniale**.
+* I **castighi** devono essere **moderati e ragionevoli**, e **l'arresto** deve essere sottoposto a **controllo giudiziale**.
+
+## 4.6. Rivoluzione e abbattimento della patria tirannide (100)
+
+Nell'età moderna, in **Francia** il **modello romano** è utilizzato **prevalentemente nel centro-sud**.
+Durante il **tardo antico regime** le **ordonnances** avevano **rafforzato** la patria potestà.
+
+La **patria potestà** era **fortemente criticata** negli ambienti **colti ed illuminati** e nei **cahiers de doléances**.
+**Peuquet** condannava il modello romano, e si auspicava la sua **sostituzione** con una **moderata autorità tutelare**
+
+Le posizioni sulla patria potestà cambiano nel tempo:
+
+* **Inizialmente** i primi progetti volevano **riformare moderatamente** la patria potestà nei campi della **educazione ed eredità**.
+* **Successivamente** si voleva **abolire la patria potestà** e sostituirla con il mero **dovere di protezione**.
+* Il **decreto del 28 agosto 1792** impone in **tutta la Francia** il principio della **maggiore età emancipatrice**.
+
+La **disciplina compiuta** dei poteri paterni si avrà solo con il **codice napoleonico**.
+
+Il **primo dei tre progetti del codice**, redatti da Cambacérès, prevedva un **radicalismo illuminista**:
+
+* La **patria potestà è abolita**, ed è sostituita solo da **doveri** dei genitori verso i figli.
+* La **maggiore età conclude** la **protezione legale** dei figli.
+* La famiglia veniva vista come una **comunità di individui** che sarebbero **diventati autonomi**.
+* Si preferiva assegnare la **educazione dei figli allo Stato**, che secondo **Robespierre** avrebbe evitato l'orgoglio delle famiglie ed i pregiudizi individuali.
+
+## 4.7. Primi ripensamenti (102)
+
+**L'institut de France** propone un concorso accademico su la **estensione dei poteri e limiti del padre di famiglia in una ben fondata repubblica**.
+I **concorsi pubblici** servivano a divulgare modelli culturali, e mobilitare l'opinione pubblica e la partecipazione intellettuale.
+
+Il **Nougarède** è **critico** verso la **legislazione rivoluzionaria**, e desidera riportarla all'ordine.
+
+Il **Petitain** è **più radicale**, e prevede lo **scioglimento** della famiglia e l'equiparazione fra marito e moglie.
+Recensisce sfavorevolmente l'opera di Nougarède, è favorevole alla **depoliticizzazione della famiglia**, e l'opposizione ad ogni ricostruzione in chiave autoritaria o patriarcale.
+
+Il concorso era stato indetto a seguito della pubblicazione di un saggio di **Guiraudet**.
+Conteneva argomenti simili a quelli di Nougarède.
+Prevedeva l'associazione fra **padre e proprietà**, una **quota disponibile maggiore**, e la **unità patrimoniale della famiglia**.
+La **rivouzione si era conclusa**, ed era necessario **tornare all'ordine e alla subordinazione**.
 
 ## La normalizzazione napoleonica
 
