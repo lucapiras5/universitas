@@ -135,7 +135,7 @@ Le posizioni sulla patria potestà cambiano nel tempo:
 
 La **disciplina compiuta** dei poteri paterni si avrà solo con il **codice napoleonico**.
 
-Il **primo dei tre progetti del codice**, redatti da Cambacérès, prevedva un **radicalismo illuminista**:
+Il **primo dei tre progetti del codice**, redatti da Cambacérès, prevedeva un **radicalismo illuminista**:
 
 * La **patria potestà è abolita**, ed è sostituita solo da **doveri** dei genitori verso i figli.
 * La **maggiore età conclude** la **protezione legale** dei figli.
@@ -157,55 +157,135 @@ Conteneva argomenti simili a quelli di Nougarède.
 Prevedeva l'associazione fra **padre e proprietà**, una **quota disponibile maggiore**, e la **unità patrimoniale della famiglia**.
 La **rivouzione si era conclusa**, ed era necessario **tornare all'ordine e alla subordinazione**.
 
-## La normalizzazione napoleonica
+## 4.8. La normalizzazione napoleonica (104)
 
-- **Napoleone**: concepisce la **patria potestà** come una **estensione** del **controllo pubblico**
-- **Art. 371**:
-	- Impone ai **figli** l'**onore e rispetto** ai **genitori**, e dimostra il ritorno all'**ordine pre-rivoluzionario**
-	- Viene **criticato**, perché è una norma di morale, non di diritto
-- **Potestà--tutela**:
-	- I **genitori** sono considerati **tutori** del figlio, ed è una concezione che risale al **diritto consuetudinario**
-	- Alla **morte di un genitore**, l'**altro** ottiene la **tutela patrimoniale**, ma anche personale
-	- La **condizione normale** è la **potestà**, e le situazioni eccezionali sono la sua mancanza, come la **morte** del genitore o l'**emancipazione prima della maggiore età**
-- **Esercizio della potestà**:
-	- Il **marito** ha **piena potestà** sui figli fino alla loro **maggiore età**
-	- La moglie ha funzione di **supplenza (non completa)**
-	- Esiste una **diffidenza** verso la **potestà materna**, ma l'**evoluzione giurisprudenziale** le sarà **favorevole**
-- **Ambiguità**:
-	- Il codice compie un **compromesso** tra la **tradizione** di Antico Regime, e le **idee rivoluzionarie**
-	- Nell'Antico Regime, domina l'**aristocrazia**, e la patria potestà è **despotica**
-	- Nella Francia di Napoleone, domina la **borghesia**, e la patria potestà è vista come un **dovere verso i figli**
+Dopo il colpo di Stato del Termidoro, i codificatori tornano ad una **parziale ripresa della tradizione nel diritto di famiglia**.
 
-## Modello austriaco
+Si **utilizza di nuovo il termine "potestà"**:
 
-- **Patria potestà**: **non** ha un **ruolo centrale**
-- **Finalità educative**:
-	- Sono la **componente principale**, e sono fissate in parte **per legge** (ad es., educazione religiosa)
-	- In caso di **divorzio o separazione**, e **disaccordo** fra i genitori su come educare i figli, questi sono **educati dal padre** dopo una **certà eta**, salvo che sussistano **gravi esigenze**
-- **Durata della potestà**:
-	- **Età maggiore**: comporta la **emancipazione** dalla **potestà**
-	- **Estensione**: la potestà può essere estesa per **vari motivi, non tassativi** (difetti di corpo o mente, debiti o traviamenti rilevanti...)
-	- **Figlio emancipato**: l'influenza paterna è ridotta, ed il figlio è solo tenuto al rispetto ed obbedienza
-- **Scelte di vita del minorennne**:
-	- **Prima della pubertà**: i **padri** decidono il genere di vita per i figli
-	- **Dopo la pubertà**: i **figli** possono rivolgersi all'**autorità pubblica** se chiedono di essere **educati** secondo le **loro inclinazioni** e capacità, ed il padre rifiuta
+* Secondo **Napoleone, non si limitava all'educazione**, ma implicava un **forte controllo pubblico**.
+* Secondo **Albisson** si ritornava alla **magistratura domestica**.
+* Secondo **Réal**, la **legge limita, ma non abolisce la patria potestà**, che è un **fatto naturale**, e può solo **evitare gli eccessi**, come considerare i figli un mero patrimonio.
 
-## Radicalismo tradizionalista negli Stati italiani preunitari
+**L'art. 371** del codice civile:
 
-- **Tardo Settecento**:
-	- Negli stati preunitari esistono il modello **romano tradizionale**, quello francese e quello austriaco
-	- Il modello **francese** è considerato **troppo liberale ed invididualista**
-	- La **potestà** è **perpetua**, si può **incarcerare e diseredare** il figlio, il **disparaggio** è sanzionato, ed il figlio è **tenuto a casa**
-- **Restaurazione**:
-	- **Diritto di famiglia**: si ritorna alla **potestà perpetua**, per distinguerla dalla "**mera tutela**" francese
-	- **Contratti e proprietà**: si **mantiene** il **diritto francese**
-- **Codice civile di Parma**:
-	- **Patria potestà naturale**: spetta ad **entrambi i gentitori**, è **perpetua**, ha contenuto **morale**
-	- **Patria potestà naturale**: spetta all'**ascendente maschio più anziano**, è limitata alla **minore età**, è **disciplinata** dal codice civile
-	- **Funzione**: educare i sudditi al rispetto dell'autorità (padre naturale, e "padre" del Ducato)
-- **Codice civile di Carlo Alberto**:
-	- **Potestà--simulacro**: la patria potestà è **perpetua**, ma gli **effetti** vengono meno al **compimento** di certe età
-	- **Funzione**: influenzare i figli verso un comportamento servile
-- **Unificazione**:
-	- **Stati preunitari**: distinguono fra potestà **perpetua** e potestà che termina **dopo la maggiore età**
-	- **Italia unita**: la potestà **termina** con la **maggiore età**
+* Impone ai figli un **dovere perpetuo di onore e rispetto al padre e alla madre**.
+* Secondo **Albisson**, serve a dimostrare il ritorno ai valori tradizionali.
+* Viene criticato perché è una norma etica, non giuridica.
+
+Nel codice si cerca di **avvicinare la potestà alla tutela**.
+Non è una decisione eversiva ma recupera le **consuetudini di antico regime**.
+**Cambacérès** definiva i **genitori come "tutori"** dei figli, e preferiva non usare la nozione di "patria potestà".
+
+La famiglia napoleonica è fondata sulla **patria potestà**.
+Le **situazioni eccezionali** riguardano:
+
+* I casi di morte precoce di uno o entrambi i genitori.
+* L'incapacità dei figli.
+* La necessità di emanciparli prima della maggiore età.
+* Il giudizio della **famiglia estesa** (altri parenti) su alcune scelte compiute dalla **famiglia ristretta**.
+
+Si **distingue fra titolarità ed esercizio** del potere sui figli:
+
+* Il figlio è soggetto alla **autorità dei genitori** fino alla maggiore età o emancipazione.
+* Durante il matrimonio, l'autorità spetta **al padre**.
+* L'autorità spetta **alla madre** solo in **funzione di supplenza**, e con **limitazioni**. Ad es., la madre sopravvissuta e non rimaritata necessita del consenso dei due parenti più vicini del marito per far incarcerare il figlio.
+
+La patria potestà nel codice napoleonico è **ambigua**:
+
+* Rappresenta la **restaurazione** della famiglia di antico regime, ma anche un **compromesso** con i valori individualisti e giusnaturalisti.
+* La **classe dominante** passa dalle famiglie aristocratiche a quelle **borghesi**.
+* Il **padre magistrato** è sostituito dal **padre cittadino**, ed il **sistema economico** prevede la **separazione dei patrimoni**.
+* La **famiglia** non era disciolta, ma perdeva la sua valenza politica e rimanevano soltanto i legami naturali ed affettivi.
+
+I **cattolici e realisti** criticano la nuova concezione del padre di famiglia creata dal codice.
+
+Le **dinamiche sociali** però imponevano un'ulteriore riduzione del potere paterno a causa dell'espansione del **diritto pubblico** e le sue **tendenze omologanti**.
+Si prevede la **istruzione obbligatoria**, e una prima legislazione sul **lavoro minorile**.
+
+## 4.9. Modello austriaco (108)
+
+Nel modello austriaco, si tende verso la **valorizzazione degli interessi pubblici** e lo **addolcimento dei rapporti familiari**.
+
+**Nell'ABGB** la patria potestà è descritta nel terzo capitolo del primo libro, "**Dei diritti fra i genitori e la prole**".
+**Non** ha la stessa centralità che ha nel codice francese.
+**L'individualismo kantiano** ha prevalso sulla tradizione familista.
+
+Il contenuto della **patria potestà** (§141, 142):
+
+* È principalmente finalizzata a **scopi educativi**.
+* I **contenuti dell'educazione** sono **in parte fissati per legge**, specie per la **religione**.
+* Si prevede una **divisione dei ruoli**, dove il **padre mantiene** i figli e la **madre cura** la loro salute.
+* In caso di **divorzio o separazione**, i figli sono educati dalla madre fino ad una certa età, e poi dal padre.
+
+La patria potestà termina con la **maggiore età**.
+È possibile **prolungarla** oltre i 24 anni con una **richiesta giudiziale**.
+
+I **casi per il prolungamento** sono il **difetto di corpo o mente** o la presenza di **debiti o traviamenti** nella gioventù.
+Anche se non erano tassativi, si prestavano ad una **interpretazione estensiva**.
+
+A differenza del codice francese, il richiamo al **rispetto ed obbedienza** è visto come un **vincolo morale di affezione**.
+
+In generale, si **evitano soluzioni interne, senza un controllo pubblico**.
+Secondo lo **Zeiller**:
+
+* In caso di **disaccordo fra padre e figlio** sullo **scioglimento della patria potestà**, prevale il **giudizio del genitore**.
+* Tuttavia, è **opportuno rivolgersi al giudice**.
+* Si contesta l'idea **dell'istante metafisico** di una maggiore età fissata per legge, in cui il ragazzo diventa uomo.
+
+L'ABGB **esclude l'usufrutto legale paterno**, e avvicina il **padre al tutore**.
+
+Il §148 disciplina la **scelta di vita** del figlio minorenne, e dimostra la **modernità** dell'ABGB:
+
+* Prima della pubertà, il **padre è responsabile** per l'educazione del figlio.
+* Successivamente, i figli possono **chiedere al padre** di essere educati secondo le loro inclinazioni e capacità.
+* In caso di **rifiuto**, si possono rivolgere ad una **autorità pubblica** per risolvere la controversia.
+
+## 4.10. Radicalismo tradizionalista negli Stati italiani preunitari (111)
+
+Il dibattito preunitario sulla patria potestà ha tre modelli:
+
+* Quello **napoleonico** è considerato **troppo vicino agli ideali rivoluzionari** di disordine ed individualismo.
+* Quello **romano** era l'ordine tradizionale e **familista**.
+* Quello **austriaco** era **più moderata, ma meno criticata** di quella francese.
+
+L'opinione italiana era influenzata dai fenomeni politici.
+La **Francia** era associata con la **rivoluzione**, **l'Austria** con la **restaurazione**.
+
+In **Italia nel settecento**:
+
+* La patria potestà è **perpetua ed agnatizia**.
+* Il padre poteva **incarcerare e diseredare** i figli in maniera arbitraria.
+
+Con la Restaurazione, i **sovrani legittimisti** cercano di **recuperare l'ordine patriarcale**.
+La **patria potestà** ritorna ad essere **ascendentale ed agnatizia**, ed il **ruolo della madre** viene **ridotto**.
+
+**Altri ambiti** del diritto, come la materia dei **contratti e proprietà**, non vengono riformati.
+L'ambito del **diritto di famiglia** viene fortemente riformato, data la sua valenza **politica ed istituzionale**.
+
+Nel **codice di Parma**, si distingue fra **due forme di patria potestà**:
+
+* **Naturale**, che appartiene ad **entrambi i genitori**, è **perpetua**, ed ha un **contenuto morale** di rispetto ed ubbidienza.
+* **Civile**, che appartiene **solo all'ascendente maschio agnatizio più anziano**, è **limitata alla minore età**, ed è **disciplinata dal codice**.
+
+L'obiettivo della patria potestà è di **abituare** i figli al rispetto del **padre di famiglia** e del **"padre" del Ducato**.
+La **potestà di natura** era affiancata da una **potestà politica**, di natura legittimista.
+
+Nel **codice civile di Carlo Alberto**, la commissione discuteva se adottare una **patria potestà**:
+
+* **Limitata** nel tempo ad una certa età.
+* **Perpetua**, ma con **decadenza dei singoli poteri**, che sarà la soluzione adottata.
+
+Secondo il **Portalis**, **di fatto** terminava a 25 anni, perché scadeva anche il potere di **imporre la residenza** ai figli.
+
+Secondo il **De Margherita**:
+
+* È utile distinguere fra la **patria potestà** ed i **suoi effetti**, che diminuiscono all'aumentare dell'età del figlio.
+* Anche se la **patria potestà è ridotta ad un simulacro**, rende i figli **più disposti** ad accettare la guida paterna anche nella maggiore età.
+* Se la **potestà cessasse**, i figli **non avrebbero più un "freno"**.
+
+**Soluzioni simili** si trovano nel resto **dell'Italia restaurata**.
+Gli Stati si dividevano principalmente fra:
+
+* La **conservazione della perpetuità**.
+* La sua **cessazione dopo una età superiore alla maggiore età**, che **nella seconda metà dell'ottocento** sarà considerata una soluzione arbitraria e **definitivamente superata**.
