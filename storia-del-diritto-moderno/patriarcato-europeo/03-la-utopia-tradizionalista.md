@@ -4,83 +4,172 @@
 vim: spell:spelllang=it
 -->
 
-## Società ottocentesca
+## 3.1. Società ottocentesca (75)
 
-- **Ottocento**: la **società borghese** è **individualista**, ma conserva il **modello autoritario** di **Antico Regime**, specie durante la **Restaurazione**
-- **Novecento**: lo **Stato prevale** definitivamente sulla famiglia, prima con i **regimi autoritari**, e poi con il passaggio al **puerocentrismo**
+Nell'ottocento e novecento, la patria potestà **tende a trasformarsi da privilegio in dovere**.
 
-## Louis de Bonald
+**Nell'ottocento**, la **società** è ancora **legata al patriarcato di antico regime**.
 
-- Dà una **interpretazione politica** della famiglia
-- **Padre**: è il **legislatore** e **giudice** delle controversie
-- **Madre**: è il **ministro** del padre, agisce dietro **autorizzazione**, e **amministra** i figli più giovani
-- **Figli**: è lo **scopo naturale** della famiglia
-- **Emancipazione**: serve per godere delle **facoltà civili**, **non** per **abbandonare la famiglia**
-- **Tipi di famiglia**: quella **rurale** è guidata dalla **patria potestà**, quella **industriale** è guidata dal **profitto e utilitarismo**
+**Nel novecento**, lo **Stato totalitario** vede la **famiglia con diffidenza**.
 
-## Antonio Rosmini
+## 3.2. Louis de Bonald (76)
 
-- **Orientamento**: **rifiuta** entrambi i modelli (familista e individualista)
-- **Dichiarazione dei diritti**: è criticata perché il primo articolo afferma la **libertà** degli **uomini**, e quindi **nega** la **potestà**
-- **Famiglia--istituzione**: la famiglia è una **persona collettiva** con **interessi preminenti** rispetto a quelli defli **individui**
-- **Genitori**:
-	- **Diritto di proprietà**: spetta sui **figli**, che nascono come "**cose**", ma con l'**età** diventano **persone**
-	- **Poteri**: il **marito** è soggetto **assoluto** di diritto, la **moglie** esercita i poteri in **via subordinata**
-	- **Sanzioni**: devono rispettare la **dignità del figlio**, ed essere **finalizzate all'emendazione**
-	- **Emancipazione**: quando il figlio diventa **padre** a sua volta
+Secondo **Bonald**, la società **non è fondata sulla fraternità e uguaglianza, ma sulla paternità ed obbedienza**.
+Propone una **interpretazione politica** della famiglia.
 
-## Luigi Taparelli D'Azeglio
+Il **padre**:
 
-- **Orientamento**: **teocratico** e **anti-individualista**
-- **Organizzazione della famiglia**:
-	- **Divisione dei poteri**: il marito ha il potere **legislativo**, e **amministrativo (all'esterno)**
-	- **Moglie**: ha potere **amministrativo (all'interno)** e **giudiziario**
-	- **Figli**: hanno la possibilità (non potere) di **correggere gli eccessi arbitrari** paterni
-- **Educazione religiosa**: è rimessa alla **famiglia**, ma si prevede l'**intervento statale** in caso di manchevolezze dei genitori (non sufficiemente religiosi, o non-cattolici)
+* È la **causa ed il potere**.
+* È l'immediato **ministro di Dio** e può **imporre leggi**.
 
-## Cultura preunitaria
+La **madre**:
 
-- **Potere paterno e politico**:
-	- Molti filosofi **esaltano** le analogie fra i due poteri (ad es., il padre ha il "potere legislativo", la madre quello "esecutivo")
-	- Si impone il rispetto dei **limiti naturali** del **proprio ruolo**
-- **Colizzi**: valuta favorevolmente alcune innovazioni
-	- L'**abrogazione** della **diseredazione** e **abdicazione**
-	- La **presenza** del **potere pubblico** e **formalità** nell'esercizio del **potere correttivo**
-- **Baroli**:
-	- **Critica** gli **eccessi** della **patria potestà**
-	- Tuttavia, mantiene l'**analogia politica** (padre--principe, potestà--sovranità, figli--sudditi)
-- **D'Azeglio**: l'**educazione** del **figlio** è finalizzata al suo **diritto naturale** di diventare **libero ed onesto**
-- **Mazzini**: i doveri verso la **patria** prevalgono su quelli verso la **famiglia**
-- **Tendenza moderata**: bilanciare **indvidualismo** e **concezione strutturata** della famiglia
+* È il **mezzo ed il ministro**.
+* **Esegue** gli ordini del marito, ma **non ha una propria autorità**.
 
-## Ducato austro-estense di Modena
+I **figli**:
 
-- **Ducato di Modena**:  durante la Restaurazione, è favorevole alla cultura patriarcale
-- **Ruolo del Re**:
-	- Nel modello tradizionale **familista**, è **padre dei padri**, ma nel modello **individualista**, è **padrone di servi**, distinti solo fra ricchi e poveri
-	- **Stato**: invade ambiti tradizionalmente riservati alla **Chiesa** e ai **padri**
-	- Le **nuove generazioni**: devono essere educate dalle **famiglie religiose**
-- **Accademia delle scienze di Modena**: propone dei bandi per saggi a difesa della patria potestà
-	- **Consiglio dei padri di famiglia**: l'intervento pubblico è inadeguato per correggere le manchevolezze domestiche più comuni e meno gravi, ed è sufficiente **educare** i **padri** con un apposito **Consiglio**
-	- **Mezzadria**: lo Stato deve essere riformato secondo il modello della **mezzadria**, ed i padri devono avere potestà **assoluta**
-	- Il patriarcato sta diventando una **utopia**, ed il 1848 si sta avvicinando
+* Sono **l'effetto e la soggezione**.
+* Rappresentano lo **scopo naturale** della famiglia, sono soggetti a **potestà perpetua**, e hanno **solo doveri**.
+* **L'emancipazione** serve solo a godere delle **facoltà civili**, ma rimane la soggezione alla famiglia.
 
-## Kant ed Hegel
+Il padre ha una **giurisdizione** all'interno della famiglia, che comprende i delitti domestici e le controversie interne.
 
-### Individualismo di Kant
+La **famiglia rurale** è considerata il modello ideale di famiglia.
+Deve essere retta dal **maschio più anziano**, ed esiste come **corpo intermedio** fra **Stato e cittadino**.
 
-- **Famiglia**: **non** interessa Kant tanto quanto Hegel
-- **Sovrano** è titolare di **diritti personali di natura reale**, in cui una **persona** è **posseduta** come una **cosa**
-- **Famiglia**: i genitori "**possiedono**" i loro figli per **fatto naturale**, ma **nessuno** ha **proprietà** sugli uomini
-- **Emancipazione**: il rapporto genitori--figli si **trasforma** da **fatto naturale** a **contratto**
+La **monarchai di diritto divino** è la forma di governo ideale.
+Prevede la reintroduzione del **diritto di primogenitura**.
 
-### Hegel
+La **famiglia industriale** viene considera una **somma di individui** che **lavorano ognuno per conto proprio**, secondo le logiche del **profitto e utilitarismo**.
 
-- **Famiglia**:
-	- Fa parte dell'**eticità**, ed il suo scopo è **realizzare lo Stato**
-	- Il padre **ordina** la famiglia, ed **istruisce** i figli, che sono pienamente emancipati solo con la morte del padre
-- **Intervento pubblico e doveri**:
-	- Lo **Stato** ha una **visione più ampia** della famiglia, e la **famiglia** deve **sottomettersi** alla visione dello Stato
-	- Prevalgono i **doveri**, e l'**intevento pubblico** nei confronti della famiglia
-	- Il **figlio** ha il diritto di chiedere un'**istruzione** che gli permette di guadagnarsi da vivere
-- **Potestà romana**: è **criticata** perché i **figli** sono **schiavi della famiglia**, e **non** si realizza lo **Stato**
+## 3.3. Antonio Rosmini (78)
+
+**Rosmini** vuole **garantire la centralità della famiglia**, e riconsiderare la sua struttura.
+
+**Rifiuta** sia il modello di **antico regime**, sia la **massificazione democratica** ed il **totalitarismo**:
+
+* Considera le figure del **padre e principe distinte**, perché altrimenti si rischia un **assolutismo** che **priva i sudditi dei loro diritti**.
+* Critica la **Dichiarazione dei diritti francesi**, perché **nell'affermare la libertà** dei cittadini, **sacrifica l'unità** della famiglia.
+
+Considera la famiglia una **istituzione**, con **propri interessi** distinti da quelli dei singoli membri.
+
+I **figli**:
+
+* **Inizialmente** sono visti come **cose di proprietà** dei genitori, e sono soggetti ad un **arbitrio tirannico**.
+* Mano a mano che **crescono** diventano **persone**, ed sono soggetti ad un **governo** da parte dei genitori. 
+
+I **genitori sono comproprietari** dei diritti sui figli, e hanno poteri **astrattamente analoghi**.
+**Nella pratica**:
+
+* Moglie e marito hanno poteri diversi, secondo i loro uffici naturali.
+* Il **marito è soggetto assoluto di diritti**.
+* La **moglie** è soggetto **relativo**, e dispone dei poteri paterni in caso di assenza, morte, o espresso consenso del marito, ma è subordinata al suo volere.
+
+L'obiettivo della famiglia **non è la felicità della prole**, ma la **tutela dell'ordine familiare**.
+Il **padre può irrogare pene**, con il **limite** della **dignità personale**, e sempre con la **finalità di correggere**.
+
+I **poteri paterni** sono divisi in due categorie:
+
+* **Poteri perpetui**, che includono anche la **punizione**.
+* **Poteri che terminano con il matrimonio del figlio**, e la creazione di una sua famiglia.
+
+Il **figlio raggiunge l'autonomia** solo quando diventa padre a sua volta.
+
+## 3.4. Luigi Taparelli D'Azeglio (80)
+
+Taparelli si **oppone all'individualismo**, e sostiene la **necessità di un "superiore"**.
+
+La **famiglia** viene organizzata sulla falsariga dello **Stato**:
+
+* Il **potere costituente** spetta ad **entrambi i coniugi**, e consiste nella deliberazione della **legge fondamentale** a cui il padre si deve adeguare.
+* La **amministrazione interna** ed il **potere giudiziario** spettano alla **moglie**.
+* Il **potere legislativo**, spetta al **marito**, salvo diverso accordo con la moglie.
+* Il **potere governativo all'esterno**, **l'amministrazione universale** e la **forza sociale** spettano **esclusivamente al marito**.
+
+I **figli**:
+
+* Devono **ubbidire** fino a quando **cessa la coabitazione**.
+* Hanno un dovere perpetuo di rispetto ed onore verso i genitori.
+* **Possono correggere gli eccessi paterni**, ma **non hanno un'autorità**.
+
+La **educazione dei figli** è **affidata alla famiglia**.
+Tuttavia, si prevede che lo **Stato può intervenire**, specialmente nella **educazione religiosa**.
+
+## 3.5. Cultura preunitaria (82)
+
+Durante la restaurazione si **esalta** l'analogia fra potere paterno e politico.
+
+**Colizzi** valutava **con favore** l'evoluzione storica del potere correttivo:
+
+* **L'abrogazione** delle pene della **diseredazione e abdicazione**.
+* **L'introduzione di formalità giudiziarie e l'intervento statale** nella **procedura correzionale**.
+
+**Baroli critica gli abusi della patria potestà**.
+Tuttavia, è fortemente conservatore, e accentuava la **corrispondenza fra famiglia e Stato**.
+A differenza dei figli, il **popolo non può mai diventare maggiorenne**.
+
+**D'Azeglio** è il rappresentante di posizioni **liberali e moderate**.
+Sostiene l'importanza dei **diritti naturali del bambino** e della sua **educazione**.
+
+**Pellico e Mazzini** sostenevano un modello di **famiglia egualitaria** e **subordinata alla patria**.
+
+## 3.6. Ducato austro-estense di Modena (84)
+
+Il **Ducato austro-estense di Modena** era **favorevole alla cultura patriarcale** durante il periodo della Restaurazione.
+
+In un saggio, si **confronta**:
+
+* Il **familismo**, fondato sui principi della **monarchia, primogenitura, patria potestà ed inalienabilità del patrimonio**.
+* **L'individualismo**, fondato sulla **logica dell'interesse**, e dove il **re non era padre dei padri, ma padrone di servi**, distinti solo fra ricchi e poveri.
+
+**L'educazione delle nuove generazioni** doveva spettare alle **restanti famiglie religiose**.
+
+Secondo **Buides**, il **governo religioso e morale** è stato sciolto nel **governo socialistico**.
+
+**L'Accademia delle scienze di Modena** propone dei bandi per dei saggi a difesa della patria potestà.
+
+Secondo **Veniero**:
+
+* L'intervento **pubblico, giurisdizionale e poliziesco**, è insufficiente.
+* È necessario un **Consiglio dei padri di famiglia** per rimediare alle **manchevolezze domestiche più comuni** ed **educare i padri**.
+
+Secondo **Bosellini**:
+
+* Sviluppa un **modello di Stato moderno**, fondato sulla **famiglia mezzadrile**.
+* Prevede un **rafforzamento dei poteri paterni**.
+
+**Nessuno dei saggi fu premiato**.
+
+## 3.7. Kant ed Hegel (87)
+
+**Kant** propone una **filosofia individualista** della famiglia.
+
+I **rapporti domestici** costituiscono una **categoria di diritti** particolari, detti **diritti personali di natura reale**.
+
+La **procreazione dei figli** produce effetti giuridici, ed il **padre possiede i figli**.
+Il possesso è inteso in **senso lato**, non giuridico, come **l'appartenenza alla famiglia**.
+
+Fatta salva la **libertà legittima**, **entrambi i genitori possono imporre prestazioni** sui figli.
+Il figlio si **emancipa per maggiore età**.
+Da quel momento il rapporto con i genitori è fondato su un **contratto sociale, e non più sul fatto naturale**.
+
+Secondo **Hegel**, la **famiglia** è un **momento dell'eticità**, che **culmina nello Stato**.
+
+Il **padre** è a **capo della famiglia**, e rappresenta **l'interlocutore dello Stato**.
+I figli possono costituire una loro famiglia, ma devono aspettare la morte del padre per godere dei pieni diritti.
+
+**L'intervento pubblico** è fondamentale affinché i genitori **educhino i figli secondo i valori dello Stato**.
+
+Hegel sostiene la necessità **dell'obbligo scolastico**.
+Si pone in contrasto con la **cultura tradizionalista**, che lo considerava una **conseguenza della Rivoluzione francese**.
+
+I **genitori** trovano la loro **ragione d'essere** nella **realizzazione dello Stato**.
+Questo giustifica la **prevalenza dei doveri dei genitori**, i **diritti dei figli**, e **l'intervento statale**.
+
+Il **figlio minorenne** ha il **diritto di ottenere un'istruzione** che gli permette di **guadagnarsi da vivere**.
+In caso di **inadempienza dei genitori**, deve **provvedere la società**.
+
+Hegel critica la **potestà romana**, perché rende i **figli schiavi della famiglia**, e **non realizza l'eticità**.
+
+Si prevede il potere di **disciplinare i figli** per garantire la **loro libertà**.
