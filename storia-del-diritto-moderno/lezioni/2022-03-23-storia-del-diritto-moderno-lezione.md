@@ -64,7 +64,7 @@ Se i genitori non rispettano questo obbligo, lo Stato si sostituisce a loro.
 Alla fine del novecento, la *famiglia patriarcale cade definitivamente* a *livello giuridico*.
 A *livello etico e sociale*, alcune norme patriarcali continuano ad esistere, anche se in misura più modesta.
 
-22m Il *diritto di educare dei genitori* è sostituito dal *diritto ad essere educato del figlio*.
+Il *diritto di educare dei genitori* è sostituito dal *diritto ad essere educato del figlio*.
 Questo è il principio fondamentale del *puerocentrismo*.
 
 Il *secolo del bambino* è il secolo in cui il bambino diventa il centro della famiglia, e si *rafforzano le garanzie*.

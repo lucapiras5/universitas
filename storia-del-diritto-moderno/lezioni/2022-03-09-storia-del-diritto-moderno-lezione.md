@@ -15,7 +15,7 @@ Il sistema più comune era quello di prevede sanzioni patrimoniali a carico dei 
 Le leggi di antico regime (prima di Napoleone) erano più discorsive.
 Dopo Napoleone, si adotta uno stile più tecnico.
 
-La grida riguarda gli "stupri", che includono qualsiasi rapporto di una donna non sposata con un uomo, e non solo le violenze.
+La *grida riguarda gli "stupri"*, che includono qualsiasi rapporto di una donna non sposata con un uomo, e non solo le violenze.
 
 Da questa grida, emerge:
 
@@ -32,7 +32,6 @@ La grida prevede una serie di sanzioni per gli uomini:
 * *Perdono i fedecommessi ed i feudi*.
 
 In altre parole, è *come se i figli non esistessero più* ai fini della successione.
-
 Inoltre, si applica una *pena afflittiva*.
 
 La *donna perde tutte le aspettative ereditarie*.
@@ -42,8 +41,7 @@ Nel caso di *matrimoni di disparaggio con non-nobili*, si applica una pena affli
 ## Umanesimo (29m)
 
 A partire dal Cinquecento, i ceti di cultura più alta diventano diffidenti verso la patria potestà e la figura del padre.
-
-Viene meno la fiducia che il padre faccia per definizione il bene dei figli, e quindi che bisogna avere una fiducia incondizionata.
+Viene meno la fiducia nell'idea che il padre faccia per definizione il bene dei figli, e quindi che bisogna avere una fiducia incondizionata.
 
 Durante la Rivoluzione francese, si metterà in pratica quanto teorizzato, e le nuove leggi trasformano radicalmente la patria potestà.
 
@@ -54,12 +52,11 @@ Durante la Rivoluzione francese, si metterà in pratica quanto teorizzato, e le 
 Il primo problema di cui tratta è la *successione*.
 Propone una *maggiore condivisione dei beni* nei confronti dei *figli adulti*, che potrebbero beneficiare di una quota dell'eredità per iniziare la loro attività.
 
-
-Critica anche l'uso dello ius corrigendi.
+Critica anche l'uso dello *ius corrigendi*.
 Il figlio deve essere convinto ed educato, e non picchiato.
 De Montaigne scrive che il *padre deve essere amato piuttosto che essere temuto*.
-Propone il passaggio alla *famiglia affettiva*.
 
+Propone il passaggio alla *famiglia affettiva*.
 Il passaggio alla famiglia affettiva non significa che nelle famiglie tradizionali non c'era affetto verso i figli.
 Le testimonianze precedenti erano fondate su una selezione delle fonti per dimostrare un assunto.
 
@@ -98,8 +95,8 @@ Si deve *educare* il figlio, e usare il *castigo corporale come extrema ratio*, 
 
 Le principali figure degli umanisti proponevano:
 
-* Una famiglia fondata sull'affetto.
-* L'eliminazione, o comunque forte compressione, del potere di correzione fisica.
+* Una *famiglia fondata sull'affetto*.
+* *L'eliminazione*, o comunque *forte compressione*, del *potere di correzione fisica*.
 * Una riforma sul campo patrimoniale.
 
 De Montaigne ed Erasmo da Rotterdam *non sono giuristi in senso tecnico*, possono essere definiti *politici del diritto*.

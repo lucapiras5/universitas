@@ -46,7 +46,7 @@ La *percezione sociale* è *unidirezionale*, quello che fa il servo implica il c
 
 Il problema della *mercede* (mantenimento) dei servi è discusso, e dipende dalle consuetudini locali.
 
-I rapporti di servitù sono raramente formalizzati in contratti di lavoro.
+I *rapporti di servitù* sono *raramente formalizzati in contratti di lavoro*.
 
 I servi di famiglia devono fare *tutto quello che gli chiede di fare il padrone*, e dovrebbero *limitarsi ad atti legali*.
 
@@ -63,13 +63,12 @@ Può farlo nel caso di assenze brevi, nel caso di assenze lunghe decide il giudi
 
 Le famiglie povere consegnavano le figlie in una forma di quasi-adozione ad un nobile ricco, e lavoravano per ottenere una dote.
 
-Spesso le serve di famiglia finivano per avere un figlio.
-Nel caso della *seduzione della serva di famiglia* vige *un'inversione dell'onere della prova*, e la serva deve provare la sua integrità morale.
+Spesso le serve di famiglia finivano per *avere un figlio*.
+Nel caso della *seduzione della serva di famiglia* vige *un'inversione dell'onere della prova*.
 
-Nel caso delle donne libere, i giuristi presumono che sia stata sedotta.
-
-Se la serva di famiglia dimostra la sua integrità morale, la *pena per il padrone* era *limitata al pagamento della dote*.
-
+La serva deve provare la sua integrità morale.
+Nel caso delle *donne libere*, i giuristi *presumono che sia stata sedotta*.
+Se la serva di famiglia *dimostra la sua integrità morale*, la *pena per il padrone* era *limitata al pagamento della dote*.
 Talvolta le serve di famiglie seducevano apposta il padrone, per poter ottenere una dote.
 
 ## Poteri correzionali del padrone (26m)
@@ -89,7 +88,7 @@ Secondo Alessandro Tartagni:
 Secondo Girolamo Cardano:
 
 * I *servi adolescenti* devono essere *puniti dal padrone*, e *non dal padre del servo*.
-* Il padrone non deve delegare la punizione al padre, il potere del padrone prevale sul potere del padre.
+* Il padrone non deve delegare la punizione al padre, il *potere del padrone prevale sul potere del padre*.
 
 ## Rapporto fra giusnaturalisti ed illuministi (34m)
 
@@ -98,7 +97,7 @@ Gli Illuministi non si occupano di tutto il diritto, ma solo degli aspetti da ri
 
 Gli Illuministi riprendono le idee presentate nei lunghi trattati scritti in latino degli Giusnaturalisti, e le presentano in maniera più accessibile, con trattati brevi in lingua volgare.
 
-## Critica giusnaturalista (40m)
+## Fondamento della patria potestà (40m)
 
 I *giusnaturalisti* pongono tre interrogativi riguardo la patria potestà: *il fondamento, la titolarità, l'estensione*.
 
@@ -141,9 +140,7 @@ Secondo Locke bisogna distinguere due poteri:
 * Il *rispetto del figlio al padre* è fondato sul *principio di reciprocità*, è *perpetuo*.
 
 Il *potere di tutela* ed il *diritto al rispetto* sono stati *confusi*.
-
 Il *diritto di tutela* è un *privilegio dei figli, e non un potere del padre*.
-
 Nella storia si è persa la differenza fra i due livelli della patria potestà.
 
 ## Domanda: estensione della patria potestà (1h 8m)

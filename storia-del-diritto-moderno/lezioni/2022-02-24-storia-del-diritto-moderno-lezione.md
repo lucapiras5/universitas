@@ -29,7 +29,7 @@ Pertanto, la permanenza è l'elemento che caratterizza la patria potestà, e che
 
 I *giuristi romani non usano* quasi mai il termine "*familia*", che è usato da autori non giuristi.
 
-La *famiglia* viene indicata con "*domus*", perché la famiglia viene indicata con la *coabitazione sotto lo stesso tetto*.
+La *famiglia* viene indicata con "*domus*", perché la famiglia viene fatta coincidere con la *coabitazione sotto lo stesso tetto*.
 
 Ulpiano riproduce la divisione di Aristotele dei poteri paterni nel mondo giuridico.
 Il padre ha l'autorità su una serie di persone, e la famiglia è delimitata dalla soggezione al padre di famiglia.
@@ -47,11 +47,11 @@ In origine, la patria potestà romana era estremamente dura.
 Nel lungo periodo, si affievolisce in maniera progressiva.
 Ad es., originariamente si prevedeva il potere di vita e di morte, ma nel corso dei secoli si affievolisce.
 
-Al tempo della monarchia, ed in particolare della Repubblica, nel III e II sec. a.C., la patria potestà è particolarmente forte.
+Al tempo della monarchia, ed *in particolare della Repubblica*, nel III e II sec. a.C., la *patria potestà è particolarmente forte*.
 
 I *senatori* sono chiamati "*patres conscripti*", e sono i *padri di famiglia delle famiglie più influenti*.
-I senatori si passano la carica in maniera ereditaria, e sono pochi gli homines novi che riescono a diventare senatori.
-La parola "patriziato" deriva dalla parola "padre", ed i patrizi vengono visti come i padri di Roma.
+I senatori si passano la *carica in maniera ereditaria*, e sono *pochi gli homines novi* che riescono a diventare senatori.
+La parola "patriziato" deriva dalla parola "padre", ed i *patrizi vengono visti come i padri di Roma*.
 
 Due fenomeni incidono sulla patria potestà romana.
 
@@ -62,8 +62,8 @@ La concezione della società era fortemente incentrata sul concetto di una famig
 Con Augusto, si aggiunge il *potere dell'imperatore*, il *potere pubblico*.
 La dialettica fra la famiglia e lo Stato caratterizza tutta la storia.
 
-Il potere pubblico non disconosce la patria potestà, che rimarrà sempre perpetua, ma viene circoscritta.
-Nell'Impero, l'imperatore è il *padre di tutti*, e quindi il potere delle famiglie viene diminuito.
+Il *potere pubblico* non disconosce la patria potestà, che *rimarrà sempre perpetua, ma viene circoscritta*.
+Nell'Impero, *l'imperatore è il padre di tutti*, e quindi il *potere delle famiglie viene diminuito*.
 
 Il secondo sono le *influenze culturali*.
 
@@ -87,10 +87,10 @@ La natura della patria potestà, pubblica o privata, è stata discussa a lungo.
 Nel diritto romano, la distinzione fra diritto pubblico e privato esiste, ma non ha il peso che avrà in futuro, perché lo Stato al tempo dei Romani aveva un ruolo molto limitato.
 
 La natura può essere dedotta da fonti non strettamente giuridiche.
-Ad es., esiste un istituto che non compare nel Corpus Juris Civilis, ma compare nelle orazioni dei retori pseudo-quintilianei.
+Esiste un *istituto che non compare nel Corpus Juris Civilis*, ma compare nelle orazioni dei retori pseudo-quintilianei.
 Alcune di queste orazioni erano finte orazioni, ma davano comunque un'indicazione della cultura del tempo.
 
-L'istituto è *l'abdicazione*, la cacciata del figlio di casa, ed era un vero e proprio istituto giuridico, perché il figlio abdicato perdeva il cognome, e poteva essere preso come schiavo.
+*L'istituto è l'abdicazione*, la cacciata del figlio di casa, ed era un vero e proprio istituto giuridico, perché il figlio abdicato perdeva il cognome, e poteva essere preso come schiavo.
 
 In una orazione, viene descritto un giovane patrizio ricco e senza genitori, che accoglieva in casa i figli che erano stati cacciati di casa, e veniva chiamato *pastor abdicatorum*.
 
@@ -114,7 +114,7 @@ La patria potestà indica una serie di poteri differenti, che il padre esercita 
 
 Il origine la potestà includeva anche il *diritto di vita e di morte*.
 Il padre poteva decidere se uccidere il figlio, con la garanzia di un tribunale dei parenti.
-In età repubblicana, il potere scompare completamente, e rimane solo lo ius corrigendi (il potere di picchiare il figlio), che nel Settecento diventerà il modico potere correzionale del padre.
+In *età repubblicana*, il potere scompare completamente, e *rimane solo lo ius corrigendi* (il potere di picchiare il figlio), che nel Settecento diventerà il modico potere correzionale del padre.
 
 Il diritto di *soppressione o esposizione dell'infante*:
 
@@ -142,7 +142,7 @@ Il *matrimonio dei figli*:
  
 ## Diritti patrimoniali (52m)
 
-In origine, il principio fondamentale dei rapporti fra l'avente potestà ed i figli è che quello che acquista il figlio, lo acquista per il padre.
+In origine, il *principio fondamentale* dei rapporti fra l'avente potestà ed i figli è che *quello che acquista il figlio, lo acquista per il padre*.
 In altre parole, il figlio *non ha autorità patrimoniale*.
 
 Nel tempo, e con l'influenza dell'impero, nascono problemi, che vengono risolti attenuando l'originale potere assoluto di totale controllo patrimoniale sul figlio.
@@ -150,26 +150,24 @@ Nel tempo, e con l'influenza dell'impero, nascono problemi, che vengono risolti 
 Secondo le Istituzioni di Giustiniano:
 
 * Se il figlio di famiglia entra nell'esercito, o ha cariche pubbliche, questo non lo libera dalla patria potestà.
-* Viene introdotta una costituzione con cui *l'attribuzione del patriziato* da parte dell'Imperatore permette di sciogliere la potestà.
+* Viene introdotta una costituzione con cui *l'attribuzione del patriziato* da parte dell'*Imperatore permette di emancipare il figlio*.
 * Sarebbe irragionevole che l'Imperatore avesse un'autorità minore rispetto al privato padre di famiglia, per quanto riguarda emancipare i figli.
 
-Questo è un caso eccezionale, ma il *diritto comune* introduce *nuove cause di emancipazione*.
-Ad es., per il diritto canonico il figlio che diventa vescovo non è più soggetto all'autorità del padre.
+Questo è un *caso eccezionale*, ma il *diritto comune* introduce *nuove cause di emancipazione*.
+Ad es., per il diritto canonico il *figlio che diventa vescovo* non è più soggetto all'autorità del padre.
 
 Il diritto romano prevede una *limitata autonomia finanziaria*, attraverso i *peculi*.
 
 Il *peculio castrense* è il più antico, ed è stato creato per incentivare l'attività militare.
-
 È un altro caso di contrasto fra autorità pubblica e privata, e si trova ancora fra i glossatori.
 Ad es., Odofredo sostiene che se il comune vuole che un figlio vada in guerra, ma il padre si oppone, prevale l'autorità del comune.
-
 Quanto il figlio guadagna come soldato rimane suo.
 
 Nel tempo si aggiungono altri peculi.
-Il *peculio quasi-castrense* riguarda altre cariche pubbliche all'interno dell'impero.
+Il *peculio quasi-castrense* riguarda *altre cariche pubbliche* all'interno dell'impero.
 Ad es., il figlio che diventa presidente della provincia rimane sotto l'autorità del padre, ma può spendere quello che ha guadagnato come vuole.
 
-Il *peculio profettizio* comprende beni che sono assegnati da altri al figlio, con la clausola che possono essere gestiti solo dal figlio.
+Il *peculio profettizio* comprende beni che sono *assegnati da altri al figlio*, con la clausola che possono essere *gestiti solo dal figlio*.
 Ad es., un *legato da parte della madre, o di un parente materno*, con cui si lascia un bene specificamente al figlio, ed il bene non entra nel patrimonio del padre.
 
 Il *peculio avventizio* è costituito dal *padre*.
@@ -205,8 +203,8 @@ Il contrasto tra padre e figlio appare anche nei vangeli sinottici, ma il lingua
 
 ## Paolo di Tarso (1h 13m)
 
-Paolo di Tarso vive in un periodo in cui il cristianesimo è ancora oggetto di persecuzione.
-Si pone un problema di educazione, e di combinare la cultura del Vangelo e quella tradizionale greco-romana.
+Paolo di Tarso vive in un periodo in cui il cristianesimo è ancora *oggetto di persecuzione*.
+Si pone un *problema di educazione*, e di *combinare la cultura del Vangelo e quella tradizionale greco-romana*.
 
 Nella *Lettera agli Efesini*, propone *un modello di patriarcato cristiano*, in una forma più modesta rispetto a quello greco-romano.
 Il Vangelo non conteneva l'idea di patriarcato.
@@ -215,7 +213,7 @@ La concezione patriarcale prevede che le mogli sono subordinate ai mariti, ed il
 Il marito deve amare la moglie, e quindi non può trascendere i limiti, si pone il problema della violenza coniugale.
 
 I *figli* sono tenuti ad onorare il padre e la madre, per vivere a lungo.
-I padri comandano sui figli, e hanno un potere di coercizione, ma non possono inasprire i figli.
+I padri comandano sui figli, e hanno un *potere di coercizione*, ma *non possono inasprire i figli*.
 Non si pone un limite preciso, viene lasciato alla discrezione e ragionevolezza dei padri.
 
 I *servi* sono tenuti ad obbedire al padrone, con "timore e tremore".
@@ -238,12 +236,12 @@ Lattanzio è un padre della Chiesa, ed aveva una preparazione giuridica nel diri
 Vive nel IV sec., quando la Chiesa era già riconosciuta.
 
 Scrive un'operetta chiamata *Istituzioni divine*, che riprende il titolo dalle Istituzioni di Giustiniano.
-Contiene una giustificazione della famiglia patriarcale, basata sulla religione monoteista.
+Contiene una *giustificazione della famiglia patriarcale*, basata sulla *religione monoteista*.
 
-L'esistenza della famiglia patriarcale serve a dimostrare la verità del monoteismo.
-Dato che si può avere un solo padre in natura, si può avere un solo Dio, che può essere chiamato padre.
+L'esistenza della famiglia patriarcale serve a *dimostrare la verità del monoteismo*.
+Dato che *si può avere un solo padre in natura, si può avere un solo Dio*, che può essere chiamato padre.
 
-Anche il padrone può essere solo uno.
+Anche il *padrone può essere solo uno*.
 Dato che può perdonare ed elargire, deve essere chiamato "padre", e dato che può castigare nel massimo grado, deve essere chiamato "padrone".
 
 Nel diritto civile romano:

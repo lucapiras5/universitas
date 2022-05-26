@@ -150,7 +150,7 @@ Inoltre, *anche la madre* ha una potestà sui figli.
 
 ## Progetto definitivo del codice napoleonico (56m)
 
-*Réal* presenta il *progetto definitovo*, e afferma che:
+*Réal* presenta il *progetto definitivo*, e afferma che:
 
 * Il *legislatore non può eliminare* la patria potestà, come aveva fatto Cambacérès.
 * La *natura* avrebbe mantenuto eternamente i figli sotto i padri.

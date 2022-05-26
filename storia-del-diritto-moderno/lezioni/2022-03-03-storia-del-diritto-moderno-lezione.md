@@ -25,9 +25,11 @@ Una madre porta il figlio davanti all'imperatore, perché la maltrattava, e l'im
 Bartolo osserva che:
 
 * *Alcuni misfatti tra familiari non sono puniti*, e *devono essere risolti all'interno della casa*, e non in un foro giudiziale.
-* Si utilizza la *procedura ordinaria* nei procedimenti tra madre e figlio.
+* Si utilizza la *procedura ordinaria* nei *procedimenti tra madre e figlio*.
 
-Si sottolinea la valenza politica della famiglia, perché i *problemi minori* sono *risolti dalla normazione e giurisdizione*, mentre la giurisdizione ordinaria è riservata solo per *problemi che possono influire sulla polis*.
+Si sottolinea la valenza politica della famiglia.
+I *problemi minori* sono *risolti dalla normazione e giurisdizione*.
+La giurisdizione ordinaria è riservata solo per *problemi che possono influire sulla polis*.
 
 Nelle *cause civili il figlio non poteva agire contro il padre*, poteva farlo *solo per cause penali*.
 Le azioni erano escluse perché si presumeva l'affetto paterno, la buona scelta paterna, etc., e la prevalenza della giustizia domestica.
@@ -132,7 +134,7 @@ Il potere di *incatenare il figlio in casa propria* è *un'eccezione al principi
 
 Ad es., se un creditore ha il timore che il debitore scappi senza pagare il debito potrebbe voler incarcerare il debitore.
 Il carcere per i debitori era *vietato a casa*, ma in Italia sarà possibile presso un *carcere pubblico* fino al 1867.
-Gli illuministi era contrari all'idea di incarcerare i debitori.
+Gli illuministi erano contrari all'idea di incarcerare i debitori.
 
 Si poteva *incarcerare in casa anche la moglie*.
 
@@ -182,13 +184,13 @@ Nel Settecento si afferma l'idea di una polizia che:
 
 La censura di libri, spettacoli, etc., è una conseguenza dell'assolutismo illuminato, dove il sovrano *vuole educare i suoi sudditi*, come un padre di famiglia.
 
-La polizia nel tardo settecento inizia ad avere un'azione nei confronti della famiglie, per farle reggere nel migliore dei modi.
+La polizia nel tardo settecento *inizia ad avere un'azione nei confronti della famiglie*.
 
-Nel Granducato di Toscana, la polizia deve intervenire:
+Nel *Granducato di Toscana*, la polizia deve intervenire:
 
-* Per pacificare le liti fra parenti, e mantenere l'integrità della famiglia.
+* Per *pacificare le liti* fra parenti, e *mantenere l'integrità* della famiglia.
 * Se trovano giovani o ragazze che hanno ricevuto una cattiva educazione, ne informano i genitori, e provvedono a castigarli e rieducarli.
-* Evitano gli aborti delle donne nubili, e spingono i giovani a lavorare.
+* Evitano gli *aborti delle donne nubili*, e *spingono i giovani a lavorare*.
 * Intervengono il prima possibile appena sono avvisati, per evitare che la situazione peggiori.
 
 *L'azione di polizia* è utilizzata per *sopperire alle carenze dei padri di famiglia*.
@@ -207,12 +209,11 @@ Con l'introduzione del termine della patria potestà con la maggiore età, l'ema
 L'emancipazione può essere di due tipi: *volontaria o tacita*.
 
 Il diritto romano esisteva solo *l'emancipazione volontaria*, che richiedeva delle *formalità importanti*.
-
-Continua ad esistere nel medioevo ed età moderna, ed è un atto di *volontaria giurisdizione*, che deve essere *compiuto davanti ad un giudice*.
+Ed è un atto di *volontaria giurisdizione*, che deve essere *compiuto davanti ad un giudice*.
 
 Devono *acconsentire entrambe le parti*:
 
-* Se non acconsente il figlio, è un'abdicazione.
+* Se non acconsente il figlio, è abdicazione.
 * Se non acconsente il padre, è un reato contro la patria potestà.
 
 L'emancipazione volontaria prevede un *pagamento*, è un *contratto oneroso*.

@@ -18,19 +18,18 @@ Il cristianesimo si appropria del patriarcato classico, e opera delle modifiche:
 
 È il patrono di Milano, uno dei padri della Chiesa, e fu un maestro.
 
-Nel "De Tobia", descrive la vendita all'incanto dei figli per pagare i debiti paterni.
-La vendita è basata sull'autorità generazionale (il solo fatto di essere più vecchio), ma senza affetto.
-
+Nel "De Tobia", descrive la *vendita all'incanto dei figli per pagare i debiti paterni*.
+La *vendita è basata sull'autorità generazionale* (il solo fatto di essere più vecchio), ed è *senza affetto*.
 I poteri tradizionali del patriarcato romano includevano la vendita e la cessione nossale a garanzia dei debiti.
 
-Questo potere è talmente distante dagli ideali di affetto verso la famiglia, che Ambrogio condanna la pratica, e la considera un *mero atto di autorità generazionale*, di abuso del più forte, e non un potere legato alla famiglia.
+Questo potere è talmente *distante dagli ideali di affetto verso la famiglia, che Ambrogio condanna la pratica*, e la considera un *mero atto di autorità generazionale*, di abuso del più forte, e *non un potere legato alla famiglia*.
 
 ## Sidonio Apollinare (8m)
 
 Sidonio Apollinare è un autore più tardo di Ambrogio, ed era vescovo.
 Scrive una lettera su un istituto non presente nel Corpus Juris Civilis, l'abdicatio, che era stato già criticato dallo stoicismo.
 
-Descrive il caso di un giovane abdicato (cacciato di casa), e ha cercato rifugio presso un vescovo.
+Descrive il caso di un giovane abdicato (cacciato di casa), e ha *cercato rifugio presso un vescovo*.
 
 Dopo l'indebolimento delle strutture amministrative romane durante la tarda antichità, i vescovi diventano la figura di riferimento per la società.
 I vescovi sono giudici, mediatori, soggetti a cui chiedere aiuto.
@@ -56,7 +55,7 @@ I nuovi attori sono le popolazioni germaniche, che hanno una loro forma di patri
 
 Il padre comanda, la moglie ha un ruolo limitato, ed i figli obbediscono, ma sono presenti alcune particolarità.
 
-Le popolazioni germaniche erano tradizionalmente nomadi, ed il potere del padre diminuisce con l'età del figlio.
+Le *popolazioni germaniche erano tradizionalmente nomadi*, ed il *potere del padre diminuisce con l'età del figlio*.
 
 ## Famiglia germanica (22m)
 
@@ -75,34 +74,34 @@ Il *padre ha autorità sui figli*, ma *termina* quando il figlio è in grado di 
 
 Nell'Editto di Rotari, l'uomo in grado di tenere le armi è *libero*, e ha la *capacità giuridica, di agire, ed i diritti politici*.
 
-Viceversa, l'uomo non ha la pienezza dei diritti:
+Viceversa, *l'uomo non ha la pienezza dei diritti*:
 
-* Se è troppo giovane o vecchio per tenere le armi.
-* Se ha alcune malattie. Ad es., chi ha la lebbra è considerato come morto, e si apre la successione.
+* Se è *troppo giovane o vecchio* per tenere le armi.
+* Se ha *alcune malattie*. Ad es., chi ha la lebbra è considerato come morto, e si apre la successione.
 
-La determinazione della maggiore età ad una data fissa avveniva già nel mondo romano, ma si affermerà definitivamente nell'Ottocento, quando viene abolita la patria potestà perpetua.
+La determinazione della maggiore età ad una data fissa avveniva già nel mondo romano, ma si affermerà definitivamente nell'ottocento, quando viene abolita la patria potestà perpetua.
 
 La determinazione della maggiore età è per certi versi analoga alla dichiarazione di pubertà nel mondo romano, ma ha effetti diversi.
 
-## Figlie e mundio (31m)
+## Figlie e mundio, divisione patrimonio (31m)
 
 Le figlie sono soggette al *mundio*, che è un *potere solo patrimoniale, non fisico*.
 Ad es., non dà il diritto di picchiare.
 
 La donna longobarda (per buona parte del diritto longobardo) non ha diritti successori, e i beni che ha 
 
-Le figlie non possono essere senza mundio, devono essere sempre soggette al mundio di un uomo.
-Se non lo sono, possono essere prese da chiunque, a meno che non si mettano sotto la protezione del Re.
+Le *figlie non possono essere senza mundio*, devono essere sempre soggette al mundio di un uomo.
+Se non lo sono, possono essere prese da chiunque, a meno che non si mettano sotto la *protezione del Re*.
 
-La donna longobarda ha la capacità giuridica, ma non la capacità di agire.
-È un istituto simile a quello dell'autorizzazione maritale del 1917, per cui se vuole accettare un'eredità, costituire un'ipoteca, vendere una casa, ecc., serve l'autorizzazione del marito.
+La *donna longobarda ha la capacità giuridica*, ma *non la capacità di agire*.
+È un istituto simile a quello *dell'autorizzazione maritale* del 1917, per cui se vuole accettare un'eredità, costituire un'ipoteca, vendere una casa, ecc., serve l'autorizzazione del marito.
 
-Dato che la famiglia germanica è strutturata come una comunità di maschi, prevede la divisione dei beni in un numero di parti uguale al numero dei maschi, compreso il padre.
+Dato che la famiglia germanica è strutturata come una comunità di maschi, prevede la *divisione dei beni in un numero di parti uguale al numero dei maschi, compreso il padre*.
 
 Ad es., se in una famiglia ci sono tre figli maschi oltre al padre, e uno di loro diventa maggiorenne, può fare due cose:
 
-* Può continuare a vivere in comunità con la famiglia e gli altri fratelli, e si forma la fraterna (comunità dei fratelli).
-* Può pretendere la sua quota del patrimonio (un quarto), ed andarsene.
+* Può continuare a vivere in comunità con la famiglia e gli altri fratelli, e si forma la *fraterna* (comunità dei fratelli).
+* Può *pretendere la sua quota del patrimonio* (un quarto), ed andarsene.
 
 Questa organizzazione si trova già negli Ostrogoti, che sono precedenti ai Longobardi, ed instaurarono un regno romano-barbarico in Italia.
 
@@ -115,7 +114,7 @@ Paragona i figli alle aquile, e afferma che quando i figli sono capaci di fare g
 Questa concezione è largamente diffusa anche presso altri popoli.
 Gaio diceva che solo i romani avevano la vera patria potestà, perché una patria potestà che può terminare non è una vera patria potestà.
 
-L'idea di Cassiodoro sarà ripresa dagli illuministi, il figlio  richiede protezione solo fino a quando non è adulto.
+L'idea di Cassiodoro sarà ripresa dagli illuministi, il figlio richiede protezione solo fino a quando non è adulto.
 
 ## Patriarcato di diritto comune (40m)
 
@@ -126,8 +125,8 @@ I poteri dei padri sui figli erano forti in età repubblicana, ma iniziano ad en
 * L'affermazione del cristianesimo.
 * Le invasioni germaniche.
 
-Nell'età del diritto comune, i glossatori riprendono i testi romani, che prevedono una patria potestà perpetua.
-In molti casi, la potestà è ancora perpetua, perché anche se la popolazione non conosce il diritto scritto, il diritto romano nell'alto medioevo sopravvive come consuetudine, anche se si mescola con il diritto germanico.
+Nell'età del *diritto comune*, i *glossatori riprendono i testi romani*, che prevedono una *patria potestà perpetua*.
+In molti casi, la *potestà era rimasta perpetua*, perché anche se la popolazione non conosceva il diritto scritto, il *diritto romano nell'alto medioevo sopravvive come consuetudine*, anche se si mescola con il diritto germanico.
 
 I glossatori riprendono il diritto romano nel Corpus Juris Civilis, e lo confrontano con gli statuti dei comuni medievali, e trovano dei contrasti.
 
@@ -164,7 +163,7 @@ Nel processo, si prevedeva una *cauzione* per garantire che il soggetto rimaness
 Se il soggetto scappava prima della conclusione del processo, la somma veniva confiscata.
 I *figli degli abbienti non devono depositare la cauzione*.
 
-Alcuni statuti prevedono che nel caso di *contratto concluso da figlio di famiglia ricca*, sia previsto un anticipo di eredità per soddisfare i creditori.
+Alcuni statuti prevedono che nel caso di *contratto concluso da figlio di famiglia ricca*, sia previsto un *anticipo di eredità per soddisfare i creditori*.
 
 Sono norme che sono in contrasto con la iuris veritas, con il diritto romano in senso tecnico, e sono invece fondate sui rapporti sociali, e sulla concezione del figlio come pars corporis.
 
@@ -172,7 +171,7 @@ La fase dei glossatori e commentatori è di grande fiducia verso l'operato dei p
 
 ## Alessandro Tartagni (54m)
 
-È un giurista di fine Quattrocento, e scrive che esiste una *presunzione giuridica*, per cui il padre può prendere decisioni meglio di chiunque altro riguardo ai figli, e non può essere corretto.
+È un giurista di fine quattrocento, e scrive che esiste una *presunzione giuridica*, per cui il *padre può prendere decisioni meglio di chiunque altro riguardo ai figli*, e non può essere corretto da altri.
 
 Viceversa, si *presume* che:
 
@@ -192,16 +191,16 @@ Il primo è se esista una *giustizia domestica*, una giustizia autonoma e specif
 Si può distinguere fra due casi:
 
 * Nel primo caso, l'altra persona è completamente distinta da sé stessi.
-* Nel secondo caso, qualcosa in lui esiste anche in sé stessi.
+* Nel secondo caso, *qualcosa nell'altro esiste anche in sé stessi*.
 
-Il rapporto fra padre e figlio, e padrone e servo, ricadono nella seconda categoria.
+Il *rapporto fra padre e figlio, e padrone e servo*, ricadono nella seconda categoria.
 
-Pertanto, dato che *padre e figlio* non sono due estranei, non si può applicare la semplice e normale giustizia, ma si deve usare la *giustizia paterna*, che è particolare.
+Pertanto:
 
-Per lo stesso motivo, si deve usare una *giustizia padronale* verso i *servo*.
+* Dato che *padre e figlio* non sono due estranei, non si può applicare la semplice e normale giustizia, ma si deve usare la *giustizia paterna*, che è particolare.
+* Per lo stesso motivo, si deve usare una *giustizia padronale* verso i *servo*.
 
 La *moglie* dopo il matrimonio diventa (astrattamente) parte unica con il marito, ma è legata in maniera meno stretta al martio rispetto a figli e servi.
-
 Fra moglie e marito c'è una sorta di vita sociale (che non consiste in un'uguaglianza), ma permette l'applicazione di una *giustizia particolare*, che è più vicina alla giustizia ordinaria, che alla giustizia per figli e servi.
 
 La giustizia ha il compito di rendere a ciascuno, tenendo conto della diversità fra le parti.

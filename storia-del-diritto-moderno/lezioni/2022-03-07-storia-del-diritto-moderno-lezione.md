@@ -27,9 +27,9 @@ La Chiesa dibatteva se il *matrimonio si concludeva* con la *consumazione fisica
 ## Società familista (11m)
 
 Il consenso è una questione fondamentale.
-Per quanto il potere civile e religioso siano legati, sono in disaccordo sul problema del figlio di famiglia che vuole sposarsi senza o contro la volontà del padre.
+Per quanto il potere civile e religioso siano legati, sono in *disaccordo sul problema del figlio di famiglia che vuole sposarsi senza o contro la volontà del padre*.
 
-La *società di antico regime è familista.*
+La *società di antico regime è familista*.
 Il *padre* ha il potere di compiere *scelte di tipo politico*.
 I *matrimoni* vengono visti come delle *alleanze politico*, sia dai privati, sia dai Re.
 
@@ -57,14 +57,13 @@ Il *Concilio di Trento* produce un canone, "*Tametsi sacrosancta Dei*".
 Stabilisce che il matrimonio è valido con il *solo consenso delle parti*.
 
 Inoltre, condanna chi afferma che i genitori devono dare il loro consenso, o possono rendere i matrimoni dei figli validi o invalidi.
-
 Questa condanna si rivolge ai *protestanti*, che ritenevano il *matrimonio un contratto sottoposto al controllo dello Stato*, che *richiedeva il consenso dell'avente potestà*.
 
 La Chiesa cattolica aveva un potere maggiore rispetto a quella protestante, e quindi poteva resistere meglio alle richieste degli Stati.
 
 ## Consenso istantaneo (29m)
 
-Tuttavia, si pone il problema di conciliare il matrimonio fatto all'insaputa o contro la volontà del padre con il *quinto comandamento* (onorare il padre e la madre).
+Tuttavia, si pone il problema di *conciliare il matrimonio fatto all'insaputa o contro la volontà del padre* con il *quinto comandamento* (onorare il padre e la madre).
 
 Se un uomo ed una donna chiedono di sposarsi, il parroco deve:
 
@@ -100,8 +99,8 @@ In Francia vengono elaborati dei sistemi per *eludere il Concilio di Trento*.
 
 Gli *atti rispettosi* sopravvivono fino al *codice napoleonico*.
 Non vengono adottati in Italia.
-Vengono introdotti nel Cinquecento con delle Ordonnances regie (leggi emanate dal Re).
 
+Vengono introdotti nel Cinquecento con delle Ordonnances regie (leggi emanate dal Re).
 Consistono nella *formale comunicazione del futuro matrimonio* da parte del figlio o figlia *all'avente potestà*.
 
 Permettono di bilanciare la volontà dei figli con il quinto comandamento.

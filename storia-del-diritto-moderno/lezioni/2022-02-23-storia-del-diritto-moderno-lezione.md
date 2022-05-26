@@ -38,15 +38,15 @@ La *crisi culturale e sociale* del patriarcato avviene in due grandi momenti.
 
 Il primo è *l'Illuminismo* (con accenni già nel Rinascimento nel '500).
 Gli *uomini di cultura* criticano i *padri tiranni*.
-È analoga alla critica contro la figura degli avvocati, che mentre nel medioevo venivano visti come dei "sacerdoti del diritto", adesso vengono visti come soggetti che interpretano la legge come meglio conviene al cliente, o come è più profittevole.
+È *analoga alla critica contro la figura degli avvocati*, che mentre nel medioevo venivano visti come dei "sacerdoti del diritto", adesso vengono visti come soggetti che interpretano la legge come meglio conviene al cliente, o come è più profittevole.
 Anche la figura paterna, che gode della piena fiducia dell'ordinamento, e viene esaltata in maniera analoga al monoteismo, viene messa in discussione.
 
-In generale, gli Illuministi criticano la centralità della tradizione, e preferiscono una società basata sul progresso.
-Prima degli Illuministi, i tradizionalisti ritenevano che più un istituto è antico, e più e affidabile.
+In generale, gli *Illuministi criticano la centralità della tradizione*, e preferiscono una società basata sul progresso.
+*Prima degli Illuministi, i tradizionalisti* ritenevano che più un istituto è antico, e più e affidabile.
 Condorcet afferma che gli istituti antichi devono destare diffidenza, perché la storia non è guidata dalla ragione o da principi di giustizia, ma dal caso e dalla legge del più forte.
 
 La critica alla tradizione comporta anche una critica all'autorità.
-Secondo Rousseau, nessuna autorità senza legittimazione democratica non ha titolo per imporsi, e questo vale sia per lo Stato che per il padre.
+Secondo *Rousseau*, nessuna autorità senza *legittimazione democratica* non ha titolo per imporsi, e questo vale sia per lo Stato che per il padre.
 Si inizia a parlare anche di una famiglia fondata su un contratto sociale.
 
 In questo contesto sociale, la figura del padre viene vista con diffidenza, e non si pensa che sia automatico che il padre faccia il meglio per i figli.
@@ -69,8 +69,8 @@ Nella tradizione giuridica europea le fonti religiose non sono applicate diretta
 
 Il *Deuteronomio* menziona il *diritto del padre di uccidere il figlio disobbediente*, ma con la moderazione del *controllo sociale della polis*, da parte degli anziani della società.
 
-Il libro di Siracide è accettato nella Bibbia cattolica e ortodossa, ma non in quella ebraica.
-Raccomanda ai padri di non trattare i figli con affetto, ma di punirlo affinché siano obbedienti.
+Il *libro di Siracide* è accettato nella Bibbia cattolica e ortodossa, ma non in quella ebraica.
+Raccomanda ai padri di non trattare i figli con affetto, ma di *punirli affinché siano obbedienti*.
 
 Il patriarcato ebraico è il più duro fra le religioni monoteistiche.
 Il Vangelo è il testo sacro più tollerante, mentre gli islamici si trovavano a metà fra la durezza della Bibbia, e la tolleranza del Vangelo.
@@ -95,7 +95,7 @@ La fiducia fra gli spartiati (il ceto dominante a Sparta) è tale che:
 * Si ritiene *nessun genitore possa impartire ordini sbagliati* ai fanciulli.
 * I *figli sono sottratti dai genitori ad una certa età*, per essere educati alla guerra, l'unico mestiere degno per gli spartiati era di essere soldati.
 
-A Sparta, il potere della famiglia è limitato, a favore della polis.
+A Sparta, il *potere della famiglia è limitato, a favore della polis*.
 È una concezione ripresa in parte anche da Platone.
 
 ## Codice di Gotina (33m)
@@ -135,7 +135,7 @@ Portato, per quanto i rapporti interni alla famiglia siano importanti e sia desi
 Platone immagina la *società come dovrebbe essere*, mentre Aristotele *categorizza* la società come esiste.
 Le opere di Aristotele saranno la base del diritto romano, e per mezzo di autori come Tommaso d'Aquino, di tutto il diritto della storia europea fino all'Ottocento.
 
-Aristotele si pone il problema di come debba essere suddivisa la filosofia morale, la branca della filosofia che riguarda i rapporti fra gli uomini.
+Aristotele si pone il problema di come debba essere suddivisa la *filosofia morale*, la branca della *filosofia che riguarda i rapporti fra gli uomini*.
 
 Il primo livello è *l'etica*, sono le regole che l'uomo ha dentro di sé, come *individuo*.
 

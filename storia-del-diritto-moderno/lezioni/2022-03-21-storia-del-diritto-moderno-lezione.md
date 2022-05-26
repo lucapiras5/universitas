@@ -50,7 +50,7 @@ Negli incontri internazionali della Santa Alleanza sulla famiglia si parla:
 
 ## Kant e Hegel (30m)
 
-Mentre *Hegel* non ha personalmente un ruolo importante, influenza *Marx* ed il movimento bolscevico
+Mentre *Hegel* non ha personalmente un ruolo importante, influenza *Marx* ed il movimento bolscevico.
 
 Kant non si occupa direttamente della famiglia, ma cerca di elaborare la terza categoria dei "diritti di famiglia", oltre ai diritti reali e di obbligazione.
 
@@ -91,7 +91,7 @@ Dopo la Restaurazione, è l'autore della legge che abroga il divorzio.
 
 Bonald capovolge i principi fondamentali della Rivoluzione francese (*fraternità ed uguaglianza*) e afferma che la società è fondata sulla *paternità e dipendenza*.
 
-È uno dei fondati della *sociologia*.
+È uno dei fondatori della *sociologia*.
 Negli anni '30 scrive un articolo in cui *confronta la famiglia agricola e operaia*.
 
 Il *mito della famiglia di campagna* sarà successivamente esaltato dal fascismo.
