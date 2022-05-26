@@ -4,7 +4,7 @@
 vim: spell:spelllang=it
 -->
 
-## 1.1. Dalla preistoria senza patri all'intransigenza biblica (9)
+## 1.1. Dalla preistoria senza padri all'intransigenza biblica (9)
 
 I dibattiti che si susseguiranno nei secoli sulla figura paterna riguardano le sue fondamenta naturali.
 

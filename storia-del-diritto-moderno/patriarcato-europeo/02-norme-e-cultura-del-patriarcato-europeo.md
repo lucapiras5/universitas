@@ -73,7 +73,7 @@ Fra gli **autori utopistici**:
 
 * **Tommaso Campanella** immagina la **dissoluzione della famiglia**.
 * **Thomas More** prevede la **soggezione assoluta** dei figli ai genitori.
-* **Gerrard Wistanley** prevede un **apprendistato** per il padre, che doveva educare i figli ed introdurli al lavoro.
+* **Gerrard Winstanley** prevede un **apprendistato** per il padre, che doveva educare i figli ed introdurli al lavoro.
 
 ## 2.5. Padri cattolici e protestanti (46)
 
