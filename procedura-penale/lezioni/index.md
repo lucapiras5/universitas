@@ -49,3 +49,9 @@ PG:
 * 1.39: garanzie di libertà del difensore (ispezioni e perquisizioni, sequestri, intercettazioni).
 * 1.40: colloquio del difensore con l'imputato privato della libertà personale (immediato, casi di dilazione).
 * 1.42: revoca dell'assistito, non accettazione e rinuncia del difensore, termine a difesa.
+
+### 20 ottobre
+
+* 2.1: funzione del libro secondo.
+* 2.4: divieti di pubblicazione (segreto interno, esterno, riservatezza persone coinvolte nel processo).
+* 2.8: forme dei provvedimenti (sentenze, ordinanze, decreti, motivazione, deliberazione, dissenting opinion, provvedimenti innominati).
