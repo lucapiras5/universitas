@@ -9,14 +9,14 @@ vim: spell:spelllang=it
 Le democrazie liberali e le esperienze totalitarie mantengono la struttura dei codici ottocenteschi.
 I cambiamenti principali sono:
 
-* La maggiore repressione degli abusi domestici.
-* La definitiva abrogazione dei poteri di coazione matrimoniale e di internamento del figlio.
+* La **maggiore repressione degli abusi domestici**.
+* La **definitiva abrogazione dei poteri di coazione matrimoniale e di internamento del figlio**.
 
-Nel Novecento, lo Stato si interessa sempre di più ai figli e alla loro educazione, per creare il cittadino ideale, e si inserisce sempre di più all'interno della famiglia.
+Nel Novecento, lo **Stato si interessa sempre di più ai figli e alla loro educazione, per creare il cittadino ideale**, e si inserisce sempre di più all'interno della famiglia.
 
 Ellen Key chiama il Novecento il "secolo del bambino", e si stabilisce un **puerocentrismo di Stato** nelle democrazie liberali.
 
-A livello internazionale, si dichiarano i diritti dell'infanzia e si creano società per la prevenzione delle violenze sui bambini.
+A livello internazionale, si dichiarano i **diritti dell'infanzia** e si creano **società per la prevenzione delle violenze sui bambini**.
 Gli Stati europei creano politiche a sostegno della "fanciullezza martoriata o abbandonata", anche per prevenire la delinquenza giovanile.
 
 Tuttavia, **già nell'Ottocento** il bambino era il centro della famiglia:
@@ -73,8 +73,8 @@ Cercare di **conciliare** la tradizionale autonomia della famiglia con lo statua
 
 ## 6.3. Padri fascisti, per un figlio soldato e produttore (139)
 
-I totalitarismi novecenteschi non incidono sull'assetto della famiglia.
-Piuttosto, aumentano l'invasività dello Stato sia nella società che nella famiglia.
+I **totalitarismi novecenteschi non incidono sull'assetto** della famiglia.
+Piuttosto, **aumentano l'invasività dello Stato** sia nella società che nella famiglia.
 
 In Germania non viene prodotto un nuovo codice civile, ma si usano leggi speciali.
 In Italia, anche se viene prodotto un nuovo codice civile si utilizzano comunque le leggi speciali.
@@ -98,7 +98,7 @@ Il familismo fascista incontrava resistenze interne al movimento.
 In Germania, la **fedeltà al Führer** ledeva i rapporti fra la società domestica e gli stessi poteri paterni.
 I figli dovevano denunciare le idee sovversive dei genitori, il loro corpo apparteneva allo Stato.
 
-La pedagogia tedesca sosteneva la necessità di sottrarre l'educazione dei figli ai genitori, e rimetterla ad istituti nazionali di educazioni.
+La pedagogia tedesca sosteneva la necessità di sottrarre l'educazione dei figli ai genitori, e rimetterla ad istituti nazionali di educazione.
 
 Il **modello di famiglia fascista** più condiviso fu la **famiglia patriarcale e maschilista**.
 
@@ -158,9 +158,9 @@ Prevede **l'obbligo dei genitori di educare i figli secondo la morale ed il sent
 
 **Considerato insieme agli artt. 330 e 333** una **educazione contraria all'ideologia di regime** poteva determinare:
 
-* La **perdita della patria potestà**.
-* L'adozione dei **provvedimenti giudiziali** più adeguati al caso particolare.
-* Secondo Foderaro, la violazione dell'art. 147 c.c. costituiva anche una **violazione dell'art. 570 c.p.** (violazione degli obblighi di assistenza familiare).
+* La **decadenza della patria potestà** (art. 330 c.c.)
+* L'adozione dei **provvedimenti giudiziali** più adeguati al caso particolare nei **casi meno gravi** (art. 333 c.c.).
+* Secondo **Foderaro**, la violazione dell'art. 147 c.c. costituiva anche una **violazione dell'art. 570 c.p.** ("condotta contraria all'ordine o alla morale delle famiglie").
 
 **L'art. 342** dava rilevanza alla **razza dei genitori**.
 Se il genitore di razza non ariana che ha figli ariani passa a nuove nozze con una persona non-ariana, perde la patria potestà sui figli, che viene trasferita ad uno degli avi di razza ariana.
@@ -200,7 +200,7 @@ La **famiglia instabile**:
 
 La **famiglia-ceppo**:
 
-* Prevede che un figli si sposi e rimanga presso i genitori, mentre gli altri figli sono liberi di rimanere o allontanarsi.
+* Prevede che un figlio si sposi e rimanga presso i genitori, mentre gli altri figli sono liberi di rimanere o allontanarsi.
 * Permette al padre di scegliere l'erede, e quindi chi dirigerà la famiglia.
 * Bilancia la ricchezza degli individui con il potere dei governanti.
 
@@ -225,7 +225,7 @@ La **riforma del lavoro** nella **Repubblica di Vichy** è fondata su **principi
 Il **Codice della Famiglia** era stato promulgato nel 1939 dalla III Repubblica, ed era un esempio della **legislazione natalista** del tempo.
 
 * Il primo titolo (**aiuti alla famiglia**) prevede premi per le nascite, allocazioni familiari, e sostegni per le famiglie rurali.
-* Il secondo titolo (**protezione della famiglia**) protegge ed incoraggia la maternità, crea "case materne", protegge l'infanzia e sanziona i reati contro i buoni costumi.
+* Il secondo titolo (**protezione della famiglia**) protegge ed incoraggia la maternità, crea "case materne", protegge l'infanzia e sanzionano i reati contro i buoni costumi.
 * Il terzo titolo (**disposizioni fiscali**) introduce benefici fiscali in campo successorio e per le famiglie agricole.
 
 Nel 1940 era stato creato uno specifico "Ministero della Famiglia".
@@ -255,7 +255,7 @@ Anche se riteneva che il **diritto di famiglia facesse parte del diritto privato
 
 In materia di **matrimonio del figlio**:
 
-* **L'arbitrio del padre** è giustificato dalla **protezione** del **figlio inesperto** da una passione irrazionale, e degli **interessi della famiglia** da una cattiva alleanza.
+* **L'arbitrio del padre** è giustificato dalla **protezione** del **figlio inesperto** da una passione irrazionale, e degli **interessi della famiglia** riguardo una cattiva alleanza.
 * Critica il codice perché le **opposizioni dei genitori non possono più** essere usate come **misura dilatoria**.
 
 In materia di **potestà maritale**, aveva partecipato personalmente alla riforma:
@@ -267,26 +267,27 @@ In materia di **potestà maritale**, aveva partecipato personalmente alla riform
 
 **L'interesse oggettivo della famiglia** è il fondamento della disciplina dei **diritti paterni** secondo Rouast.
 
-I **doveri essenziali** includono il mantenimento e l'educazione, e per il loro adempimento sono previste le **prerogative accessorie** (diritto di consenso al matrimonio, amministrazione legale dei beni del figlio, emancipazione del figlio, designazione di un tutore testamentario).
+I **doveri essenziali** includono il **mantenimento e l'educazione** (fondato **sull'obbligo scolastico**), e per il loro adempimento sono previste le **prerogative accessorie** (diritto di consenso al matrimonio, amministrazione legale dei beni del figlio, emancipazione del figlio, designazione di un tutore testamentario).
 
 Le **prerogative essenziali** includono:
 
-* La **garde**, ossia la **educazione, cura materiale e sorveglianza** delle relazioni e della corrispondenza del figlio.
+* La **garde**, ossia la **educazione, cura materiale e sorveglianza** delle relazioni e della corrispondenza del figlio, era **sanzionata civilmente e penalmente**, e poteva terminare per **abbandono del figlio alla pubblica assistenza** o per **delega a terzi**.
 * Il **diritto di correzione**, che includeva anche il **potere di internamento**, sottoposto a **vaglio giudiziario generalizzato**.
 * **L'usufrutto legale** sui redditi del figlio.
 
-I **maltrattamenti**:
+I **maltrattamenti** secondo Rouast:
 
 * Oltre ai **maltrattamenti per commissione**, sono previsti gli **abusi per omissione**.
 * I **controlli pubblici** valutano i maltrattamenti, e possono ordinare la **decadenza totale o parziale** dalla potestà.
 
 La **supplenza all'autorità paterna**:
 
-* I genitori e le ragazze madri potevano abbandonare i figli alla pubblica assistenza.
-* Sulla base delle idee nataliste e ruraliste, i figli venivano collocati presso una famiglia rurale.
-* Gli assistenti sociali sorvegliavano ogni passo della procedura.
+* I genitori e le ragazze madri potevano **abbandonare i figli alla pubblica assistenza**, in maniera **volontaria e non definitiva**.
+* Sulla base delle idee nataliste e ruraliste, i figli venivano collocati presso una famiglia rurale, per garantire la sua salute ed evitare lo spopolamento delle campagne.
+* Completano la **scuola dell'obbligo**, un **apprendistato per un mestiere legato all'agricoltura**, e diventavano **domestici a pagamento** presso la famiglia, fino alla maggiore età o loro adozione.
+* Gli **assistenti sociali** sorvegliavano ogni passo della procedura.
 
-Nonostante le tendenze arcaizzanti, non ci fu mai una sovversione della famiglia.
+**Nonostante le tendenze arcaizzanti**, non ci fu mai una sovversione della famiglia.
 Lo **Stato si era definitivamente affermato come supplente** delle carenze dei genitori.
 
 ## 6.6. Padri comunisti, da Marx all'Unione Sovietica (154)
@@ -332,17 +333,17 @@ Il **codice sovietico della famiglia**:
 Si dà un **ruolo centrale alle madri**, sempre sotto il controllo statale.
 Rimane una certa **diffidenza verso il patriarcato** e la sua **incompatibilità con la società sovietica**.
 
-Il **rapporto fra genitori e figli non viene riformato** nel senso del recupero della tradizione, a differenza di altri ambiti.
-Ad es., il matrimonio.
+Secondo **Matteucci**:
 
-Secondo Matteucci, lo Stato ha dovuto reintrodurre il vincolo matrimoniale per contrastare gli aborti ed i figli abbandonati.
-Tuttavia, non vuole abbandonare il controllo diretto dell'educazione dei figli.
+* I genitori hanno solo in ruolo di curare i figli, e lo Stato può **avocare** i diritti dei genitori con un provvedimento amministrativo.
+* Lo **Stato ha dovuto reintrodurre il vincolo matrimoniale per contrastare gli aborti ed i figli abbandonati**.
+* Il **rapporto fra genitori e figli non viene riformato**, per evitare che si creino di nuovo gerarchie.
 
 I **figli devono ubbidire allo Stato, prima che alla famiglia**.
 Ad es., **Pavlik Morozov** denuncia il padre perché voleva prendere parte a dei moti, viene ucciso dai genitori, e viene nominato "eroe dell'Unione Sovietica".
 
-Nell'Unione Sovietica e negli altri paesi socialisti, il puerocentrismo si sono affermati per motivi principalmente politici.
-Il valore del figlio deriva dal fatto che nel futuro dovrà costruire il sistema socialista.
+Nell'Unione Sovietica e negli altri paesi socialisti, il **puerocentrismo** si sono affermati per **motivi principalmente politici**.
+Il **valore del figlio** deriva dal fatto che nel futuro dovrà **costruire il sistema socialista**.
 
 ## 6.7. Zadruga slava e kanun albanese (157)
 
@@ -387,7 +388,7 @@ Con il **regime comunista**:
 **L'organizzazione familiare albanese** era fondata sulla coabitazione di più coppie imparentate.
 
 Il **capo di casa** è il maschio più anziano.
-Poteva essere sostituto per gravi manchevolezze dal consiglio di famiglia, composto dai maschi maggiorenni.
+**Poteva essere sostituto per gravi manchevolezze dal consiglio di famiglia, composto dai maschi maggiorenni**.
 Può erogare **pene corporali**, e gli è dovuta **obbedienza assoluta**.
 
 Il **kanun** è una **raccolta di consuetudini locali** in Albania, che dimostrano un **assetto sociale arcaico**.
@@ -412,9 +413,9 @@ Il **figlio**:
 
 * Se **uccide il padre** viene ucciso o esiliato dai parenti.
 * Può **allontanarsi da casa**, ma **perde il diritto all'eredità**.
-* Il **figlio primogenito** eredita il governo della casa.
+* Il **figlio primogenito eredita il governo della casa**.
 * Diventa **maggiorenne** quando può **portare le armi**.
-* Se è **adulto e capo di casa**, è libero nella scelta matrimoniale.
+* Se è **adulto e capo di casa, è libero nella scelta matrimoniale**.
 * Le **figlie** devono **sempre rimettersi** alla decisione del **padre**, congiunto maschio prossimo, madre, o sorelle.
 * Può essere **promesso in matrimonio anche se nascituro**.
 
@@ -423,11 +424,11 @@ Il **figlio**:
 La **seconda guerra mondiale** accelera l'abbandono dei tradizionali elementi del patriarcato.
 Si afferma:
 
-* Il puerocentrismo.
-* L'uguaglianza dei genitori, la scomparsa del "capo famiglia" e la divisione dei ruoli.
-* L'intervento giudiziale nell'interesse del minore e la partecipazione del figlio alle decisioni che lo interessano.
-* L'annichilimento dello ius corrigendi.
-* La deistituzionalizzazione, privatizzazione, individualizzazione del matrimonio e relazioni familiari.
+* Il **puerocentrismo**.
+* **L'uguaglianza dei genitori**, la **scomparsa del "capo famiglia" e della divisione dei ruoli**.
+* **L'intervento giudiziale nell'interesse del minore** e la **partecipazione del figlio alle decisioni che lo interessano**.
+* **L'annichilimento dello ius corrigendi**.
+* La **deistituzionalizzazione, privatizzazione, individualizzazione del matrimonio e relazioni familiari**.
 
 La **scelta del cognome** è un elemento emblematico dei cambiamenti sociali.
 
@@ -451,7 +452,7 @@ Nella **riforma del diritto di famiglia italiano del 1975**:
 Nella nuova prospettiva puerocentrica:
 
 * I **genitori non** sono più titolari di un **diritto**, ma di un **dovere**.
-* I **confini dei poteri dei genitori** sono dati dal **principi fondamentali dell'ordinamento**, che includono anche la Costituzione.
+* I **confini dei poteri dei genitori** sono dati dal **principi fondamentali dell'ordinamento**, che includono anche la **Costituzione**.
 * Lo **Stato** è il **garante dei diritti del minorenne**, considerato "parte debole".
 
 Il **potere correzionale** è limitato alla **educazione**, e **non può consistere in forme di violenza**.

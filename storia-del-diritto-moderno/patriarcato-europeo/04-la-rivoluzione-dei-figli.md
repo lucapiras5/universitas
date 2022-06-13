@@ -225,12 +225,16 @@ Si **utilizza di nuovo il termine "potestà"**:
 * Secondo **Albisson**, serve a dimostrare il ritorno ai valori tradizionali.
 * Viene criticato perché è una norma etica, propagandistica e programmatica, ma non giuridica.
 
-Nel codice si cerca di **avvicinare la potestà alla tutela**.
-Non è una decisione eversiva, ma recupera le **consuetudini di antico regime**.
+Oltre alla ripresa della tradizione, ci sono anche elementi ripresi dalla rivoluzione.
+**Il codice cerca di avvicinare la potestà alla tutela**.
+Non è un disegno eversivo, ma era legato alle **consuetudini di antico regime**.
 
-**Cambacérès** definiva i **genitori come "tutori"** dei figli, titolari di un **mero potere di amministrazione**.
+**Cambacérès** aveva definito i **genitori come "tutori"** dei figli, titolari di un **mero potere di amministrazione**.
 Nei secoli, si era distorto nell'esclusivo tornaconto dell'amministrante.
-In caso di **morte di uno dei genitori**, il **codice napoleonico** rendeva il **genitore sopravvissuto un mero tutore**.
+
+Il **codice napolenico** recupera una soluzione di **antico regime**, ed in caso di **morte di uno dei genitori** il **genitore sopravvissuto diventa un mero tutore**.
+
+Il **Chardon** pubblica un saggio sulle tre potestà (civile, paterna e tutelare).
 
 La famiglia napoleonica è fondata sulla **patria potestà**.
 
@@ -269,7 +273,7 @@ Nel modello austriaco, si tende verso la **valorizzazione degli interessi pubbli
 **Non è tanto centrale** come nel codice francese.
 **L'individualismo kantiano** ha prevalso sulla tradizione familista.
 
-Il contenuto della **patria potestà** (§141, 142):
+Il contenuto della **patria potestà** (§141, §142):
 
 * È **principalmente finalizzata a scopi educativi**.
 * I **contenuti dell'educazione** sono **in parte fissati per legge**, soprattutto per la **religione**.
@@ -359,4 +363,4 @@ Secondo il **De Margherita**:
 * Alcuni Stati conservano la **patria potestà perpetua**.
 * Altri la fanno **cessare dopo una età superiore alla maggiore età**.
 
-**Nella seconda metà dell'ottocento** la seconda soluzione sarà considerata una arbitraria e sarà **definitivamente superata**.
+**Nella seconda metà dell'ottocento** la seconda soluzione sarà considerata arbitraria e sarà **definitivamente superata**.

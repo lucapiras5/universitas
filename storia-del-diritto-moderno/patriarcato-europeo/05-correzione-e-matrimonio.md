@@ -6,15 +6,15 @@ vim: spell:spelllang=it
 
 ## 5.1. Correzione e garanzie domestiche in Francia tra rivoluzione e bonapartismo (117)
 
-Il potere di incarcerazione si era conservato nell'antico regime.
+Il **potere di incarcerazione** si era conservato nell'antico regime.
 
 Le "**lettres de cachet**" permettevano ai padri di **incarcerare i figli per qualsiasi motivo**.
 Ad es., disordine sessuale, finanziario, motivi connessi alle scelte matrimoniali.
 
 Il **mantenimento del figlio incarcerato** era a **spese del padre**.
 
-Durante gli anni della Rivoluzione viene meno il consenso sociale per il potere di incarcerazione.
-Per limitare il potere dei padri e democratizzare le relazioni familiari si cerca di far rivivere l'istituto dei **tribunali di famiglia**.
+Durante gli **anni della Rivoluzione viene meno il consenso sociale per il potere di incarcerazione**.
+Per **limitare il potere dei padri e democratizzare le relazioni familiari** si cerca di far rivivere l'istituto dei **tribunali di famiglia**.
 Le lamentele dei padri vengono esposte davanti ad un tribunale composto di membri della famiglia ed eventualmente amici e vicini.
 
 Esistono **due modelli alternativi** di giustizia domestica:
@@ -32,13 +32,13 @@ La **richiesta di internamento** era rimessa alla valutazione del **tribunale di
 * Saranno **soppressi** nel 1796, nel programma di eliminazione di qualsiasi tribunale eccezionale.
 * Cambacérès si opporrà alla loro reintroduzione.
 
-Dopo il Termidoro, la disciplina diventa più severa.
+**Dopo il Termidoro**, la disciplina diventa più severa.
 Nel **progetto di codice civile** si prevede per il **padre o madre sopravvissuta** il potere di **incarcerazione per gravissimo malcontento**.
 La norma viene criticata:
 
-* Si richiedono maggiori garanzie per i figli.
-* Si critica l'assimilazione dei figli alla delinquenza comune.
-* Si richiede l'introduzione di istituti dedicati alla rieducazione, che non abbiano il marchio infamante del carcere.
+* Si richiedono **maggiori garanzie** per i figli.
+* Si critica **l'assimilazione dei figli alla delinquenza comune**.
+* Si richiede l'introduzione di **istituti dedicati alla rieducazione**, che non abbiano il marchio infamante del carcere.
 
 Il **codice civile definitivo** prevede il **potere di incarcerazione** del figlio, ma aggiunge delle **garanzie formali**:
 
@@ -53,7 +53,7 @@ Viene ricavato per via interpretativa, per i **motivi non gravi di disgusto**.
 Il **codice non menziona ipotesi di abuso della patria potestà**.
 I codificatori presupponevano un padre ideale, incarnazione della ragione, ed un minore equiparato ad un interdetto.
 
-**Nel codice penale del 1791**, le **lesioni procurate ai figli minori di 16 anni** era un reato sanzionate specificamente.
+**Nel codice penale del 1791**, le **lesioni procurate ai figli minori di 16 anni** erano un reato sanzionate specificamente.
 
 **Nel codice penale dell'età napoleonica**:
 
@@ -61,16 +61,23 @@ I codificatori presupponevano un padre ideale, incarnazione della ragione, ed un
 * La **decadenza dalla patria potestà** è prevista contro i genitori che suscitano o incoraggiano il malcostume dei figli, ma l'interesse protetto è la **responsabilizzazione dei genitori**, e **non la protezione dei figli**.
 
 Nonostante i tentativi della giurisprudenza, la **situazione del figlio peggiora**.
-**Nell'antico regime**, si prevedevano controlli e moderazione **sull'abuso dei poteri** e **l'inadempimento degli obblighi** della patria potestà.
+**L'antico regime** prevedeva un'azione giudiziaria di **controllo e moderazione sull'abuso dei poteri e l'inadempimento degli obblighi** della patria potestà.
+
+La giurisprudenza **ha pochi e deboli argomenti** per colmare il vuoto giuridico:
+
+* La **ratio di protezione del minore** implicita nella patria potestà.
+* I **precedenti della giurisprudenza di antico regime**.
+* L'intenzione dei codificatori.
+* **L'analogia** con l'art. 444 c.c. che prevede la **destituzione del tutore per abusi**.
 
 Riguardo il **trattenimento della prole nella casa paterna**:
 
 * Il figlio **non poteva lasciare la casa paterna o intraprendere viaggi senza il consenso del padre**.
-* Raggiunta una certa età, il figlio può **arruolarsi liberamente**, ma nel 1832 si richiede il **consenso del padre** per il figlio minore di 20 anni.
+* Raggiunta una certa età, il **figlio ancora in potestà può arruolarsi liberamente**, ma nel 1832 si richiede il **consenso del padre** per il figlio minore di 20 anni.
 
 Una **minoranza giurisprudenziale e dottrinale** cercava di **tutelare i figli fuggiaschi per abusi** subiti dal padre.
 
-La **piena previsione della decadenza per abuso** viene introdotta nel 1889.
+Per la **piena previsione della decadenza per abuso** serve una **riforma legislativa**, che viene introdotta nel 1889.
 
 Il **potere di incarcerazione**:
 
@@ -82,8 +89,8 @@ Il **potere di incarcerazione**:
 
 L'ABGB prevede:
 
-* §144: il diritto dei genitori di dirigere le azioni dei figli.
-* §145: di rintracciare i figli e ricondurli a casa, e di **castigarli senza danno alla loro salute** se disobbedienti.
+* §144: il diritto dei genitori di **dirigere le azioni dei figli**.
+* §145: di rintracciare i figli e **ricondurli a casa**, e di **castigarli senza danno alla loro salute** se disobbedienti.
 
 **L'abuso della patria potestà** è regolato in dettaglio.
 
@@ -103,7 +110,7 @@ Gli **abusi sono sanzionati anche dal diritto penale**:
 Il **pubblico interesse** è dimostrato **dall'avvio di ufficio** della procedura.
 
 Se i **genitori non** riescono a mantenere la **disciplina domestica**, possono chiedere **l'intervento delle pubbliche autorità**.
-Le autorità devono rimuovere il disordine, e applicare il rimedio che è più conveniente ed efficace.
+Le autorità devono **rimuovere il disordine, e applicare il rimedio** che è più conveniente ed efficace.
 
 Lo Statualismo austriaco prevedeva:
 
@@ -260,10 +267,10 @@ Includeva i casi del **matrimonio del figlio ribelle**, e di **motivi politici**
 
 Nel **codice civile napoleonico**:
 
-* Nel **progretto** era ancora prevista la **disposizione ufficiosa**, con cui il padre poteva privare il figlio sposato e con prole, ma **notevolmente dissipatore**, della nuda proprietà, a **favore esclusivo dei nipoti**.
+* Nel **progetto** era ancora prevista la **disposizione ufficiosa**, con cui il padre poteva privare il figlio sposato e con prole, ma **notevolmente dissipatore**, della nuda proprietà, a **favore esclusivo dei nipoti**.
 * Nel **codice definitivo non** sono presenti forme di **diseredazione**, e si prevede solo una **quota disponibile** intermedia fra quella del diritto rivoluzionario, e di antico regime.
 
-**In Austria**. le **cause di diseredazione erano indicate tassativamente**:
+**In Austria**, le **cause di diseredazione erano indicate tassativamente**.
 Secondo il §768, si applica se il figlio:
 
 * È **apostatato** dalla religione cristiana.
@@ -293,5 +300,5 @@ La **legittima**:
 
 Alla **metà del secolo**:
 
-* Si **revisiona** il regime della disponibile.
+* Si **revisiona** il regime della quota disponibile.
 * Il **codice civile unitario abroga** definitivamente la **diseredazione**, ed il **padre perde** il potere "regale" di **scegliere il suo successore**.

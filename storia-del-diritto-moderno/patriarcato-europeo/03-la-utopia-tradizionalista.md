@@ -57,7 +57,7 @@ Le **monarchie di diritto divino**:
 
 * Sono la forma ideale di governo.
 * Condividono la funzione stabilizzatrice della famiglia rurale.
-* Il **diritto di primogenitura** nelle famiglie è considerato la conseguenza naturale della successione regia.
+* Le **famiglie rurali sono fondate sulla patria potestà ed il diritto di primogenitura**, che è considerato la conseguenza naturale della successione regia.
 
 La **famiglia industriale**:
 
@@ -67,15 +67,15 @@ La **famiglia industriale**:
 
 ## 3.3. Antonio Rosmini (78)
 
-**Rosmini** è una figura complessa, che combina tradizionalismo e liberalismo:
+**Rosmini** è una **figura complessa**, che combina **tradizionalismo e liberalismo**:
 
 * Vuole **garantire la centralità della famiglia**, ma al tempo stesso considera il padre come un **mediatore fra autorità e libertà**.
 * **Rifiuta** il **modello familista** di antico regime, e la **massificazione democratica** ed il **dispotismo statalista**.
 
 Critica:
 
-* La **restrizione eccessiva della patria potestà**, e l'eccesso di diritti per i figli, affermando che l'azione dello Stato si deve limitare a difendere la famiglia.
-* L'assimilazione delle figure di **padre e principe**, perché altrimenti si rischia un **assolutismo** che **priva i sudditi dei loro diritti**.
+* La **restrizione eccessiva della patria potestà, e l'eccesso di diritti per i figli**, affermando che l'azione dello Stato si deve limitare a difendere la famiglia.
+* **L'assimilazione delle figure di padre e principe**, perché altrimenti si rischia un **assolutismo** che **priva i sudditi dei loro diritti**.
 * La **Dichiarazione dei diritti francesi**, perché **esclude i diritti della famiglia dalla costituzione**, e nel dichiarare la libertà degli uomini non tiene conto del fatto che gli uomini **nascono in una famiglia**.
 
 Vuole **superare l'individualismo**, e ristabilire la **famiglia-istituzione**, con **propri interessi** distinti da quelli dei singoli membri.
@@ -86,8 +86,8 @@ I figli sono considerati contemporaneamente **cosa degli uomini** e **cosa di Di
 I genitori si sentono di essere **proprietari** dei figli:
 
 * Il **diritto di proprietà** si **riduce fino ad estinguersi** con il crescere del figlio.
-* Il **potere paterno** inizialmente è **tirannico** verso il figlio-cosa.
-* Nel tempo si riduce a **governativo**, ed è esercitato per il bene della famiglia.
+* Il **potere paterno inizialmente è tirannico** verso il figlio-cosa.
+* **Nel tempo si riduce a governativo**, ed è esercitato per il bene della famiglia.
 
 I genitori sono una **persona collettiva** per l'unione matrimoniale.
 Hanno la **comproprietà sui figli**, ed i loro **poteri** sono **astrattamente analoghi**, ma differiscono nella pratica.
@@ -107,7 +107,7 @@ Si ammette **l'esclusione dal nucleo familiare**.
 
 I **limiti temporali dei poteri paterni**:
 
-* I diritti legati alle **relazioni di sangue** sono **perpetui**, sono numerosi, ed includono oltre al diritto al rispetto ed assistenza anche poteri punitivi.
+* I **diritti legati alle relazioni di sangue** sono **perpetui**, sono numerosi, ed includono oltre al diritto al rispetto ed assistenza anche **poteri punitivi**.
 * Gli **altri diritti** terminano con la **creazione di una propria famiglia**.
 
 ## 3.4. Luigi Taparelli D'Azeglio (80)
@@ -118,7 +118,7 @@ La sua opera viene insegnata nelle scuole.
 Taparelli si **oppone all'individualismo**, e **fonda la preminenza paterna sulla necessità di un superiore**.
 Lo **stato naturale** definito da Dio prevede che il figlio obbedisca ed il padre comandi nella società coniugale e domestica.
 
-La **generazione, coabitazione, educazione e continuazione della stirpe** fondano i poteri del padre.
+La **generazione, coabitazione, educazione e continuazione della stirpe fondano i poteri del padre**.
 Il padre viene visto come un **padrone** per quanto riguarda il raggiungimento degli scopi familiari.
 
 Il **governo della famiglia è monarchico**, ed è modellato su quello dello Stato.
@@ -151,8 +151,8 @@ La **educazione dei figli**:
 
 In materia di **educazione religiosa**, si prevede **l'intervento dello Stato** in caso di **corruzione della prole**:
 
-Se il padre non è cattolico, il figlio cattolico può essere tutelato dallo Stato anche contro la volontà del padre.
-Se il padre è cattolico, ma corrompe la fede del figlio, deve essere punito.
+* Se il padre non è cattolico, il figlio cattolico può essere tutelato dallo Stato anche contro la volontà del padre.
+* Se il padre è cattolico, ma corrompe la fede del figlio, deve essere punito.
 
 ## 3.5. Cultura preunitaria (82)
 
@@ -190,7 +190,7 @@ I figli devono essere educati al **rispetto per l'autorità**.
 
 Si riconosce la necessità di una **famiglia solida**, ma in cui **prevale un'ottica individualista**.
 
-Secondo **Pellico e Mazzini** la famiglia deve essere **disciplinata in senso egualitario**, e **subordinata rispetto agli obblighi verso la ;patria**.
+Secondo **Pellico e Mazzini** la famiglia deve essere **disciplinata in senso egualitario**, e **subordinata rispetto agli obblighi verso la patria**.
 
 Cantù criticava l'emancipazione legale dei figli maggiorenni dalla famiglia.
 
@@ -260,7 +260,7 @@ I genitori devono educare i figli secondo i **valori dello Stato**, e se non pos
 La società ha il **diritto e dovere** di proteggere i **diritti dei bambini**, tra cui l'educazione.
 
 Hegel afferma la necessità **dell'obbligo scolastico**.
-Secondo i **tradizionalisti**, **l'istruzione pubblica** era vista come una **conseguenza della Rivoluzione francese**.
+Secondo i **tradizionalisti, l'istruzione pubblica** era vista come una **conseguenza della Rivoluzione francese**.
 
 Il **potere dei genitori** è **legittimato** dalla sua funzione di **realizzare la società pubblica**:
 

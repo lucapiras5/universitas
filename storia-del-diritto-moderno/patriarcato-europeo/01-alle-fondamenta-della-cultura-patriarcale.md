@@ -9,7 +9,7 @@ vim: spell:spelllang=it
 I dibattiti che si susseguiranno nei secoli sulla figura paterna riguardano le sue fondamenta naturali.
 Secondo la concezione tradizionale, la figura del padre è sempre esistita.
 
-Secondo l'antropologia moderna, nella preistoria:
+Secondo l'antropologia moderna, **nella preistoria**:
 
 * **Non** esisteva il **patriarcato o la famiglia**.
 * Esistevano solo modelli associativi basati sul **matriarcato**, ed una **religiosità** basata sul sulla **fecondità femminile**.
@@ -17,7 +17,7 @@ Secondo l'antropologia moderna, nella preistoria:
 Nel **neolitico** avviene il pieno riconoscimento della **figura paterna come co-protagonista della creazione**.
 Così inizia un lento processo di evoluzione del modello familiare.
 
-Nei modelli medio-orientali, la società è fermamente patriarcale, ma:
+Nei **modelli medio-orientali**, la società è fermamente patriarcale, ma:
 
 * Vengono conservate tracce del passato matriarcale. Ad es., se il figlio disconosce la madre, è soggetto ad una sanzione meno grave che se disconosca il padre.
 * Sono previste garanzie minime. Ad es., la diseredazione richiede il controllo giudiziale.
@@ -35,7 +35,7 @@ La **famiglia** è indicata come **casa del padre**, ed era **fortemente patriar
 Insieme ai poteri, il padre-patriarca era **gravato da una serie di obblighi**:
 
 * Il **mantenimento** in generale.
-* La cerimonia di c**irconcisione**.
+* La cerimonia di **circoncisione**.
 * **L'insegnamento della Torah e di un mestiere**.
 * La **ricerca di un matrimonio** per il figlio, la **costituzione della dote** per le figlie.
 
@@ -248,7 +248,7 @@ Le **sanzioni** includevano:
 * La **condanna a lavori forzati**.
 * La **abdicazione**, che **non era parte del diritto romano**, ma era diffusa in alcune province, e prevedeva la **diseredazione, espulsione dal casato e perdita del nome**
 
-Il **caso più frequente** di giustizia domestica riguardava il **matrimonio**.
+La **materia più frequente** di giustizia domestica riguardava il **matrimonio**.
 Ad es., il rifiuto di ripudiare il coniuge, il rifiuto di uccidere la madre adultera, etc.
 
 È presenta un caso forse immaginario di un adolescente che **accoglieva e manteneva** i figli abdicati dai padri.
