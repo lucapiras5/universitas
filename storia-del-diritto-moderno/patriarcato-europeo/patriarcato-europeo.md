@@ -113,116 +113,142 @@ vim: spell:spelllang=it
 
 # 2. Norme e cultura del patriarcato europeo
 
-**Educazione dei figli**: madre (infanzia, figlie più a lungo), padre (adolescenza, moderazione).
+**Educazione dei figli**:
 
-**Scienze aristoteliche**: economica (casa), etica (individuo), politica (società civile).
+* **Dovere del padre**: mantenimento, educazione (correzione moderata).
+* **Educazione della madre**: educazione figli (durante l'infanzia), figlie (più a lungo).
+* **Pedagogia medioevale**: moderazione, evitare permissivismo.
+
+**Scienza medioevale del padre di famiglia**:
+
+* **Scienze aristoteliche**: economica (casa), etica (individuo), politica (società civile).
+* **Aristotele**: menziona economica, sviluppata da autori successivi.
 
 **Tommaso d'Aquino**:
 
-* **Ripartizione economica**: dispotica (servi, arbitrio), paterna (figli, affetto), coniugale (moglie, governatore di città).
-* **Figlio e servi**: parte del padre, giustizia diversa.
-* **Autorità padre**: sorta di re, potestà correzionale imperfetta (divieto pene irreparabili, potestà perfetta del re).
+* **Potere paterno**: economia (casa come termine intermedio fra individuo e civitas), vagamente simile a quello regio (potestà imperfetta del padre).
+* **Economia e destinatari**: servi (dispotica, arbitrio), figli (paterna, affetto), moglie (coniugale, governatore di città).
+* **Figlio**: distinto ma parte del padre, giustizia adattata al figlio.
+* **Famiglia come comunità imperfetta**: padre (sorta di re), fine perseguito (bene civitas), comandi (non hanno autorità di legge), potestà correzionale (imperfetta, divieto pene irreparabili).
 
-**Potestà paterna come modello istituzionale**:
+**Padre e principe**:
 
-* **Ubbidienza**: figli obbediscono a padre, sudditi obbediscono al re.
-* **Doveri**: padre (re) migliora le condizioni di vita e protegge i figli (sudditi).
-* **Patrimonio**: marito (re) non può vendere i beni dotali (beni dello Stato).
-* **Padre comune**: Re come padre comune, opinione del re prevale su quella del padre in caso di dissenso nel matrimonio.
-* **Autorità domestica**: ogni padre è re in casa propria.
-* **Tirannia**: tiranni privati (estirpabili dal re), tiranni pubblici.
-* **Reati**: parricidio e lesa maestà sono equiparate.
+* **Canonisti**; Graziano (potere di disciplinare comune a vescovo, padre, giudice, re).
+* **Legisti**: termine "potestas" (usato in società civile, familiare, padronale), Bartolo da Sassoferrato (iurisdictio domestica, subordinata a potere pubblico).
+* **Confronto re e padre**: ubbidienza (prevale re), mantenimento (sudditi e figli), matrimonio (regni meridionali, re come padre comune, supplisce a dissenso), integrità patrimonio (divieto di vendita dei beni pubblici e dotali), reati (equiparazione lesa maestà e parricidio, rimessione ingiuria).
+* **Autorità domestica**: brocardo "ogni padre è re in casa propria".
+* **Tirannia**: tiranni pubblici, privati (estirpabili dal re).
 
-**Rinascimento**: tendenze opposte (rafforzamento potestà, moderazione in pedagogia).
+**Rinascimento**:
 
-**Erasmo da Rotterdam**: anticipazione emancipazione, critica contro castighi fisici, divisione patrimonio in vita.
-
-**Autori utopistici**: Campanella (dissoluzione famiglia), Thomas More (soggezione assoluta figli), Winstanley (apprendistato per il padre)/
+* **Tendenze opposte**: assolutismo (rafforzamento potestà), pedagogia (moderazione, maggiore ruolo della madre).
+* **Erasmo da Rotterdam**: "liber" (figlio, libero), emancipazione (anticipazione, trattare figli con dignità di uomini liberi), castighi fisici (critica fondamenta bibliche), patrimonio (divisione in vita, per equità spontanea).
+* **Altri autori**: modello di padre (affettuoso, non dispotico), Ayrault (figlio convertito dai Gesuiti, recupero patria potestà).
+* **Autori utopistici**: Campanella (dissoluzione famiglia), Thomas More (soggezione assoluta figli), Winstanley (apprendistato per il padre, educazione figli).
 
 **Padri e religione**:
 
-* **Padri cattolici**: moderazione (modica correzione fisica, evitare padri troppo permissivi o severi).
-* **Padri protestanti**: crollo gerarchia cattolica, padri considerati sacerdoti, rapporto di sottomissione (Calvino).
-* **Padri ebrei**: procreazione come momento che legittima la patria potestà.
+* **Padri cattolici**: moderazione patria potestà (San Giuseppe come padre ideale, correzione fisica solo se necessaria e moderatamente, evitare estremi).
+* **Padri protestanti**: Marcuse (crollo gerarchia cattolica, padri sacerdoti, impostazione autoritaria), autorità secolari (sottomissione imparata in famiglia).
+* **Calvino** sottomissione contrasta con natura uomo, uso frequente modici poteri correzionali, concezione biblicista.
+* **Padri ebrei**: procreazione (legittima la patria potestà), moglie (potestà su figli adulti, potere di incarcerazione).
+* **Giurisprudenza francese cinquecentesca**: sanziona maltrattamenti (padre che batte figlia), incarcerazione (ammessa, divieto maltrattamenti, non richiede motivazione, richiesta di liberazione dei parenti prossimi).
+* **Chiesa cattolica**: Concilio di Trento (contro volontà principi, validità matrimonio senza consenso del padre, tutela sacramento e consensualità).
+* **Chiesa protestante**: favorevole a volontà principi, Calvino (annullamento del matrimonio contro volontà padre, atti rispettosi perpetui).
 
-**Glossatori**: recupero del diritto romano.
 
 **Azzone**:
 
-* Costituzione patria potestà: matrimonio, sentenza, adozione, ingratitudine.
-* Effetti giuridici: patrimoniali, processuali, alimenti (rapporto di filiazione).
-* Emancipazione: allentamento, presenza e volontà parti, giurisdizione volontaria, obbligatoria (abusi).
+* **Glossatori**: recupero diritto romano.
+* **Potestà**: vincolo (soggezione, riverenza, castigo, pietà).
+* **Costituzione**: matrimonio legittimo, sentenza definitiva, adozione, ingratitudine.
+* **Effetti giuridici**: patrimoniali (acquisti), processuali (divieto giudizi), alimenti (non effetto giuridico, ma conseguenza del rapporto di filiazione).
+* **Emancipazione**: allentamento potestà, requisiti (presenza e volontà di entrambe le parti, giurisdizione volontaria, forma scritta), mancanza volontà parti (abdicazione, emancipazione coatta per abusi).
 
-**Baldo degli Ubaldi**: materia di diritto pubblico.
+**Patria potestà**:
 
-**Potestà e tutela**:
-
-* **Potestà**: nell'interesse del padre, non è limitata alla minore età, non prevede rendiconto, unico limite (divieto alienazione beni).
-* **Altri popoli**: maggiore autonomia a figli.
-
-**Diritto locale**: verità giuridica e volgare, rilevanza allo stato di figlio.
+* **Natura**: materia di diritto pubblico (emancipazione richiede giudice).
+* **Differenze con tutela**: perpetua, nell'interesse del padre, non prevede oneri e condizioni, divieto alienazione beni.
+* **Altri popoli**: giuristi consapevoli della particolarità della patria potestà romana.
+* **Diritto volgare**: scontro con diritto dotto, rilevanza stato di figlio (cariche pubbliche, cautele processuali, affidamento creditori), alcuni giuristi (fanno prevalere, ordine di natura).
 
 **Affetto tra genitori e figli**:
 
-* **Legge**: impone di amare i genitori, non impone di amare i figli (dato per scontato).
-* **Madre**: maggiore influenza su educazione figlie, sostituita dal padre.
-* **Presunzioni**: interpretazione atti privati, padre prende decisioni migliori per figli (non correggibile), amore paterno insuperabile (minaccia di tortura al figlio), preferenza (figli maschi a femmine, figli a moglie).
-
-**Controversie fra genitori e figli**: risoluzione domestica, tribunali (casi più gravi).
+* **Alfonso X**: impone di amare i genitori, non impone di amare i figli (dato per scontato, debito di natura).
+* **Tommaso d'Aquino**: figli devono preferire padre a madre (principio agente, paziente).
+* **Madre**: giuristi bassomedioevali (maggiore importanza madre), opinione comune (può educare solo le figlie, dopo la morte del marito ha solo tutela sui figli).
+* **Presunzioni**: padre prende decisioni migliori per figli (non può essere corretto), amore paterno insuperabile (minaccia di tortura al figlio rende confessione invalida), preferenze (figli maschi a femmine, figli a moglie).
+* **Funzione presunzioni**: conseguenze giuridiche, interpretazione atti privati.
+* **Baldo degli Ubaldi**: rapporti madre e figlio (minori poteri madre, risoluzione domestica, tribunali solo per casi più gravi).
 
 **Potere correzionale**:
 
-* **Intento**: istruire ed ammonire, Bartolo (strumento, modalità e ceto, differenza intento lecito o criminoso).
-* **Limiti**: stabiliti da statuti (sangue, morte o lesione integrità fisica, modalità comunemente accettate, etc.).
+* **Moderazione**: padri hanno potere correzionale limitato (pene più gravi vanno richieste a giudice), causa giustificatrice (pietas e rieducazione).
+* **Bartolo**: differenza fra punizione e reato (strumento, modalità di castigo, ceto).
+* **Statuti**: limite pene (sangue, morte o lesione integrità fisica, modalità comunemente accettate, etc.).
 * **Titolarità**: più soggetti (marito, padre, maestro, abate, etc.).
-* **Punzioni**: castigo corporale, incarcerazione, navi o triremi, ergastolo, espulsione con rifiuto alimenti.
-* **Presunzione a favore padre**: in caso di punizioni atroci, adulterio della figlia (padre agisce per pietà, marito agisce per ira).
+* **Requisiti**: oggettivo (moderazione, proporzione a gravità), soggettivo (intento di correggere, non ira).
+* **Punzioni**: rimproveri, castigo corporale (strumenti adeguati), incarcerazione domestica (eccezione a reato di carcere privato), permanenza su navi o triremi, ergastoli pubblici, espulsione con rifiuto alimenti.
+* **Presunzione a favore padre**: in caso di punizioni atroci (lesione integrità o vita), adulterio della figlia (padre agisce per pietà, marito agisce per ira).
 * **Discolato**: discoli (inclusi figli ribelli), arruolamento militare coatto, denuncia (polizia, padre, sacerdote).
 * **Resistenza**: vietata, giustifica uccisione.
 * **Incarcerazione**: peccati (dissipatezza e lussuria), in casa (eccezione a divieto carcere privato), carceri pubblici (nuda asserzione padre).
+* **Emancipazione coatta**: eccessi paterni contro figli, richiesta al giudice.
+* **Russia**: potere correzionale severo, richiami biblici.
+* **Statuti comunali**: potere di correzione (vari titolari), richiesta di incarcerazione o mantenimento in casa (non richiede prove, basta nuda asserzione padre).
+* **Espulsione**: sempre prevista.
 
 **Pietro Leopoldo**:
 
-* **Polizia**: controllo ordine pubblico (notizie ad aventi potestà, sanzioni corporali), sostegno ad ordine domestico (prevenzione liti, supplenza a padri).
-* **Internamento**: controllo giudiziario, procedimento d'ufficio solo in casi gravi, struttura ad hoc diversa da carcere (finalità rieducative).
+* **Polizia**: informano aventi potestà su cattiva condotta, sanzioni (corporali, pochi giorni di carcere), sostegno a famiglie (prevenzione litigi, aiuto a padri).
+* **Internamento**: controllo giudiziario generale, procedimento d'ufficio (reati particolari, prove gravi), struttura (diversa da carcere, con finalità rieducative).
 
 **Emancipazione**:
 
-* **Fattori**: età del figlio, esercizio mercatura (atto notarile), separata economia (presunzione di emancipazione), matrimonio (figlia).
+* **Fattori**: età del figlio, esercizio mercatura (atto notarile), separata economia (limita esercizio patria potestà, presunzione di emancipazione), matrimonio (figlia).
 * **Modalità tradizionali**: emancipazione volontaria, emancipazione coatta, morte naturale o civile del padre, conferimento uffici e dignità.
-* **Premio dell'emancipazione**: tradizione romana (compenso), germanica (anticipazione eredità).
-* **Requisiti**: volontà delle parti (contro la volontà del figlio), formalità solenni.
-* **Emancipazione sassone**: condotta (allontanamento da casa, separata economia, matrimonio), pazienza del padre (mancato uso potestà), prescrizione (termine indicato in statuti).
+* **Premio dell'emancipazione**: tradizione romana (compenso per perdita eredità), germanica (anticipazione eredità).
+* **Abdicazione**: emancipazione contro volontà del figlio, atto contro natura, richiede formalità solenni.
+* **Emancipazione sassone**: condotta (allontanamento da casa, separata economia, matrimonio), pazienza del padre (mancato uso potestà), prescrizione (termine indicato in statuti), atto notarile (formalizza emancipazione).
 * **Ingratitudine**: ingiuria con parole o atti, rientro sotto potestà.
 * **Emancipazione coatta**: gravi abusi paterni (punizioni contro natura, obbliga figli a peccare).
 
-**Atti rispettosi**:
+**Controllo matrimoniale**:
 
-* **Origine**: antico regime, mantenuti in codice napoleonico, non adottati in Italia.
-* **Funzione**: bilanciamento libertà matrimoniale (dopo certa età) e controllo genitoriale (familismo, omogamia cetuale, volontà dei figli ritenuta viziata da passione).
-* **Autorità**: padri (esercizio ragionevole), autorità pubbliche (a supporto o correzione padri).
-* **Sanzioni**: matrimoni di disparaggio, senza consenso.
-
-**Ratto di seduzione**: matrimonio senza consenso (implica ratto di seduzione, esclusione volontà moglie).
+* **Atti rispettosi in Francia**: originati nell'antico regime, mantenuti nel codice napoleonico.
+* **Atti rispettosi in Italia**: scarso successo durante la Restaurazione (codice civile napoletano, austro-estense), abbandonati da codice civile unitario.
+* **Controllo libertà matrimoniale**: matrimonio come strumento per alleanze e transazioni, autorità pubbliche (sostegno padri, sanzione matrimoni).
+* **Volontà figli**: intrinsecamente viziata, padre esercita potestà in maniera ragionevole, pericolo libertà matrimoniale.
+* **Sanzioni**: civili e penali, matrimoni di disparaggio e senza consenso.
+* **Paesi protestanti**: consenso sempre necessario.
+* **Ratto di seduzione**: matrimonio della figlia senza consenso paterno, presunzione impedimento dirimente (mancanza volontà moglie).
 
 **Concilio di Trento**:
 
-* **Opposizione Chiesa a certe strategie familiste**: imposizione di celibato per motivi non religiosi, dissoluzione matrimoni già conclusi.
-* **Prima di Trento**: dibattito su necessità consenso genitori, promessa in matrimonio figlio non adulto.
+* **Chiesa**: tutela libertà matrimoniale (contro legislatore secolare), opposizione a imposizione celibato per motivi non religiosi, dissoluzione di matrimoni già conclusi.
+* **Prima di Trento**: Graziano (promessa figli non ancora adulti), Pietro Lombardo (non serve consenso, matrimonio come materia spirituale, maggiore età per materia spirituale).
 * **Canone Tametsi**: matrimonio senza consenso padre lecito, consenso ha solo rilevanza morale, reinterpretazione canoni precedenti, abrogazione leggi laiche contrarie.
-* **Diritto testamentario**: validità clausole che richiedono consultazione (non consenso), casi particolari (rifiuto immotivato, matrimonio scandaloso).
-* **More della consultazione**: sanzioni patrimoniali padre.
 
-**Promessa di matrimonio**:
+**Matrimonio senza il consenso**:
 
-* **Imposizione matrimonio**: canonisti (divieto di imposizione), legisti (ricatto patrimoniale).
-* **Diritto comune**: canonico (patria potestà canonica, limitata a minore età), civile (patria potestà civile, perpetua).
-* **Valore diritto laico**: Bartolo (prevalenza diritto laico), Giovanni d'Andrea (valenza solo morale), Iacopo Menochio (possibilità opposizione, nuove nozze).
+* **Matrimonio senza consenso, ma a conoscenza del padre**: concilia libertà matrimoniale, quarto comandamento.
+* **Diritto testamentario**: clausole che richiedono consenso (invalide), solo consultazione prima del matrimonio (valide).
+* **Sanchez**: eccezioni (rischio di rifiuto immotivato, matrimonio scandaloso).
+* **More della consultazione**: padre usa proprie facoltà per condizionare figli.
+
+**Rifiuto di matrimonio imposto o già promesso**:
+
+* **Imposizione matrimonio secondo i canonisti**: alcuni lo ritengono vincolante, altri vietano l'imposizione.
+* **Imposizione matrimoniale secondo i legisti**: padre ricatta figli (diniego dote, diseredazione), matrimonio ha conseguenze patrimoniali.
+* **Distinzione sfere di influenza**: patria potestà canonica (limitata, include matrimonio), civile (perpetua), legisti (non accettano limitazione).
+* **Valore diritto laico**: Bartolo (prevale su canonico), Giovanni d'Andrea (ha solo valore morale).
+* **Iacopo Menochio**: pubblicazioni obbligatorie, consenso padre necessario, diniego richiede proposta di altre nozze.
 
 **Casi giuridici**:
 
-* **Rota bolognese**: omaggio patria potestà, accoglimento pratiche sociali (libertà matrimoniale ad età minore), matrimonio non indegno, favore per libertas e favor matrimonii.
-* Figlio si sposa dopo diniego del padre, matrimonio dichiarato valido.
+* **Rota bolognese**: omaggio patria potestà (figlia chiama padre in giudizio), accoglimento pratiche sociali (abbassamento età per libertà matrimoniale, presunzione di negligenza del padre), matrimonio non indegno.
+* **Caso del seicento**: figlio chiede consenso al padre, si sposa dopo diniego, matrimonio dichiarato valido, sanzioni patrimoniali non applicate.
+* **Matrimonio all'insaputa del padre**: valido per la chiesa, padri possono solo usare sanzioni patrimoniali.
 
 # 4. Rivoluzione dei figli
 
@@ -338,7 +364,7 @@ vim: spell:spelllang=it
 * **Obiettivo**: superare individualismo, recuperare famiglia-istituzione.
 * **Generazione del figlio**: fondamento potere genitori, natura del figlio (cosa degli uomini e cosa di Dio).
 * **Rapporto genitori-figli**: evoluzione (da potere tirannico a potere governativo con l'età del figlio).
-* **Rapporto moglie-marito**: comproprietari figli, potere assoluto del padre, relativo della moglie.
+* **Rapporto moglie-marito**: comproprietari figli, potere assoluto del padre, relativo della moglie (esercizio poteri paterni solo in caso di assenza, morte, consenso del marito, vincolata a scelte marito).
 * **Poteri correzionali**: funzione rieducativa, mantenimento ordine domestico, rispetto vita e libertà, esclusione nucleo familiare.
 * **Limite poteri paterni**: poteri perpetui (includono correzione), altri poteri (terminano con matrimonio).
 
