@@ -372,12 +372,10 @@ vim: spell:spelllang=it
 
 * **Stato naturale**: presenza di un superiore, preminenza paterna.
 * **Fondamento poteri padre**: generazione, coabitazione, educazione, continuazione stirpe.
-* * **Famiglia**: padre considerato padrone, governo monarchico.
+* **Famiglia**: padre considerato padrone, governo monarchico.
 * **Potere costituente**: entrambi i coniugi, emanazione legge fondamentale.
 * **Poteri madre**: potere amministrativo interno, giudiziario.
 * **Potere padre**: potere legislativo, governativo all'esterno, amministrazione universale.
-* **Figli**: 
-* **Poteri famiglia**: padre (potere costituente, legislativo, amministrazione universale, forza sociale), madre (amministrazione interna, potere giudiziario).
 * **Figli**: gratitudine e riconoscenza (perpetui), obbedienza (limitato alla coabitazione), correzione arbitri padre (non hanno potere correzionale).
 * **Educazione dei figli**: dovere legato a potestà paterna, fine (rendere figli indipendenti, termine coabitazione).
 * **Educazione religiosa**: intervento Stato (educazione figli cattolici contro volontà padre, padre corrompe fede figlio).
@@ -400,15 +398,19 @@ vim: spell:spelllang=it
 
 **Kant**:
 
-* Filosofia: individualista, rapporti domestici (diritti personali di natura reale).
-* Genitori: possesso figli (in senso lato), imposizione prestazioni (libertà legittima).
-* Emancipazione per maggiore età: rapporto fondato su contratto sociale.
+* **Filosofia**: individualista, rapporti domestici (diritti personali di natura reale, fondati su procreazione).
+* **Genitori**: possesso figli (in senso lato, natura di cose e persone), imposizione prestazioni (libertà legittima).
+* **Maggiore età**: rapporto con genitori passa da fatto naturale a contratto sociale.
 
 **Hegel**:
 
-* Famiglia: momento dell'eticità, culmina nello Stato.
-* Padre: interlocutore Stato, educa figli secondo valori Stato.
-* Educazione: obbligo scolastico, diritto all'educazione per figli (intervento Stato in caso di inadempienza genitori).
+* **Famiglia**: momento dell'eticità, culmina nello Stato.
+* **Padre**: mantiene ordine domestico (figli possono costituire famiglia, devono aspettare morte padre per pieni diritti), interlocutore con lo Stato (individui sono facilmente asservibili).
+* **Intervento pubblico**: necessario, se genitori non educano figli, funzione omologatrice Stato (supera pregiudizi individuali, genitori devono educare figli secondo valori Stato).
+* **Diritti bambini**: protetti dalla società, includono obbligo scolastico, figli hanno diritto a richiedere educazione che li renda indipendenti.
+* **Fondamento potere genitori**: realizzazione società pubblica, prevalenza doveri e intervento Stato.
+* **Potestà romana**: criticata, rende figli schiavi, non realizza eticità.
+* **Disciplina figli**: fine (sopprimere volontà naturale, garantire libertà).
 
 # 5. Correzione e matrimonio nell'ottocento
 
