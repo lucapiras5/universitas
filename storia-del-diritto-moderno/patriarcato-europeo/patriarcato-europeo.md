@@ -38,7 +38,7 @@ vim: spell:spelllang=it
 
 **Società romana**:
 
-* **Dionigi di Alicarnasso**:limiti all'arbitrio di Romolo (obbligo di allevare ed educare i figli maschi e figlia primogenita, divieto di uccidere figli non deformi).
+* **Dionigi di Alicarnasso**: limiti all'arbitrio di Romolo (obbligo di allevare ed educare i figli maschi e figlia primogenita, divieto di uccidere figli non deformi).
 * **Perpetua**: fino a morte del padre, limiti materiali (mortalità infantile, potestà forte solo nel patriziato, debole fra i plebei).
 * **Famiglia**: persone soggette a potere patriarcale, rapporti severi, parricidio.
 * **Età imperiale**: potere pubblico (limita potestà, incentiva matrimonio e procreazione, educazione pubblica), stoicismo e cristianesimo (famiglia fondata su pietas, patriarcato limitato ma non abolito).
@@ -55,7 +55,7 @@ vim: spell:spelllang=it
 
 * **Diritto di vita e morte**: sempre limitato, periodo post-classico (provvedimenti imperiali ad personam), periodo imperiale (mero potere correzionale, emancipazione per maltrattamenti, intervento tribunali pubblici).
 * **Soppressione**: neonato debole, deforme o mostruoso, controllo sociale.
-* **Esposizione** figlio raccolto o venduto come schiavo (conservazione potestà, perdita potestà con Costantino), reato in età imperiale).
+* **Esposizione** figlio raccolto o venduto come schiavo (conservazione potestà, perdita potestà con Costantino), reato in età imperiale.
 * **Accettazione**: rito (figlio raccolto da terra), figli non raccolti (rifiutati da famiglia).
 * **Dichiarazione pubertà**: ispezione padre, fissazione età legale (14 anni).
 * **Abbandono nossale**: figlio o schiavo (commissione fatto illecito, consegna a parte lesa, libera da responsabilità), vietata nel tardo impero.
@@ -94,7 +94,7 @@ vim: spell:spelllang=it
 * **Testamento**: non utilizzato dai Germani, strumento più importante per padri romani, fraterna (unione dei figli maschi).
 * **Mundio**: definisce famiglia ristretta rispetto a famiglia estesa, diritto di rappresentare la famiglia eccetto i figli maggiorenni.
 * **Figli maggiorenni**: non soggetti a mundio, requisiti (essere pronti alle armi, successivamente età fissa), anticipazione quota ereditaria (calcolo).
-* **Matrimoinio**: figli maggiorenni (libero), figlie (consenso mundualdo).
+* **Matrimonio**: figli maggiorenni (libero), figlie (consenso mundualdo).
 * **Mundio longobardo**: elemento accidentale autorità (trasferibile), originariamente (prevale vantaggio patrimoniale del mundualdo), successivamente (diventa tutela, prevale onere).
 * **Poteri personali dei padri longobardi**: su figli minorenni (imposizione matrimonio, stato clericale, assegnazione ad altri), figli maggiorenni (dovere generico di rispetto, gestione in comune dei beni di famiglia).
 * **Emancipazione**: volontaria (poco usata), sassone (fatti concludenti, separazione dalla famiglia, matrimonio, vita per conto proprio).
@@ -156,7 +156,6 @@ vim: spell:spelllang=it
 * **Chiesa cattolica**: Concilio di Trento (contro volontà principi, validità matrimonio senza consenso del padre, tutela sacramento e consensualità).
 * **Chiesa protestante**: favorevole a volontà principi, Calvino (annullamento del matrimonio contro volontà padre, atti rispettosi perpetui).
 
-
 **Azzone**:
 
 * **Glossatori**: recupero diritto romano.
@@ -185,7 +184,7 @@ vim: spell:spelllang=it
 
 * **Moderazione**: padri hanno potere correzionale limitato (pene più gravi vanno richieste a giudice), causa giustificatrice (pietas e rieducazione).
 * **Bartolo**: differenza fra punizione e reato (strumento, modalità di castigo, ceto).
-* **Statuti**: limite pene (sangue, morte o lesione integrità fisica, modalità comunemente accettate, etc.).
+* **Limite delle pene negli statuti**: sangue, morte o lesione integrità fisica, modalità comunemente accettate, etc.
 * **Titolarità**: più soggetti (marito, padre, maestro, abate, etc.).
 * **Requisiti**: oggettivo (moderazione, proporzione a gravità), soggettivo (intento di correggere, non ira).
 * **Punzioni**: rimproveri, castigo corporale (strumenti adeguati), incarcerazione domestica (eccezione a reato di carcere privato), permanenza su navi o triremi, ergastoli pubblici, espulsione con rifiuto alimenti.
@@ -293,14 +292,14 @@ vim: spell:spelllang=it
 
 * **Critica natura pattizia**: fondamenta naturali famiglia, autorità naturale padre.
 * **Botton di Castellamonte**: educazione pubblica, riforme patrimoniali a favore del commercio.
-* **Diminuzione poteri padre**: all'aumentare figlio, natura contingente poteri padre, definizione doveri naturali.
+* **Diminuzione poteri padre**: all'aumentare età figlio, natura contingente poteri padre, definizione doveri naturali.
 * **Ambiguità diritto naturale**: successivamente usato per reintegrare potestà.
 * **Cocceio**: assolutismo illuminato (patria potestà perpetua, forte controllo matrimoniale, castighi moderati e ragionevoli, controllo giudiziale per arresto).
 
 **Rivoluzione francese**:
 
 * **Patria potestà in Francia**: centro-sud (modello romano), nord (tutela), unificazione e rafforzamento con ordonnances.
-* **Critica patria potestr**: ambienti colti, cahiers, sostituzione con tutela, rilevanza costituzionale, regolazione con legge.
+* **Critica patria potestà**: ambienti colti, cahiers, sostituzione con tutela, rilevanza costituzionale, regolazione con legge.
 * **Obiettivi riforme**: riforma moderata, abolizione e sostituzione con dovere di protezione, decreto 1792 (maggiore età emancipatrice).
 * **Primo progetto di codice civile**: sostituzione patria potestà con doveri di protezione, obbligo di educazione figli (sanzione alimenti), termine con maggiore età, famiglia come individui autonomi, educazione statale figli.
 
@@ -436,8 +435,8 @@ vim: spell:spelllang=it
 
 **Riforme future nel codice napoelonico**:
 
-* Decadenza per abuso della patria potestà: riforma legislativa (1889).
-* Abolizione potere di incarcerazione: esonero spese di mantenimento (1885), abrogazione (1935).
+* **Decadenza per abuso della patria potestà**: riforma legislativa (1889).
+* **Abolizione potere di incarcerazione**: esonero spese di mantenimento (1885), abrogazione (1935).
 
 **Abuso nell'ABGB**:
 
@@ -449,7 +448,7 @@ vim: spell:spelllang=it
 
 **Italia durante la Restaurazione**:
 
-* **Progetto di De Simoni**: sanzione abuso patria potestà (su ricorso del figlio).
+* **Progetto di De Simoni**: sanzione abuso patria potestà (tutti i profili, su ricorso del figlio).
 * **Progetto di Bartolucci**: modico castigo (menzionato espressamente), internamento (richiede valutazione giudiziale), maltrattamenti (scioglimento coabitazione, emancipazione coatta).
 * **Codice napoletano**: imposizione residenza al figlio (proroga dopo maggiore età per maschi, perpetua per femmine, sospensione per giusta causa).
 * **Reati contro famiglia**: progetto di codice di Leopoldo II (limite internamento), progetto di codice penale per il regno d'Italia (reati contro la famiglia), codice albertino (sanzione penali abusi patria potestà).
@@ -472,7 +471,7 @@ vim: spell:spelllang=it
 **Austria**:
 
 * **Assenso parentale**: fino a maggiore età (24 anni), mancanza di consenso (atto nullo).
-* **Rifiuto genitori**: azione figlio se motivo non previsto da legge, motivi non tassativi, 
+* **Rifiuto genitori**: azione figlio se motivo non previsto da legge, motivi non tassativi.
 
 **Restaurazione in Italia**:
 
@@ -487,8 +486,8 @@ vim: spell:spelllang=it
 * **Diseredazione di antico regime**: casi non tassativi (novella giustinianea, matrimonio figlio ribelle, motivi politici), strumento di controllo.
 * **Rivoluzione**: critica la successione di antico regime (diseredazione, parti disuguali, quota disponibile), concezione diritto successorio (legge sociale e non naturale, liberamente modificabile).
 * **Napoleone**: progetto di codice (diseredazione ufficiosa), codice definitivo (assenza diseredazione, quota disponibile).
-* **Austria**: cause di diseredazione tassative (apostasia, reclusione a vita o 20 anni, figlio lascia testatore in stato di indigenza), dissolutezza), dissipatezza (sostituzione figlio con nipoti).
-* **Italia -- diseredazione**: mai abbandonata (eccezione colonia di San Leucio), motivi non tassativi), codice albertino prevede cause tassative (diseredazione per apostasia, matrimonio senza assenso paterno).
+* **Austria**: cause di diseredazione tassative (apostasia, reclusione a vita o 20 anni, figlio lascia testatore in stato di indigenza, dissolutezza), dissipatezza (sostituzione figlio con nipoti).
+* **Italia -- diseredazione**: mai abbandonata (eccezione colonia di San Leucio), motivi non tassativi, codice albertino prevede cause tassative (diseredazione per apostasia, matrimonio senza assenso paterno).
 * **Italia -- legittima**: anni francesi (rimedi per favorire figlio), Restaurazione (limitazione legittima).
 8 **Italia -- codice unitario**: abrogazione diseredazione, perdita potere legale padre.
 
@@ -498,7 +497,7 @@ vim: spell:spelllang=it
 
 * **Cambiamenti principali**: mantenimento codici ottocenteschi, repressione abusi domestici, abrogazione controllo matrimoniale e potere di internamento.
 * **Puerocentrismo novecentesco**: intervento all'interno della famiglia (educazione, creazione cittadino ideale), difesa bambini (diritti infanzia, organizzazioni internazionali).
-* **Puerocentrismo ottocentesco**:educazione pubblica obbligatoria, intervento figure pubbliche.
+* **Puerocentrismo ottocentesco**: educazione pubblica obbligatoria, intervento figure pubbliche.
 * **Codice civile spagnolo**: diritti forali (non usano il nome "patria potestà", genitori con pari diritti e funzione di tutore), dibattito (tutela infanzia, ruolo madre, definizione casi di abuso).
 
 **Antonio Cicu**:
@@ -527,8 +526,8 @@ vim: spell:spelllang=it
 **Codice penale Rocco**:
 
 * **Reati contro la famiglia**: assenti nel codice penale napoleonico, tipici della restaurazione.
-* **Violazione obblighi di assistenza familiare**: innovazione, altri reati (già previsti in codici ottocenteschi).
-* **Abuso mezzi di correzione e maltrattamenti**: lesione personale, membri della famiglia o persone affidate (educazione, cura, etc.).
+* **Violazione obblighi di assistenza familiare**: condotta (abbandono domicilio domestico, condotta contraria a ordine e morale famiglie, sottrazione a obblighi di assistenza, genitori e tutori), innovazione, altri reati erano già previsti in codici ottocenteschi.
+* **Abuso mezzi di correzione e maltrattamenti**: pericolo malattia, attenuante in caso di lesione personale, membri della famiglia o persone affidate (educazione, cura, etc.).
 * **Sottrazione del minore e dell'infermo di mente**: sottrazione minore (con consenso minore, o contro volontà genitori o chi ne ha la custodia).
 * **Polizia**: invita le parti per risolvere le controversie private.
 
@@ -563,12 +562,12 @@ vim: spell:spelllang=it
 * **Matrimonio**: controllo matrimoniale (arbitrio padre, protegge figlio da passione irrazionale, protegge interessi famiglia a buona alleanza), opposizioni (critica codice per divieto di uso dilatorio).
 * **Potestà maritale**: esercizio nell'interesse della famiglia, poteri moglie (subordinati a morte, altre situazioni eccezionali), residenza separata (pericoli fisici o morali).
 * **Doveri essenziali**: mantenimento, educazione (obbligo scolastico).
-* **Garde** educazione, cura materiale, sorveglianza, sanzione, termine per abbandono a poteri pubblici o delega a terzi.
+* **Garde**: educazione, cura materiale, sorveglianza, sanzione, termine per abbandono a poteri pubblici o delega a terzi.
 * **Diritto di correzione**: potere di internamento, vaglio giudiziario generalizzato.
 * **Usufrutto legale**: sui redditi del figlio.
 * **Maltrattamenti**: anche per omissione, controlli pubblici (decadenza parziale, totale).
 
-**Supplenza all'autorità paterna**:
+**Supplenza dello Stato all'autorità paterna**:
 
 * **Abbandono figli**: volontario, non definitivo, collocazione presso famiglia rurale.
 * **Educazione**: scuola dell'obbligo, apprendistato, domestico a pagamento presso famiglia, sorveglianza assistenti sociali.
@@ -598,7 +597,7 @@ vim: spell:spelllang=it
 * **Requisiti**: famiglia complessa (non obsoleta in contesto sociale, decade in decenni successivi), codice serbo (parentela, comunione dei beni, vita e attività lavorativa in comune).
 * **Uomini**: maggiorenni e capaci (uguaglianza di diritti e doveri).
 * **Donne**: inferiorità (diritti successori, condizione migliora con codici ottocenteschi).
-* **consiglio**: governo zadruga, uomini maggiorenni e capaci, competenza per atti più importanti.
+* **Consiglio**: governo zadruga, uomini maggiorenni e capaci, competenza per atti più importanti.
 * **Capo**: eletto dal consiglio, maschio più anziano, aiutato da moglie, rappresenta zadruga, tutela minorenni e incapaci.
 * **Moglie del capo**: poteri delegati dal capo (organizzazione interna, compiti delle donne).
 * **Regime comunista**: parificazione diritti coniugi, esercizio poteri (cittadini utili e devoti, consolidazione famiglia).
