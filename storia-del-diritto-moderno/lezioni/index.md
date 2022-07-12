@@ -126,3 +126,8 @@ Restaurazione:
 * Novecento: secolo del figlio, totalitarismi.
 * Fascismo: tensione fra politica (famiglia tradizionale) e diritto (padre come funzionario).
 * Reati contro la famiglia nel Codice Rocco.
+
+28 marzo 2022:
+[lezione](https://lp-me-lezioni.eu-central-1.linodeobjects.com/storia-del-diritto-moderno/2022-03-28-storia-del-diritto-moderno-lezione.mp4)
+
+* 
