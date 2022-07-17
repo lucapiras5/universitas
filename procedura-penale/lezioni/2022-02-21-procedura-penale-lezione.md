@@ -1,6 +1,6 @@
-<!-- vim: set spell spelllang=it : -->
+# 2022-02-21
 
-# 2022-feb-21 - Procedura penale - Introduzione alla seconda parte del corso (bozza)
+<!-- vim:set spelllang=it: -->
 
 ## Domanda: cap. VIII
 
