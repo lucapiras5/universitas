@@ -74,4 +74,55 @@ Co. 11: in alternativa al co. 10, si può procedere con **incidente probatorio**
 
 Per quanto riguarda la prova a contenuto dichiarativo, i poteri del difensore sono analoghi a quelli della PG/PM, ma senza i poteri coercitivi.
 
-[50m MP4]
+## Documenti in possesso della PA (42m)
+
+Art. 391-quater: ai fini delle indagini difensive, il difensore può chiedere documenti in possesso della PA (497).
+
+Ibid., co. 3: in caso di rifiuto, mentre il PM potrebbe sequestrare l'atto, si deve rivolgere al PM, e se il PM non è d'accordo, deve trasmettere la decisione al giudice, che può decidere in maniera diversa (498).
+
+## Accesso a luoghi privati o non aperti al pubblico (45m)
+
+Serve ottenere il consenso del soggetto che ha la disponibilità del luogo.
+In caso di **mancato assenso**, l'accesso è **autorizzato dal giudice** con decreto (498).
+
+## Accertamenti tecnici (47m)
+
+Nell'art. 360, il PM avverte il difensore della necessità di provvedere all'accertamento urgente.
+In caso di estrema urgenza, non si usa l'incidente probatorio, ma si usa l'accertamento tecnico non ripetibile.
+
+Nel caso del 391-decies, il PM può partecipare con un proprio consulente.
+La documentazione dell'atto confluisce nel **fascicolo del dibattimento** (500).
+
+## Documentazione (art. 391-ter) (52m)
+
+L'art. 391-ter riguarda le **prove costituende**, ed in particolare l'art. 391-bis.
+
+Si applicano gli art. 134 ss., anche se sono concepiti con riferimento al "giudice".
+La documentazione degli atti della PG rinvia alla disciplina prevista per il PM, che a sua volta rinvia a quella per il giudice.
+
+Nel caso di giudice, PM e PG, sono **pubblici ufficiali**, che **devono verbalizzare secondo verità**.
+Se il PU verbalizza il falso, commette il reato di **falso in atto pubblico**.
+
+Il difensore **non è un PU**, ma **esercita un servizio di pubblica necessità**.
+Esiste un reato equivalente al falso in atto pubblico per gli esercenti di attività di pubblica necessità, ma è punito meno gravemente.
+
+In un caso, il difensore **omette di verbalizzare** alcune dichiarazioni che **andavano contro l'interesse dell'assistito**.
+
+Il difensore **non ha l'obbligo di usare il verbale**, se va contro l'interesse dell'assistito, ma **ha l'obbligo di verbalizzare secondo verità**.
+Secondo le **SS. UU.**, il **difensore mentre verbalizza è un PU**, perché l'atto ha la stessa natura e funzione del verbale del PM (502).
+
+Il **falso in atto pubblico** è commesso in caso di **falso o omissione del vero**.
+
+## Valore delle investigazioni private (1h 2m)
+
+--- Fascicolo del difensore, conservato presso l'ufficio del GIP (501).
+
+Il GIP deve consultare il fascicolo ogni volta che deve emettere un provvedimento cautelare.
+Oltre agli atti presentati dal PM, deve considerare anche gli atti nel fascicolo del difensore.
+Lo stesso si applica in tutti i casi in cui è necessario prendere una decisione.
+
+Gli atti del difensore hanno lo stesso valore degli atti del PM (501).
+
+--- È inserito nel fascicolo del PM con la chiusura delle indagini preliminari (501).
+
+--- Gli atti irripetibili entrano nel fascicolo per il dibattimento (504).
