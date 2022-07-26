@@ -118,6 +118,70 @@ Le **misure prescrittive**:
 * Divieto di avvicinarsi ai luoghi frequentati dalla vittima (per il reato di stalking).
 * Divieto di espatrio (ritiro del passaporto).
 
-Le **misure interdittive**:
+## Misure interdittive (53m)
 
-53m
+Il codice previgente era entrato in vigore prima della Costituzione, e non riconosceva la presunzione di innocenza.
+
+Considerava la custodia cautelare una anticipazione della pena, e permetteva l'applicazione provvisoria delle pene accessorie (cfr. art. 140 c.p., attualmente abrogato).
+
+Si nuovo codice non le chiama più "applicazione provvisoria di pene accessorie" ma "applicazione di misure interdittive".
+
+La finalità cautelare è quella dell'art. 274 lett. c.
+
+Include:
+
+* Art. 288: la sospensione dell'esercizio della potestà genitoriale.
+* Art. 289: la sospensione dell'esercizio di pubblici uffici o servizi.
+* Art. 290: divieto temporaneo di esercitare attività professionali o imprenditoriali.
+
+## Misure di sicurezza personali in via provvisoria (56m)
+
+Sono applicabili in via provvisoria, senza che questo comporti una violazione dell'art. 27 co. 2 Cost., perché i soggetti che subiscono la misura sono **pericolosi, ma non imputabili**.
+
+Questi soggetti sono destinati ad essere **assolti perché non imputabili, ma sono socialmente pericolosi**.
+
+Non è in gioco la presunzione di non-colpevolezza, ma solo la loro pericolosità già nel corso del procedimento (404, 405, 406).
+
+## Scelta delle misure cautelari (58m)
+
+Precedentemente, esisteva solo la carcerazione preventiva.
+Attualmente, esistono più misure cautelari, ed il legislatore indica dei criteri nella scelta della misura.
+
+## Principio di proporzionalità (1h)
+
+Il principio di proporzionalità è regolato dall'art. 275.
+**Vale in ogni caso di compressione dei diritti fondamentali della persona**.
+
+Va distinto in **tre sotto-principi**:
+
+--- Idoneità: la misura deve realizzare uno degli scopi predeterminati dalla legge (art. 274 co. 1) (340).
+
+--- Proporzione in senso stretto: la limitazione di libertà richiede reati di una certa gravità (341).
+
+--- Necessarietà: la custodia cautelare in carcere può essere disposta solo se le altre misure non sono idonee a realizzare la finalità cautelare (343).
+
+Il principio dell'art. 275 co. 3 è applicabile **anche alle altre misure cautelari**, e non solo alla custodia cautelare in carcere.
+
+## Art. 275 co. 3, seconda parte (1h 11m)
+
+--- Eccezione: per reati di terrorismo e mafia, presunzione del periculum libertatis, giudice è vincolato al provvedimento più afflittivo (343).
+
+--- "Salvo che siano acquisiti elementi dai quali non risulta che non sussistono esigenze cautelari": il difensore dell'indagato può fornire la prova contraria, o la presenza di elementi che dimostrano la non-necessarietà di elementi cautelari (344).
+
+--- L'obiettivo del legislatore è l'emissione del provvedimento più afflittivo sulla sola base degli indizi di colpevolezza (344).
+
+--- Eliminazione della valutazione di esigenze cautelari (344).
+
+## Art. 275 co. 3, terza parte (1h 16m)
+
+--- Interventi della Corte Costituzionale (344).
+
+Nei reati indicati nella seconda parte del co. 3, **o** si applica la custodia cautelare in carcere, **oppure** si dimostra l'assenza di esigenze cautelari.
+
+Gli altri casi indicati nella terza parte del co. 3, si prevede lo **stesso tipo di presunzione**, ma si ammette l'uso di **misure diverse dalla custodia cautelare** (345, 346).
+
+## Alternative alla custodia carceraria in condizioni particolari (1h 22m)
+
+--- Art. 275 co. 4 ss.: soggetti vulnerabili, applicazione di altra misura, salvo la presenza di esigenze cautelari di eccezionale rilevanza (346, 347).
+
+--- art. 275-bis: arresti domiciliari con controlli a distanza, l'uso del braccialetto permette di evitare il carcere (356, 357).
