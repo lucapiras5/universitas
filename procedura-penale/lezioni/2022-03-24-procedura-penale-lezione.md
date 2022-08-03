@@ -106,4 +106,66 @@ In alcuni casi particolari può dichiarare l'innocenza.
 
 ## Modifica dell'imputazione (59m - 48m)
 
-59:40
+L'imputazione formulata nella richiesta di rinvio a giudizio assume una **certa stabilità**.
+Per il **principio di correlazione fra accusa e sentenza**, il giudice non può decidere su questioni che non siano state oggetto di imputazione del PM.
+
+L'art. 421-bis e 422 possono portare alla scoperta di **nuovi elementi**, che possono richiedere di **modificare l'imputazione** (551).
+
+Nel **dibattimento** (cfr. art. 516 a 518) c'è l'ultima possibilità di modificare l'imputazione.
+
+La legge distingue fra **fatto diverso e fatto nuovo** (551, 552).
+
+## Distinzione fra fatto diverso e fatto nuovo (1h 4m - 53m)
+
+Il **fatto diverso** è il fatto che **si sostituisce** a quello già contestato, è una **diversa descrizione dello stesso fatto** criminoso (551, 552).
+
+Ad es. si scopre che il fatto è stato commesso il giorno dopo, rispetto al giorno indicato nell'imputazione.
+Questo ha conseguenze diverse in tema do prova (ad es., in tema di alibi).
+
+Il **fatto nuovo** è il **fatto che si aggiunge** a quello già contestato (552).
+Ad es., si scopre un secondo reato, e l'imputazione originaria conteneva solo il primo.
+
+## Conseguenze giuridiche della distinzione (1h 7m - 57m)
+
+Il **fatto diverso** deve essere **contestato dal PM**, l'azione penale rimane la stessa, cambia solo il contenuto, ed è **sempre ammessa** (552).
+
+Nel caso di **fatto nuovo**, dato che si **aggiunge un reato** e si realizza un **cumulo processuale** (552):
+
+* **L'imputato deve acconsentire**, perché potrebbe non avere un interesse a difendersi anche contro questo nuovo fatto.
+* **Il giudice deve autorizzare**, perché nella logica del codice si **preferiscono i processi separati**, e le riunioni dei procedimenti devono essere valutate dal giudice dal punto di vista dell'economia processuale.
+
+**Alcuni fatti nuovi sono trattati dalla legge come diversi**.
+Sono fatti riconducigli ad alcune figure tipiche del diritto penale sostanziale (551, 552):
+
+* Il **concorso formale di reati**.
+* Il **reato continuato**.
+* Le **circostanze aggravanti**.
+
+## Spiegazione per i reati connessi (1h 12m - 1h 1m)
+
+Co. 1, prima parte: se il "fatto risulta diverso da come è descritto nell'imputazione" il PM modifica l'imputazione.
+
+Co. 2: se "risulta un fatto nuovo non enunciato nella richiesta di rinvio a giudizio", il giudice deve autorizzare la richiesta del PM, e serve il consenso dell'imputato.
+
+Co. 1, seconda parte: fatti nuovi, ma trattati come diversi, "se emerge un reato connesso o una circostanza aggravante".
+
+L'art. 81 c.p. prevede una modalità di calcolo della pena unitaria per concorso formale di reati, e reato continuato.
+
+Ad es., se si avessero dieci reati legati dallo stesso disegno criminoso, e ci fosse un processo per ogni reato, ogni giudice applicherebbe la pena per il singolo reato senza considerare le altre pene degli altri giudici, e ci sarebbe una quantità di pena data dalla somma delle pene che sarebbe eccessiva.
+
+L'art. 81 limita la pena al triplo del reato più grave.
+
+L'art. 671 c.p.p. permette al **giudice dell'esecuzione** di **applicare l'art. 81** dopo che le sentenze sono passate in giudicato.
+
+Serve nel caso in cui i **reati connessi sono scoperti dopo molto tempo**, e non è più possibile modificare l'imputazione (ad es., il primo procedimento si trova in appello).
+Si **creerebbe una situazione di discriminazione**, dove l'applicazione del limite della pena dipende dal caso, se i reati vengono scoperti a distanza di tempo o meno.
+
+## Spiegazione per le circostanze aggravanti (1h 18m - 1h 7m)
+
+La circostanza aggravante, in quanto circostanza, **non può essere oggetto di autonomo procedimento penale**.
+Se è **scoperta nel processo di primo grado**, si modifica l'imputazione.
+
+Il reato in rapporto di concorso formale o vincolo di continuazione possono essere oggetto di un autonomo procedimento penale, ma non conviene che lo siano, per attuare l'art. 81 c.p.
+
+Le circostanze aggravanti sono un elemento accessorio del reato, e non possono essere separate, nemmeno se non costituiscono un autonomo reato.
+Ad es., nel caso del furto, esiste l'aggravante di violazione di domicilio, che è un reato autonomo.
