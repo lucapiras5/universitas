@@ -137,3 +137,60 @@ Il **giudice ha una visione incompleta**, le **parti hanno una visione completa*
 Le parti possono **discutere sulla composizione del fascicolo** prima del dibattimento.
 
 ## 1h 11m, 1h 3m: indagini integrative del PM
+
+Con la **richiesta di rinvio a giudizio**, il PM **perde il controllo sul procedimento, ma non perde il potere di compiere atti investigativi**, con **alcuni limiti** (cfr. 430-bis).
+
+Il **PM può compiere solo atti non garantiti**, e non può più compiere atti garantiti (562).
+Includono l'interrogatorio di persone informate sui fatti e di collaboratori di giustizia, e la disposizione di consulente tecniche.
+
+Limite dell'art. 430-bis: PM e difensore non possono interrogare persone destinate a comparire in dibattimento.
+Serve per evitare di influenzare i futuri testimoni.
+
+Gli artt. 419 e 430 ammettono la possibilità di continuare l'attività investigativa anche durante l'UP.
+
+Si è posto il **problema del limite ultimo dell'attività investigativa**.
+
+Inizialmente, si è pensato **fino alla chiusura del giudizio di primo grado**.
+Successivamente, si è pensato di **estendere anche al giudizio di appello, e quindi tutto il giudizio di merito**.
+
+Il **limite ultimo è il giudizio di legittimità**.
+
+## 1h 18m, 1h 10m: introduzione ai procedimenti speciali
+
+Tutti i **procedimenti speciali hanno a che fare con l'udienza preliminare**, perché:
+
+* Si **esauriscono** nell'UP.
+* Tendono a **eliminare l'UP**.
+
+L'UP può esserci o meno, e se è presente può essere il luogo dove si conclude il procedimento con una **decisione di merito**, sulla base di una **scelta volontaria dell'imputato** (vedi giudizio abbreviato e patteggiamento).
+
+I procedimenti speciali si possono distinguere in:
+
+* **Riti alternativi al dibattimento**, che consentono la chiusura del processo con una sentenza di merito senza il dibattimento.
+* **Riti anticipatori del dibattimento**, che consentono di **arrivare più velocemente** al dibattimento, eliminando l'UP o l'intera fase preliminare.
+
+## 1h 22m, 1h 14m: tipi di procedimenti speciali
+
+--- Elenco dei procedimenti speciali, procedimenti speciali non contenuti nel libro VI del codice (566).
+
+## 1h 26m, 1h 18: procedimenti speciali non inclusi nel libro VI
+
+**Oblazione** (566):
+
+* Regolata dal c.p. (162 e 162-bis) e art. 141 disp. att.
+* Consiste nell'offerta di una somma di denaro a fronte di violazioni di pene pecuniarie (oblazione obbligatoria), o pene alternative (oblazione facoltativa, se il giudice accetta di applicare la pena pecuniaria).
+* Comporta la **eliminazione del dibattimento**, ed il **degradamento del fatto a illecito amministrativo**, e **l'estinzione del reato**.
+* Viene largamente utilizzata.
+
+**Estinzione del reato per condotte riparatorie** (566):
+
+* Ha caratteristiche simili all'oblazione.
+
+**Citazione diretta a giudizio** (567):
+
+* È prevista per i reati indicati nell'art. 550, di precedente competenza pretorile.
+* La caratteristica principale è la **mancanza dell'UP**.
+* Questo procedimento si applica solo ai reati dell'art. 550, non a tutti i casi di competenza del giudice monocratico.
+* La logica è di **eliminare l'UP per i reati di medio-bassa gravità**.
+
+**Giudizio immediato richiesto dall'imputato** (566).
