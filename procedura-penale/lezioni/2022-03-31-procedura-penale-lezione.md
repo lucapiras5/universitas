@@ -101,4 +101,51 @@ Attualmente, il legislatore aggiunge il riferimento all'art. 445.
 
 ## 51m, 48m: impugnabilità della sentenza
 
-.
+--- La **sentenza non è appellabile**, il consenso a non controvertere sui futuri punti della decisione riguarda anche i futuri gradi di giudizio (589).
+
+Art. 448 co. 2: **caso eccezionale di impugnazione del PM** (imputato chiede il patteggiamento, il PM oppone un dissenso motivato, il giudice del dibattimento supera il suo dissenso e applica la sanzione richiesta a titolo di patteggiamento).
+Il PM può far valere ancora il suo dissenso, e reiterarlo davanti al giudice d'appello (589).
+
+**Ricorso per cassazione**: è stato riformato per evitare abusi (589).
+
+## 56m, 53m: revisione
+
+Secondo la giurisprudenza, dato che la sentenza di patteggiamento non era appellabile, e dato che la revisione è fatta dopo l'appello, la revisione non era ammissibile (588).
+
+In un caso, due persone vengono arrestate perché sorprese con delle pasticche.
+Una chiede il patteggiamento, mentre l'altro va a dibattimento e riesce a dimostrare che le pasticche non contenevano droga.
+
+Il soggetto che aveva chiesto il patteggiamento chiede la revisione della sentenza, per contrasto di giudicati, ma la richiesta viene rifiutata.
+Con la riforma del 2003, diventa possibile chiedere la revisione della sentenza, e si supera la posizione della Cassazione del 1998 (588).
+
+## 1h, 57m: giudizio abbreviato
+
+È un'alternativa al dibattimento, ed è definito allo stato degli atti, ma si possono aggiungere anche altri atti.
+
+## 1h 3m, 1h: oggetto della rinuncia
+
+**Rinunce** (592):
+
+* Al diritto alla prova, in maniera totale o parziale (ci sono due modalità per entrare nel giudizio abbreviato).
+* Alle garanzie dibattimentali, e al contraddittorio nella formazione della prova (cfr. art. 111 co. 5 Cost.).
+* A eccepire le invalidità avvenute nella fase preliminare.
+* A eccepire i casi di inutilizzabilità fisiologica della prova, salvi i casi di inutilizzabilità patologica della prova (art. 438 co. 6-bis).
+
+Si semplifica la definizione delle questioni preliminari, che sono legati alla eccezione di nullità e invalidità.
+
+## 1h 5m, 1h 2m: soggetti legittimati
+
+È un **atto personalissimo dell'imputato**, e **non serve il consenso del PM** (presente solo nella versione originale) (592).
+
+Si prevede uno **sconto di pena fisso di 1/3** (606).
+
+È **applicabile** per **quasi tutti i reati**, salve alcune eccezioni: **reati puniti con ergastolo**, applicazione della **sanzione interdittiva perpetua** contro persone giuridiche (591).
+
+## 1h 10m, 1h 7m: parte civile
+
+La **parte civile** può essere presente, e accetta gli effetti extrapenali, perché la sentenza contiene un accertamento.
+
+La parte civile può **accettare o rifiutare** il rito (599).
+
+* Se **accetta il rito**, accetta la possibilità di partecipare, ma l'esito di una sentenza sfavorevole è opponibile.
+* Se **non accetta il rito**, l'esito sfavorevole della sentenza non gli può essere opposto.
