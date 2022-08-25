@@ -978,3 +978,227 @@ Se il giudice restituisce gli atti, può:
 * Disporre l'archiviazione per altre ragioni.
 
 ## 50. Impugnazione del provvedimento di archiviazione (529)
+
+L'ordinanza di archiviazione è impugnabile se nulla (cfr. art. 127 co. 5 sulle nullità dell'udienza in camera di consiglio).
+
+Il decreto di archiviazione è impugnabile se:
+
+* La persona offesa dal reato non è stata avvertita della richiesta di archiviazione del PM (cfr. art. 408 co. 2 e 3-bis)
+* Il **giudice ha deciso nelle more per presentare l'opposizione** da parte della persona offesa di richiedere la continuazione (cfr. co. 3 e 3-bis).
+* L'opposizione è stata presentata ma il **giudice non si pronuncia sull'ammissibilità**, o la **dichiara inammissibile fuori dai casi previsti** (cfr. art. 410 co. 1).
+
+Per **diminuire il ricorso in Cassazione**, si usa lo strumento del **reclamo davanti al tribunale in composizione monocratica**.
+Il **contraddittorio è cartolare**, ed il giudice può:
+
+* **Annullare il provvedimento** oggetto di reclamo, ordinare la **restituzione degli atti al giudice**, e rimediare al vizio.
+* Dichiarare il **provvedimento inammissibile** o **infondato**.
+
+## 51. Poteri del GIP sull'obbligo di agire (531)
+
+Art. 409 co. 4: se a seguito dell'udienza del co. 2 (se il giudice non accoglie la richiesta di archiviazione del PM) il giudice ritiene che siano **necessarie ulteriori indagini**, può **indicarle al PM**, ma non può spingersi al punto di controllare le indagini.
+
+Dopo che il PM ha svolto ulteriori indagini, può esercitare l'azione penale, o reiterare la richiesta di archiviazione.
+Nel secondo caso, il giudice può applicare di nuovo i poteri dell'art. 409.
+
+Il procuratore generale è avvisato delle richieste di archiviazione in modo da poter esercitare l'avocazione, ma succede raramente, date le scarse risorse previste per l'istituto.
+
+Art. 409 co. 2: il giudice può **imporre la formulazione dell'imputazione al PM**, e **fissa con decreto l'UP**.
+
+## 52. Controllo sull'obbligatorietà dell'azione presso la corte d'appello, e potere di avocazione (535)
+
+**L'avocazione** si applica se al **termine delle indagini preliminari, il PM non esercita l'azione penale o richiede l'archiviazione**.
+
+È **obbligatoria**, ma nella pratica è applicabile solo ai casi di **inerzia effettiva** del PM, **non dipendente dal funzionamento dell'ufficio**.
+
+**Indagato e persona offesa dal reato** hanno un potere di **sollecitazione** nei confronti del procuratore generale.
+
+**L'avocazione** può essere esercitata anche nei casi in cui il **giudice non accoglie la richiesta di archiviazione**, se le **indagini sono negligenti, insufficienti, o mal condotte**.
+
+## 53. Riapertura delle indagini (537)
+
+Il **PM può continuare ad investigare** dopo aver **presentato la richiesta di riapertura delle indagini** al giudice:
+
+* Si procede ad una **nuova iscrizione nel registro delle notizie di reato**.
+* Il **presupposto** è la esigenza di nuove investigazioni, che può essere dovuta alla rilettura degli elementi già acquisiti, o la necessità di acquisire nuovi elementi.
+* In caso di **mancata autorizzazione alla riapertura**, sono previsti degli **effetti preclusivi dell'azione penale** per **lo stesso fatto nei confronti della stessa persona**.
+
+## 54. Archiviazione per essere ignoto l'autore del reato (537)
+
+Se l'autore del reato è ignoto, entro 6 mesi dalla registrazione della notizia di reato, il PM può:
+
+* Richiedere **l'archiviazione**, se usato ogni mezzo utile l'autore del reato non è stato individuato.
+* Richiedere di **continuare le indagini** se ritiene che ulteriori indagini possono essere utili.
+
+Si applica la **normale procedura di archiviazione**, con i relativi diritti di partecipazione dell'offeso del reato.
+
+## 55. Udienza preliminare (539)
+
+Se il **PM decide di non richiedere l'archiviazione**, e sempre che non decida di usare un **rito alternativo** al dibattimento, il PM deve formulare la **imputazione con richiesta di rinvio a giudizio**.
+
+L'UP serve a **evitare dibattimenti inutili**, ed esercita un **controllo sull'esercizio dell'azione penale**, filtrando le **imputazioni inadeguate a giustificare il dibattimento**.
+
+**L'imputato si difende contro il PM davanti ad un giudice**, che deve decidere fra **l'alternativa del dibattimento e non luogo a procedere**.
+Il dibattimento si svolge sui **risultati dell'indagine preliminare**, ma le **indagini possono continuare**, ed il giudice può anche ordinare al PM di svolgere ulteriori indagini.
+
+L'UP originariamente era decisa allo stato degli atti, ma **attualmente ha quasi la rilevanza di un giudizio di merito**.
+
+## 56. Richiesta di rinvio a giudizio e atti introduttivi (540)
+
+La **richiesta di rinvio a giudizio** è formulata dal **PM**, e deve contenere:
+
+* Le **generalità dell'imputato e persona offesa**.
+* L'indicazione **chiara e precisa del fatto**, circostanze aggravanti, fatti che possono giustificare l'applicazione di misure di sicurezza, ed i **relativi articoli di legge**.
+* La **domanda di emissione del decreto che dispone il giudizio al giudice**.
+* La **data e sottoscrizione**.
+
+L'indicazione del fatto in maniera chiara e precisa è necessaria per garantire il diritto alla difesa dell'imputato.
+Il PM deve **trasmettere il fascicolo** al giudice, in modo che **l'imputato possa prenderne visione**.
+
+Il giudice fissa l'udienza, almeno 30 gg. dopo il deposito della richiesta di rinvio a giudizio (art. 418).
+
+All'imputato e persona offesa sono notificati l'avviso dell'udienza, e la richiesta di rinvio a giudizio.
+**L'omessa o erronea citazione dell'imputato** è una **causa di nullità generale a regime assoluto** (cfr. art. 179 co. 1).
+
+Il giudice invita le parti anche a depositare le eventuali **indagini suppletive** compiute dopo la richiesta di rinvio a giudizio.
+
+**L'imputato può prendere visione degli elementi di accusa** per decidere se accedere ad un **rito premiale** (giudizio abbreviato, applicazione della pena su richiesta, sospensione del procedimento con messa alla prova).
+
+**L'imputato può richiedere di rinunciare all'UP se è sicuro di essere assolto**, ed in questo caso il giudice emette un decreto di giudizio immediato (art. 419 co. 6).
+
+## 57. Accertamenti relativi alla costituzione delle parti (544)
+
+L'udienza si svolge in **camera di consiglio, con la partecipazione necessaria del PM e difensore dell'imputato** (art. 420 co. 1).
+
+Il giudice deve **verificare la regolare costituzione delle parti**, secondo la procedura che precedentemente era contenuta nella disciplina del dibattimento.
+
+La **parte civile** deve costituirsi **per l'UP**.
+
+La **partecipazione dell'imputato** è **espressione del suo diritto alla difesa**, e la **contumacia è stata abrogata**.
+Il giudice **può procedere in assenza dell'imputato** solo se:
+
+* L'imputato ha **espressamente rinunciato** ad assistere (art. 420-bis co. 1).
+* È possibile **provare o desumere** la **conoscenza del processo** da parte dell'imputato, in una serie di situazioni (art. 420-bis co. 2).
+
+Se l'imputato non può apparire per **caso fortuito, forza maggiore, o altri impedimenti**, il giudice lo rimette in termini (art. 420-ter).
+
+La **presunzione di disinteresse** dell'imputato a partecipare è **relativa**, e l'ordinanza che dispone di procedere anche in sua assenza può essere **revocata** se si presenta prima della decisione.
+
+Se **l'imputato non sembra essere assente per sua volontà** (cfr. art. 420 e 420-ter), il giudice deve **disporre la notifica di persona all'imputato** mediante PG.
+Se anche questo fallisce, il giudice deve **sospendere il processo**, e **disporre ricerche per l'imputato**.
+
+La **presenza del difensore è necessaria**, e **ogni violazione è sanzionata a pena di nullità assoluta (cfr. art. 179 co. 1)**.
+
+## 58. Svolgimento dell'udienza e integrazioni probatorie (550)
+
+Il giudice dichiara aperta la discussione dopo gli accertamenti relativi alla costituzione delle parti.
+
+L'UP consiste in un **confronto fra PM e difensori delle parti private**, che usano gli **atti nel fascicolo dell'art. 416 co. 2 e altri atti depositati prima dell'udienza** per formulare e illustrare le loro conclusioni.
+
+Se il **giudice ritiene di poter decidere allo stato degli atti, dichiara chiusa la discussione**.
+Altrimenti, se **ritiene le indagini preliminari incomplete**, può indicare ulteriori indagini.
+
+Il giudice può:
+
+* Indicare **ulteriori indagini al PM**, se ritiene che l'accusa sia infondata, ma deve evitare di compromettere la sua terzietà nei confronti dell'imputato.
+* **Condurre le indagini di persona**, ma solo per **prove a favore della sentenza di non luogo a procedere** (art. 422 co. 1).
+
+## 59. Modifica dell'imputazione (551)
+
+La **richiesta di rinvio a giudizio definisce provvisoriamente il thema probandum** su cui il giudice si deve pronunciare, ma può succedere che **durante l'UP l'imputazione cambi**.
+
+Se il **fatto risulta diverso**, o emerge un **reato connesso** (art. 12 co. 1 lett. b), o una **circostanza aggravante**, il PM **modifica l'imputazione**.
+
+Se **risulta un fatto nuovo, che si aggiunge al precedente**, e per il quale si può procedere d'ufficio, serve il **consenso dell'imputato** e la **autorizzazione del giudice**.
+
+Il **giudice può dare diversa qualificazione giuridica al fatto**, rispetto a quella contenuta nell'imputazione, e si prevede un **contraddittorio** sulla nuova qualificazione.
+
+## 60. Sentenza di non luogo a procedere e la sua revoca (552)
+
+L'UP termina con la **sentenza di non luogo a procedere** o con il **decreto che dispone il giudizio**, due scelte complementari.
+
+I casi in cui il **giudice pronuncia sentenza di non luogo a procedere sono** (art. 425 co. 1):
+
+* Esiste una **causa di estinzione del reato**.
+* Esiste una **situazione per cui l'azione penale non andava iniziata o proseguita**.
+* Il **fatto non è previsto dalla legge come reato**, o **non sussiste**, o **l'imputato non lo ha commesso**.
+* Il fatto è stato **commesso da persona non punibile per qualsiasi causa**, inclusa la particolare tenuità del fatto, che però pone il problema di una sentenza che presuppone la responsabilità della persona senza il suo consenso.
+
+Art. 425 co. 3:
+
+* **Originariamente** la sentenza andava pronunciata **solo se la situazione di proscioglimento fosse evidente**, ma questo impediva la funzione deflattiva dell'UP.
+* **Attualmente** la sentenza di non luogo a procedere va pronunciata quando gli elementi acquisiti sono **insufficienti, contraddittori o inidonei a sostenere l'accusa**.
+
+Coesistono **due valutazioni**:
+
+* La valutazione sulla **insufficienza e contraddittorietà** anticipa la valutazione nel dibattimento.
+* La valutazione **dell'idoneità** è di **tipo prognostico**, ed è considerata dalla giurisprudenza.
+* **Pertanto**, il giudice **proscioglie solo se ritiene che il dubbio non sia superabile anche a seguito del passaggio a giudizio**.
+
+La sentenza di non luogo a procedere può essere appellata:
+
+* Dal **procuratore della Repubblica** e dal **procuratore generale**.
+* **Dall'imputato**, salvo che la sentenza usa le formule "il fatto non sussiste" o "l'imputato non lo ha commesso", perché **manca l'interesse all'impugnazione**.
+* Dalla **persona offesa** nei casi di nullità dell'art. 419 co. 7.
+
+Sull'impugnazione decide la **corte d'appello** seguendo **l'art. 127**.
+I possibili esiti sono:
+
+* La **conferma della sentenza**.
+* La **riforma** in senso più o meno favorevole all'imputato.
+* La **pronuncia immediata** del decreto che dispone il giudizio, **se sono presenti gli elementi per il rinvio a giudizio**.
+
+Contro la sentenza pronunciata in appello si può proporre il ricorso in Cassazione.
+
+Quando la **sentenza non è più soggetta ad impugnazione, acquista forza esecutiva**:
+
+Ha **effetti preclusivi**, per cui è vietato l'esercizio di azione penale e l'applicazione di misure cautelari.
+
+Tuttavia, **su richiesta del PM si può revocare la sentenza** se **si scoprono nuove fonti di prova che possono determinare il rinvio a giudizio**.
+Le nuove fonti di prova:
+
+* Devono essere **reperite in altre indagini**, o **trovate casualmente**, o **offerte spontaneamente**.
+* **Non** possono provenire da indagini finalizzate all'approfondimento di elementi già emersi.
+
+Se le fonti di prova sono **già acquisite** il **PM chiede il rinvio a giudizio**, mentre se **sono da acquisire** il giudice **dispone la riapertura delle indagini**.
+
+## 61. Decreto che dispone il giudizio e formazione dei fascicoli (559)
+
+### Decreto che dispone il giudizio
+
+Se **l'accusa supera l'UP**, il **giudice emette un decreto che dispone il giudizio**, e ha la funzione di:
+
+* **Definire l'accusa** a seguito di eventuali modifiche, per indicare il thema probandum al giudice del dibattimento.
+* Contenere la **vocatio in iudicium**, ed il GUP fissa l'udienza per il giudice dibattimentale.
+
+Deve contenere, a **pena di nullità**:
+
+* **L'enunciazione del fatto, aggravanti e circostanze che giustificano l'applicazione di misure di sicurezza**, con l'indicazione dei **relativi articoli di legge**.
+* **Luogo, giorno e ora** della comparizione.
+
+Contiene anche una **indicazione sommaria delle fonti di prova**, in modo da preservare la neutralità del legislatore dibattimentale.
+
+Tra la data del decreto e la data prevista per il giudizio è previsto un **termine di almeno 20 gg.**, e per alcuni reati è previsto un termine massimo di 60 gg.
+
+### Formazione dei fascicoli
+
+Il **fascicolo per il dibattimento** viene **formato dal giudice, nel contraddittorio delle parti**.
+
+Include, fra l'altro:
+
+* I verbali degli atti non ripetibili compiuti dalla PG, PM e difensore.
+* I verbali degli atti assunti nell'incidente probatorio.
+* Il corpo del reato e le cose pertinenti al reato.
+
+Le **parti possono concordare** l'acquisizione al fascicolo del dibattimento di **atti del fascicolo del PM, o di attività di investigazione difensiva**.
+
+**Tutti gli altri atti** che non rientrano nell'art. 431 entrano nel **fascicolo del PM**, di cui i difensori possono prendere visione ed estrarre copie (art. 433).
+
+## 62. Attività integrativa di indagine (562)
+
+Durante l'UP PM e difensori possono continuare la loro attività investigativa, che **continua anche dopo l'emissione del decreto che dispone il giudizio**.
+Non è previsto un termine finale, ma secondo la giurisprudenza, le indagini possono continuare fino al giudizio di appello.
+
+Questo **potere di indagine è però eccezionale, e subisce dei limiti**:
+
+* Non si possono compiere atti per cui è prevista la partecipazione dell'imputato o difensore (art. 430 co. 1).
+* PM, PG e difensore non possono assumere informazioni dalle persone citate a dibattimento dalle altri parti o giudice, per evitare di interferire con le fonti di prova (art. 430-bis co. 2).
