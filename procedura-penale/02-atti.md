@@ -1,3 +1,139 @@
+<!-- vim:set spelllang=it: -->
+
+## 4. Divieto di pubblicazione (153)
+
+### Segreto delle indagini
+
+Il legislatore prevede **due tipi di divieto di pubblicazione** (art. 114 co. 1 e 7):
+
+* Il **divieto relativo** riguarda la **riproduzione totale o parziale dell'atto in sé**, che non è ulteriormente specificato.
+* Il **divieto assoluto** riguarda la **pubblicazione del contenuto concettuale** dell'atto, detta "**contenuto dell'atto**".
+
+### Segretezza interna
+
+Gli **atti coperti dal segreto investigativo**:
+
+* Sono coperti da **divieto di pubblicazione assoluto** (art. 114 co. 1).
+* Comprendono gli **atti di indagine compiuti da PG e PM**, le richieste del PM di autorizzazione ad atti di indagine (intercettazioni) e gli atti del giudice che provvedono sulle richieste del PM.
+* Il segreto dura **fino a quando l'imputato può averne conoscenza**, e **non oltre la conclusione delle indagini preliminari** (art. 329 co. 1).
+
+### Segretezza esterna e imparzialità del giudice
+
+Il PM può **desegretare** singoli atti, o **segretare** singoli atti per la **prosecuzione delle indagini** (art. 329 co. 2 e 3).
+
+Si pone il problema della **tutela della riservatezza** in caso di **richieste di misure cautelari che riproducevano le intercettazioni**, perché le ordinanze cautelari non sono più coperte da segreto dopo la loro pubblicazione o esecuzione.
+
+L'art. 114 co. 2 e 3 servono a **preservare la neutralità psicologica del giudice del dibattimento**.
+Si riferiscono solo agli "atti", e pertanto si ritiene che la **riproduzione del "contenuto dell'atto" non danneggi il giudice** (co. 7).
+
+### Tutela della riservatezza e dignità della persona
+
+Se il **dibattimento si svolge a porte chiuse**, è **vietata la pubblicazione degli atti usati per le contestazioni** (art. 114 co. 4).
+
+Se **non si procede a dibattimento**, il giudice può **vietare la pubblicazione** di atti che possono ledere la privacy dei testimoni e parti private (art. 114 co. 5).
+
+È **vietato pubblicare immagini di persone sottoposte a restrizione della libertà personale** (co. 6-bis), o **generalità o immagini di minori** che assumono la qualità di testimone, persona offesa o danneggiato (co. 6).
+
+### Sanzioni penali
+
+La violazione del divieto di pubblicazione è un reato contravvenzionale e suscettibile di oblazione discrezionale (art. 684 c.p.).
+
+Si prevede una sanzione disciplinare (art. 115 c.p.p.).
+
+## 8. Forme dei provvedimenti e classificazioni delle sentenze (167)
+
+Esistono **tre tipi di provvedimenti** (art. 125).
+
+Le **sentenze** sono **provvedimenti decisori** idonei a **chiudere il procedimento**, e sono **pronunciate in nome del popolo italiano**.
+
+Le **sentenze di condanna** sono pronunciate **dopo il dibattimento o giudizio abbreviato**.
+
+Le **sentenze di proscioglimento** sono **pronunciabili in ogni stato e grado del processo**:
+
+* Le **sentenze di assoluzione** usano le formule "il fatto non sussiste", "l'imputato non lo ha commesso", "il fatto non costituisce reato" o "non è previsto dalla legge come reato", o "il reato è stato commesso da persona non imputabile o punibile", dichiarano **l'infondatezza dell'accusa**, sono **irrevocabili**, e **sono efficaci nei giudizi civili e amministrativi di danno, e nei giudizi per responsabilità disciplinare** (cfr. art. 652 e 653).
+* Le **sentenze di non luogo a procedere** sono pronunciate al **termine dell'UP**, ma sono **revocabili**.
+* Le **sentenze di non doversi procedere** sono pronunciate negli **altri stati e gradi del procedimento**, e usano le formule "l'azione penale non doveva essere iniziata" o "non deve essere proseguita" o "il reato è estinto", e sono **meramente processuali, senza un accertamento di merito**.
+
+Le **sentenze dichiarative** verificano l'esistenza di **fattispecie processuali**, ma non hanno l'efficacia liberatoria delle sentenze di proscioglimento.
+
+Le **sentenze costitutive** creano effetti giuridici. Ad es., il riconoscimento di sentenze penali straniere.
+
+Le **ordinanze**:
+
+* Governano l'andamento del processo, e alcune sono in grado di concluderlo.
+* Sono usate per le decisioni riguardo le **misure cautelari personali**.
+* Sono **revocabili**.
+
+I **decreti**:
+
+* Rappresentano un **comando dell'autorità procedente**, e **possono essere emessi anche dal PM**.
+* Sono **revocabili**, incluso il **decreto penale di condanna**, anche se è assimilabile ad una sentenza.
+
+Il **legislatore sceglie liberamente** il tipo di provvedimento da usare.
+
+I **decreti non hanno bisogno di motivazione**, a **differenza delle sentenze e ordinanze**.
+La motivazione consiste nell'espressione concisa delle ragioni di fatto e diritto a fondamento del provvedimento.
+
+Si prevede una **nullità relativa per la mancanza di motivazione** di sentenze, ordinanze, e decreti (quando prevista).
+
+La **motivazione per relationem** è possibile se l'atto a cui si riferisce è conosciuto o conoscibile dalla parte.
+Si può prevedere la **autonoma valutazione** degli elementi per **evitare il c.d. copia-incolla**.
+
+Si possono usare anche **provvedimenti informali, o orali** (art. 125 co. 6).
+
+### Deliberazione dei provvedimenti
+
+Il **giudice delibera in camera di consiglio, in segreto** (art. 125 co. 4).
+
+Nel caso di **provvedimenti collegiali**, si può redigere una **dissenting opinion** per liberare il componente dissenziente da eventuale responsabilità (co. 5).
+
+## 9. Procedimento in camera di consiglio (173)
+
+L'art. 127 prevede un modello valido per tutti i procedimenti che si svolgono in camera di consiglio.
+
+Si prevede un **contraddittorio** fra le parti:
+
+* Nel **modello forte** si prevede la **partecipazione necessaria del difensore e PM**. Ad es., l'udienza per incidente probatorio.
+* Nel **modello debole** il contraddittorio è solo cartolare. Ad es., la proroga delle indagini preliminari.
+
+L'attuazione del contraddittorio presuppone **l'avviso alle parti private, PM** almeno **10 gg. prima dell'udienza** (co. 1), e si prevede una **nullità relativa** in caso di mancata notificazione (co. 5).
+
+Il procedimento si svolge **in udienza, ma senza pubblico** (co. 6).
+
+PM, altri destinatari e difensori sono sentiti a pena di nullità **se compaiono** (co. 3 e 5).
+
+Il giudice provvede con **ordinanza**, che viene comunicata al PM e notificata alle parti private, persone interessate e difensori (co. 7).
+
+## 10. Immediata declaratoria di cause di non punibilità e correzione degli errori materiali (176)
+
+Esigenze di **economia processuale** e l'attuazione del **favor rei** impongono di **fermare il procedimento appena è possibile pronunciare il proscioglimento**.
+
+Il giudice deve dichiarare d'ufficio, con sentenza, che:
+
+* Il **fatto non sussiste, o l'imputato non lo ha commesso**.
+* Il **fatto non costituisce reato, o non è previsto dalla legge come reato**.
+* Il **reato è estinto**.
+* **Manca una condizione di procedibilità**, che include l'errore di persona (art. 68) o la violazione del ne bis in idem (649 co. 2).
+
+La dichiarazione può avvenire **solo nel processo** (art. 129 co. 1).
+Nella **fase preliminare si usa l'archiviazione**:
+
+* Per **notizia infondata** (art. 408).
+* Per le **altre cause**, incluse l'ipotesi di non punibilità per tenuità del fatto.
+
+L'art. 129 è richiamato anche nei **procedimenti speciali**, ed la sua applicabilità d'ufficio è un'eccezione all'effetto devolutivo dell'appello (cfr. art. 597) ed al vincolo ai motivi di appello in Cassazione (cfr. art 606).
+
+La **assoluzione nel merito** prevale su quella estintiva del reato se è **evidente dagli atti** (art. 129 co. 2).
+Se si applica una **causa di improcedibilità**, il giudice deve applicarla **senza entrare nel merito**.
+
+## 12. Principi in materia di documentazione degli atti (185)
+
+La **documentazione** è l'attività con cui l'atto è inserito e conservato nella sequenza processuale, così che giudice e parti ne possano controllare la validità.
+
+Riguarda ogni atto del procedimento, in particolare gli atti che consistono in dichiarazioni ed operazioni.
+
+(186 ...)
+
 ## 28. Invalidità degli atti (280)
 
 La "fattispecie" è il complesso di elementi necessari e sufficienti per produrre un determinato effetto giuridico.
