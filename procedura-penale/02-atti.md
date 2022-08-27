@@ -132,154 +132,168 @@ La **documentazione** è l'attività con cui l'atto è inserito e conservato nel
 
 Riguarda ogni atto del procedimento, in particolare gli atti che consistono in dichiarazioni ed operazioni.
 
-(186 ...)
+Gli **atti del giudice sono documentati con verbale** (art. 134 co. 1), mentre gli atti di **PM e PG** sono documentati con **annotazione**.
 
-## 28. Invalidità degli atti (280)
+Il verbale **non serve come fonte di prova** ma **per rappresentare e conservare gli atti** svolti nel procedimento.
 
-La "fattispecie" è il complesso di elementi necessari e sufficienti per produrre un determinato effetto giuridico.
+Il verbale può essere redatto in **forma riassuntiva o integrale**:
 
-Nel processo penale gli atti sono a forma vincolata. La perfezione dell'atto (corrispondenza allo schema tipico) implica la sua efficacia (produzione di effetti giuridici).
+* In alcuni casi, l'uso della forma integrale è obbligatoria.
+* In generale, la scelta è rimessa al giudice, che sceglie la forma riassuntiva se gli atti hanno contenuto semplice, o mancano i mezzi per la riproduzione.
 
-In teoria, anche la minima difformità la produzione degli effetti giuridici, ma il sistema non sanziona ogni difformità con l'inefficacia:
+In caso di **redazione in forma riassuntiva, si redige anche la riproduzione fonografica**.
 
-- Se la difformità è **giuridicamente irrilevante**, si chiama "mera irregolarità".
-- Altrimenti, per ragioni di **economia e speditezza processuale** (valori di rango costituzionale), gli atti con difformità giuridicamente rilevanti sono raramente dichiarati del tutto inefficaci (cd. principio di conservazione degli atti imperfetti).
+## 15. Documentazione dell'interrogatorio del detenuto (190)
 
-L'atto viziato produce **effetti precari**, fino a che il vizio viene sanato, o l'atto viene dichiarato invalido:
+**L'interrogatorio della persona in stato di detenzione** deve essere **documentato integralmente, a pena di inutilizzabilità** (art. 141-bis).
 
-- Se il vizio viene sanato, si ottiene una fattispecie con gli stessi effetti di quella viziata, ma integrata da delle **cause di sanatoria**, con efficacia ex tunc.
-- Se l'atto è dichiarato invalido, gli effetti dell'atto sono eliminati, sempre con efficacia ex tunc.
+La disposizione serve a garantire che la **persona possa avvalersi del diritto di non rispondere**, e quindi evitare pressioni psicologiche da parte dell'autorità procedente.
 
-### Forme di invalidità (281)
+Per **riproduzione integrale** si intende una **riproduzione senza tagli o interruzioni**.
+In caso di mancata riproduzione integrale, l'atto è **inutilizzabile per qualsiasi fine**, anche fuori dal dibattimento.
 
-L'inesistenza, nullità, inammissibilità e inutilizzabilità sono ritenute specie di invalidità. La decadenza non è una specie di invalidità.
+## 28. Invalidità degli atti (240)
 
-### Inammissibilità (ibid.)
+La "fattispecie" è il complesso di **elementi necessari e sufficienti** per **produrre un determinato effetto giuridico**.
 
-Il titolo VII disciplina solo la nullità, e non include l'inammissibilità. L'inammissibilità non è disciplinata in maniera unitaria, ma si ritiene che il principio di tassatività sia comunque applicabile.
+Nel processo penale gli atti sono a **forma vincolata**, e la **perfezione** dell'atto (corrispondenza allo **schema tipico**) implica la sua **efficacia** (produzione di **effetti giuridici**).
 
-La causa dell'inammissibilità riguarda tutte le condizioni indicate dalla legge.
+In teoria, anche la minima difformità la produzione degli effetti giuridici, ma **il sistema non sanziona ogni differenza rispetto allo schema tipico con l'inefficacia**.
 
-È oggetto di autonomo motivo di ricorso per cassazione, ed è dichiarabile in ogni stato e grado del procedimento. L'unica causa di sanatoria è il giudicato, salvi i casi di limiti temporali per la sua rilevazione.
+Se la difformità è **giuridicamente irrilevante**, si chiama "mera irregolarità".
 
-### Inutilizzabilità (282)
+Se la difformità ha **rilevanza giuridica**:
 
-L'inutilizzabilità è un motivo di ricorso per cassazione, così come la nullità ed inammissibilità, ma non è disciplinata nel titolo VII.
+* Gli atti sono raramente dichiarati del tutto inefficaci (cd. **principio di conservazione degli atti imperfetti**) per ragioni di **economia e speditezza processuale** (valori di rango costituzionale).
+* L'atto viziato produce **effetti precari**, fino a che il vizio viene sanato, o l'atto viene dichiarato invalido.
+* Se intervengono **cause di sanatoria**, si **producono gli effetti dell'atto** ex tunc.
+* Se il **giudice dichiara l'atto invalido**, si **eliminano gli effetti dell'atto** ex tunc.
 
-È una sanzione che può riguardare gli atti probatori, e gli atti delle indagini preliminari. Le ipotesi di inutilizzabilità servono a garantire la legalità della prova.
+I **tipi di invalidità** includono:
 
-Si ritiene che il principio di tassatività sia applicabile anche alle ipotesi di inutilizzabilità
+* La **nullità**.
+* La **inammissibilità**, che riguarda i requisiti delle **domande di parte**, ed è rilevabile d'ufficio, in ogni stato e grado, salvo la presenza di limiti temporali
+* **L'inutilizzabilità**, che riguarda gli **atti probatori**, ed è rilevabile in ogni stato e grado.
 
-Tendenzialmente, ha natura assoluta (gli atti non possono essere ammessi o acquisiti da chiunque), e solo occasionalmente è relativa (ad es., di regola i risultati delle intercettazioni possono essere usati solo nel procedimento in cui sono state disposte)
+## 29. Principio di tassatività delle nullità e tecnica di previsione (244)
 
-È rilevabile in ogni stato e grado del processo.
+La **nullità** è fondata sul **principio di tassatività**, che riguarda **tutti gli atti compiuti nel procedimento** (non solo nel processo).
 
-Può concorrere con la nullità, e lo stesso atto può essere sanzionato con entrambe le forme di invalidità
+Sono **vietate**:
 
-## 29. Principio di tassatività delle nullità e tecnica di previsione (284)
+* La **interpretazione analogica** (creare nuove ipotesi di nullità).
+* La **valutazione del pregiudizio effettivo** (ad es., valutare l'effettiva lesione del diritto di difesa, altrimenti il giudice smette di essere imparziale).
 
-La nullità è fondata sul principio di tassatività, che si applica agli atti "del procedimento", e non solo "processuali"
+### Inesistenza
 
-Come conseguenze del principio di nullità, l'interprete:
+**L'inesistenza giuridica** riguarda i **vizi talmente gravi** da non essere stati esplicitamente previsti dal legislatore.
+Ad es., la sentenza emessa da un soggetto che non è giudice.
 
-- Non può utilizzare l'interpretazione analogica
-- Non può valutare se esiste un pregiudizio effettivo (altrimenti l'invalidità dell'atto sarebbe rimessa alla discrezionalità del giudice)
+I casi di inesistenza sono individuati **dall'interpretazione giurisprudenziale**, e **non** possono coincidere con casi di nullità già previsti.
 
-Le nullità sono un sistema chiuso, e i vizi della volontà previsti dal codice civile non sono applicabili agli atti processuali penali
+È rilevabile in qualsiasi stato e grado del procedimento, anche durante l'esecuzione, e **impedisce la formazione del giudicato**
 
-Se la volontà difetta in maniera assoluta, dato che la volontarietà è il fondamento di ogni atto processuale, l'atto è giuridicamente inesistente
+### Abnormità
 
-Gli "errores in iudicando" non sono nullità, ma possono essere considerate un tipo di invalidità
+Gli atti abnormi sono formalmente validi, ma hanno un contenuto o una finalità anormali o irragionevoli.
 
-Le restanti difformità dallo schema tipico sono:
+Così come l'inesistenza è un rimedio per la tassatività delle cause di nullità, l'abnormità è un rimedio per la tassatività delle cause di impugnazione, perché non c'è un'ipotesi espressa per impugnare i provvedimenti abnormi.
 
-- L'inammissibilità ed inutiizzabilità
-- L'irregolarità, che al più può portare a conseguenze disciplinari
-- L'inesistenza giuridica
+L'abnormità è soggetta a ricorso per cassazione, e agli ordinari termini di impugnazione, e a differenza dell'inesistenza non impedisce la formazione del giudicato, ma viene sanata.
 
-### Inesistenza giuridica (285)
+### Nullità generali e speciali
 
-L'inesistenza giuridica riguarda i vizi talmente gravi che non sono stati esplicitamente previsti dal legislatore (ad es., la sentenza emessa "a non iudice"), e sono individuati secondo l'**interpretazione giurisprudenziale**
+La previsione di **disposizioni generali di nullità** non contrasta con il principio di tassatività.
 
-Ha natura residuale, e non può essere utilizzata se la difformità è già prevista dal codice
+Le **nullità generali** riguardano il giudice, PM, imputato (e indagato, cfr. art. 61 co. 1), parti private, loro difensori e rappresentanti, citazione a giudizio della persona offesa dal reato e del querelante (art. 178).
 
-L'inesistenza è rilevabile in qualsiasi stato e grado del procedimento, anche durante l'esecuzione, e **impsedisce la formazione del giudicato**
+Le **nullità speciali** sono previste da **apposite previsioni legislative**.
 
-A differenza del processo civile, nel processo penale gli atti "nulli" producono effetti temporanei, gli atti "inesistenti" sono inidonei a produrre effetti (nel processo civile sono chiamati "nulli")
+Le nullità **assolute, intermedie e relative** riguarda il **regime di trattamento** delle nullità.
 
-### Abnormità dei provvedimenti del giudice (286)
+## 30. Nullità assolute (247)
 
-Riguarda i casi in cui l'atto è formalmente valido, ma ha un contenuto o una finalità anormali o irragionevoli
+Le **nullità assolute** sono (art. 179 co. 1):
 
-Così come l'inesistenza è un rimedio per la tassatività delle cause di nullità, l'abnormità è un rimedio per la tassatività delle cause di impugnazione, perché non c'è un'ipotesi espressa per impugnare i provvedimenti abnormi
+* **Insanabili**, fino al momento dell'irrevocabilità del giudicato.
+* **Rilevabili in ogni stato e grado del procedimento**.
 
-L'abnormità è soggetta a ricorso per cassazione, e agli ordinari termini di impugnazione, e a differenza dell'inesistenza non impedisce la formazione del giudicato (anzi, viene sanata)
+I casi includono (art. 179 co. 1):
 
-### Disposizioni generali (286)
+* Per il giudice, i casi di nullità generale (la capacità del giudice, ed il numero di giudici necessario per i collegi) (cfr. art. 178 co. 1 lett. a).
+* Per il PM, le nullità relative all'iniziativa del PM nell'esercizio dell'azione penale. Ad es., mancanza o invalidità dell'azione di promuovimento (cfr. art. 405 co. 1).
+* Per l'imputato, le nullità relative **all'omessa o invalida citazione dell'imputato** dal dibattimento di primo e secondo grado.
+* Per il difensore, i **casi in cui sia necessaria la presenza**. Ad es., dibattimento di primo e secondo grado, interrogatorio di persona sottoposta a misura cautelare personale, assunzione di sommarie informazioni dall'indagato, incidente probatorio, udienza preliminare.
 
-Le nullità possono essere anche ricavate da una disposizione generale, che rinvia ad una serie di fattispecie disciplinate altrove. È una soluzione utile per l'economia normativa, e per colmare eventuali dimenticanze, dato che le nullità sono tassative
+Lo **stesso trattamento previsto al co. 1** si applica anche alle **nullità assolute speciali** (co. 2).
 
-Sono previste una serie di nullità di ordine generale (art. 178), fondate sull'inosservanza di una serie di disposizioni che riguardano il giudice, il PM, l'imputato (l'indagato, le altri parte private, i difensori e rappresentati, la citazione a giudizio della persona offesa dal reato e dal querelante)
+L'unico caso previsto tutela il principio di immediatezza del giudizio, e richiede che alla deliberazione della sentenza devono partecipare gli stessi giudici che hanno concorso al dibattimento (art. 525 co. 2).
 
-Le nullità speciali si oppongono a quelle generali, e sono previste nelle singole materie specifiche
+## 31. Nullità intermedie (250)
 
-Le nullità "generali" e "speciali" riguardano la tecnica di previsione della nullità, e non il loro regime di trattamento, per cui le nullità si differenziano in assolute, intermedie e relative
+Il regime per le **nullità generali, diverse da quelle assolute** è chiamato **nullità intermedie**.
 
-## 30. Nullità assolute (287)
+Sono **rilevabili d'ufficio**, ma sono anche **sanabili prima dell'irrevocabilità della sentenza** (art. 180):
 
-Le nullità assolute sono caratterizzate dall'insanabilità, fino al momento dell'irrevocabilità del giudicato
+* Se sono avvenute **prima del giudizio**, non possono più essere rilevate dopo la **deliberazione della sentenza di primo grado**.
+* Se sono avvenute **nel giudizio**, non possono più essere rilevate dopo la **deliberazione della sentenza del grado successivo**.
 
-Sono rilevabili anche d'ufficio in qualsiasi stato e grado del procedimento, ma questo non è un tratto caratterizzante, perché condiviso dalle nullità a regime intermedio e da parte delle nullità relative
+Il giudice può rilevare la nullità anche mentre sta deliberando la sentenza in camera di consiglio.
+Le parti non possono più dedurre la nullità dopo la chiusura del dibattimento, o la chiusura della discussione (se si procede in camera di consiglio).
 
-Per quanto riguarda il **giudice**:
+Riguarda le **nullità generali, a cui non si applica il regime delle nullità assolute**.
+Ad es., la partecipazione del PM e dell'imputato al procedimento.
 
-- La nullità è assoluta in tutti i casi di nullità generali (l'inosservanza delle disposizioni riguardanti la capacità del giudice, il numero dei giudici nel collegio giudicante)
-- I vizi riguardanti la nomina del giudice non sono rilevanti, salvo che rientrino nell'ambito della capacità
-- Cfr. art. 33
+## 32. Nullità relative (252)
 
-Per quanto riguarda il **PM**:
+Le **nullità relative** sono definite come tutte le **nullità non generali** (cfr. art. 178), o **non definite come assolute da specifiche disposizioni di legge** (cfr. art. 179 co. 2) (art. 181 co. 1).
 
-- Solo le nullità generali relative all'iniziativa nell'esercizio dell'azione penale sono assolute, inteso come la mancanza o invalidità dell'atto di promuovimento
-- Sono inclusi anche i casi di imputazione coatta, e della mancata contestazione in udienza del reato connesso o del fatto nuovo
-- La richiesta di archiviazione è esclusa dalla disciplina delle nullità assolute, perché è incompatibile con l'esercizio dell'azione penale
-- Le violazioni delle disposizioni sulla capacità e legittimazione del rappresentante del PM sono causa di nullità assoluta
+**Tutte le nullità relative sono speciali**, ma **non tutte le nullità speciali sono relative**:
 
-Per quanto riguarda l'**imputato**:
+* In presenza di una nullità speciale, si deve verificare se rientra fra le ipotesi di nullità assoluta, o di nullità a regime intermedio (che comprendono le nullità generali).
+* Se la nullità speciale non rientra nelle ipotesi previste per quei regimi, è una nullità relativa.
 
-- La disciplina del codice vuole tutelare le sedi di contraddittorio indefettibile
-- L'omessa o invalida **citazione al dibattimento** di primo grado è protetta da nullità assoluta. La protezione include tutti gli atti, compresa la sua notificazione
-- La cassazione estende la nullità assoluta anche all'avviso per l'udienza preliminare
+Possono essere **dichiarate dal giudice solo su eccezione della parte interessata** (art. 181 co. 1).
+Dato che il giudice non può rilevarle d'ufficio, sono previsti termini brevi per rilevarle:
 
-Per quanto riguarda il **difensore**:
+* Se riguardano le indagini preliminari o l'incidente probatorio, prima chiusura dell'UP, o se manca l'UP, subito dopo l'accertamento della costituzione delle parti in giudizio.
+* Prima della dichiarazione dell'apertura del dibattimento, se l'inosservanza si è verificata fra l'UP e l'inizio dell'udienza dibattimentale.
+* Con l'impugnazione della sentenza, se la nullità si è verificata dopo il giudizio.
 
-- L'assenza dal dibattimento di primo e secondo grado è tutelata da una nullità assoluta
-- Inoltre, è prevista anche in tutti i casi in cui la presenza del difensore è obbligatoria
+Le **nullità eccepite in tempo, ma non rilevate dal giudice** diventano **motivi di impugnazione**.
 
-### Nullità a previsione speciale (290)
+## 33. Deducibilità e sanatorie (254)
 
-L'art. 179 co. 2 prevede la possibilità di nullità assolute a previsione speciale (ad es., l'art. 525 co. 2)
+### Deducibilità
 
-## 31. Nullità intermedie (290)
+La **nullità relative e a regime intermedio non possono essere eccepite o dedotte**:
 
-Riguarda le "altre nullità di ordine generale", senza ulteriori distinzioni.
+* Da chi **vi ha dato corso, o ha concorso a darvi causa**.
+* Da chi **non ha interesse** all'osservanza della disposizione violata.
 
-L'espressione "intermedia" indica la loro posizione ibrida, perché sono rilevabili anche d'ufficio (come le nullità assolute), ma sono sanabili in un momento anteriore all'irrevocabilità della sentenza, e si applicano le cause generali di sanatoria
+Se la **parte assiste ad un atto**, deve **eccepire la nullità**:
 
-Non possono più essere rilevate dal giudice o dedotte dalle parti:
+* **Prima del compimento** dell'atto, in modo da prevenire lo svolgimento di un atto viziato.
+* Se non è possibile, **subito dopo**, per evitare che il vizio si rifletta sugli atti successivi.
 
-- Dopo la deliberazione della sentenza di primo grado, se si sono verificate prima del giudizio
-- Dopo la deliberazione della sentenza del grado successivo, se si sono verificate durante il giudizio
+### Sanatorie
 
-Il termine per la deduzione del giudice è più ampio di quello per le parti. Ad es., al momento della deliberazione in camera di consiglio, il giudice può rilevare una nullità la cui deduzione non è più permessa alle parti
+Le **sanatorie generali** includono (art. 183):
 
-... (TODO 291)
+* **L'acquiescenza**, che include la **rinuncia espressa** della parte interessa a **eccepire la nullità**, e **l'accettazione degli effetti dell'atto** (lett. a).
+* Il **raggiungimento dello scopo dell'atto** (lett. b).
 
-### Ipotesi di nullità intermedie (291)
+Le sanatorie non operano per le nullità assolute (perché espressamente definite insanabili, cfr. art. 179), ma operano per le nullità a regime intermedio o relative.
 
-Le nullità intermedie sono sottratte dall'area delle nullità assolute, e non esistono figure di nullità intermedie speciali
+È prevista una **sanatoria per la nullità di citazioni, avvisi e notificazioni** (art. 184):
 
-Include i casi di:
+* La nullità è sanata se la parte compare, o rinuncia a comparire (co. 1).
+* Se la parte compare solo per valere l'irregolarità, ha diritto ad un termine a difesa di 5 gg., o 20 gg. nel caso di citazione a comparire nel dibattimento (co. 2 e 3).
 
-- Partecipazione del PM al procedimento, tolti i casi di iniziativa dell'azione penale
-- La prosecuzione dell'azion penale (ad. es., la modifica dell'imputazione)
--
+## 34. Effetti di dichiarazione della nullità (256)
+
+La nullità di un atto rende **invalidi gli atti consecutivi, che dipendono dall'atto dichiarato nullo** (art. 185 co. 1).
+
+Il giudice può ordinare la **rinnovazione dell'atto** se **necessaria** (non è intervenuta una causa di sanatoria) e **possibile** (l'atto deve essere reiterabile) (co. 2).
+
+La dichiarazione di nullità prevede la **regressione del procedimento** allo stato e grado in cui è stato compiuto l'atto nullo (co. 3), **tranne i casi di atti probatori** (co. 4), per cui si dispone la **rinnovazione, se necessaria per la decisione e se l'atto è ripetibile**.
