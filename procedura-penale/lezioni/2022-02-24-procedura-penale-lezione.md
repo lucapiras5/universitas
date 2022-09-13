@@ -74,7 +74,7 @@ L'affermazione è problematica quando è riferita al PM.
 
 La notizia di reato **obbliga** il PM ad avviare un'indagine per stabilire se chiedere l'archiviazione o il rinvio a giudizio.
 
-C'è un collegamento indiretto con l'art. 112 Cost., per cui il PMG è obbligato ad esercitare l'azione penale.
+C'è un collegamento indiretto con l'art. 112 Cost., per cui il PM è obbligato ad esercitare l'azione penale.
 La NDR obbliga il PM a chiedersi se l'azione penale vada esercitata.
 
 Se il PM si astenesse dall'indagare di verificare se la NDR è fondata, si sta sottraendo all'obbligo dell'art. 112 Cost.
@@ -88,10 +88,10 @@ Invertire il rapporto tra NDR e poteri espone all'arbitrio dell'investigatore.
 
 ## Casi eccezionali di uso dei poteri per cercare NDR (35m)
 
-In alcuni **casi eccezionali, si può legittimare l'uso del potere investigativo per ricercare notizie di reato**/
+In alcuni **casi eccezionali, si può legittimare l'uso del potere investigativo per ricercare notizie di reato**.
 Sono casi legati alle perquisizioni.
 
-L'art 41 TULPS consente alla PG per fare perquisizioni per reati riguardanti armi ed esplosivi, e l'art. 103 DPR 300/1990 permettono l'uso di poteri investigativi per ricercare notizie di reato.
+L'art 41 TULPS consente alla PG per fare perquisizioni per reati riguardanti armi ed esplosivi, e l'art. 103 DPR 309/1990 permettono l'uso di poteri investigativi per ricercare notizie di reato.
 
 Nella pratica, i PM usano i poteri derivanti da notizie di reato già avute, per andare alla ricerca di altre notizie di reato.
 Ad es., nella criminalità organizzata si usano le c.d. "intercettazioni a strascico".

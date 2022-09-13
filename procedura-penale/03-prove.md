@@ -236,7 +236,7 @@ L'imputato **perde il diritto al silenzio**, ma a differenza del testimone:
 
 L'imputato ha la **facoltà di non rispondere** se dalla risposta potrebbe emergere una sua responsabilità penale.
 
-Nei casi di connessione del''art. 12 co. 1 lett. a, o anche nello stesso processo, l'imputato può essere esaminato su fatti riguardanti la responsabilità altrui (art. 210).
+Nei casi di connessione dell'art. 12 co. 1 lett. a, o anche nello stesso processo, l'imputato può essere esaminato su fatti riguardanti la responsabilità altrui (art. 210).
 
 L'esame può avvenire su richiesta di parte o **d'ufficio**, se a questi soggetti si è fatto riferimento con una testimonianza o esame di **natura indiretta** (art. 210 co. 1).
 
@@ -244,7 +244,7 @@ I soggetti **sono a metà fra testimoni e imputati**:
 
 * Si prevede **l'obbligo di presentazione ed il loro accompagnamento coattivo**.
 * Si prevede **l'assistenza da parte di un difensore, anche nominato d'ufficio**.
-* È **esplicitamente previsto il diritto al silenzio** per tutelari contro dichiarazioni auto-incriminanti.
+* È **esplicitamente previsto il diritto al silenzio** per tutelare contro dichiarazioni auto-incriminanti.
 
 La disciplina si applica:
 

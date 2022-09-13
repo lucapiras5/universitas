@@ -2,10 +2,10 @@
 
 <!-- vim:set spelllang=it: -->
 
-# Presupposti (1m)
+# Fermo di indiziato di delitto (1m)
 
 Prevede tre presupposti, il **pericolo di fuga, la gravità degli indizi, e la gravità del delitto** (480).
-Sono **più più difficili da accertare** rispetto alla flagranza.
+Sono **più difficili da accertare** rispetto alla flagranza.
 
 È la **tipica misura cautelare** adottata dal PM (480), ma in **casi di urgenza, la PG può effettuare il fermo** (481).
 
@@ -183,7 +183,7 @@ Riguarda **l'improcedibilità per decorso del tempo** e cerca di affermare la **
 
 Co. 1: il **giudizio d'appello può durare due anni**, scaduti i quali il **processo si chiude per improcedibilità**, anche se il reato rimane.
 
-Co. 2: il **giudizio di Cassazione può durata un anno**, con le stesse conseguenze del co. 1.
+Co. 2: il **giudizio di Cassazione può durare un anno**, con le stesse conseguenze del co. 1.
 
 Co. 3: indica la modalità di calcolo del termine.
 
@@ -211,7 +211,7 @@ Co. 4: oltre alle proroghe già previste, il **giudice può prevedere ulteriori 
 Co. 6: prevede dei meccanismi di sospensione simili a quelli previsti per la durata della custodia cautelare.
 
 Co. 7: la declaratoria di improcedibilità non ha luogo se l'imputato richiede la prosecuzione del processo.
-Quando la prescrizione era un istituto puramente sostanziale, l'imputato poteva richiedere di rinunciare alla prescrizione, se speravano di ottenere una sentenza di proscioglimento di nel merito.
+Quando la prescrizione era un istituto puramente sostanziale, l'imputato poteva richiedere di rinunciare alla prescrizione, se sperava di ottenere una sentenza di proscioglimento nel merito.
 
 Co. 9: non è applicabile ai reati puniti con l'ergastolo.
 

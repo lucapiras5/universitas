@@ -4,7 +4,7 @@
 
 <!-- inizio: 11m -->
 
-## Archiviazione (11m - 0m)
+## Udienza preliminare (11m - 0m)
 
 **L'udienza preliminare** (UP) è la **forma di controllo prevista per l'esercizio dell'azione penale**, così come l'archiviazione controlla il non-esercizio dell'azione penale (539).
 
@@ -66,6 +66,7 @@ L'anticipazione di queste verifiche dimostra la **crescita di importanza dell'UP
 Le verifiche vanno **ripetute in dibattimento** (544, 545).
 
 In caso di **legittimo impedimento**, l'udienza va rinviata, come nell'udienza dibattimentale (548).
+
 ## Divieto del processo in contumacia (32m - 21m)
 
 --- Processo in contumacia: denunce della CEDU, abrogato (545).
@@ -120,7 +121,7 @@ La legge distingue fra **fatto diverso e fatto nuovo** (551, 552).
 Il **fatto diverso** è il fatto che **si sostituisce** a quello già contestato, è una **diversa descrizione dello stesso fatto** criminoso (551, 552).
 
 Ad es. si scopre che il fatto è stato commesso il giorno dopo, rispetto al giorno indicato nell'imputazione.
-Questo ha conseguenze diverse in tema do prova (ad es., in tema di alibi).
+Questo ha conseguenze diverse in tema di prova (ad es., in tema di alibi).
 
 Il **fatto nuovo** è il **fatto che si aggiunge** a quello già contestato (552).
 Ad es., si scopre un secondo reato, e l'imputazione originaria conteneva solo il primo.

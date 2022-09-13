@@ -51,7 +51,6 @@ L'art. 360 prevede una procedura **più urgente dell'incidente probatorio**.
 
 --- Riserva di incidente probatorio, sanzione se il PM ha valutato incorrettamente l'indifferibilità della prova (464, 465).
 
-
 ## Individuazione di persone (32m)
 
 È il nome usato per l'atto che davanti al giudice si chiamerebbe "ricognizione personale".

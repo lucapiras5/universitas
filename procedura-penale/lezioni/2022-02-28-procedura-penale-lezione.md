@@ -7,7 +7,7 @@
 La **formulazione originale** rappresentava un tentativo di superare la prassi del **rapporto di polizia**, per attuare l'art. 109 Cost.
 
 L'art. 109 prevede che il PM dispone direttamente della PG.
-L'attuazione dell'art 109 prevede la garanzia di un numero minimo di poliziotti per ogni PM.
+L'attuazione dell'art. 109 prevede la garanzia di un numero minimo di poliziotti per ogni PM.
 
 Il PM organizza l'indagine, che è eseguita materialmente dalla PG.
 L'art. 347 **riduceva al minimo l'attività autonoma della PG**, e **aumentava i poteri del PM** (444).
@@ -15,7 +15,7 @@ L'art. 347 **riduceva al minimo l'attività autonoma della PG**, e **aumentava i
 Entro **48 ore**, la PG doveva **riferire al PM** la notizia di reato (445).
 
 Prima della riforma del codice, la PG aveva un ampio potere di iniziativa autonoma, e poteva svolgere lunghe indagini.
-La PG produceva un **rapporto ampio**, e lo consegnava al PM e giudice istruttorie (444).
+La PG produceva un **rapporto ampio**, e lo consegnava al PM e giudice istruttore (444).
 
 Con la riforma del codice, si introduce il **termine di 48 ore**, che era **largamente osservato**, dato che la PG doveva registrare anche la data e ora in cui aveva ricevuto la NDR.
 
@@ -96,7 +96,7 @@ Il legislatore non prevede le modalità di svolgimento.
 Ad es., sono attività informali l'identificazione di persone, e nella versione originale, le sommarie informazioni da persone informate sui fatti (che è diventata una norma formale).
 
 La parte del codice che regola l'attività autonoma di polizia è corta perché riguarda solo i casi in cui tocca i diritti fondamentali della persona.
-È quasi sempre prevista l'intervento in funzione di convalida del magistrato, in modo da non perdere il risultato.
+È quasi sempre previsto l'intervento in funzione di convalida del magistrato, in modo da non perdere il risultato.
 
 ## Identificazione (art. 349 co. 1) (36m)
 
@@ -143,7 +143,7 @@ Co. 2-bis: se gli accertamenti del co. 2 richiedono il **prelievo coattivo, serv
 
 È stato inserito nel 2005, perché era necessario ottenere un prelievo coattivo da un terrorista che si era spostato in Italia, e collaborare con le altre forze di polizia europee.
 
-## Documenti di identificazione falsi (art. 329 co. 4 e 5)
+## Documenti di identificazione falsi (art. 349 co. 4 e 5)
 
 Introduce una **misura limitativa della libertà personale**, il c.d. **fermo per identificazione**.
 
