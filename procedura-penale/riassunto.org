@@ -1,0 +1,97 @@
+* Compendio di Procedura Penale
+
+* 1. Soggetti
+
+** 1. Premessa (1)
+
+- parte statica e dinamica
+- libro I: si apre con titolo su giudice, centralità della giurisdizione, soggetti non inclusi
+- distinzione fra soggetto e parte (diritto a decisione giurisdizionale)
+
+** 2. Giurisdizione penale (2)
+
+- esercizio giurisdizione penale: solo giudice, non PM
+- art. 33 co. 1: capacità del giudice, nullità assoluta in caso di mancanza
+- co. 2: organizzazione interna, non rilevante per capacità
+- co. 3: soppressione del pretore, composizione collegiale o monocratica, non rilevante per capacità giudice
+
+** 3. Profili ordinamentali (5)
+
+- giudici straordinari, speciali, ordinari, specializzati
+- Costituzione: giudici vietati, giudici speciali ammessi
+- giudice di pace: onorario, monocratico
+- GIP: monocratico
+- GUP: monocratico, diverso da GIP, qualificazione professionale, temporarietà funzioni per garantire imparzialità
+- tribunale ordinario: composizione monocratica o collegiale
+- corte d'assise: 6 magistrati togati, 2 laici
+- corte d'appello: 3 magistrati
+- corte d'assiste d'appello
+- magistrato di sorveglianza, tribunale di sorveglianza
+- corte di Cassazione: giudice di legittimità, sezioni, 5 o 9 giudici
+- giudici minorili: giudici specializzati
+
+** 4. Questioni pregiudiziali, sospensione del processo (7)
+
+- giurisdizione penale: autonoma
+- giudice penale: risolve ogni questione preliminare con natura non penale con pronuncia incidentale, accelerazione tempi
+- eccezioni:
+  - questione di legittimità, pregiudiziale comunitaria
+  - decisione su proprietà cose sequestrate o confiscate, giurisdizione del giudice civile
+  - questioni per cui è opportuno un vero accertamento
+- stato di famiglia o cittadinanza (art. 3):
+  - requisiti: questione pregiudiziale su qualasiasi elemento del reato, serietà, azione civile non in corso
+  - giudice può sospendere processo, ma non è obbligato
+  - sospensione: ordinanza impugnabile in cassazione, solo atti urgenti
+  - efficacia di giudicato per sentenza in sede extrapenale
+- altre questioni (art. 479):
+  - più restrittiva
+  - questioni civili o amministrative su esistenza del reato, particolare complessità
+  - impugnazione sospensione, senza effetto sospensivo
+  - revoca sospensione: dopo 1 anno
+  - decisione non vincolante
+
+** 5. Competenza per materia, territorio e connessione (11)
+
+- distribuzione reigiudicande penali, predeterminazione giudice
+- soppressione del pretore, introduzione "attribuzioni", criterio interno di ripartizione
+
+*** Competenza per materia
+
+- tipo di reato, pena edittale
+- corte d'assise: reati più gravi, delitti dolosi
+- tribunale: competenza per sottrazione, composizione monocratica e collegiale
+
+*** Competenza per territorio
+
+- luogo di consumazione del reato
+- delitto che causa morte di persone: luogo dell'azione o omissione
+- reato permamente: luogo in cui ha avuto inizio la consumazione
+- delitto tentato: luogo di compimento dell'ultimo atto
+- regole suppletive:
+  - parte della condotta
+  - residenza, dimora o domicilio dell'imputato
+  - PM che ha iscritto la notizia per primo
+- reati commessi all'estero: interamente, a danno di cittadino
+- deroghe al locus commissi delicti:
+  - deroghe già esistenti o successive al codice
+  - GIP e GUP per reati di mafia
+  - magistrato imputato o persona offesa
+
+*** Competenza per connessione (16)
+
+- criterio autonomo di competenza, più procedimenti davanti a stesso giudice
+- casi:
+  - reato commesso da più persone
+  - concorso formale o reato continuato commesso da una persona
+  - reati commessi per eseguire od occultare altri reati
+- giudice: giudice superiore, reato più grave, reato avvenuto per primo
+- corte costituzionale, giudice militare
+- minorenni: divieto di connessione
+
+** 6. Competenza funzionale
+
+- funzione nel procedimento, non usata dal legislatore
+- gradi del giudizio, fasi del giudizio
+
+** 7. Attribuzioni del tribunale
+
