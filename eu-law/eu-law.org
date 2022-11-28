@@ -1,0 +1,64 @@
+#+STARTUP: showall
+
+* EU Law
+
+** EU institutions (2022-11-10)
+
+*** Introduction
+
+- Principles in art. 13 TEU: consistency, effectiveness, conferral, sincere cooperation.
+- Contrast between effectiveness and representative democracy.
+- Differentiation in procedural rules, institutional balance.
+
+*** European Council
+
+- Became an official institution with the Treaty of Lisbon (70).
+- Composition: heads of State (with executive functions), heads of government.
+- Can Sanction states (art. 7(2) TEU).
+- No legislative functions, but can influence legislation (deadlines, guidelines) (71).
+- Political decisions (composition and functioning for other institutions, set own agenda and functioning, accession procedure) (71, 72).
+- President: organizes the European Council's work, ensures consensus, reports to the Parliament, represents the EU without prejudice for the High Representative (68).
+
+*** Council
+
+- Role: main decision-making organ, shares the role with the European Parliament (58).
+- Composition: ministers from the MS' governments.
+- Not to be confused with the European Coucil, composed of the presidents and prime ministers (58).
+- Can be considered the Senate in the parliament of a federal State, but also has executive powers (58).
+- Composition depends on the subject matter being discussed, there are various configurations that meet periodically (59).
+- Legislative powers: in the ordinary legislative procedure it has the same role as the European Parliament, but in the special legislative procedure it can adopt legislation by only consulting the parliament.
+- Policy-making and coordinating functions: TODO.
+- International treaties: 
+- COREPER
+
+*** President of the EU
+
+*** EU Parliament
+
+- EU citizens can elect or be elected into the EU Parliament.
+- No common electoral law.
+- Electoral procedure to prevent biases
+- Prohibition to hold multiple parliament seats
+- Inquiry committees to check on the implementation of EU law
+
+*** EU Commission
+
+- Purpose: promote the interests of the EU
+- Commissioners: number, appointment
+- Organized like a government, but has no executive power
+- Powers: propose legislation, law enforcement, anti-trust enforcement, representation
+
+*** EU representation
+
+- President of the European Council, president of the Commission, High Representative
+
+** 2022-11-14
+
+*** European Central Bank
+
+- Technical institution, controls inflation
+- Competence over the MS who use the Euro, can take binding decisions, subject to the scrutiny of the EUCJ
+- Composition
+- Executive committee
+
+*** EU-Turkey statement
