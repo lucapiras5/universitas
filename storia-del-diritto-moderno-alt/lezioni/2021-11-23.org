@@ -1,0 +1,142 @@
+* 2021-11-23
+
+** 16:25 Riassunto
+
+- Nelle glosse di Accursio è possibile trovare chiari riferimenti all'esistenza di un limite al diritto di proprietà.
+- Il diritto di proprietà va esercitato in maniera equitativa.
+- Gli elementi di prova che permettevano di dimostrare l'assenza di equità sono l'/animus nocendi/ (l'esclusiva volontà di nuocere al terzo) e la mancanza di qualsiasi utilità per il proprietario.
+- Chi subisce il danno, invocando la condotta iniqua del vicino, che nel caso del vicinato urbano è espressamente qualificata come "emulativa", è gravato dall'onere della prova.
+
+** 20:40 Glossa ordinaria di Accursio
+
+- La Glossa Ordinaria di Accursio è la sintesi del patrimonio precedente dei glossatori a lui precedenti, attraverso la selezione delle glosse, per risolvere il problema della loro sovrabbondanza.
+- Seleziona le glosse secondo la sua sensibilità da giurista, e dota tutti i libri legali con un unico apparto di glosse, chiamato la "Glossa Ordinaria".
+- Accursio raccoglie più di 96'000 glosse, che diventano l'interpretazione tipica ed ufficiosa dei libri legali, e sono utilizzate sia nella didattica, che nella pratica.
+- Il criterio interpretativo dei glossatori è di considerare singole parole nel testo, da cui il nome di "approccio letterale".
+- Le glosse interpretano le disposizioni in maniera estensiva, e le ricollegano ad altre disposizioni nella compilazione.
+- Si arriva alla creazione di un sistema che non era stato previsto dai codificatori.
+
+** 25:27 Tre gruppi di glosse
+
+- Negli apparati ordinari si trovano tre gruppi di glosse.
+- Il primo contiene glosse che dimostrano l'importanza della mancanza dell'utilità per denunciare la condotta del proprietario (primo gruppo).
+- Il secondo contiene glosse che portano l'attenzione sull'/animus nocendi/ (secondo gruppo).
+- La distinzione è introdotta artificialmente, non è presente all'interno della Glossa Ordinaria.
+- Il terzo contiene glosse che prevede entrambi gli elementi, che sono entrambi necessari.
+- Un ultimo gruppo di glosse che riguardano l'ambito specifico dei rapporti fra proprietari di edifici, dove la condotta illecita viene espressamente definita "emulativa".
+
+** 27:35 Prima glossa riguardo la mancanza di utilità: /Detrimento/
+
+- La prima glossa in cui si sottolinea la mancanza di utilità è contenuta nel titolo I del libro VIII.
+- È il titolo /de servitutibus/, dove sono contenute delle norme riguardanti i caratteri generali delle servitù,
+- È seguito dal titolo II (servitù rustiche) e titolo III (servitù urbane, all'interno delle città).
+- Nel frammento 9 del titolo I viene espresso il principio per il quale l'esercizio della servitù da parte del titolare del fondo servito (chi se ne avvantaggia) deve essere esercitato con la minore limitazione di libertà possibile per il fondo servente.
+- La glossa riguarda il termine /detrimento/, e lo spiega con poche parole, rinviando alla legge /in fundo/ del libro VI.
+- La servitù non va esercitata /cum malitiis/, in maniera maliziosa, così come dispone la legge /in fundo alieno/.
+- La legge /in fundo alieno/ prevede il caso in cui l'incauto acquirente deve restituire l'immobile o fondo che ha comprato.
+- Nel caso in cui vi abbia apportato delle migliorie, può chiedere la loro restituzione.
+- Se è materialmente impossibile resituirle, perché si distruggerebbero nello staccarle (ad es., un affresco), deve accettare il /tantumdem/ stabilito dal giudice.
+- L'acquirente non può richiedere /cum malitiis/ la restituzione della cosa, piuttosto che l'equivalente in denaro.
+- La Glossa Ordinaria spiega un termine facendo riferimento ad un'altra disposizione, e si va oltre il significato normale di /detrimento/, perché viene spiegato nel senso (aggiuntivo, e non diverso) di "senza malizie", una condotta inutile, che non porta a nessuna utilità.
+
+** 35:21 Seconda glossa riguardo la mancanza di utilità: /Quod sine dispendio/
+
+- È contenuta nel libro XXI del Digesto, titolo II, dedicato alle evizioni, passo 39.
+- In questo caso, il rapporto non è un rapporto di servitù, ma di obbligazione.
+- Si afferma il principio per cui il creditore è tenuto ad accettare dal debitore la soluzione del debito, sia in denaro che con beni materiali, a scelta del debitore medesimo, se questo non porta danno al creditore.
+- Per spiegare la formula /quod sine dispendio/, il glossatore richiama un altro passo del Digesto.
+- Il glossatore compie un paragone, il creditore deve accettare la proposta del debitore se non gli causa danno, così come il proprietario del fondo deve tollerare che qualcosa venga immesso nella sua proprietà, se questo non gli causa danno, ed ha un'utilità per l'altro proprietario.
+- Sono situazioni analoghe, e vale lo stesso principio, così come il creditore tollera una soluzione che non gli provoca danno e libera il debitore, il proprietario del terreno tollera un'immissione che non gli provoca danno ed è utile per il vicino.
+
+** 43:12 Confronto con l'/actio pluviae arcendae/
+
+- Il passo sul quale si poggia l'argomentazione è tratto dall'/actio aquae pluviae arcendae/, un titolo fruttuoso, perché regolava i rapporti conflittuali che lo scorrere delle acque pubbliche poteva creare fra proprietari vicini.
+- Se nel fondo del vicino esiste un argine che ripara dall'acqua il proprio fondo, e l'argine si rompe, ci si chiede se si possa costringere il vicino a concedere la costruzione dell'opera.
+- Sebbene manchi un'azione tipica che permetta di agire contro il vicino, è possibile utilizzare l'/actio aquae pluviae arcendae/ in maniera utile, per ricostruire un'opera che non danneggia il vicino, e beneficia il proprio fondo.
+- Il proprietario ricostruisce l'argine a sue spese, ma entrando nel fondo del vicino.
+- L'/actio/ non è propriamente dedicata a quello scopo, ma è comunque utile, ed è l'elemento dell'utilità o meno che prevale.
+- Se il creditore si oppone, e non gli deriva alcuna utilità da questa opposizione, l'opposizione è ingiustificata.
+
+** 48:14 Prima glossa riguardo l'/animus nocendi/
+
+- La prima glossa riguarda il divieto di immissioni da una proprietà all'altra, da un fondo all'altro, di acqua, di fumi, in quasiasi direzione.
+- È lecito per il proprietario fare ciò che vuole nella sua proprietà, ma non può immettersi nella proprietà altrui.
+- Il passo del digesto aggiungeva una particolare fattispecie, se il proprietario, scavando nel proprio fondo, avesse reciso le vene del pozzo nel fondo del vicino.
+- Secondo il giureconsulto, se lo scavo era fatto a regola d'arte e non era troppo profondo, il vicino doveva tollerare il danno, ma altrimenti, il proprietario doveva risarcire il danno.
+- Al principio giustinianeo per cui è lecito al proprietario fare ciò che vuole nella sua proprietà, e non in quella altrui, viene aggiunto il frammento del soggetto che scava e toglie l'acqua al vicino.
+- I due passi non sono in contraddizione, ognuno può fare sulla propria proprietà quello che vuole, e se nel fare qualcosa causa un danno, ma non lo causa con l'/animus nocendi/ (la volontà di nuocere), non deve risarcire il danno.
+- Tuttavia, se il vicino riesce a dimostrare la presenza dell'/animus nocendi/, il vicino dovrà risarcire il danno intenzionalmente causato.
+
+** 55:42 Seconda glossa riguardo l'/animus nocendi/:
+
+- Il contesto è quello dello scavo profondo.
+- La glossa afferma che se il soggetto ha agito con l'/animus nocendi/, sarà responsabile del danno, ma solo il vicino riesce a dimostrarlo.
+- Tuttavia, i glossatori introducono una presunzione a favore del proprietario, secondo cui ha agito in buona fede.
+- È un elemento innovativo, non c'è nulla di simile nel Digesto, ma è l'interprete che introduce la presunzione, per evitare che il diritto di proprietà non venga eccessivamente compresso nel suo uso e godimento.
+
+** 1:01:00 Glosse che richiedono entrambi gli elementi
+
+- Queste ultime due glosse si concentrano sull'/animus nocendi/, mentre le due precedenti riguardavano la mancanza di utilita.
+- Esistono alcune glosse in cui entrambi gli elementi sono presenti insieme.
+
+** 1:02:03 Prima glossa con entrambi gli elementi: /Nihil laturus/
+
+- La prima glossa è la glossa a /nihil laturus/.
+- Il /nihil laturus/ riguarda la situazione in cui il soggetto è tenuto a non prendere nulla, se nel riprenderlo si distruggerebbe, e quindi sarebbe una pretesa inutile.
+- Il glossatore aggiunge che non deve prendere niente, se l'unico movente è esclusivamente quello di arrecare danno.
+- Comprende entrambi gli elementi, sia la volontà di arrecare un danno, sia l'assenza di qualsiasi altro movente che abbia una minima utilità.
+- In poche parole, il glossatore compone entrambi gli elementi.
+
+** 1:06:33 Seconda glossa con entrambi gli elementi: /Habere/
+
+- La glossa /habere/ riguarda l'/actio aquae pluviae arcendae/.
+- Ciascuno può mantenere l'acqua piovana dal suo fondo, o derivarla dal fondo vicino se è superflua, purché non debba compiere opere nel fondo altrui.
+- Questo diritto è dato a tutti, perché è lecito giovare a sé stessi senza nuocere agli altri.
+- Il verbo /habere/ viene spiegato dal glossatore nel senso che il vicino non ha il diritto di esercitare un'azione contro colui che scava nel suo fondo senza la volontà di nuocergli, perché non sarebbe responsabile di un danno doloso.
+- Un principio analogo si trova nello stesso paragrafo, che afferma che è lecito fare nel proprio fondo ciò che si vuole.
+- Al contempo, riflette sul fatto che ciò che danneggia altri e non reca giovamento al proprietario non è lecito.
+- È una glossa più estesa delle precedenti, e ricongiunge i vari principi già menzionati in precedenta.
+- Ci deve essere un'utilità di chi scava per neutralizzare il danno che si produce, perché se si produce un danno senza utilità allora l'unico movente era quello di nuocere al vicino.
+- Si richiede la presenza di entrambi gli elementi, la mancanza di utilità e la presenza di /animus nocendi/.
+
+** 1:13:26 Nome del divieto
+
+- Si è arrivati ad una compiutezza nella costruzione di una limitazione all'esercizio del diritto di proprietà, che non era prevista nei libri di Giustiniano.
+- È sviluppata interamente per via interpretativa, e non contraddice la legge, ma amplia il significato di alcuni frammenti, per fondare la conclusione a cui il giurista vuole arrivare.
+- La sensibilità del giurista medievale non poteva tollerare, per motivi morali e religiosi, che il diritto di proprietà fosse esercitato in maniera ingiusta ed abusivo.
+- Era necessario porre dei limiti agli eccessi, che sono limitati con il divieto appena costruito.
+- Tuttavia, non è mai chiamato divieto /ad aemulationem/, il divieto di condotte emulative, ma si usano delle formule diverse che esprimono lo stesso concetto.
+- Questa decisione è coerente con l'idea di "interpretazione letterale", perché i libri di Giustiniano, in tema di conflitti rustici, non usano mai l'espressione /aemulatio/.
+- Il termine compare solo in relazione a conflitti urbani, e più precisamente compare solo nella legge /opus novum/.
+
+** 1:16:55 Ultime glosse: glossa /novum/
+
+- Il frammento /opus novum/ contiene una glossa per /novum/, che contiene un interrogativo.
+- Se qualcuno costruisce sul proprio terreno privato (il frammento riguardava opere costruite sul terreno pubblico), valgono gli stessi limiti per le opere pubbliche?
+- Ossia, è vietato costruire palazzi /ad emulationem/ per i proprietari vicini, o che creino sedizione, anche su terreni privati?
+- Il glossatore spiega che per parte della dottina sia possibile costruire /ad aemulationem/ di un altro propretario, per invidia o dispetto, senza nessuna utilità per sé stessi.
+- Tuttavia, il glossatore ritiene che non è lecito fare in privato ciò che non è lecito fare su un terreno pubblico.
+- Se l'altro proprietario riese a dimostrare che la costruzione è stata solo a fini emulativi, il primo sarà tenuto a distruggere quello che ha costruito.
+
+** 1:22:06 Ultime glosse: glossa /sui dominii/
+
+- La glossa riguarda la costituzione degli imperatori che permetteva ai privati di circondare con mura il suo dominio.
+- La glossa riguarda le parole /sui dominii/, ed introduce un limite alla libertà di circondare con mura.
+- Se il muro viene costruito /ad emulationem/ (per rivaleggiare) con un'altra città, o sia causa di turbamenti all'interno della città medesima.
+
+** 1:22:23 Ultime glosse: glossa /antiquitas/
+
+- La glossa riguarda le disposizioni che permettevano di costruire fortificazioni all'interno delle proprietà.
+- La glossa /antiquitas/ afferma che è lecito a ciascuno costruire fortificazioni sul proprio terreno, ma la disposizione va interpretata in maniera cauta e restrittiva.
+- Finché si tratta di /castra limitanea/ (fortificazioni sui confini) è necessaria un'autorizzazione da parte dell'autorità che controlla quel territorio, data la criticità della posizione.
+- Invece, se si trattta di normali fortificazioni, vale il limite generale per cui non devono essere costruite /ad aemulationem/, e quindi non generare malumori e disordini.
+- La disposizione riguarda edifici, e non terreni, contiene lo stesso principio delle glosse precedenti, ma il glossatore usa il termine /aemulatio/, perché lo aveva usato anche il legislatore giustinianeo.
+
+** 1:27:26 
+
+- I glossatori disponevano di pochi frammenti, ma li hanno ricombinati in maniera innovativa, utilizzando varie tecniche giuridiche (distinzioni, opposizioni, analogie...).
+- Riescono a mettere in contatto l'intero sistema dei frammenti giustinianei utili per i loro ragionamenti.
+- Riescono a costruire, partendo da una serie di frammenti, una limitazione al diritto di proprietà che viene avvertita come opportuna, in base alla morale del tempo.
+- Scialoja criticava correttamente i giuristi che chiedevano che il codice civile fosse riformato con un articolo che vietasse gli atti emulativi, sostenendo che fossero un istituto romano, che faceva parte della storia giuridica italiana.
+- Aveva ragione nell'affermare che non fossero un istituto romano, ma sbagliava nel criticare i giuristi medievali, accusandoli di creare un'interpretazione arbitraria del diritto romano.
+- I giuristi medievali interpretavano il diritto romano secondo esigenze che erano nate vari secoli dopo, e senza mai formalmente contraddire i principi romanistici.
