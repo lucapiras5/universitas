@@ -1,0 +1,130 @@
+* 2021-11-05
+
+** 0:41 Riassunto: evoluzione del codice
+
+- Il divieto degli atti emulativi dimostra l'evoluzione del codice vigente, e del portato della tradizione di diritto comune medievale.
+- Era un istituto che era stato creato dai glossatori e commentatori come il divieto /ad aemulationem/, il codice civile francese non lo recepisce.
+- Viene recuperato nella ricodificazione civile del regno d'Italia avviata negli anni '20, per sostituire il codice civile unitario del 1865, che era ispirato al codice civile francese, nel non prevedere limitazioni all'uso e godimento del diritto di proprietà.
+
+** 3:10 Riassunto: art. 832 e 833 c.c.
+
+- L'art. 832 contiene la definizione del diritto di proprietà, che viene descritto dalla prospettiva del proprietario, attribuendogli la disponibilità piena ed assoluta del bene, fatti salvi i limiti posti dalla legge o regolamenti.
+- L'art. 833, rubricato "atti di emulazione", statuisce che nessuno può compiere atti di disposizione del proprio bene, che non abbiano altro scopo se non nuocere ad altri.
+- È una limitazione sancita dal codice medesimo, che si perfeziona quando ricorrono due elementi costitutivi dell'atto emulativo.
+- Il primo è l'assenza di qualsiasi, pur minima utilità per il proprietario (cd. elemento oggettivo), che può essere quantificato concretamente.
+- Il secondo è la volontà di nuocere ad altri, il cd. elemento soggettivo, l'/animus nocendi/, una condotta dolosa, che esclude che il danno sia avvenuto in maniera casuale, ma è stato prodotto volontariamente.
+
+** 7:10 Riassunto: art. 844
+
+- È un'ulteriore limitazione, che interviene sulla pienezza del diritto di proprietà, imponendo ai proprietari di tollerare le immissioni, finché siano ragionevoli.
+
+** 7:51 Progetto
+
+- Il progetto del libro secondo, dedicato alla proprietà è stato presentato nel 1937 dalla commissione reale per la riforma del codice civile.
+- Inizialmente erano previsti 4 libri, ma fra il 1939 ed il 1949 sono stati aggiunti gli ultimi due libri, come conseguenza della recezione della materia commerciale all'interno del codice civile.
+- I sei libri spostano il libro sulla proprietà al terzo, e la materia delle obbligazioni e dei contratti viene divisa fra il quarto e quinto libro (in cui sono disciplinati i contratti relativi al commercio).
+- La tradizione francese di mantenere il codice di commercio separato era stata mantenuta fino agli anni '40 del '900, quando è stata compiuta la scelta di abolire la distinzione, e attualmente la materia commerciale rientra nella competenza del giudice ordinario.
+
+** 11:33
+
+- Il redattore del titolo sui principi generali del diritto di proprietà, che nel progetto riguardano la proprietà fondiaria (immobiliare), era notevolmente sensibile riguardo la dimensione sociale e solidale del diritto di proprietà.
+- L'art. 18 del progetto del secondo libro definisce la proprietà in termini di esclusività, ma anche che l'ordinamento la garantisce solo se il proprietario la eserciti in modo corrispondente alla funzione sociale del bene medesimo.
+- L'articolo definisce il diritto in termini di "la proprietà consiste in...", diversamente dalla formulazione attuale del diritto che ha come riferimento il proprietario, che "ha il diritto di...".
+
+** 15:03
+
+- L'art. 25 determina al primo capoverso l'estensione del diritto di proprietà al di sopra e sotto del suolo, per quanto riguarda la sfruttabilità da parte del proprietario.
+- Al secondo capoverso, dà una definizione larga del limite emulativo, anche se non viene chiamato esplicitamente in questo modo.
+- Il proprietario non può compiere opere che recano pregiudizio ad altri, senza utilità propria.
+- È una definizione della condotta vietata che era diversa rispetto a quella utilizzata dal legislatore.
+- L'atto vietato è chiaramente di natura emulativa, ma richiede il solo elemento oggettivo, la mancanza di una qualsiasi utilità per il proprietario, che usando o godendo del suo danneggia terzi.
+- Questa definizione è coerente con la definizione del diritto di proprietà formulata nell'art. 18, perché l'uso e godimento privo di utilità sicuramente contraddice la funzione sociale del diritto per cui l'ordinamento garantisce quel diritto.
+- Definire l'atto emulativo come un atto privo di qualsiasi utilità vuol dire allargare in maniera notevole le condotte del proprietario che possono essere qualificate come emulativi, e quindi sanzionabili e risarcibili.
+
+** 19:47
+
+- La relazione pone grande enfasi sull'art. 25, ed è firmata da Roberto De Ruggero, un romanista e civilista.
+- Secondo la formazione tradizionale, i romanisti tendevano a diventare civilisti, a dimostrazione della loro esperienza.
+- Ruggero evidenzia l'importanza del ruolo che l'art. 25 avrebbe dovuto assolvere all'interno del diritto di proprietà, vigilando sul rispetto di un uso e godimento che non contraddicano la funzione sociale a cui il bene è destinato.
+- La funzione sociale va a vantaggio sia dei singoli, sia dello Stato, in termini di rendita economica del bene.
+
+** 23:15 Eliminazione degli atti emulativi: dopo la Rivoluzione
+
+- Roberto De Ruggero lo chiama un "istituto nuovo", il limite all'uso del diritto.
+- Il divieto di atti emulativi si era sviluppato durante il medioevo e l'età moderna, ma successivamente scompare.
+- Il codice civile napoleonico del 1804 non lo prevede, perché il divieto di atti emulativi era stato eliminato a causa delle istanze riformiste dell'illuminismo giuridico.
+- L'obiettivo dell'illuminismo è di eliminare il dominio diviso fra il titolare e chi gode della proprietà, che era un retaggio dei vincoli feudali sulla terra, un passato che si vuole chiudere.
+- Si vuole riunire il diritto di proprietà sotto una proprietà unica, con titolare chi la lavora e la fa fruttare.
+- L'abolizione dei vincoli feudali sulla terra attuata con la prima legislazione intermedia, avviene prima in Francia, e poi si diffonde nelle repubbliche giacobine in Italia.
+- La proprietà che viene celebrata è quella borghese, non quella dell'aristocrazia feudale.
+
+** 28:18 Eliminazione degli atti emulativi: dopo il codice civile
+
+- In quanto limitazione della pienezza del diritto di proprietà, che poi diventerà il cardine del codice civile francese, e dei vari codici promulgati dopo la Restaurazione, dove il cittadino ed il borghese sono "proprietari".
+- Il divieto di atti emulativi viene visto come una limitazione impropria del diritto di proprietà, e quindi, nel codice, il legislatore rifiuta nettamente l'emulazione.
+- Tuttavia, lascerà delle clausole equitative nel codice, tra cui il principio di buona fede e di equità.
+- In via di interpretazione dottrinale e giurisprudenziale, nei decenni successivi all'entrata in vigore del codice civile, permetteranno di recuperare il divieto di atti emulativi.
+- De Ruggero afferma che è un divieto nuovo, ma in realtà è lo stesso divieto che era stato creato nel passato, ma calato nel contesto del cooperativismo e corporativismo degli anni del fascismo.
+
+** 33:18 Collegamento fra atti emulativi e risarcimento per abuso del diritto
+
+- De Ruggero sottolinea come l'art. 25 si collochi all'interno di un sistema armonioso, e fa un riferimento all'art. 74 del progetto di codice delle obbligazioni e dei contratti.
+- L'art. 74 prog. cod. obbl. prevede l'obbligo risarcitorio per i danni causati da chi abbia agito in violazione dell'art. 25, o abbia compiuto un qualsiasi altro utilizzo inutile ed antisociale del diritto soggettivo.
+
+** 37:03 Art. 74 prog. cod. obbl.
+
+- L'art. 74 del progetto del codice delle obbligazioni prevede un obbligo di risarcire il danno cagionato colui che ha ecceduto nell'esercizio del proprio diritto i limiti imposti dalla buona fede, o dallo scopo per il quale il diritto gli fu riconosciuto.
+- Questa disposizione proviene da un complesso di articoli che 10 anni prima (nel 1927) era stato sviluppato da una commissione di giuristi italiani e francesi, sulla base dell'alleanza politica allora in corso.
+- Le due nazioni volevano dare una dimensione anche giuridica ai loro rapporti, ed erano legate dall'origine romanistica dei loro ordinamenti.
+- La commissiione cerca di creare un codice delle obbligazioni, che non era originale, ma si ispirava al modello della Confederazione Elvetica, che nella sua stagione codificatoria aveva diviso il codice civile da quello delle obbligazioni.
+
+** 40:49 Esito del progetto del codice delle obbligazioni italo-francese
+
+- La commissione completa il progetto, e nel 1927 viene messo a stampa, affinché i giuristi potessero commentarlo.
+- I giuristi criticano l'eccessiva impronta romanistica, e nel frattempo l'alleanza politica si era interrotta con la Francia, e l'Italia si era avvicinata alla Germania.
+- L'iniziativa di un codice delle obbligazioni congiunto cade, ma il progetto rimane, a testimonianza del lavoro svolto.
+- Al momento di redarre il libro delle obbligazioni e dei contratti, il legislatore italiano attinge ampiamente agli articoli del codice italo-francese.
+- L'art. 74 era stato ripreso dal progetto italo-francese.
+
+** 43:32
+
+- A completare la costruzione progettuale (art. 18 e 25 del progetto del libro secondo, l'art. 74 del progetto del libro quarto), il De Ruggero segnala l'art. 7 del progetto del libro primo.
+- Rientrava fra le disposizioni generali dell'ordinamento giuridico, chiamate "preleggi", che segnano il primato del codice civile su tutti gli altri codici.
+- I principi generali della legge fissati nella parte iniziale del codice civile valgono anche per tutti gli altri codici.
+- L'art. 7 del progetto dei principi generali dell'ordinamento stabiliva che nessuno può esercitare il proprio diritto in contrasto con lo scopo per cui il diritto medesimo gli è stato riconosciuto.
+
+** 46:17
+
+- Ricostruendo il sistema previsto nel progetto, in primo luogo, nessuno può esercitare un diritto per uno scopo diverso da quello per cui gli è stato riconosciuto dall'ordinamento giuridico.
+- L'art. 18 del libro della proprietà, che prevede che la proprietà non sia solo piena ed esclusiva, ma abbia anche una funzione sociale da adempiere.
+- L'art. 25 precisa che nessuno può compiere atti che siano privi di qualsiasi utilità oggettiva, allargando notevolmente il numero di possibili atti emulativi, perché richiedeva solo l'elemento oggettivo.
+- L'art. 74 del progetto del libro delle obbligazioni, che stabiliva che chi avesse arrecato danno ad altri utilizzando il proprio diritto in maniera contraria alla funzione sociale è responsabile per il danno prodotto.
+- È un contesto armonioso, e orientato nel senso di una lettura sociale, solidaristica, e nel superiore interesse della collettività nell'esercizio del diritto di proprietà.
+
+** 48:59 Passaggio dal progetto al codice definitivo
+
+- Questa costruzione è destinata a cadere nel passaggio dalla fase progettuale alla versione definitiva del codice.
+- L'art. 7 scompare dalle preleggi, perché sembrava troppo limitante per i diritti soggettivi, e sconfinava nel divieto di abuso di diritto, che la sensibilità giuridica italiana non era pronta ad accogliere.
+- Per la stessa ragione, viene meno anche l'art. 74 del progetto del libro delle obbligazioni.
+- L'art. 832 non fa menzione della funzione sociale della proprietà.
+- L'art. 833 richiede oltre all'elemento oggettivo anche l'/animus nocendi/, per perfezionare la condotta emulativa vietata.
+
+** 51:25
+
+- È una scelta che è giustificata dal timore che un'eccessiva limitazione del diritto di proprietà contrastasse con il carattere borghese, liberale e proprietario, a cui il codice del 1942 era comunque improntato.
+- Il ministro guardasigilli Dino Grandi è stato l'autore delle ultime fasi della codificazione e pubblica una relazione di accompagnamento al codice, nel quale vengono spiegate, in via di interpretazione autentica, le scelte compiute dal legislatore.
+
+** 54:52
+
+- Riguardo all'art. 833, il divieto degli atti emulativi sottolinea che la proprietà è sia un diritto soggettivo assoluto, ma è anche un diritto calato in un contesto sociale, di cui deve tenere conto.
+- Per evitare pericolosi eccessi nell'applicazione della norma, il legislatore richiede espressamente anche il concorso dell'/animus nocendi/.
+- Il legislatore aggiunge l'elemento soggettivo, e pertanto l'attore deve dimostrare non solo che la condotta è inutile per chi l'ha messa in essere, ma anche che è stata tenuta con la volontà di nuocere.
+- I due elementi sono molto difficili da provare.
+
+** 58:23
+
+- Gli atti emulativi che avrebbero potuto essere lo spartiacque fra uso equo ed iniquo del diritto di proprietà, con la formulazione consapevole dell'art. 833, risulta neutralizzato.
+- Le conseguenze sono state negative per l'art. 833, perché viene utilizzato poco, ed esistono pochissimi casi giudiziari in cui la domanda avanzata è stata accolta.
+- L'art. 833 è stato "disapplicato di fatto", e marginalizzato, da "ago della bilancia", ad una fattispecie tipica di fatto illecito, dato che è richiesto il dolo.
+- Pertanto, poco è rimasto della politica sociale che aveva sostenuto la formalizzazione degli atti emulativi nel codice vigente.
+- Dagli anni '80 dell'Ottocento era in corso un lungo dibattito, sull'opportunità di ripristinare il divieto di atti emulativi dell'antico regime, e di mantenere l'assoluta pienezza del diritto di proprietà.

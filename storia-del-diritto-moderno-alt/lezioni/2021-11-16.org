@@ -1,0 +1,136 @@
+* 2021-11-16
+
+** 28:22 Creazione del divieto di atti emulativi da parte dei giuristi medioevali
+
+- I giuristi medioevali hanno creato il divieto di atti emulativi, che non era presente nella codificazione giustinianea.
+- La creazione del divieto di atti emulativi non era un esercizio teorico, ma la risposta ad esigenze etiche e religiose, ed al fatto che il diritto di proprietà, nella sua assolutezza, spesso andava oltre l'equità e la giustizia cristiana.
+- Gli abusi del diritto di proprietà  non erano tollerati dalla coscienza, e si voleva che fossero sanzionati anche dal punto di vista normativo.
+- Scialoja criticava la commistione fra elementi tecnico-giuridici ed elementi etico-morali, ma quella era la tendenza della società del tempo.
+- Va apprezzato come i glossatori, usando i pochi riferimenti vaghi nella compilazione giustinianea, siano riusciti a creare l'istituto giuridico del divieto di atti emulativi.
+- Nella stagione dei commentatori (dal 1300 in avanti) sarà ampliato, fino a diventare quasi intollerabile, perché limita eccessivamente il diritto di proprietà.
+- Il diritto di proprietà era celebrato dalla Rivoluzione francese e dalla borghesia come il diritto soggettivo per eccellenza, in cui si estrinsecava la personalità umana.
+- Pertanto, nel /code civil/ sarà bandita la presenza del limite emulativo al diritto di proprietà, ma questo avviene in un'epoca molto successiva alla creazione del divieto.
+
+** 33:35 Introduzione alla stagione pre-accursiana
+
+- L'origine del divieto di atti emulativi può essere ritrovata nella stagione pre-accursiana, la stagione della scienza della glossa che precede la sintesi esaustiva delle glosse prodotte in precedenza (la Glossa Ordinaria) di Accursio.
+- Accursio visse fra gli inizi del 1200 ed il 1263, e la datazione della Glossa Ordinaria si aggira intorno agli anni '30 del 1200.
+
+** 35:07 Accenni storici alla stagione dei glossatori
+
+- I singoli libri della compilazione giustinianea riemergono durante il "rinascimento giuridico" dell'XI-XII secolo, e vengono percepiti dai maestri, che trovavano come figura di riferimento Irnerio, come del materiale normativo con un enorme potenziale.
+- Era in grado di fornire sostegno, garanzie e tutela a tutta una serie di situazioni di fatto che non erano regolate dal diritto vigente (ad es., gli editti e capitolari longobardo-franchi e gli statuti cittadini).
+- Le fonti vigenti dedicavano poca attenzione in particolare alla materia delle obbligazioni e dei contratti, e data la ripresa dei commerci, era una materia che doveva essere regolata con precisione, e tutelata con efficacia.
+- Il diritto romano aveva una lunga tradizione di negozi ed azioni tipiche che permettevano di tutelarsi in giudizio.
+- I dottori di legge della generazione irneriana percepiscono il potenziale del complesso normativo giustinianeo.
+- Da questa percezione nasce quella valenza di diritto comune delle norme romano-giustinianee, che segnava la loro funzione sussidiaria negli ordinamenti giuridici.
+- Se il diritto positivo non dava risposte, andavano cercate nel diritto romano giustinianeo.
+
+** 40:34 Obsolescenza del diritto giustinianeo
+
+- Tuttavia, cronologicamente ha un'origine lontana nei secoli, risale al 529--534 (sei secoli prima), ed era inevitabile che presentasse caratteristiche di inadeguatezza rispetto ai tempi mutati.
+- Il linguaggio della codificazione era estremamente tecnico, e spesso era anche obsoleto, nel medioevo non si conosceva più il significato di alcuni termini.
+- In ogni caso, le situazioni di fatto descritte nei /responsa/ del Digesto era cambiatate, ed era necessario aggiornare la compilazione giustinianea.
+- Irnerio ed i suoi studenti stabiliscono le prime scuole di diritto, in cui si insegnava esclusivamente il diritto, in maniera indipendente dalla retorica (come invece succedeva nel medioevo).
+- Le /lectio/ di diritto consistevano nella lettura di passi della codificazione, accompagnatad alla spiegazione del significato dei termini che potevano essere incerti o dubbi, sia per quanto riguarda il significato, sia le problematiche giuridiche.
+- Spesso, la spiegazione si estendeva fino a diventare un'interpretazione del testo, che andava oltre il dato letterale, e la ricollegava alla realtà presente.
+- La norma veniva aggiornata, ma senza mai contraddire il senso letterale del testo normativo.
+- Nella prima fase, le interpretazioni erano sviluppate solo oralmente, e le tracce scritte derivano dalle "glosse" (note) degli studenti.
+- La fase dell'oralità venne superata, mano a mano che gli insegnamenti giuridici si consolidarono.
+- Nell'ultimo quarto del 1100, le nuove generazioni di glossatori firmano le loro opere, che comprendono non solo glosse, ma anche raccolte più ampie riguardanti la compilazione giustinianea.
+- Il codice e le istituzioni hanno dimensioni più ridotte, e questo permette la produzione di opere riassuntive chiamae /summae/.
+
+** 48:34 Piacentino
+
+- Piacentino studia e poi insegna a Bologna, e dopo viene chiamato in Francia, a Montpellier, in un centro scolastico per la formazione dei giovani chierici.
+- In Francia scrive una grande /summa/ al Codice di Giustiniano, adatta al tipo di didattica che proponeva ai giovani chierici della scuola di Montpellier.
+- È il giurista più risalente, rispetto a Pillio e Accursio.
+
+** 51:03 Servitù
+
+- Piacentino sta riassumendo il titolo /De servitutibus et aqua/ (titolo 34 del libro 3 del Codice), nelle /summae/ i glossatori riassumevano non le singole leggi, ma interi titoli.
+- Era una materia normata sia nel Codice, che nel Digesto.
+- La materia delle servitù era rilevante per la materia dell'uso equo della proprietà.
+- L'istituto della servitù è tipicamente romanistico, e distingue fra servitù rustiche ed urbane.
+- Prevede che fra due fondi contigui esista un rapporto di servizio, fra il "fondo servente" ed il "fondo servito".
+- Il proprietario del fondo servito, per poter godere a pieno del diritto di utilizzare e godere del proprio fondo, deve necessariamente avvalersi del fondo servente.
+- Ad es., passare attraverso una strada per raggiungere la sua proprietà, far scorrere dell'acqua per irrigare il suo terreno, far passare una tubatura all'interno del muro del vicino.
+- Deve esistere una necessità che non può essere altrimenti soddisfatta, e che i due fondi siano effettivamente confinanti, non si può avere una servitù passando per il fondo di un ulteriore proprietario.
+- La figura delle servitù è legata all'equità, e il proprietario del fondo servente non può rifiutarsi di mettersi al servizio del proprietario del fondo servito, se è l'unico che lo può fare.
+- Nella dottrina francese post-codicistica, si cerca di ricondurre il tema delle condotte emulative alle dinamiche della servitù.
+
+** 57:54 Piacentino: 
+
+- Piacentino apre il riassunto del titolo /De servitutibus et aqua/ con un'osservazione, solo perché è lecito raccogliere un frutto sul terreno altrui e fermarsi per mangiarlo, non vuol dire che si sia costituito un rapporto di servitù.
+- Questo principio di solidarietà verso il prossimo ha origine cristiana (è contenuto nella Bibbia), ed ha ispirato anche gli editti longobardi, è un rapporto di pura /pietas/ e /caritas/, che non ha implicazioni giuridiche.
+- Non si tratta di servitù, ma è un contesto di solidarietà ed attenzione verso il prossimo, che però dimostra la sensibilità del giurista verso un'esercizio equo del diritto di proprietà.
+
+** 1:00:38 Piacentino
+
+- L'equità viene sottolineata meglio in un passo nel titolo /De servitutibus et aqua/ del Digesto, che inizia con la parola /fistulam/ (tubatura per l'acqua).
+- Qui ci si trova all'interno di un rapporto di servitù.
+- Piacentino riassume dicendo che non si può proibire al proprietario di un immobile urbano di adibire a bagno una stanza del suo appartamento, anche se la stanza è confinante con il muro dell'appartamento del vicino.
+- Per "bagno" si intende il /calidarium/ dei romani, dove per generare calore era necessario far scorrere grandi quantità di acqua calda attraverso delle tubature nei muri.
+- Fra i due appartamenti esiste un rapporto di servitù, perché il vicino è tenuto a tollerare che le tubature di acqua calda passino attraverso il muro confinante.
+- Il limite della tolleranza è che il calore diffuso non superi le normali necessità del riscaldamento, causando danni all'altro immobile che sono superiori al dovere di tollerare del proprietario del fondo servente.
+- Non ci si trova all'interno di un divieto di atti di emulazione, perché la costruzione di tubature per il bagno è un caso di servitù necessaria con il fondo confinante.
+- Il problema è che non sta facendo un uso equo della sua proprietà, bensì un uso smodato, perché non c'è bisogno di scaldare l'acqua al punto di causare danni per avere un buon bagno.
+- Il punto importante è l'inserimento da parte di Piacentino di qualcosa di più, rispetto a quello che diceva la norma giustinianea, il fatto che la servitù non vada esercitata /ultra modum/.
+
+** 1:07:28 Piacentino: costituzione /per provincias/
+
+- Nella /summa/ del Codice di Giustiniano, Piacentino riassume il titolo /de edificiis/ (C 8.10), che contiene una costituzione degli imperatori Onorio e Teodosio.
+- Inizia con /per provincias/, ed elenca le province dell'impero romano d'oriente, che sono zone che richiedono cautele particolari, perché non sono ancora state pienamente integrate.
+- Se tutte le persone che abitano nella provincia sono d'accordo, gli imperatori permettono ai proprietari di circondare con una cinta muraria i confini delle loro proprietà.
+- Non ci sono limitazioni a questa concessione, l'unico requisito è l'accordo dei residenti.
+
+** 1:11:42 Piacentino: riassunto della costituzione /per provincias/
+
+- Piacentino aggiunge un'ulteriore situazione di fatto non già prevista dalla costituzione, ossia la costruzione di /castrum/ (costruzioni fortificate), mentre nella costituzione si parlava solo di recinzioni e mura.
+- L'esigenza di prevedere la possibilità di costruire fortificazioni all'interno del proprio fondo era tipica dell'età in cui Piacentino vive, il 1100. 
+- Fra città vicine esistevano rivalità, a metà del secolo Federico I Barbarossa era sceso in Italia con il suo esercito per cercare di opporsi alle autonomie comunali, ecc.
+- La situazione politica era forse anche più instabile di quella delle province dell'impero romano d'oriente, e da qui deriva l'esigenza di costruire fortificazioni.
+- Tuttavia, Piacentino va oltre, e richiede che le fortificazioni non siano costruite con spirito di rivalità o sfida verso il vicino, e non devono creare rivolte o ribellioni.
+- Piacentino combina la costituzione di Onorio e Teodosio, che consente di recintare i terreni, ed il frammento /opus novum/ di Macro, in materia di edifici pubblici, che richiede l'autorizzazione del principe.
+- Piacentino combina i due frammenti, uno che riguardava l'edilizia privata, ed uno che riguardava gli edifici pubblici, ed estende il limite degli edifici pubblici a quelli privati, costruiti sul proprio terreno.
+- I glossatori collegano fra di loro i vari passi dei libri di Giustiniano, e citano a favore del proprio argomento o interpretazione altri passi della codificazione, andando a creare collegamenti che Giustiniano non aveva previsto.
+
+** 1:19:41 (Inizio pausa)
+
+** 1:29:16 (Fine pausa)
+
+** 1:29:17 Piacentino: /Vetamur in alieno aedificare/
+
+- È un altro frammento, sempre nella /summa/ al Codice, nel titolo /de servitutibus et aqua/.
+- Non è lecito edificare sul terreno altrui, ma se si sta eseguendo un'attività sulla propria proprietà, senza nessuna intenzione di nuocere al vicino, non c'è nessuna responsabilità nel danno causato.
+- Ad es., se si scava un pozzo, e si taglia la vena d'acqua del vicino, non ci sarà responsabilità per il danno causato, perché il danno è accaduto per caso fortuito, non era voluto.
+- Ad ognuno è lecito giovare a sé stesso, fintanto che non causi volontariamente danni ad altri.
+- Piacentino inverte il principio, se non ci fosse il /prospicere/ (utilità a sé) e ci fosse solo il nocumento verso i terzi (la mancanza di utilità per sé, e la volontà di danneggiare gli altri), la condotta non sarebbe più lecita.
+- Quello che sembrava essere un passo che vieta alla persona danneggiata di rivalersi, in realtà già contiene le condizioni a cui si può rivalere.
+
+** 1:35:00 Piacentino: passo del Digesto citato a supporto
+
+- Per sostenere la sua interpretazione, riprende un passo dal Digesto, al titolo /De aquae pluviae arcendae/.
+- Cita Ulpiano, che afferma che è diritto di tutti trattenere l'acqua piovana sul proprio terreno, ed attrarre sul proprio terreno quella che esubera dal terreno altrui.
+- Giovare a sé stessi, sempre che non si arrechi nocumento ad altri, non è cosa proibita.
+- Specularmente, l'azione è proibita se non ricorrono queste situazioni di contemperare i due diritti, se manca il /sibi prodesse/ e c'è solo intenzione di danneggiare.
+
+** 1:39:35 Pillio da Medicina
+
+- Studia a Bologna, ma trasferisce la sua scuola da Bologna a Modena.
+- Pillio scrive una /summa/ agli ultimi 3 libri del Codice, i /tres libri/, cd. "pubblicistici", che erano stati scorporati dal Codice, e collocati insieme alle Istituzioni e Novelle, perché erano di poca utilità per la didattica che veniva praticata.
+- I libri contengono un titolo chiamato /de fundis limitaneis/, i fondi che si trovano nelle regioni al confine dell'Impero.
+- Nel silenzio della compilazione, dove Piacentino aveva aggiunto la possibilità di costruire /castra/, Pillio introduce la possibilità di costruire /castra limitanea/ (castelli).
+- Il castello originariamente era una costruzione che si trovava al confine, e si distingueva dal /castrum/ ordinario per l'altezza, e la presenza di torri e pennacoli che permettevano di osservare al di fuori della propria giurisdizione.
+- La costruzione di /castra limitanea/ richiede limiti particolari, di autorizzazione da parte dell'autorità superiore, mentre per le normali fortificazioni, si applicano le restrizioni di divieto di emulazione e sedizione nella legge /opus novum/ (D 50.10.3).
+- Anche qui viene mescolata l'edilizia pubblica e privata, e si estendono i limiti dell'edilizia pubblica a quella privata.
+
+** 1:47:21 Azzone: introduzione
+
+- Azzone è stato probabilmente il maestro di Accursio, che ha scritto la /summa/ al Codice, ed una  raccolta di /brocarda/.
+- Nel titolo /edificis privatis/, Azzone ribadisce oltre la libertà di costruire /castra/, salvo che siano finalizzati all'emulazione o atti sovversivi, anche la libertà di edificare cinte murarie, o altre costruzioni.
+- Nell'ambito delle servitù urbane, la regola era quella fissata dalla legge 11 del titolo /De servitutibus et aquae/, per cui costruire un palazzo sul proprio terreno, o innalzare un palazzo già esistente, se non c'è un vincolo di servitù con il palazzo confinante, è nella piena libertà del proprietario.
+- Nell'ambito della /summa/ al Codice, Azzone non aggiunge nulla di nuovo, ribadisce la libertà di godere e disporre del proprio finché non c'è un'invasione dell'altrui, e recepisce una novità da Piacentino della libertà di cingere di cinta murarie il proprio, con il limite dell'emulazione.
+- L'opera più importante di Azzone è la raccolta di regulae iuris, definite /brocarda/, che consistono in principi legali facilmente memorizzabili, ed erano un ausilio per la didattica.
+- Azzone mette a confronto due regole diverse, e le discute, dimostrando che non sono in contraddizione, ma dicono la stessa cosa.
+- Questa dinamica della didattica dimostra la consapevolezza dell'esistenza di un limite al godimento del diritto di proprietà.
