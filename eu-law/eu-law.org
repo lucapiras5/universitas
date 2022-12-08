@@ -63,6 +63,46 @@
 
 *** EU-Turkey statement
 
+** 2022-12-01
+
+*** Judicial control
+
+- Jurisdictional control: is strictly related to the rule of law, which can be enforced both at the supranational (EU) and national (MS) level, based on the principle of sincere cooperation (cf. preliminary ruling mechanism).
+- EU judicial institutions: Court of Justice, and General Court (court of first instance) (283, 284).
+- Advocate generals: deliver impartial opinions on points of law, which aren't legally binding.
+- Private applicants: direct access to the Court of Justice is subject to stringent requirements, it's possible to challenge EU acts before a national judge who can then use the preliminary reference mechanism.
+- Jurisdiction: the Court has full jurisdictions in most EU matters, except for Common Foreign and Security Policy matters, and acts of the European Council and Council determining that a MS has committed a serious and persistent breach of fundamental values.
+
+*** Action for damages
+
+- Aim: obtain award in damages, not a declaratory action.
+- Standing: any party, including natural and legal persons, with no limitations on standing.
+- Time limit: 5 years from the event giving rise to liability.
+- Despite the generous conditions, it's rarely successful due to the strict interpretation of the conditions.
+- Conditions: unlawful act by an institution, actual damage suffered by the applicant, causal link between the act and the damage.
+- Unlawful act: if the institution has discretion the breach needs to be manifest and grave, if the institution has no discretion the mere infringement of EU law is enough for liability.
+
+*** Infringement procedure
+
+- Purpose: restore the rule of law, not compensate the victims (but can be used together with the action for damages), or punish the MS (but it's possible to impose sanctions).
+- Applicants: usually the Commission (which is neutral), MS can be applicants but rarely are for political reasons.
+- Frankovich doctrine: private parties can sue MS in damages before national courts (289).
+- Commission: can start proceedings if if considers that a "Member State" has failed to "fulfill a Treaty obligation".
+- "State": includes any public body or private entity controlled by the State.
+- "Failure to fulfill a Treaty obligation": includes actions, omissions, and obligations imposed by secondary legislation, international agreements, and general principles of law.
+
+*** Infringement procedure: phases
+
+- The Commission enjoys full discretion in whether and when it should start proceedings, it can rank infringements and choose not to pursue some of them (291), these choices can't be challenged.
+- Administrative stage: the Commission sends a letter of formal notice, defines the subject matter so that the State can respond with observations, responds back with a detailed opinion (which may enlarge the scope of the subject matter), and the State has to comply with the opinion by a certain deadline.
+- Judicial stage: is triggered if the State doesn't comply with the opinion, the Court will declare whether the State has breached EU law, and can adopt interim measures.
+- The Court only cares about the objective breach of EU law, State defenses are generally unsuccessful (292).
+
+*** Infringement proceedings: sanctions
+
+- Failure to comply with the Court's judgment results in the imposition of a penalty (292), calculated on the basis of the population and economic relevance of the State in the EU, and duration of severity of the breach.
+- Sanctions are executed by withholding money that would've been granted to the MS.
+
 ** 2022-12-05
 
 *** Annulment action
