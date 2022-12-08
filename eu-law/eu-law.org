@@ -62,3 +62,90 @@
 - Executive committee
 
 *** EU-Turkey statement
+
+** 2022-12-05
+
+*** Annulment action
+
+- Time limit: two months from the publication or knowledge of the act, to limit uncertainty (294).
+- Reviewable acts: must be "legally binding", includes legislative and non-legislative acts, excludes recommendations and opinions.
+- Non-formalistic approach: form or title are irrelevant, only the production of legal effect is relevant, each act must be interpreted individually.
+- Acts must come from EU institutions, MS can't be defendants (295).
+
+*** Annulment action: standing
+
+- Privileged applicants: the Member States, Parliament, Commission and Council can bring proceedings unconditionally (296).
+- Semi-privileged applicants: Court of Auditors, ECB and Committee of the Regions can only bring proceedings if their prerogatives are at stake.
+- Non-privileged applicants: include natural and legal persons, there are strong limits to their participation to avoid overloading the court of justice (297).
+- Non-privileged applicants who are addressees have automatic standing, non-addressees need to meet the general standing test, or the Lisbon standing test (297).
+
+*** Annulment action: general standing test
+
+- Non-addressees can challenge acts of "direct and individual concern".
+- Individual concern: the attributes or circumstances of a certain person differentiate them from everyone else, as if they were directly addressed (298).
+- If the person is part of an "open category" of people, and others could join this category at any time, they are not individually concerned (299).
+- The test is restrictive, and individuals who don't meet it can try to bring proceedings before a national court, and ask for a preliminary reference (302).
+- However, it's not always possible to start proceedings, and it's not guaranteed that the judge will ask for a preliminary ruling, leading to situations of denial of justice (304).
+- Direct concern: there is a direct casual relationship between the act and the effect on the applicant, and the applicant has no discretion in adopting or implementing it.
+
+*** Annulment action: Lisbon test
+
+- Lisbon Treaty: introduced the possibility for non-addressees to bring an action against "regulatory acts" that are of direct concern and that don't require implementing measures.
+- The Lisbon test doesn't require individual concern, which should improve the ability of non-privileged applicants to challenge EU acts (305).
+- Regulatory act: the Court defined them as acts of general application (as opposed to individual acts), and non-legislative (not adopted according to the OLP or SLP).
+- Direct concern: there is no discretion on part of the addressee in implementing the act.
+- Doesn't require implementing measures: if implementation is required, then one should bring an action against who implemented it, this requirement is interpreted in a formalistic way (absolutely no implementing measures).
+
+*** Annulment action: grounds for annulment
+
+- Lack of competence: the institution lacked the power to adopt an act, and didn't have an appropriate legal basis.
+- Infringement of an essential procedural requirement: breach of a rule that could influence  the content of the act.
+- Infringement of the Treaties, or rules related to their application: includes the Treaties, international agreements, customary international law, general principles of EU law, rules of secondary EU law.
+- Misuse of powers: the act isn't a proper use of the powers assigned to the EU, this has to be proven by the applicant.
+
+*** Annulment action: effects
+
+- Ex tunc: the effect of annulment is from the adoption of the act, and it will be treated as if it had never existed (312).
+- Exceptions: the court can preserve some effects of the act to protect the legitimate expectations of the parties.
+
+*** Action for failure to act
+
+- Complement to the action for annulment, it's used when an institution failed to adopt an act when it was required to do so (312).
+- Prerequisite: the institution must have been called upon to act (312).
+- Time limit: two months after the pre-litigation phase.
+- Applicants: are divided in privileged (EU institutions, MS) and non-privileged (private parties).
+- Purely declaratory nature: it only results in a declaration that the law has been breached, without the further effects that other remedies would have.
+
+*** Preliminary reference
+
+- Preliminary reference procedure: is non-contentious, and a form of collaboration between national courts and the Court of Justice, it's not based on a hierarchical relationship, but the separation of tasks.
+- Purpose: ensure that EU law is applied uniformly (316).
+- "Court or tribunal of a Member State": certain factors (established by law, permanent, binding jurisdiction, independent, procedure must be inter partes, court must apply the rule of law, must be independent) (317, 318).
+- Courts performing administrative functions can't ask for a reference.
+- Administrative bodies that perform a judicial function can ask for a reference.
+- Arbitration bodies can request references if they're permanent and they have obligatory jurisdiction by law.
+- Other requirements: the court and tribunals can only refer a question if there's a pending case, and the proceedings will result in a judicial decision (318).
+
+*** Preliminary references: on interpretation and on validity
+
+- Interpretation: can concern both binding and non-binding acts, including the interpretation of general principles, and international treaties.
+- The Court can't declare national law invalid (outside of infringement proceedings), but national judges can ask for an interpretation to determine whether national legislation is against EU law (318).
+- Validity: can only concern binding acts, only the Court can declare a EU act invalid, national judges can always confirm the validity of EU acts (and not make a reference) (319).
+- Preliminary references on validity are an alternative for annulment proceedings, but there are limits (the measures may not require national implementing acts, the applicant would have to break the law, national law makes it difficult or impossible to challenge national measures implementing EU law).
+- The Court thinks it's the national courts' duty to ensure effective judicial protection in fields covered by EU law.
+
+*** Preliminary references: discretion to refer
+
+- National courts "may" make a reference, and the Court of Justice can't interfere in this discretion (321).
+- Limitations: there is no real dispute (the proceedings were started only to trigger a reference on a certain point of EU law), the referred question is irrelevant to the case, or hypothetical, or unclear or unsubstantiated (322).
+- Obligation to refer: if there would be no remedy against a court (supreme courts, small courts with no appeal).
+- Exceptions: Court already answered the question in a previous case, or the provisions are sufficiently clear and there's no reasonable doubt (which jeopardizes the uniform application of EU law).
+- Illegal EU acts: national Courts still need to refer if they think the EU act is illegal and don't want to apply it, because only the Court of Justice can determine the legality of an act.
+- Liability: if the Court violates its duty to submit a reference, the individual can claim damages from the State for its violation of EU law.
+- Parties only have an advisory role, only the Court decides whether to refer the question.
+
+*** Preliminary references: effects
+
+- Interpretation: binding on the referring court and other courts deciding the same case in the same proceedings, authoritative for other courts and public authorities, but national Courts can always submit a new reference to try and change the Court of Justice's opinion.
+- Act is declared invalid: in theory is only binding on the referring court, in practice it achieves the same result as the action for annulment.
+- Act is declared valid: has no erga omnes effect, since other arguments could be used to question the validity of the act.
