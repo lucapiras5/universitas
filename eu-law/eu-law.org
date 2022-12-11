@@ -2,6 +2,92 @@
 
 * EU Law
 
+** 2022-10-05 - Classical reading of art. 4 TEU
+
+*** Principle of conferral
+
+- International organizations: must act within their mandate.
+- Principle of conferral: is judicially enforceable (not just a reassurance for MS), and applied in a strict manner.
+- "Competences not conferred": negative wording prevents expansion of EU competences.
+
+*** Equality of MS
+
+- Equality: MS are equal before the Treaties and in their national identities.
+- Principle of mutual trust: it's an unwritten principle related to equality, EU law must be applied in the same manner to everyone.
+- Differentiated treatment: inequalities due to new States acceding to the Union must be limited in duration, it's possible to treat some MS differently with enhanced cooperation, or opt-outs.
+- Costa v. ENEL: MS can't take unilateral measures that violate EU law.
+
+*** Principle of solidarity
+
+- Principle of negative solidarity: MS must abstain from acts that violate the balance between the EU and MS, and undermine the mutual trust between MS.
+- Principle of positive solidarity: applies to certain policies (terrorist attacks, asylum policies, stability of the Euro area), it's just an abstract principle that can't be enforced by itself, and must be implemented in concrete policies.
+
+*** Principle of mutual trust
+
+- Mutual trust: the Union's founding values are recognized by all MS, and that MS comply with EU law and respect fundamental rights.
+- Consequence: MS don't have to check another MS' compliance with EU law.
+- Principle of mutual recognition: closely connected with the principle of mutual trust, is applied in the free movement of goods, the internal market in general, and the principle of judicial protection.
+
+*** National identities clause
+
+- National identity: must be respected by the EU, is used frequently to block the adoption of EU acts.
+- Counter-limits doctrine: EU law stops prevailing if it affects the integrity of the fundamental internal order.
+- Definition of national identity: MS' supreme courts are in the best position to recognize their national identity.
+- National security: is the exclusive concern of MS.
+- National identity includes a MS's political and constitutional structures, including the regional and local level.
+- MS can't rely on this clause in order to not apply EU law, and it doesn't create an obligation on the EU to prioritize national interests over Union ones.
+- German constitutional court: EU law can be reviewed to make sure it doesn't harm the core constitutional values and takes away Statehood.
+- The normal national identities review (art. 4(2) TEU) balances national and Union interests, the German constitutional court's proposed review is different and aims to protect the core of the German constitution.
+
+*** Principle of loyalty or sincere cooperation
+
+- Definition: MS and institutions should assist each other in achieving EU objectives, ensure their fulfillment, and refrain from measures that go against them.
+- Analogies: "pacta sunt servanda" principle in international law, principle of cooperation in federal States.
+- It's the most important principle in EU law, and according to the Court it would apply even if it wasn't explicitly stated.
+- It can be applied only if there aren't specific provisions, but several provisions are a specification of the principle of loyalty.
+- Originally it was considered a mere statement of political intentions, but later the Court recognized it as a source of obligations.
+- MOX Plant case: Ireland breached the principle of loyalty because it challenged England before an international arbitration body without consulting with the EU institutions.
+- Infringement proceedings: if Commissions requests are unclear the MS must ask for clarification, instead of using it as an excuse to continue infringing EU law.
+- Regulations and directives: the MS and Commission must act in good faith to overcome issues.
+
+*** Addressees of loyalty
+
+- Horizontal loyalty: between MS.
+- Vertical loyalty: all authorities in a MS are subject to loyalty towards the EU, including the judiciary, except for purely political matters, where MS are not required to cooperate with the Council or prioritize Union interests over national ones.
+- Reverse-vertical loyalty: EU institutions must also cooperate with MS, in a mutual manner.
+
+*** Functions of loyalty
+
+- Constitutionalization: the principle of loyalty was used to justify the principle of primacy, direct and indirect effect, MS liability for violating EU law.
+- Conflict prevention: States must refrain from acting in a way that would jeopardize the attainment of Union objectives.
+- Cooperation: especially in mixed agreements.
+- Compliance: MS must grant effective judicial protection for rights derived from EU law, introduce sanctions for breaches of EU law, nullify the consequences of a breach of EU law, amend national law that contrasts with EU law.
+
+** 2022-10-06 - Principle of sincere cooperation and art. 4 TEU
+
+*** Screening of FDI
+
+- Background: due to the high degree of integration in the EU, FDI in one MS can affect the others, or the EU as a whole.
+- Framework: MS can exchange information and raise concerns, the Commission can issue opinions when an investment can threaten the security and public order of a MS or undermine a EU project.
+- National screening mechanisms: are subject to requirements, MS ultimately decide whether to approve an investment or not.
+- Principle of sincere cooperation: the EU framework doesn't prejudice the MS' responsibility to safeguard their national security, MS should give due consideration to comments from other MS or the Commission.
+
+*** Refugee crisis
+
+- Dublin Regulation: adopted to deal with the 2015 refugee crisis, establishes the "State of first entry" criterion for processing requests, later MS agreed to distribute applications among MS.
+- Some States decided not to implement the regulation as a matter of protecting national security, which is an exclusive prerogative of MS and can't be reviewed by the Court.
+- EUCJ states that national security can't be abused as a general reservation in order not to implement EU law, and the principle of loyalty should prevail in this case.
+- AG's opinion: solidarity is a fundamental value, MS must shoulder collective responsibilities and shouldn't base their actions on a mere cost-benefit analysis.
+
+*** Wittgenstein case
+
+- Real estate agent: is adopted by a German nobleman, and gains a noble title.
+- Austria: has a constitutional law that abolished the use of noble titles, doesn't recognize the agent's noble title.
+- Agent: now has a different name in Austria and Germany, which lead to a restriction of her freedom of movement.
+- Austria: justifies the restriction on the basis of their national identity and public policy, which is possible, but should be interpreted strictly.
+- Objective of the law: implement the more general principle of equality of all Austrian citizens before the law, which is also a fundamental EU principle.
+- Conclusion: the justification is acceptable.
+
 ** EU institutions (2022-11-10)
 
 *** Introduction
