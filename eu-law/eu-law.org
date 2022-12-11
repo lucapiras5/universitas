@@ -63,6 +63,290 @@
 
 *** EU-Turkey statement
 
+** 2022-11-16
+
+*** TODO: Outright Monetary Transactions
+
+*** EU competences
+
+- Principle of conferral: MS confer competences to the EU to attain common objectives, the competences not conferred remain with the MS, the institutions of the EU must act within the powers conferred by the Treaties (110, 111).
+- Division of competences: the competences can be exclusive, shared or supporting (113).
+- The EU doesn't have the competence to give itself further competences, new powers always require a Treaty revision.
+- Vertical division of powers: the Union must empowered to take any measure, both binding and non-binding.
+- Horizontal division of powers: any Union measure must respect the limit and procedures in the Treaty.
+- Institutional balance: the institutions in the EU must respect the division of powers.
+- Implied powers: if Treaty articles confer a certain task to an institution, without specifying the powers that should be conferred, in order to make that provision effective, the powers are implied.
+- Judicial review: the Court of Justice declares measures that violate the principle of conferral invalid, national supreme courts can review EU measures too and declare that they are ultra vires.
+
+*** Exclusive competences
+
+- "Exclusive": only the Union can adopt legally binding acts, and States may only be authorized to adopt implementing measures (113).
+- Urgent measures: if the EU fails to adopt measures, MS can consult the Council in order to protect the common interests.
+- Exhaustive list: includes the customs union, competition rules for the internal market, monetary policy for the Euro.
+
+*** Shared competences
+
+- Shared competences: if a competence isn't listed as exclusive or supporting, it's presumed to be shared in character, the list is non-exhaustive (114), they represent the majority of competences.
+- Preemption: if the EU adopts rules on a certain matter, MS can no longer legislate on the specific elements the EU has regulated (the preemption doesn't apply to the whole area).
+- Limitations: some fields are completely excluded from preemption, and in certain areas the EU only sets minimum standards (115).
+
+*** Supporting competences
+
+- "Supporting": the EU promotes cooperation in the action of MS, without binding effects.
+- Scope: matters that are too close to national interests or identity, or too politically sensitive (115).
+
+*** Common Foreign and Security Policy
+
+- CFSP: legislation is excluded, and guidelines and cooperation is used instead.
+- Intergovernmentalism: policies are defined and implemented by the European Council.
+- Judicial review: is generally excluded, save for restrictive measures against natural or legal persons adopted by the CFSP, and to ensure that CFSP measures aren't used in competences under the general regime (116).
+
+*** Subsidiarity
+
+- Scope: only to non-exclusive competences.
+- Definition: powers should be attributed to the level of government where it can be exercised most effectively.
+- Purpose: balances centralization and the MS' sovereignty, can be used for ex ante and ex post review.
+- Necessity test: the objectives can't be achieved by individual MS at their national, regional or local level.
+- Added value test: Union action can achieve those objectives, unless it's shown that the objectives can be better achieved using international law (118).
+- Acts must contain a detailed statement on the principle of subsidiarity, in order to facilitate its judicial review.
+
+*** Proportionality
+
+- Definition: EU action must be suitable to achieve an objective, and not go beyond what is necessary to achieve it.
+- Choice between measures: the least onerous measure should be taken, and disadvantages can't be disproportionate to benefits.
+- Discretion: the legislature enjoys wide discretion, and legality is affected only if the measure is manifestly inappropriate.
+- Limits to discretion: choices must be based on objective criteria, and discretionary power is exercised following guidelines.
+
+** 2022-11-17
+
+*** International law sources
+
+- Jus cogens: is recognized by the VCLT, refers to general rules that are at the top of the hierarchy, and can only be derogated by another piece of just cogens.
+- Customs: are binding for all subjects of international law.
+- Conventions: are binding and prevail over customs, but only between signing parties.
+- Decisions: can be taken on the basis of treaties.
+- Soft law: isn't binding, is used when the States are unable to agree on a binding instrument.
+
+*** EU law sources
+
+- Primary law: includes the Treaties, the Charter of Fundamental Rights, and the general principles developed by the EUCJ (108).
+- Treaties: define the institutional framework of the EU, describe competences and powers, define the amendment procedure, the accession procedure, and various protocols.
+- General principles of law: they're developed by the case law of the EUCJ, and can draw on common constitutional traditions among MS.
+- Human rights: their protection is considered a general principle, originally they weren't considered because Treaties were purely economic in nature.
+- International agreements: concluded with non-EU countries or international organizations.
+- Secondary law: can be adopted by the Commission (and in specific cases, Council) in the conditions laid down in the Treaties or other secondary law.
+- Binding secondary law: regulations, directives, decisions.
+- Non-binding secondary law: opinions, recommendations, other soft law instruments.
+- Hierarchy: secondary law must comply with primary law and international agreements, failing that the act is ultra vires and can be annulled (109).
+
+*** Treaty revision
+
+- Treaties can be amended using the ordinary or simplified procedures.
+- The ordinary procedure has two stages, the first of which (the Convention) is optional, and the second is the intergovernmental one.
+
+*** Ordinary revision procedure
+
+- Scope: unrestricted, but unlikely to be used if a less cumbersome procedure is applicable.
+- Initiative: amendments can be proposed by the European Parliament, Commission, any MS government, and are notified to national parliaments.
+- European Council: consults with the Parliament, Commission, the ECB (if the amendments concern the monetary policy), and decides by a simple majority if the procedure should continue.
+- Convention: is composed of representatives from national parliaments, the heads of State or government, the European Parliament and the Commission, and adopts decisions by consensus.
+- Intergovernmental stage: a conference of representatives of the MS' governments adopts the amendments.
+- Ratification: the adopted amendments have to be ratified by the MS' parliaments.
+- Simplified variant: the European Council, with the consent of the European Parliament, can skip the Convention stage, if the amendments are limited in scope (144, 145).
+
+** 2022-11-21
+
+*** Special revision procedures
+
+- Scope: limited to Part Three of the TFEU (policy areas of the EU), can't be used to increase competences.
+- European Council: decides unanimously on the amendments, after consulting with the Commission, Parliament, and ECB (for institutional changes in the monetary area).
+- Ratification: by all the MS is still necessary.
+- European Stability Mechanism: has been introduced using this procedure.
+
+*** Limitations on the amendment of treaties
+
+- Defrenne case: EU Treaties can only be amended using the procedure in art. 48 TEU.
+- International law: there are no constitutional concerns, the treaty that is concluded later always prevails.
+- Jus cogens: its respect is a general limitation for the amendment of any treaty, including EU Treaties.
+- Principle of non-regression: amendment of EU Treaties can't lower the protection of fundamental values.
+- Respect of EU law: when MS are amending the Treaties they still are MS, and are not above EU law, which makes it an autonomous legal order.
+- States as the "masters of the treaties": if all MS decide on an amendment, legal recourse (Commission and Court of Justice use the infringement procedure against all MS) may be useless.
+- EU law is based on international instruments, MS are still capable of forcing their political will against EU institutions.
+
+*** Pringle case
+
+- Pringle: is a member of the Irish parliament, argued that the simplified amendment procedure shouldn't have been used, and that the ESM Treaty violated the Union's competence concerning the Economic and Monetary Union.
+- Simplified procedure: the formal changes were inside the scope of the simplified amendment procedure, but the Court had to verify whether the substantive changes were as well.
+- ESM's purpose: safeguards the stability of the Euro area (not the stability of prices), and is a financial measure (not a monetary one), so it falls outside the EU's exclusive competences.
+- Purpose of amending the Treaty: it clarified a pre-existing competence of the MS, who are free to collaborate in economic policies (where the EU has coordinating competence), as long as they comply with EU law (595).
+- Dual nature of the ESM: it's a Treaty concluded by MS among themselves, but allocates some tasks to the EU institutions, the Court stated that the allocation is possible as long as it's not done in an area of exclusive competence, or alters the institutions' essential character (596).
+- The Court supported the emergency mechanism because opposing it would've worsened the economic crisis (597).
+- Political reason for codification: codify the principles for financial assistance, in particular strict conditionality.
+- Legal reason for codification: make sure that the ESM integrates with EU law and institutions without issues.
+
+*** Conference on the future of Europe
+
+- Union competences: crises have led to changes in the Union's competences, legal workarounds had to be created around the existing system of competences, a reform may be necessary.
+- Decision-making procedures: the number of MS necessitates efficient decision-making, but it must be balanced by measures to ensure legitimacy and accountability, and deal with the issue of MS abusing their voting powers due to democratic backsliding.
+- External relations: there is popular support for stronger EU action in the international stage, and to protect Union interests against external interference.
+- Reform of the Treaties: is unlikely due to the political circumstances (rise of populism), and constitutional courts are opposed to further integration.
+
+** 2022-11-23
+
+*** Judicial protection of human rights
+
+- European Communities: were created as an international organization with purely economic purposes, there was no need for rules concerning human rights, especially since MS were parties to the ECHR.
+- EUCJ: starts recognizing the principles of direct effect and primacy, MS are concerned that EU law could violate constitutional values, including human rights.
+- German and Italian constitutional courts: asserted their right to review EU law in order to ensure its consistency with constitutional law.
+- EUCJ: reacts to the decision of the constitutional courts by affirming the principle of respect for human rights.
+- Stauder case: fundamental rights are a part of the general principles of Community law, and are protected by the Court.
+- Internationale Handelsgesellschaft: the protection of fundamental rights is inspired by constitutional traditions common to the MS.
+- Nold: international treaties for the protection of human rights which MS are parties to can supply guidelines for Community law.
+- Johnston: the principles of the ECHR must be taken into consideration in Community law.
+- Kadi: respect for human rights is a condition for the lawfulness of Community acts, and international agreements can't prejudice the constitutional principles of the EC Treaty.
+- Art. 6 TEU: mentions the Charter, accession to the ECHR, and "constitutional traditions common to the MS".
+- Protection of human rights can't increase the competences of the EU.
+
+*** Accession to the ECHR
+
+- All MS have joined the ECHR, and there were various proposals for the European Community to join the ECHR.
+- EUCJ: found that the treaties didn't provide any competence for the European Community to enact rules on human rights, and so it couldn't join the ECHR either.
+- Lisbon Treaty: mandated accession to the ECHR, a new draft agreement for accession was made.
+- EUCJ: found the draft agreement incompatible with EU law, since accession to the EUCJ would mean that EU acts could be reviewed by an institution outside of the EU.
+- EUCJ is relying more on the Charter and less on the ECHR, to establish the independence of the EU legal order.
+
+*** European Charter of Fundamental Rights
+
+- External scrutiny: accession to the ECHR, first proposed and then mandated by the Lisbon Treaty.
+- Internal scrutiny: creation of a Community "bill of rights" for the EUCJ to ensure compliance of legislation and policies with fundamental rights.
+- Charter: was initially proclaimed in 2000, but only came into direct effect in 2009 with the Lisbon Treaty.
+- Application: to EU institutions, bodies, and MS when they implement EU law.
+
+*** International agreements and the EU
+
+- International agreements: the EU can conclude them with third countries and international organizations.
+- They're a sui generis source of law, but they can have direct effect, and secondary legislation must comply with them.
+- EU can conclude agreements in order to achieve Treaty objectives, or to comply with a legally binding Union act, and the agreements are binding on the institutions and MS.
+
+*** Agreements concluded by the EU
+
+- Exclusive competence in international agreements: only the EU negotiates and concludes the agreement.
+- Shared competence in international agreements: both the EU and MS conclude the so-called "mixed" agreement, MS must give their consent, an internal EU act may be used to define the obligations between the EU and MS.
+
+*** Agreements concluded by MS
+
+- Agreements concluded by individual MS with third countries before the accession to the EU can still be enforced even if they're inconsistent with EU law, to prevent a breach of the international commitment.
+- Agreements concluded after the accession must not be concluded, or amended and replaced, if they're inconsistent with EU law.
+- Agreements concluded by all the MS with third countries: must be taken into consideration by the EU institutions when interpreting and implementing EU law, due to the principle of sincere cooperation.
+- MS acting as trustees: if agreements can be concluded only by States, the EU can name a MS to act on its behalf.
+- Agreements between MS: if they're inconsistent with EU law, they're invalid since EU law prevails, they can be used to support, strengthen or implement EU law (ESM, Schengen Agreement, Dublin Convention).
+
+** 2022-11-24
+
+*** Structure of EU acts
+
+- Heading: specifies the institution that adopted the act, its date, number and title, and relationship with other acts.
+- Recitals: contain the motivation of the act, the affected policy areas, intended goals, respect of the principles of subsidiarity and proportionality.
+- Legal basis: justifies the adoption of the act, usually is a single article dealing with the most important policy area (111).
+- Publicity: EU law is published in the Official Journal of the EU, publication, entry into force and application are distinct.
+- Application: the whole act can be delayed to allow the recipients to comply with the obligations, individual provisions can be applied before applying the whole act.
+
+*** Binding acts
+
+- Binding acts: are regulations, directives and decisions, they can contain obligations.
+- Legislative acts: are acts adopted using the legislative procedure, they're always binding, but not all binding acts are adopted using the legislative procedure.
+- Choice of form: mandated by Treaties in some areas, otherwise the institutions are free to choose, but should use the least intrusive form (104).
+
+*** Regulations
+
+- Characteristics: binding in their entirety, directly applicable in all MS, analogous to a national law.
+- Direct effect: they don't have to be transposed into law, but can mandate national provisions for their implementation (104).
+
+*** Decisions
+
+- Characteristics: binding in their entirety, but only to their addressees, have direct effect (105, 106).
+
+** 2022-11-28
+
+*** Directives
+
+- Characteristics: impose an obligation of results, only MS can be their recipients.
+- Framework law: follows the principle of subsidiarity, the EU only defines the policy objectives, States amend their national law accordingly (104).
+- Entry into force: 20 days after their publication, beginning of the obligation to transpose the directive into national law.
+- Deadline for implementation: after it expires, the Commission can start infringement proceedings if the State hasn't implemented the directive yet.
+- Unimplemented directives: unconditional and sufficiently precise provisions can have direct effect to safeguard the useful effect of the directive (cf. Van Duyn case), the Court can impose financial penalties (105).
+
+*** Directives: case law
+
+- Marleasing SA: directives can be used for consistent interpretation purposes, as long as they don't contrast with the literal meaning of national law.
+- Frankovich: States are liable for damages if a directive recognizes rights to individuals, and isn't implemented in time.
+
+** 2022-11-30
+
+*** Recommendations and opinions
+
+- Characteristic: they have no binding force in themselves, but non-compliance may cause the adoption of binding acts (107).
+- Soft law instruments: are used in areas of regulation that are too sensitive for traditional command and control mechanisms.
+- Judicial review: applies to any instrument that creates legal obligations, regardless of the name (108).
+- Opinions: have to be requested, they represent the institution's opinion on an issue.
+- Recommendations: are given to addressees, and define a certain course of action.
+- The distinction between opinions and recommendations is not official, and the "reasoned opinion" in infringement procedures has an addressee and a deadline, which makes it more of a "recommendation".
+- Grimaldi case: even though recommendations aren't binding, due to the principle of sincere cooperation they should be taken into account when interpreting national law.
+- Binding "opinions": by the Parliament in the legislative procedure, by the EUCJ on draft agreements that the EU wants to conclude with third countries.
+
+*** Primacy of EU law
+
+- Costa v. ENEL: the Court held that Community law can't be overridden by national law, due to its special and original nature.
+- Principle of primacy: it isn't found in the treaties, and was developed by the EUCJ.
+- Relationship with direct effect: they're strongly connected, but don't necessarily follow from each other, and together they ensure the respect of EU law (175).
+- Primacy and validity: primacy does not affect the validity of national law, it only requires that the conflicting provision is not applied in the specific case (but courts may reach different conclusions).
+- Dualistic approach: there are two separate legal orders, the institutions in one legal order can't affect the norms in the other.
+- Primacy includes all sources of EU law, which prevails over subsequent national legislation.
+- National judges and administrative authorities don't have to ask the EUCJ whether they can set aside national laws, and can do so at any point, and irrespective of prohibitions in national laws (176, 177).
+
+*** (cont.) Reaction by MS
+
+- MS have resisted the idea of absolute primacy with various arguments.
+- MS as "Masters of the Treaties": the foundation of EU law is the Treaties, not its special and original nature, it's an international law organization, MS aren't bound in an absolute manner (178).
+- EU law and Constitutions: EU law is under or beyond national constitutions, but not above.
+- Constitutional courts: can review EU acts to determine if the EU has violated the principle of conferral (179).
+- Protection of rights from EU institutions is another reason for opposition against absolute EU primacy (180).
+
+*** Principle of consistent interpretation
+
+- Also known as indirect effect, it's analogous to the duty of constitutionally consistent interpretation.
+- Applies in general to all EU law and all national law, for all national authorities.
+- Weak direct effect: EU law merely confirms an interpretation that was possible under national law.
+- Medium direct effect: EU law determines the choice between various interpretations.
+- Strong direct effect: EU law imposes a certain interpretation of national law.
+- Limitations: consistent interpretation must be balanced with general principles (legal certainty, legitimate expectations, non-retroactivity) and can't be contra legem (contradict national law).
+
+*** Direct effect
+
+- Direct effect: the EU provision becomes the immediate source of law, and doesn't require implementing measures in the national legal order.
+- Van Gend en Loos: private parties can invoke provisions from the EEC Treaty, the Court of Justice recognizes that Community law creates obligations and rights for individuals.
+- Van Gend en Loos rule: the treaty rule was a clear, unconditional prohibition that didn't require further implementation (no discretion for MS to adapt it).
+- Conditions for direct effect vary on the source of law, but in general, only provisions that only contain aim-setting norms, that establish new institutions, or that are subject to considerable discretion by MS are excluded.
+
+*** Direct effect: sources of law
+
+- Treaties: the key Treaty provisions (freedoms, competition law, State aid, equal pay) have direct effect in all types of legal relationship.
+- Charter: they can have direct effect in vertical ascending relationships (they limit State power) and sometimes horizontal relationships (discrimination, paid leave), but they tend to be too vague for the direct effect doctrine.
+- Regulations: they may or may not be directly applicable (i.e., not require implementing measures), direct effect is presumed, and applies to all legal relationships (vertical and horizontal) (163).
+- Decisions: addressed decisions have direct effect if they're clear, precise and unconditional, but only in vertical relationships.
+
+*** Direct effect: directives
+
+- Treaties and regulations: enjoy full direct effect.
+- Decisions and directives: the type of legal relationship matters (164).
+- Van Duyn: directives can be vertically directly effective (citizens can use a directive against the State).
+- Estoppel doctrine: directives can't be directly effective in reverse vertical relationships (a State must implement a directive in order to enforce it).
+- Marshall: directives can't be directly effective in horizontal relationships because they only impose obligations on MS.
+- However, there is a number of exceptions that increase the scope of direct effect for directives.
+- Scope of vertical relationships: relationships with any organization or body under the control of the State, and the State itself acting in private capacity are always considered vertical, and not horizontal.
+- Mangold: if a directive contains a general principle of law, the principle is applicable horizontally.
+- Indirect effect: also known as consistent interpretation, the same result that would be achieved by the direct effect of a directive in a horizontal relationship can be achieved by consistent interpretation.
+
 ** 2022-12-01
 
 *** Judicial control
