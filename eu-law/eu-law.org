@@ -88,6 +88,105 @@
 - Objective of the law: implement the more general principle of equality of all Austrian citizens before the law, which is also a fundamental EU principle.
 - Conclusion: the justification is acceptable.
 
+** 2022-10-10 - Catalonia and EU law
+
+*** Catalonia's independence referendum
+
+- Catalonia: wishes to be independent.
+- Spanish constitution: the State is indivisible.
+- International law: recognizes secessions as the unilateral withdrawal of a State to create a new State, or join another existing one, but doesn't regulate the act in itself, only the consequences.
+- Principle of self-determination: created by the UN in the case of colonial or foreign domination, or other exceptional circumstances (such as apartheid), has been abused as an argument for secession.
+- Catalonia: passes a law to hold a binding referendum on the independence of Catalonia, the majority of people are in favor.
+- Spain: challenges the law and referendum before the Constitutional court, who finds it violates the territorial integrity clause in the Spanish constitution, the only solution would be to amend the Constitution.
+- EU's opinion on the referendum: territorial integrity of a State is an entirely national affair, EU has no competences in the situation, Commission agrees with the Spanish constitutional court due to the Spanish constitution being the only applicable source of law.
+- Accession of Catalonia to the EU: even if the referendum was legal, Catalonia would become a third country and would have to go through the accession process.
+
+*** Junqueras I Vies
+
+- Junqueras I Vies: is placed in provisional detention during an criminal investigation related to the referendum, but in the meantime is elected in the European Parliament.
+- Election to the European Parliament: is left entirely to the MS, Spain requires members of the parliament to swear on the Constitution, but Junqueras I Vies wasn't allowed to do so due to his provisional detention.
+- Junqueras I Vies: argued that since he was elected, he already was a member of the European Parliament, and didn't need to swear in order to enjoy parliamentary immunity, and he should be released.
+- EU institutions: the electoral procedure is a purely national affair, mere election isn't enough.
+- Junqueras: is convicted, sentenced to a prison term for 13 years, and barred from holding office for the duration of the prison term, his seat in the Parliament was declared vacant.
+
+*** Junqueras Vies case
+
+- Court of Justice: clarified the scope of immunities enjoyed by members of the European Parliament.
+- Election of Members of the European Parliament (MEPs) is an expression of the principle of representative democracy, the status of MEP is gained with the election, MEPs must enjoy the immunities necessary for the performance of their tasks.
+- Immunity as regards travel: is granted so that MEPs can travel to the meeting of the European Parliament, including the inaugural sitting, regardless of formalities required by national law.
+- Provisional detention measures: should be lifted due to the immunity, or the national court should request the Parliament to waive the immunity.
+
+** 2022-10-12 - Mutual dimension of loyalty, protection of fundamental values of the EU
+
+*** Commission v Sweden
+
+- Sweden: unilaterally bans a pollutant because the EU has failed to find a common position.
+- Commission: accuses Sweden of violating the principle of sincere cooperation.
+- Sweden's argument: principle of sincere cooperation is mutual, if an agreement can't be reached MS should be allowed to act unilaterally, especially if they're protecting interests of concern to the EU by banning a pollutant.
+- EUCJ: originally stressed the mutual nature of the principle of sincere cooperation, but in this case it didn't consider Sweden's argument.
+- Point 74: MS must abstain from acting if the Commission has submitted a proposal to the Council, even if they haven't been adopted, because they're the basis for concerted Community action.
+- Point 77: common positions don't need to exist in a specific form in order to be relevant for the principle of sincere cooperation.
+- Point 104: unilateral proposals by a MS that diverge from a common strategy weaken the international representation of the Union by its MS, and its negotiating power.
+
+*** Duty to remain silent
+
+- EUCJ: interpreted the principle of sincere cooperation in an abstract way, didn't impose obligations of results on MS, didn't specify how to carry out the cooperation in practice, only stated "obligations of best endeavors".
+- Inland Waterways case: MS must inform and consult with the Commission before taking external action, if negotiation at the EU level has started, regardless of whether an agreement has been reached.
+- EUCJ followed the approach in the MOX Plant case, where it ruled that Ireland had violated the principle of sincere cooperation because it brought a dispute in an area inside the scope of EU law before an international arbitration tribunal.
+- IMO case: there is a double standard, the Commission can challenge acts by MS that violate the principle of sincere cooperation, while the Commission has broad discretion and its acts can't be challenged, and it's not held to the same standard of cooperation as States are.
+- PFOS case: the principle of sincere cooperation produces an obligation not to act, instead of a duty to inform and consult, MS can't act even in situations with shared competence.
+- Common position: the principle of sincere cooperation forces MS not to act until the Union has adopted a common position, and if a consensus isn't reached, or a matter isn't discussed, MS are still not allowed to act.
+- External action: MS are trustees of the Union's interests, even if they respect and pursue Union interests the mere action is seen as a breach of the principle of sincere cooperation.
+- Competence: the "duty to remain silent" applies even in shared competences.
+- International law: MS are formally sovereign, but in practice their external action is constrained by the Commission, MS are the "masters of the treaties", but only the EU treaties.
+
+*** Copenhagen dilemma
+
+- Copenhagen dilemma: it's easier for the EU to control the respect of EU fundamental values in candidate countries than MS.
+- Art. 7 TEU: political infringement procedure (alternative to the judicial one) for violations of fundamental values of the EU in art. 2 TEU.
+- Originally it could only be used after a "serious and persistent breach" had occurred, but following the election in Austria of an extremist political party, it was amended to cover a "clear risk" of a breach (253, 254).
+- Political nature: EUCJ can't review the merit of the decisions, each step "may" (but doesn't have to) be taken.
+- Outcome: declaration of the breach, application of sanctions in the form of suspension of rights.
+- Criticism: it requires a very high majority, it's an option of last resort, there should be a middle ground between it and the soft power of political persuasion.
+
+*** European Commission v Hungary (2012)
+
+- Hungary: decided to decrease the age for the compulsory retirement of judges in order to add new judges who were more favorable to the party.
+- Commission: uses the infringement procedure, challenges Hungary's decision as it violates the principle of non-discrimination in public employment.
+- Limitations of the infringement procedure: requires an actual infringement, and can't be used against abstract values (which are too vague to be justiciable), but requires an implementation of those values.
+
+** 2022-10-13 - Protection of fundamental values of the EU, effective remedies
+
+*** Rule of law
+
+- Rule of law: can be seen as a super-value, respect of other values relies on the respect of rule of law.
+- Public powers must act according to the law, respecting the values of democracy and fundamental rights, and are controlled by independent and impartial courts.
+- Respect of rule of law: EU institutions monitor the MS, and aid the Commission in assessing risks.
+
+*** Commission framework for the rule of law
+
+- Opinions: are issued by the Commission in case of irregularities, they are non-binding, but if MS respect them the procedure ends.
+- Recommendations: are issued if the State is unwilling or unable to follow the opinion, it contains a list of violations and a deadline.
+- Art. 7 TEU: if the situation isn't resolved yet, then the Commission will trigger art. 7 TEU as a last resort.
+- Criticism: the dialogue could delay the application of art. 7 for too long.
+- Yearly dialogue on rule of law: it's a tool for promotion and prevention, rather than enforcement.
+
+*** Austerity measures in Portugal
+
+- Austerity measures: required the reduction of salaries in the Portuguese court of auditors.
+- Portugal: argues that art. 19(1) TEU should be interpreted as precluding any salary-reduction measures, because they would harm the MS's judiciary's independence.
+- Art. 2 TEU: contains a list of fundamental values, among which the rule of law, and art. 19 TEU is a concrete expression of the value of the rule of law, and it requires that MS ensure "effective legal protection" in fields covered by EU law.
+- Court of auditors: can rule on matters covered by EU law, so its independence must be preserved.
+- Cost-cutting measures: applied to other public employees (didn't target the Court specifically) and are temporary in nature, so they can't be considered as impairing the independence of the Court.
+
+*** Repubblika case
+
+- Malta: joined the EU in 2004, had a constitutional reform concerning the appointment of judges in 2016.
+- Principle of non-regression: States join the EU by committing themselves to respect the values in art. 2 TEU, and subsequent reforms to their legal system can't reduce the protection of rule of law.
+- Consequence: in order to enforce the protection of the fundamental values in art. 2 TEU, it's no longer necessary to find a specific provision that implements them, it's possible to just rely on art. 49 TEU.
+- Rules that would reduce the independence of the judiciary would be a regression of the protection of the rule of law.
+- Judicial Appointments Committee: in principle an independent body reinforces judicial independence, and the national court has not raised doubts regarding the its conditions and procedure.
+
 ** EU institutions (2022-11-10)
 
 *** Introduction
