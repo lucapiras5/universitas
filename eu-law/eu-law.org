@@ -187,6 +187,142 @@
 - Rules that would reduce the independence of the judiciary would be a regression of the protection of the rule of law.
 - Judicial Appointments Committee: in principle an independent body reinforces judicial independence, and the national court has not raised doubts regarding the its conditions and procedure.
 
+
+** 2022-10-17 - Protection of fundamental values of the EU, effective remedies
+
+*** Infringement procedure against Poland
+
+- Interim measures: require Poland to stop the implementation of a reform for the judges in the supreme court.
+- Infringement proceedings: MS must ensure that national courts that interpret and apply EU law must be independent, as per art. 19 TEU, there can't be external (Portuguese court of auditors case) or internal pressures.
+- Principle of irremovability: mandates that judges can't be removed until their terms ends, it's not absolute, but exceptions must have a legitimate objective and be proportionate.
+- Polish reform: causes judges to end their office prematurely, raises concerns with the principle of irremovability.
+
+*** Criticisms of the infringement procedure
+
+- Infringement procedure to protect the fundamental values of the EU requires a violation, and a specific provision (the values in art. 2 TEU are too vague), while art. 7 can be used even if there's only the risk of a violation.
+- Poland and Hungary criticized the infringement procedure approach.
+- Art. 7 is lex specialis compared to the infringement procedure, so using the latter would be side-stepping an already-existing procedure.
+- However, the infringement procedure doesn't prevent the application of art. 7, they're alternative remedies.
+- Organization of the judiciary: is a purely national concern, over which the EUCJ has no jurisdiction.
+- National prerogatives: can be exercised having due regard for EU law.
+
+*** Next Generation EU
+
+- European Council: meets in 2020, decides to introduce measures against the Coronavirus (Next Generation EU) with a conditionality mechanism to ensure the respect of the rule of law.
+- Polish and Hungarian PMs: agreed to pose a veto on the multi-annual financial framework in the EU if the conditionality mechanism was introduced.
+- Multi-annual financial framework: defined every 7 years, requires unanimity and can be blocked even by a single veto.
+- Resolution of the conflict: Next Generation EU is adopted by the European Council with a regulation that contains sanctions in case of violation of the rule of law, but whose implementation is delayed in order to give Hungary and Poland more time.
+- Criticism: the European Council is acting like a legislator in delaying the implementation of the regulation.
+- Poland and Hungary: challenge the regulation before the EUCJ.
+- EUCJ: continued compliance with fundamental values is necessary for the enjoyment of the rights under the treaties.
+- Implications: if a MS violates the fundamental values it's possible to suspend those rights.
+- Expulsion clauses: exist in other international organizations, but not the EU due to its nature of continuous integration, MS can only leave on a voluntary basis, expulsion would cause issues for citizens.
+
+*** Polish constitutional court declaration
+
+- : art. 1, 4(3) and 19 TEU may be incompatible with the Polish constitution if the former is interpreted in a way that clashes with the latter, the Polish constitution should always prevail.
+- Polish constitutional court: is not making a statement of general incompatibility, it's a reaction against the attitude of the Court and tries to limit its mandate.
+- Withdrawal decision: can't be considered because it was taken by judges, even if it's the constitutional court.
+- Art. 1 and 4(3) TEU: EU law and its interpretation by the CJEU can't override the principle of conferral and the Polish Constitution, or harm Poland's sovereignty.
+- Art. 19 TEU: ensuring effective legal protection in the areas covered by EU law can't give national judges the competence to review the process of appointing judges in a way that's inconsistent with the Constitution.
+
+** 2022-10-19 - Leaving the Union
+
+*** Leaving the Union before the Lisbon Treaty
+
+- Exit clause: is a unilateral and voluntary clause for MS who are no longer interested in sharing the EU's values, States can't be expelled.
+- Before the Lisbon treaty, there was no express clause to grant States the right to leave the Union.
+- VCLT: States can leave an international organization if there is an express rule, or if it's implied in the intention of the parties, or the nature of the organization.
+- EU Treaties: mandate a continuous integration process, but since MS are the "masters of the treaties", they can amend them to exclude a State.
+
+*** Lisbon Treaty
+
+- Decision to leave the Union: is taken in accordance with its constitutional requirements, which is significant since usually national law is irrelevant for the purposes of international law.
+- Negotiations: Union and the MS negotiate an agreement containing the arrangements for its withdrawal, and future relationships with the Union.
+- Deadline: Treaties cease to apply after the entry into force of the agreement, or after 2 years.
+- Rejoining the Union: MS can rejoin the Union, but have to go through the accession process again.
+
+*** Intention to leave: constitutional requirements, revocation
+
+- Constitutional requirements: in the Miller case, the UK Supreme Court ruled that the EU law was adopted with an Act of Parliament, and since the government couldn't use the royal prerogative to strip rights granted with an Act of Parliament, the decision to leave had to be taken after enacting another Act of Parliament (858).
+- Revoking the decision to leave: in Wightman, the EUCJ found that besides leaving with a deal or without, MS had a sovereign right to unilaterally withdraw their "intention" to leave, and remain a MS in the EU, otherwise the State would be forced to leave.
+- Abuse of withdrawal: a MS could withdraw its intention to leave, only to notify it again later, enabling it to negotiate its withdrawal indefinitely, the Court maintained that the intention to leave should be voluntary and unilateral and not subject to the agreement of other MS, because it's a "sovereign" right (862).
+
+*** Withdrawal agreement
+
+- Withdrawal agreement: is an ordinary agreement that would be concluded with third countries, must respect EU law, and is strongly related to EU law, since it's concluded between the EU and a leaving MS.
+- Art. 5 of the withdrawal agreement: analogous in content to the principle of sincere cooperation.
+- Part 1, common provisions: the Withdrawal Agreement has primacy and direct effect in national law, the interpretation of EU law by the EUCJ is binding until the end of the transition period, and should be held in "due regard" afterwards (867).
+- Part 2, EU and UK citizens: residence rights, social security, worker rights and professional qualifications will continue to be respected.
+- Part 3, separation issues: provisions to address the conclusion of the application of EU law in various issues (868).
+- Part 4, transition period: determines the duration of the transition period during which EU law will continue to be applied, and the UK will no longer be represented in EU institutions or bodies (868, 869).
+- Part 5, financial settlement: the UK takes part in the EU's budget spending and payments until the end of the budget cycle.
+- Part 6, final provisions: in the case of a dispute the parties first consult the joint committee, and if it's not possible to find an agreement, can bring the dispute before a panel of arbitrators, but if the dispute concerns the application of EU law, the EUCJ has to provide a ruling on the matter.
+
+*** MOX case
+
+- Ireland: was concerned about pollution from a UK plant, the UK and EU are also part of UNCLOS.
+- Commission: finds Ireland's decision use a provision in the UNCLOS treaty to resolve the dispute with an international arbitration tribunal to be a violation of the principle of sincere cooperation, disputes between MS should be resolved by the EUCJ.
+- Arbitration tribunal: initially stays the proceedings until the EUCJ gives its judgment, later renounces its jurisdiction without being forced to do so.
+- This mechanism was codified in the Brexit agreement.
+
+*** Pre-existing rights and obligations
+
+- EU institutions: should consider the position of a leaving State, EU law is still applicable but it's pointless to bring infringement proceedings against a leaving MS.
+- International law: will regulate interactions between MS and the UK, it's less specific than the EU regimes.
+- Hard Brexit: UK didn't want to pay for previous obligations, EU argued that no further obligations will be imposed after the 2-years deadline, but previous obligations must be paid.
+- Dispute settlement in a "hard" Brexit: both Germany and the UK are parties to a convention where States recognize the jurisdiction of the ICJ for disputes concerning the violation of an international treaty, such as the EU Treaties.
+
+*** Future relationships
+
+- Trade agreement: the Agreement was amended to include a commitment to negotiate a free trade agreement between the EU and UK, which won't be as comprehensive as participation in the single market or customs union (871).
+- Customs union: require the parties to agree on common custom rules and tariffs.
+- Unlike the withdrawal agreement, it's closer to international law, and doesn't mention EU law.
+
+** 2022-10-24 - EU citizenship
+
+*** Art. 9 TEU
+
+- Union citizenship: every national of a MS is also a citizen of the Union, Union citizenship doesn't replace national citizenship.
+- In theory national citizenship should always come first.
+
+*** Micheletti case
+
+- Micheletti: had a dual Italian and Argentinian citizenship, he moved to Spain to work as a dentist.
+- Spanish law: if individuals have a dual nationality, but neither is Spanish, the nationality that prevails is the one where one's interests are in.
+- Micheletti: was considered a third-country national, and couldn't enjoy rights granted to EU citizens.
+- Freedom of establishment: is granted to nationals of a MS, according to international law States can determine the conditions for acquisition and loss of citizenship freely, but MS must have due regard for Community law, and can't impose conditions that render Community law ineffective.
+
+*** Rottmann case
+
+- Rottmann: was an Austrian national, and being investigated in Austria, during the investigation he moved to Germany and acquired German nationality, and lost his previous Austrian nationality.
+- German authorities: found out about his criminal proceedings (which initially weren't known), tried to deprive him of his German citizenship.
+- Statelessness: not having either Austrian or German citizenship would deprive him of the status of a Union citizen as well, the EUCJ has jurisdiction on this case.
+- EUCJ: statelessness isn't necessarily against EU law, but national authorities had to take into account the consequences of depriving him of his German citizenship.
+- Principle of proportionality: authorities must consider whether the loss of nationality is proportionate to the offense, the lapse of time since the decision to grant him citizenship, the possibility to recover the original citizenship (401).
+
+*** Economic crisis and citizenship
+
+- Opposition to freedom of movement: some countries are concerned that the freedom of movement for EU citizens will put strain on their social welfare programs, or lead to low-wage workers to migrate to wealthier countries.
+- Dano case: national authorities should only look at the financial situation of the person concerned and not also the benefits that are available.
+- Previous case law: national authorities had to consider if granting social assistance benefits would place a burden on the host State, and should be inspired by solidarity.
+
+*** Investor citizenship schemes
+
+- Investor citizenship schemes: involve the sale of citizenship to third-country nationals, were adopted by Malta and Cyprus.
+- Commission: criticized the Maltese citizenship scheme because it didn't require the investor to have a "genuine link" with the country, which is a requirement mentioned by the ICJ in the Nottebohm case.
+- European Parliament: criticizes the scheme in general because it discriminates on the basis of wealth, and transforms EU citizenship into a commodity.
+- Principle of sincere cooperation: would be violated only if there was a "mass naturalization" that would negatively affect the EU as a whole, it's unlikely since citizenship is bought by few people who are wealthy enough not to require social assistance.
+- Issues: EUCJ's case law doesn't require EU citizenship to enjoy rights flowing from EU citizenship, which diminishes the value of buying citizenship, imposing the effective link requirement may lead to loss of existing citizenship, and give MS the potential to discriminate against buyers.
+
+*** Gibraltar case
+
+- UK: only allowed nationals resident in the UK to vote in the European Parliament elections.
+- Gibraltar citizens: were excluded from voting, even though most of EU law applies there, one citizen brought an action before the ECtHR.
+- ECHR: the Convention only protects national elections, the EU elections are supranational, but the Court still condemned the UK.
+- Spain: tried to challenge the extension of the right to vote before the EUCJ.
+- EUCJ: the definition of who can vote and can stand as a candidate in elections to the European Parliament falls into the competence of each MS, there are no provisions in the Treaties, and the UK's decision to extend the right to vote and to stand as a candidate to the citizens in Gibraltar wasn't against the law.
+
 ** EU institutions (2022-11-10)
 
 *** Introduction
