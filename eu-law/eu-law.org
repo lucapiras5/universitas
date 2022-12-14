@@ -323,6 +323,93 @@
 - Spain: tried to challenge the extension of the right to vote before the EUCJ.
 - EUCJ: the definition of who can vote and can stand as a candidate in elections to the European Parliament falls into the competence of each MS, there are no provisions in the Treaties, and the UK's decision to extend the right to vote and to stand as a candidate to the citizens in Gibraltar wasn't against the law.
 
+** 2022-10-26 - EU citizenship
+
+*** Citizenship rights and the Head of State
+
+- Slovak authorities: deny entry to the president of Hungary, Hungary starts an infringement procedure.
+- International law: States are allowed to deny entry of another head of State in their territory.
+- EU law: allows limitations of freedom of movement, but only in certain cases, according to Hungary their president shouldn't be treated differently.
+- Diplomatic relationships between MS: are outside the scope of EU law, MS act as sovereign States, international law prevails over EU law in this case.
+- Status of head of law: has a specific character different from ordinary EU citizens, is regulated by international law, its access to other MS is subject to different conditions.
+- Principle of sincere cooperation: if diplomatic relationships deteriorate to the point where the principle of sincere cooperation is being undermined, then MS would no longer be free to act.
+
+*** Rights and duties of EU citizens
+
+- EU law: applies to nationals of MS, EU law can give rights and impose obligations, rights stemming from EU law can be invoked before national courts against other individuals.
+- General international law: applies to States and international organizations, only exceptionally confers rights to individuals (international investments, human rights), those rights can't be invoked before national courts against other individuals.
+- Van Gend en Loos: Community is a new legal order of international law, its subjects include MS and individuals, grants individuals both obligations and rights.
+- EU citizenship: EU citizens are equal, nationals of a MS are also EU citizens, citizenship of the Union is additional.
+
+*** Political rights
+
+- EU elections: have the right to vote or stand as a candidate at elections in the MS they reside in, under the same conditions as nationals of that MS.
+- Representative democracy: foundation of the functioning of the EU, EU citizens are directly represented in the European Parliament.
+- Municipal elections: EU citizens can vote and stand as candidates in municipal elections in the MS they reside in, under the same conditions as nationals of that MS.
+- European citizens' initiative: one million citizens residing in one quarter of the MS can submit proposals to the Commission.
+
+*** Rights related to EU administrative law, petitions to the Parliament
+
+- Right to good administration: applies to "persons" and not just citizens, binds EU institutions to handle administrative affairs impartially, fairly, and in reasonable time.
+- Right of access to documents: citizens and natural and legal persons residing or having a registered office in a MS can access the documents of the European Parliament, Council, and Commission.
+- Ombudsman: citizens and natural and legal persons residing or having a registered office in a MS can report cases of maladministration to the Ombudsman of the Union, except for the EUCJ acting in its judicial role, the Ombudsman doesn't resolve the specific case, but works towards finding a solution for the future.
+- Petition to the Parliament: applies to citizens and natural and legal persons residing in the EU, they can submit complaints or requests to the European Parliament.
+
+*** Freedom of movement and residence
+
+- Freedom of movement and residence: is granted to EU citizens, may be granted to third country nationals legally resident in the territory of a MS.
+- Third country nationals: can be discriminated against since their State of origin is not part of the EU agreements, so they don't have to have the same rights as EU citizens.
+
+** 2022-10-27 - Cilevics case
+
+*** Introduction
+
+- Internal market: originally it was purely economic, later it incorporated social and economic aspects, imposes obligations on MS.
+- Provides rights to individuals, but only in non-purely-internal situations, rights can be limited, but exceptions must be interpreted in a strict manner.
+- Four freedoms: free movement of goods, capital, freedom to establish and provide services, free movement of people.
+- Preliminary ruling for interpretation: can be requested by a national judge who has to apply EU law but has doubts as to its interpretation, the EUCJ's interpretation is binding on the referring court.
+- Cilevics case: a constitutional court asked the EUCJ for an interpretation.
+- National identity clause: art. 4(2) TEU, concerns the fundamental political and constitutional structures of MS, was introduced as a safeguards against the limitation of sovereignty due to judicial activism, it's often used to not respect EU law.
+
+*** Cilevics case
+
+- Latvia: passes a law requiring higher education institutions to use Latvian, except for institutions regulated by special statutes, may seem like a purely internal affair, but limits the freedom of establishment, exceptions must be interpreted strictly.
+- Principle of proportionality: it's possible to limit the fundamental freedoms in the internal market in order to protect the national language, but the measure must be necessary and proportionate.
+- AG: tries to define the scope of the national identity clause, only concerns the "core constitutional elements" of a MS.
+- EUCJ: refers to its case law on the link between the protection of national identity and national language, doesn't elaborate further on the exact contents and limits of the provision.
+- Competent court: national courts are in a better position to define "national identity" and apply the proportionality test.
+- AG: the EUCJ should provide guidance to the national court, in this case the exceptions are so limited that the measure is likely disproportionate.
+- EUCJ: says that a complete lack of exceptions would be disproportionate, but doesn't provide more specific guidelines.
+- Unresolved question: whether the EUCJ could apply the proportionality test by itself, and to what extent.
+
+** 2022-11-07 - Freedom of movement, limitations and conditions in times of crisis
+
+*** Limitations to the freedom of movement and residence
+
+- Grounds for restrictions: national security, public health, public order, must be applied consider the principle of proportionality.
+- Necessity: limitations must be necessary, other measures can't be used.
+- Limited scope: measures can't have indefinite duration, or be applied to the entire population.
+- Actual threat: threat that don't exist or persist in the present moment aren't relevant.
+
+*** Duration of residence
+
+- Up to 3 months: right of residence only requires only a valid ID.
+- More than 5 years: after continuous residence, EU citizens obtain the right of permanent residence, there is already a strong connection to the MS, no further conditions are be required.
+- Between 3 months and 5 years: must be a worker, self-employed, a student, or have sufficient resources not to become a burden on the social assistance system of the MS.
+- "Burden": meant to discourage welfare tourism, whether one is a burden is defined on a case-by-case basis.
+
+*** Brey case
+
+- Right to freedom of movement is a fundamental principle of EU law, conditions must be constructed narrowly, with the limits imposed by the principle of proportionality.
+- Discretion by MS can't compromise the objective of the Directive, which is to facilitate the movement of EU citizens in MS, and its practical effectiveness.
+- National authorities: must assess each case individually and as a whole, the Directive imposes a degree of financial solidarity.
+
+*** Dano case
+
+- Directive is meant to prevent economically inactive Union citizens from using the host MS's welfare system for their subsistence, and become "unreasonable burdens".
+- MS have the discretion to refuse to grant social benefits to EU citizens who are exercising the freedom of movement only to obtain another MS' social assistance.
+- Decision was taken at the end of the transitional period for Romania and Bulgaria, when their citizens would be allowed to move freely.
+
 ** EU institutions (2022-11-10)
 
 *** Introduction
