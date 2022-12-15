@@ -511,20 +511,78 @@
 
 - Representation is split between the President of the European Council, Commission President, and High Representative.
 
-** 2022-11-14
+** 2022-11-14 - ECB, EU-Turkey statement
 
 *** European Central Bank
 
-- Technical institution, controls inflation
-- Competence over the MS who use the Euro, can take binding decisions, subject to the scrutiny of the EUCJ
-- Composition
-- Executive committee
+- EMU: Economic and Monetary Union, introduces a common currency and a central policy to maintain price stability.
+- Monetary policy: exclusive competence of the EU, is separate from the fiscal or economic policy.
+- Economic policy: competence of the MS, there is a framework for coordination (585), coordination is necessary for the stability of the single currency (587).
+- ECB: controls inflation and maintains price stability, can't be a lender of last resort to MS, MS are supposed to remain responsible for their own debt (592).
+- Governing Council: is the main decision-making body, includes the Executive Board, and the governors of central banks from eurozone countries.
+- Executive Board: handles the day-to-day running of the ECB, includes the ECB President, Vice-President, and 4 other members appointed by eurozone countries.
+- General Council: has an advisory role, consists of the ECB President, Vice-President, and governors of central banks of all EU countries.
 
 *** EU-Turkey statement
 
-** 2022-11-16
+- Background: the statement was adopted in 2016, during the migration crisis in the Balkans, after a European Council summit.
+- Irregular immigrants from Turkey to Greece will be returned to Turkey.
+- For every Syrian immigrant returned to Turkey, one Syrian immigrant will be admitted into the EU.
+- EU promised to finance projects to aid the refugees, and continue the accession process.
+- Nature of the statement: can't be an international agreement, since their conclusion is controlled by the Council, and extraordinary expenditures have to be approved by the Parliament, the European Council can only negotiate.
+- EU law perspective: calling it an international agreement would violate the institutional balance, principle of conferral, and rule of law.
+- VCLT perspective: this is a treaty since it contains obligations for the parties, treaties can have any form, including oral agreements.
+- Alternative interpretation: it can be seen as an agreement between all MS and Turkey, concluded outside the framework of EU law.
 
-*** TODO: Outright Monetary Transactions
+*** Case T-192/16
+
+- EU-Turkey statement: was published as a press release, must be examined to establish whether it can be attributed to the European Council, and then whether it violated the TFEU rules on the conclusion of an international agreement.
+- Press statement: uses a simplified and non-technical language due to its intended target audience, while it mentions the "EU" and "Members of the European Council", it doesn't have any legal binding value.
+- Meeting of the European Council and international summit with Turkey were organized as two separate events, the Heads of State and Government didn't meet the Turkish President as the European Council.
+- Given this context, the statement wasn't adopted by the European Council, so it's a treaty concluded by all MS, and the EUCJ doesn't have jurisdiction, and can't rule on the lawfulness of treaties concluded by MS.
+- Criticism: the MS were using EU funds, the Court's decision undermines the EU's identity as an autonomous entity rather than an ordinary international organization.
+
+*** Criticisms of the statement
+
+# https://www.asileproject.eu/why-the-eu-turkey-statement-should-never-serve-as-a-blueprint/
+
+- EU institutions: published the statement as a press release, and progress reports related to its implementation, but denies its authorship.
+- Uncertainty: it's unclear who authored the statement, whether it's binding or soft law.
+- Enforcement: there is no meaningful supervision, it's unclear who is responsible for violations of human rights due to the legal uncertainty of the agreement.
+- Ineffectiveness: few immigrants were resettled, the effectiveness in preventing unlawful immigration is dubious.
+- Crisis management: informal agreements which violate the founding principles of the institutions aren't uncommon.
+
+*** ECB
+
+- Outright Monetary Transaction program: if a MS was having liquidity problems, the ECB would buy State bonds in the secondary market if the MS complied with certain conditions (592, 593).
+- It was never used, but its mere existence had a positive effect on the markets.
+- European Financial Stability Mechanism: was created within the EU system, on the basis of art. 122 TFEU, which allows the EU to help States in extraordinary circumstances.
+- European Financial Stability Fund: created by MS outside of the EU legal framework, countries in crisis could receive loans.
+- Limitations: EFSM and EFSF were temporary in nature and limited in capacity, didn't reassure the markets (593, 594).
+- Treaty amendment: used the simplified procedure, allowed the MS to create a permanent crisis mechanism to safeguard the stability of the Euro.
+- European Stability Mechanism: is a permanent institution, grants financial assistance with a conditionality mechanism, is established outside of the EU Treaties, but involves the EU institutions.
+- Issues with the ESM: since it's independent from the EU but still makes use of its institutions it undermines democratic legitimacy, transparency, judicial control, enforcement (594).
+
+** 2022-11-16 - PSPP
+
+*** Gauweiler case
+
+# Cf. [[https://www.thefederalist.eu/site/index.php/en/essays/2048-a-clash-of-courts-german-and-european-judges-dispute-the-new-role-of-the-ecb-and-the-future-of-the-integration-process]]
+
+- German Constitutional Court: asked the EUCJ for a preliminary ruling on the legality of the OMT program, the OMT program was never used in practice, the action was brought to assess whether it could be used.
+- Arguments: OMT finances the debt of struggling countries, which makes it an economic policy instrument, which is outside of the ECB's purely monetary competences, and buying State bonds violated the prohibition to finance MS.
+- Monetary policy: OMT is supposed to restore stability and reduce spread between MS bonds in the eurozone, making it a monetary instrument.
+- Prohibition to finance MS: buying bonds is done on the secondary market, it's not a direct purchase, and must be done in a way that doesn't encourage MS to take on more debt, and not unconditionally.
+
+*** Weiss case
+
+# Cf. [[https://www.eliamep.gr/wp-content/uploads/2020/05/NEW_PolicyPaper-No116-Pavlos-Eleftheriadis_REVISED-v-2-PE-15_05_20-.pdf]]
+
+- OMT: was replaced by Public Sector Purchase Program (PSPP) or Quantitative Easing (QE) program.
+- Preliminary reference: is requested by the German Supreme Court, the EUCJ confirms the validity of the PSPP program in that it doesn't go beyond the mandate of the ECB, doesn't violate the prohibition to buy State bonds, and is proportionate.
+- German Supreme Court: declares the EUCJ's judgment ultra vires, since it's extending the competence of the EU and violating constitutional provisions, and that it shouldn't be respected.
+- EUCJ's reaction: only the EUCJ can determine if a piece of EU legislation is invalid, and the national courts aren't free to decide by themselves, otherwise there would be no consistency.
+- Commission's reaction: restated the principle of primacy, and how EUCJ judgments are binding on all countries.
 
 *** EU competences
 
