@@ -410,55 +410,106 @@
 - MS have the discretion to refuse to grant social benefits to EU citizens who are exercising the freedom of movement only to obtain another MS' social assistance.
 - Decision was taken at the end of the transitional period for Romania and Bulgaria, when their citizens would be allowed to move freely.
 
+** 2022-11-09 - Rights of third country nationals
+
+*** Chen case
+
+- Chen: gives birth to her daughter in Ireland, her daughter acquires Irish citizenship, the family tries to move to the UK but was refused permission.
+- EUCJ: MS can't restrict the effects of the grant of the nationality of another MS by imposing additional conditions for recognition of that nationality.
+- Consequence: the UK can't refuse Chen's daughter, an Irish citizen, the exercise of fundamental freedoms just because her nationality was acquired to secure residence in another MS as permitted by Community law.
+- Child's right of residence: would be deprived of any useful effect if the carer couldn't reside with them in the MS, this is necessary to avoid breaking up families, and not a real recognition of rights.
+
+*** Partnerships
+
+- "Family members": include partners only if the host State recognizes partnerships (Directive 2004/38/EC).
+- Family law: is a matter where MS remain sovereign, EU law can't impose the recognition of same-sex couples.
+
+*** Long residence permits
+
+- Directive 2003/109/EC: regulates long residence permits for third-country nationals.
+- Art. 4: TCNs who have resided legally and continuously in a MS's territory for 5 years can submit an application to obtain long-term resident status.
+- Art. 11: long-term residents enjoy equal treatment with nationals in various fields.
+
+*** Kamberaj case
+
+- Kamberaj: tried to make an application to access social housing, the budget favored Italian and EU citizens over TCNs, argued that this situation was discriminatory.
+- EUCJ: access to social housing is recognized in the Charter, long-term residents must be granted the same treatment as nationals with regards to access to social housing.
+
+*** Simutenkov case
+
+- Communities-Russia agreement: entered into force in 1997, forbids any discrimination against Russian nationals as regards working conditions, remuneration and dismissal.
+- Direct effect: provisions in agreements with third countries are directly applicable if they contain an obligation that is clear, precise, and not subject to implementation.
+- Obligation as to results: individuals can rely on the anti-discrimination clause since it's directly applicable.
+- Newer agreements aren't directly effective on purpose, and require implementing measures, because each non-discrimination clause is a burden that the State wants to have control over.
+
+*** Dhahbi case
+
+- Tunisia: concluded an agreement with the EU, which included a non-discrimination clause regarding access to social security.
+- Dhahbi: accuses the Italian government of discrimination, the Court of Cassation refused to refer a preliminary question on the interpretation of EU law.
+- He brings an action before the ECHR for the violation of his right to a fair hearing (the Court didn't explain why it refused his request), and for discrimination (he was denied access to social security).
+- ECHR: finds that the Cassation must justify its refusal to submit a referral, and Dhahbi was being discriminated against.
+- ECHR can apply anti-discrimination clauses, but it requires exhausting all the internal remedies first, and then enforcing its judgment.
+
 ** EU institutions (2022-11-10)
 
-*** Introduction
+*** Principles concerning the EU institutions
 
-- Principles in art. 13 TEU: consistency, effectiveness, conferral, sincere cooperation.
-- Contrast between effectiveness and representative democracy.
-- Differentiation in procedural rules, institutional balance.
+- Art. 13 TEU: lists the bodies in the EU institutional framework and the principles.
+- Consistency: institutions can't interfere with each other.
+- Effectiveness and continuity: institutions must be able to exercise their power.
+- Conferral: institutions can't act outside of their mandate.
+- Mutual sincere cooperation: institutions must help each other achieve their goals.
+- Differentiation: rules can be differentiated, depending on the domain the institution is operating in.
+- Institutional balance: the various powers are divided between the institutions, no institution can dominate.
 
 *** European Council
 
-- Became an official institution with the Treaty of Lisbon (70).
-- Composition: heads of State (with executive functions), heads of government.
-- Can Sanction states (art. 7(2) TEU).
-- No legislative functions, but can influence legislation (deadlines, guidelines) (71).
-- Political decisions (composition and functioning for other institutions, set own agenda and functioning, accession procedure) (71, 72).
+- Treaty of Lisbon: turned it into an official institution (70).
+- Composition: heads of State who have executive functions, heads of government.
+- Purpose: is the highest political institution, and sets the overall political direction, can provide guidance in several sensitive field (71).
+- Lack of legislative power: has no legislative power, but can influence legislation through deadlines and guidelines (71).
+- Controls the accession procedure by opening the negotiations and deciding on eligibility criteria (72), can sanction States (art. 7(2) TEU).
 - President: organizes the European Council's work, ensures consensus, reports to the Parliament, represents the EU without prejudice for the High Representative (68).
 
 *** Council
 
-- Role: main decision-making organ, shares the role with the European Parliament (58).
-- Composition: ministers from the MS' governments.
-- Not to be confused with the European Coucil, composed of the presidents and prime ministers (58).
-- Can be considered the Senate in the parliament of a federal State, but also has executive powers (58).
-- Composition depends on the subject matter being discussed, there are various configurations that meet periodically (59).
-- Legislative powers: in the ordinary legislative procedure it has the same role as the European Parliament, but in the special legislative procedure it can adopt legislation by only consulting the parliament.
-- Policy-making and coordinating functions: TODO.
-- International treaties: 
-- COREPER
+- Role: main decision-making organ in the EU.
+- Composition: ministers from the MS' governments (as opposed to Presidents and Prime Ministers in the "European Council"), does not have a fixed membership, the specific composition varies on the subject matter being discussed (59).
+- Legislative powers: ordinary legislative procedure (same role as the European Parliament), special legislative procedures (only required to consult the Parliament) (60).
+- Policy-making powers: adoption of non-legislative acts (competition and State aid rules, foreign policy measures), control over international Treaties (but the Parliament must consent to most treaties, and they can be negotiated by the Commission).
+- Coordination powers: can coordinate MS economic, employment and social policies using soft law instruments (60).
+- President: is chosen on a rotating basis, schedules and chairs all of the Council's meetings (64).
+- Coreper: committee of permanent representatives, meets frequently to ensure continuity, can only adopt procedural decisions in preparation for the Council's work, the Council only discusses issues the Coreper wasn't able to reach a consensus on (66, 67).
 
-*** President of the EU
+*** European Parliament
 
-*** EU Parliament
-
-- EU citizens can elect or be elected into the EU Parliament.
-- No common electoral law.
-- Electoral procedure to prevent biases
-- Prohibition to hold multiple parliament seats
-- Inquiry committees to check on the implementation of EU law
+- Term: elected every 5 years, it's fixed and there can't be early elections even if the Commission resigns due to the vote of censure by the Parliament.
+- Incompatibility: MEPs can't hold posts in other EU institutions, or be members of their national parliaments (53).
+- EU citizens who live in another MS can vote and run for elections on the same conditions as nationals in that MS, but electoral law is left to national provisions.
+- Citizens who live in associated territories of MS have the right to vote in EU elections (54).
+- Legislative functions: are exercised with the Council, its competences have increased over time.
+- Political control: the Parliament has political control in the form of consent or veto powers over a series of acts, or the duty of other institutions to consult it (55, 56).
 
 *** EU Commission
 
-- Purpose: promote the interests of the EU
-- Commissioners: number, appointment
-- Organized like a government, but has no executive power
-- Powers: propose legislation, law enforcement, anti-trust enforcement, representation
+- Purpose: promote the interests of the EU.
+- Composition: 27 commissioners, one per MS, there were plans to reduce the number but concerns about the legitimacy of the institution prevailed.
+- President: is one of the commissioners, decides the guidelines for the Commission, and can reshuffle the Commission or require individual commissioners to resign.
+- High Representative: is a commissioner, answers to the Council as regards foreign policy.
+- Appointment procedure: the president is nominated by the European Council, and elected by the Parliament, then the individual Commissioners are appointed individually with the agreement of the Commission President and the European Council, and the approval of the Parliament.
+- Control of the Commission: European Parliament can issue a motion of no confidence, President can force a commissioner to resign or reshuffle the Commission, these measures haven't been used, the commissioners always spontaneously resigned.
+
+*** Commission: powers
+
+- Promotes the general interest of the EU, ensures the application of Treaties, oversees the application of EU law.
+- Introduces proposals for EU legislation, adopts delegated acts.
+- Negotiates international treaties and represents the EU on the international level, the High Representative conducts the EU's external policy as mandated by the Council.
+- Administers the budget, which has been allocated by the Council and European Parliament.
+- Applies EU competition law (investigates cartels and monopolies) and EU State aid law.
 
 *** EU representation
 
-- President of the European Council, president of the Commission, High Representative
+- Representation is split between the President of the European Council, Commission President, and High Representative.
 
 ** 2022-11-14
 
