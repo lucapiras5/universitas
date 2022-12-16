@@ -2,6 +2,104 @@
 
 * EU Law
 
+** 2022-09-21 - EU as an international organization, integration process
+
+*** International organizations
+
+- International organizations: can be regional (strict control over who joins, States don't have to be geographically close), universal (include as many States as possible), political, technical.
+- EU as an international organization: creates integration between the MS' legal orders.
+
+*** European Coal and Steel Community (ECSC)
+
+- France and Germany: decide to administer their coal and steel resources according to an international agreement, the High Authority has supervisory authority.
+- Focus of the treaty was both political and economical, coal and steel were used to produce energy and weapons.
+- High Authority: can adopt binding decisions by majority, usually in international law decisions are taken by unanimity or without binding effects.
+- ECSC: was considered a supranational authority.
+
+*** Treaty of Rome (1957)
+
+- New communities: Euratom (European Atomic Energy Community) and EEC (European Economic Community).
+- EEC Treaty: was economic in nature, with long-term political goals, had no fixed duration.
+- Common market: required the abolition of barriers to trade (tariffs and quotas), the free movement of the factors of production (goods, workers, capital, services), and anti-monopoly and anti-discrimination provisions.
+
+*** Single European Act (1986)
+
+- Integration process: increased the number of MS.
+- Introduced the European Council, the Court of First Instance, strengthened the power of the European Parliament.
+
+*** Maastricht Treaty (1992)
+
+- Introduced the three-pillar structure, each pillar represents a different degree of integration.
+- First pillar: three Communities, renamed the EEC Treaty into the European Community Treaty..
+- Second pillar: CFSP (Common Foreign and Security Policy), decisions are generally taken by unanimity, aren't binding, and there's no jurisdictional control by the Court of Justice.
+- Third pillar: JHA (Justice and Home Affairs), for justice and police cooperation, decisions aren't taken by unanimity and judicial control is present but limited, international instruments can also be used.
+
+*** Treaty of Amsterdam (1997)
+
+- Legitimacy of the EU: added the principle of openness, increased the importance of fundamental rights, increased the European Parliament's power.
+- Third pillar: moved several policies (immigration, asylum, border control) into the first pillar, was renamed to "Police and Judicial Cooperation", the most sensitive policy fields.
+
+*** Constitutional Treaty (2004)
+
+- Constitutional Treaty: would contain four parts (fundamental values and objectives, Charter of Rights, policies and functions of the EU, final provisions).
+- Ratification: opposed by France and the Netherlands, prevented its adoption.
+
+*** Treaty of Lisbon (2007)
+
+- Simplifies the three-pillars structure into a single one, but differentiated treatment for sensitive policy fields is maintained, returns to a more traditional international organization.
+- EC: is replaced by the EU.
+- EC Treaty: is renamed into the Treaty on the Functioning of the European Union (TFEU).
+- TEU: contains provisions from the constitutional treaty.
+
+** 2022-09-22 - Deepening of the integration process
+
+*** Charter of fundamental rights
+
+- Nature: not a treaty, but a political document containing the fundamental rights that MS should follow and protect.
+- Constitutional Treaty: would've made the Charter binding, but didn't enter into force.
+- Lisbon Treaty: referenced it in art. 6(1) TEU, making it binding.
+
+** 2022-09-28 - Enlargement (part 1)
+
+*** Accession to the UN
+
+- Accession: limited to peace-loving States who are able and willing to carry out the obligations.
+- State: territorial entity with mostly defined and stable borders, a population, and a sovereign government.
+- Peace-loving: vague requirement designed to give discretionary power to the institutions.
+- Procedural requirements: vote by the general assembly, recommendation by the security council.
+
+*** Accession to the Council of Europe
+
+- Accession: European States able and willing to carry out the obligations.
+- European: vague requirement, as in the UN.
+- Procedural requirements: invitation by the Committee of Ministers, deposit of an instrument of accession.
+
+*** Accession to the EU
+
+- Candidate countries: States that can be granted the possibility to negotiate accession to the EU, doesn't mean that they are ready to join, and negotiations can be suspended.
+- States: same definition as international law (territory, population, government).
+- Kosovo: according to the ICJ the declaration of independence is not sufficient for Statehood.
+- European: not strictly geographical requirement, also takes cultural, historical and legal connections to existing European countries.
+- Fundamental values: mentioned in art. 2 TEU (human dignity, freedom, democracy, equality, rule of law).
+
+*** Copenhagen criteria
+
+- Copenhagen criteria: developed by the European Council while it wasn't an EU institution, not expressly mentioned in the Treaties, but still taken into account for the purposes of accession.
+- Stable institutions: institutions must be stable, the powers must be separated, the government is accountable to the parliament, and the institutions protect the rule of law, democracy, human rights.
+- Market economy: the State promotes a market economy that can withstand competition in the EU, the State can't be a burden on other MS.
+- Respect of the acquis: must respect the Treaties, EU law, agreements, declarations and resolutions, EUCJ's case law.
+- Copenhagen dilemma: EU is very stringent when assessing new States, but doesn't assess compliance of MS as strictly.
+
+*** Accession procedure
+
+- Pre-accession agreements: are concluded with candidate countries in order to facilitate full compliance, EU provides financial support in achieving those reforms.
+- Candidate country: submits an application to join to the Council, European and national Parliaments are notified of the application.
+- Council: decides by unanimity after consulting the Commission and with the consent of the European Parliament.
+- Council's decision: any MS can pose a veto due to how important another State joining the EU is, decision is purely political and legal review can only concern the procedural validity, not its contents.
+- Admission treaty: conditions of admission and Treaty amendments are negotiated between the applicant State and all the MS, negotiations are split in chapters.
+- Ratification: MS must ratify the admission Treaty to conclude the procedure. 
+- Concessions: MS can oppose the accession of new States, or the deepening of the integration, MS may give concessions such as opt-outs or additional time.
+
 ** 2022-10-05 - Classical reading of art. 4 TEU
 
 *** Principle of conferral
