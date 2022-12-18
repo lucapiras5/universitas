@@ -100,6 +100,47 @@
 - Ratification: MS must ratify the admission Treaty to conclude the procedure. 
 - Concessions: MS can oppose the accession of new States, or the deepening of the integration, MS may give concessions such as opt-outs or additional time.
 
+** 2022-09-29 - Enlargement (part 2)
+
+*** Ukraine
+
+- Accession to the EU: submitted an application in 2022, requested immediate accession due to the ongoing war, could use art. 42(7) for mutual assistance between MS.
+- Issues: immediate accession would discriminate against other MS, EU law couldn't be applied to occupied territories.
+- EU institutions: qualified Ukraine as a candidate country, accession will happen in due time.
+
+*** Slovenia and Croatia
+
+- Dissolution of Yugoslavia didn't define the sea borders between Slovenia and Croatia, the two States conclude an arbitration agreement, and set up an arbitral tribunal, the agreement was supported by the European Commission.
+- Slovenia has unofficial communications with the tribunal, Croatia claims a material breach of the arbitration agreement, and the termination of the agreement according to the VCLT.
+- Arbitration tribunal changes its composition, declares Croatia couldn't terminate the agreement, delivers a binding decision on the States' borders.
+- Croatia refuses to implement the agreement, Slovenia initiates infringement proceedings before the Court of Justice against Croatia.
+- Court of Justice: refuses its jurisdiction because the arbitration agreement was concluded inter se, and outside the EU's framework, and the EU has no competence over the definition of State borders.
+- Previous case law: the Court found the MOX Plant case and bilateral investment treaties between MS to be related to EU law, and declared its jurisdiction.
+- Possibility for jurisdiction: the agreement was strongly connected to Croatia's accession to the EU, and sovereign prerogatives must pay due attention to the principle of sincere cooperation.
+
+** 2022-10-03 - Nature of the EU legal order
+
+*** Cyprus
+
+- Cyprus: is split in two, application of the EU acquis is suspended in the Turkey-occupied region.
+- Turkey: has been carrying out gas exploration activities within the Greek and Cyprus' exclusive economic zones, has violated the Greek airspace.
+- Leveraging Turkey's position as a candidate country is ineffective, economic sanctions are more effective.
+
+*** Nature of the EU legal order
+
+- Van Gend en Loos: EEC Treaty does more than just create mutual obligations between MS, it refers to their citizens as well, creates institutions with sovereign power, and citizens can invoke Community law before their national courts.
+- Community: is a "new legal order of international law", to which the MS have devolved part of their sovereignty, and whose subjects include the MS' citizens.
+- Community law: imposes obligations and confers rights upon individuals, MS and Community institutions.
+
+*** EU law and international law
+
+- VCLT: EEC Treaty falls under it, but according to the "without prejudice" clause the rules of the EEC Treaty prevails over the VCLT.
+- ICJ: treaties establishing international organizations are both conventional and institutional.
+- Implied powers doctrine: developed for international organizations, if the treaty mentions objectives but not how to achieve them, the IO can determine them autonomously, cf. art. 31 VCLT and art. 352 TFEU.
+- Tadic case: the UN Charter is considered both a Treaty, and a constitution that establishes a legal order, the UN SC is bound by the rules of the UN Charter.
+- Kadi case: the EU legal order is a "municipal legal order of trans-national dimension", the Treaty is its "basic constitutional charter", and while it's autonomous, it's also respects international law.
+- Nature of EU law: from the outside it's just an international law, from the inside it can be seen as an independent legal order separate from regular international law.
+
 ** 2022-10-05 - Classical reading of art. 4 TEU
 
 *** Principle of conferral
