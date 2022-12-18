@@ -285,7 +285,6 @@
 - Rules that would reduce the independence of the judiciary would be a regression of the protection of the rule of law.
 - Judicial Appointments Committee: in principle an independent body reinforces judicial independence, and the national court has not raised doubts regarding the its conditions and procedure.
 
-
 ** 2022-10-17 - Protection of fundamental values of the EU, effective remedies
 
 *** Infringement procedure against Poland
@@ -318,8 +317,8 @@
 
 *** Polish constitutional court declaration
 
-- : art. 1, 4(3) and 19 TEU may be incompatible with the Polish constitution if the former is interpreted in a way that clashes with the latter, the Polish constitution should always prevail.
-- Polish constitutional court: is not making a statement of general incompatibility, it's a reaction against the attitude of the Court and tries to limit its mandate.
+- Polish constitutional court: art. 1, 4(3) and 19 TEU may be incompatible with the Polish constitution if the former is interpreted in a way that clashes with the latter, the Polish constitution should always prevail.
+- It's not making a statement of general incompatibility, it's a reaction against the attitude of the Court and tries to limit its mandate.
 - Withdrawal decision: can't be considered because it was taken by judges, even if it's the constitutional court.
 - Art. 1 and 4(3) TEU: EU law and its interpretation by the CJEU can't override the principle of conferral and the Polish Constitution, or harm Poland's sovereignty.
 - Art. 19 TEU: ensuring effective legal protection in the areas covered by EU law can't give national judges the competence to review the process of appointing judges in a way that's inconsistent with the Constitution.
