@@ -1078,7 +1078,7 @@
 *** Annulment action: grounds for annulment
 
 - Lack of competence: the institution lacked the power to adopt an act, and didn't have an appropriate legal basis.
-- Infringement of an essential procedural requirement: breach of a rule that could influence  the content of the act.
+- Infringement of an essential procedural requirement: breach of a rule that could influence the content of the act.
 - Infringement of the Treaties, or rules related to their application: includes the Treaties, international agreements, customary international law, general principles of EU law, rules of secondary EU law.
 - Misuse of powers: the act isn't a proper use of the powers assigned to the EU, this has to be proven by the applicant.
 
