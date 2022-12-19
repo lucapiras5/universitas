@@ -1,0 +1,1130 @@
+#+STARTUP: showall
+
+* EU Law
+
+** 2022-09-21 - EU as an international organization, integration process
+
+*** International organizations
+
+- International organizations: can be regional (strict control over who joins, States don't have to be geographically close), universal (include as many States as possible), political, technical.
+- EU as an international organization: creates integration between the MS' legal orders.
+
+*** European Coal and Steel Community (ECSC)
+
+- France and Germany: decide to administer their coal and steel resources according to an international agreement, the High Authority has supervisory authority.
+- Focus of the treaty was both political and economical, coal and steel were used to produce energy and weapons.
+- High Authority: can adopt binding decisions by majority, usually in international law decisions are taken by unanimity or without binding effects.
+- ECSC: was considered a supranational authority.
+
+*** Treaty of Rome (1957)
+
+- New communities: Euratom (European Atomic Energy Community) and EEC (European Economic Community).
+- EEC Treaty: was economic in nature, with long-term political goals, had no fixed duration.
+- Common market: required the abolition of barriers to trade (tariffs and quotas), the free movement of the factors of production (goods, workers, capital, services), and anti-monopoly and anti-discrimination provisions.
+
+*** Single European Act (1986)
+
+- Integration process: increased the number of MS.
+- Introduced the European Council, the Court of First Instance, strengthened the power of the European Parliament.
+
+*** Maastricht Treaty (1992)
+
+- Introduced the three-pillar structure, each pillar represents a different degree of integration.
+- First pillar: three Communities, renamed the EEC Treaty into the European Community Treaty..
+- Second pillar: CFSP (Common Foreign and Security Policy), decisions are generally taken by unanimity, aren't binding, and there's no jurisdictional control by the Court of Justice.
+- Third pillar: JHA (Justice and Home Affairs), for justice and police cooperation, decisions aren't taken by unanimity and judicial control is present but limited, international instruments can also be used.
+
+*** Treaty of Amsterdam (1997)
+
+- Legitimacy of the EU: added the principle of openness, increased the importance of fundamental rights, increased the European Parliament's power.
+- Third pillar: moved several policies (immigration, asylum, border control) into the first pillar, was renamed to "Police and Judicial Cooperation", the most sensitive policy fields.
+
+*** Constitutional Treaty (2004)
+
+- Constitutional Treaty: would contain four parts (fundamental values and objectives, Charter of Rights, policies and functions of the EU, final provisions).
+- Ratification: opposed by France and the Netherlands, prevented its adoption.
+
+*** Treaty of Lisbon (2007)
+
+- Simplifies the three-pillars structure into a single one, but differentiated treatment for sensitive policy fields is maintained, returns to a more traditional international organization.
+- EC: is replaced by the EU.
+- EC Treaty: is renamed into the Treaty on the Functioning of the European Union (TFEU).
+- TEU: contains provisions from the constitutional treaty.
+
+** 2022-09-22 - Deepening of the integration process
+
+*** Charter of fundamental rights
+
+- Nature: not a treaty, but a political document containing the fundamental rights that MS should follow and protect.
+- Constitutional Treaty: would've made the Charter binding, but didn't enter into force.
+- Lisbon Treaty: referenced it in art. 6(1) TEU, making it binding.
+
+** 2022-09-28 - Enlargement (part 1)
+
+*** Accession to the UN
+
+- Accession: limited to peace-loving States who are able and willing to carry out the obligations.
+- State: territorial entity with mostly defined and stable borders, a population, and a sovereign government.
+- Peace-loving: vague requirement designed to give discretionary power to the institutions.
+- Procedural requirements: vote by the general assembly, recommendation by the security council.
+
+*** Accession to the Council of Europe
+
+- Accession: European States able and willing to carry out the obligations.
+- European: vague requirement, as in the UN.
+- Procedural requirements: invitation by the Committee of Ministers, deposit of an instrument of accession.
+
+*** Accession to the EU
+
+- Candidate countries: States that can be granted the possibility to negotiate accession to the EU, doesn't mean that they are ready to join, and negotiations can be suspended.
+- States: same definition as international law (territory, population, government).
+- Kosovo: according to the ICJ the declaration of independence is not sufficient for Statehood.
+- European: not strictly geographical requirement, also takes cultural, historical and legal connections to existing European countries.
+- Fundamental values: mentioned in art. 2 TEU (human dignity, freedom, democracy, equality, rule of law).
+
+*** Copenhagen criteria
+
+- Copenhagen criteria: developed by the European Council while it wasn't an EU institution, not expressly mentioned in the Treaties, but still taken into account for the purposes of accession.
+- Stable institutions: institutions must be stable, the powers must be separated, the government is accountable to the parliament, and the institutions protect the rule of law, democracy, human rights.
+- Market economy: the State promotes a market economy that can withstand competition in the EU, the State can't be a burden on other MS.
+- Respect of the acquis: must respect the Treaties, EU law, agreements, declarations and resolutions, EUCJ's case law.
+- Copenhagen dilemma: EU is very stringent when assessing new States, but doesn't assess compliance of MS as strictly.
+
+*** Accession procedure
+
+- Pre-accession agreements: are concluded with candidate countries in order to facilitate full compliance, EU provides financial support in achieving those reforms.
+- Candidate country: submits an application to join to the Council, European and national Parliaments are notified of the application.
+- Council: decides by unanimity after consulting the Commission and with the consent of the European Parliament.
+- Council's decision: any MS can pose a veto due to how important another State joining the EU is, decision is purely political and legal review can only concern the procedural validity, not its contents.
+- Admission treaty: conditions of admission and Treaty amendments are negotiated between the applicant State and all the MS, negotiations are split in chapters.
+- Ratification: MS must ratify the admission Treaty to conclude the procedure. 
+- Concessions: MS can oppose the accession of new States, or the deepening of the integration, MS may give concessions such as opt-outs or additional time.
+
+** 2022-09-29 - Enlargement (part 2)
+
+*** Ukraine
+
+- Accession to the EU: submitted an application in 2022, requested immediate accession due to the ongoing war, could use art. 42(7) for mutual assistance between MS.
+- Issues: immediate accession would discriminate against other MS, EU law couldn't be applied to occupied territories.
+- EU institutions: qualified Ukraine as a candidate country, accession will happen in due time.
+
+*** Slovenia and Croatia
+
+- Dissolution of Yugoslavia didn't define the sea borders between Slovenia and Croatia, the two States conclude an arbitration agreement, and set up an arbitral tribunal, the agreement was supported by the European Commission.
+- Slovenia has unofficial communications with the tribunal, Croatia claims a material breach of the arbitration agreement, and the termination of the agreement according to the VCLT.
+- Arbitration tribunal changes its composition, declares Croatia couldn't terminate the agreement, delivers a binding decision on the States' borders.
+- Croatia refuses to implement the agreement, Slovenia initiates infringement proceedings before the Court of Justice against Croatia.
+- Court of Justice: refuses its jurisdiction because the arbitration agreement was concluded inter se, and outside the EU's framework, and the EU has no competence over the definition of State borders.
+- Previous case law: the Court found the MOX Plant case and bilateral investment treaties between MS to be related to EU law, and declared its jurisdiction.
+- Possibility for jurisdiction: the agreement was strongly connected to Croatia's accession to the EU, and sovereign prerogatives must pay due attention to the principle of sincere cooperation.
+
+** 2022-10-03 - Nature of the EU legal order
+
+*** Cyprus
+
+- Cyprus: is split in two, application of the EU acquis is suspended in the Turkey-occupied region.
+- Turkey: has been carrying out gas exploration activities within the Greek and Cyprus' exclusive economic zones, has violated the Greek airspace.
+- Leveraging Turkey's position as a candidate country is ineffective, economic sanctions are more effective.
+
+*** Nature of the EU legal order
+
+- Van Gend en Loos: EEC Treaty does more than just create mutual obligations between MS, it refers to their citizens as well, creates institutions with sovereign power, and citizens can invoke Community law before their national courts.
+- Community: is a "new legal order of international law", to which the MS have devolved part of their sovereignty, and whose subjects include the MS' citizens.
+- Community law: imposes obligations and confers rights upon individuals, MS and Community institutions.
+
+*** EU law and international law
+
+- VCLT: EEC Treaty falls under it, but according to the "without prejudice" clause the rules of the EEC Treaty prevails over the VCLT.
+- ICJ: treaties establishing international organizations are both conventional and institutional.
+- Implied powers doctrine: developed for international organizations, if the treaty mentions objectives but not how to achieve them, the IO can determine them autonomously, cf. art. 31 VCLT and art. 352 TFEU.
+- Tadic case: the UN Charter is considered both a Treaty, and a constitution that establishes a legal order, the UN SC is bound by the rules of the UN Charter.
+- Kadi case: the EU legal order is a "municipal legal order of trans-national dimension", the Treaty is its "basic constitutional charter", and while it's autonomous, it's also respects international law.
+- Nature of EU law: from the outside it's just an international law, from the inside it can be seen as an independent legal order separate from regular international law.
+
+** 2022-10-05 - Classical reading of art. 4 TEU
+
+*** Principle of conferral
+
+- International organizations: must act within their mandate.
+- Principle of conferral: is judicially enforceable (not just a reassurance for MS), and applied in a strict manner.
+- "Competences not conferred": negative wording prevents expansion of EU competences.
+
+*** Equality of MS
+
+- Equality: MS are equal before the Treaties and in their national identities.
+- Principle of mutual trust: it's an unwritten principle related to equality, EU law must be applied in the same manner to everyone.
+- Differentiated treatment: inequalities due to new States acceding to the Union must be limited in duration, it's possible to treat some MS differently with enhanced cooperation, or opt-outs.
+- Costa v. ENEL: MS can't take unilateral measures that violate EU law.
+
+*** Principle of solidarity
+
+- Principle of negative solidarity: MS must abstain from acts that violate the balance between the EU and MS, and undermine the mutual trust between MS.
+- Principle of positive solidarity: applies to certain policies (terrorist attacks, asylum policies, stability of the Euro area), it's just an abstract principle that can't be enforced by itself, and must be implemented in concrete policies.
+
+*** Principle of mutual trust
+
+- Mutual trust: the Union's founding values are recognized by all MS, and that MS comply with EU law and respect fundamental rights.
+- Consequence: MS don't have to check another MS' compliance with EU law.
+- Principle of mutual recognition: closely connected with the principle of mutual trust, is applied in the free movement of goods, the internal market in general, and the principle of judicial protection.
+
+*** National identities clause
+
+- National identity: must be respected by the EU, is used frequently to block the adoption of EU acts.
+- Counter-limits doctrine: EU law stops prevailing if it affects the integrity of the fundamental internal order.
+- Definition of national identity: MS' supreme courts are in the best position to recognize their national identity.
+- National security: is the exclusive concern of MS.
+- National identity includes a MS's political and constitutional structures, including the regional and local level.
+- MS can't rely on this clause in order to not apply EU law, and it doesn't create an obligation on the EU to prioritize national interests over Union ones.
+- German constitutional court: EU law can be reviewed to make sure it doesn't harm the core constitutional values and takes away Statehood.
+- The normal national identities review (art. 4(2) TEU) balances national and Union interests, the German constitutional court's proposed review is different and aims to protect the core of the German constitution.
+
+*** Principle of loyalty or sincere cooperation
+
+- Definition: MS and institutions should assist each other in achieving EU objectives, ensure their fulfillment, and refrain from measures that go against them.
+- Analogies: "pacta sunt servanda" principle in international law, principle of cooperation in federal States.
+- It's the most important principle in EU law, and according to the Court it would apply even if it wasn't explicitly stated.
+- It can be applied only if there aren't specific provisions, but several provisions are a specification of the principle of loyalty.
+- Originally it was considered a mere statement of political intentions, but later the Court recognized it as a source of obligations.
+- MOX Plant case: Ireland breached the principle of loyalty because it challenged England before an international arbitration body without consulting with the EU institutions.
+- Infringement proceedings: if Commissions requests are unclear the MS must ask for clarification, instead of using it as an excuse to continue infringing EU law.
+- Regulations and directives: the MS and Commission must act in good faith to overcome issues.
+
+*** Addressees of loyalty
+
+- Horizontal loyalty: between MS.
+- Vertical loyalty: all authorities in a MS are subject to loyalty towards the EU, including the judiciary, except for purely political matters, where MS are not required to cooperate with the Council or prioritize Union interests over national ones.
+- Reverse-vertical loyalty: EU institutions must also cooperate with MS, in a mutual manner.
+
+*** Functions of loyalty
+
+- Constitutionalization: the principle of loyalty was used to justify the principle of primacy, direct and indirect effect, MS liability for violating EU law.
+- Conflict prevention: States must refrain from acting in a way that would jeopardize the attainment of Union objectives.
+- Cooperation: especially in mixed agreements.
+- Compliance: MS must grant effective judicial protection for rights derived from EU law, introduce sanctions for breaches of EU law, nullify the consequences of a breach of EU law, amend national law that contrasts with EU law.
+
+** 2022-10-06 - Principle of sincere cooperation and art. 4 TEU
+
+*** Screening of FDI
+
+- Background: due to the high degree of integration in the EU, FDI in one MS can affect the others, or the EU as a whole.
+- Framework: MS can exchange information and raise concerns, the Commission can issue opinions when an investment can threaten the security and public order of a MS or undermine a EU project.
+- National screening mechanisms: are subject to requirements, MS ultimately decide whether to approve an investment or not.
+- Principle of sincere cooperation: the EU framework doesn't prejudice the MS' responsibility to safeguard their national security, MS should give due consideration to comments from other MS or the Commission.
+
+*** Refugee crisis
+
+- Dublin Regulation: adopted to deal with the 2015 refugee crisis, establishes the "State of first entry" criterion for processing requests, later MS agreed to distribute applications among MS.
+- Some States decided not to implement the regulation as a matter of protecting national security, which is an exclusive prerogative of MS and can't be reviewed by the Court.
+- EUCJ states that national security can't be abused as a general reservation in order not to implement EU law, and the principle of loyalty should prevail in this case.
+- AG's opinion: solidarity is a fundamental value, MS must shoulder collective responsibilities and shouldn't base their actions on a mere cost-benefit analysis.
+
+*** Wittgenstein case
+
+- Real estate agent: is adopted by a German nobleman, and gains a noble title.
+- Austria: has a constitutional law that abolished the use of noble titles, doesn't recognize the agent's noble title.
+- Agent: now has a different name in Austria and Germany, which lead to a restriction of her freedom of movement.
+- Austria: justifies the restriction on the basis of their national identity and public policy, which is possible, but should be interpreted strictly.
+- Objective of the law: implement the more general principle of equality of all Austrian citizens before the law, which is also a fundamental EU principle.
+- Conclusion: the justification is acceptable.
+
+** 2022-10-10 - Catalonia and EU law
+
+*** Catalonia's independence referendum
+
+- Catalonia: wishes to be independent.
+- Spanish constitution: the State is indivisible.
+- International law: recognizes secessions as the unilateral withdrawal of a State to create a new State, or join another existing one, but doesn't regulate the act in itself, only the consequences.
+- Principle of self-determination: created by the UN in the case of colonial or foreign domination, or other exceptional circumstances (such as apartheid), has been abused as an argument for secession.
+- Catalonia: passes a law to hold a binding referendum on the independence of Catalonia, the majority of people are in favor.
+- Spain: challenges the law and referendum before the Constitutional court, who finds it violates the territorial integrity clause in the Spanish constitution, the only solution would be to amend the Constitution.
+- EU's opinion on the referendum: territorial integrity of a State is an entirely national affair, EU has no competences in the situation, Commission agrees with the Spanish constitutional court due to the Spanish constitution being the only applicable source of law.
+- Accession of Catalonia to the EU: even if the referendum was legal, Catalonia would become a third country and would have to go through the accession process.
+
+*** Junqueras I Vies
+
+- Junqueras I Vies: is placed in provisional detention during an criminal investigation related to the referendum, but in the meantime is elected in the European Parliament.
+- Election to the European Parliament: is left entirely to the MS, Spain requires members of the parliament to swear on the Constitution, but Junqueras I Vies wasn't allowed to do so due to his provisional detention.
+- Junqueras I Vies: argued that since he was elected, he already was a member of the European Parliament, and didn't need to swear in order to enjoy parliamentary immunity, and he should be released.
+- EU institutions: the electoral procedure is a purely national affair, mere election isn't enough.
+- Junqueras: is convicted, sentenced to a prison term for 13 years, and barred from holding office for the duration of the prison term, his seat in the Parliament was declared vacant.
+
+*** Junqueras Vies case
+
+- Court of Justice: clarified the scope of immunities enjoyed by members of the European Parliament.
+- Election of Members of the European Parliament (MEPs) is an expression of the principle of representative democracy, the status of MEP is gained with the election, MEPs must enjoy the immunities necessary for the performance of their tasks.
+- Immunity as regards travel: is granted so that MEPs can travel to the meeting of the European Parliament, including the inaugural sitting, regardless of formalities required by national law.
+- Provisional detention measures: should be lifted due to the immunity, or the national court should request the Parliament to waive the immunity.
+
+** 2022-10-12 - Mutual dimension of loyalty, protection of fundamental values of the EU
+
+*** Commission v Sweden
+
+- Sweden: unilaterally bans a pollutant because the EU has failed to find a common position.
+- Commission: accuses Sweden of violating the principle of sincere cooperation.
+- Sweden's argument: principle of sincere cooperation is mutual, if an agreement can't be reached MS should be allowed to act unilaterally, especially if they're protecting interests of concern to the EU by banning a pollutant.
+- EUCJ: originally stressed the mutual nature of the principle of sincere cooperation, but in this case it didn't consider Sweden's argument.
+- Point 74: MS must abstain from acting if the Commission has submitted a proposal to the Council, even if they haven't been adopted, because they're the basis for concerted Community action.
+- Point 77: common positions don't need to exist in a specific form in order to be relevant for the principle of sincere cooperation.
+- Point 104: unilateral proposals by a MS that diverge from a common strategy weaken the international representation of the Union by its MS, and its negotiating power.
+
+*** Duty to remain silent
+
+- EUCJ: interpreted the principle of sincere cooperation in an abstract way, didn't impose obligations of results on MS, didn't specify how to carry out the cooperation in practice, only stated "obligations of best endeavors".
+- Inland Waterways case: MS must inform and consult with the Commission before taking external action, if negotiation at the EU level has started, regardless of whether an agreement has been reached.
+- EUCJ followed the approach in the MOX Plant case, where it ruled that Ireland had violated the principle of sincere cooperation because it brought a dispute in an area inside the scope of EU law before an international arbitration tribunal.
+- IMO case: there is a double standard, the Commission can challenge acts by MS that violate the principle of sincere cooperation, while the Commission has broad discretion and its acts can't be challenged, and it's not held to the same standard of cooperation as States are.
+- PFOS case: the principle of sincere cooperation produces an obligation not to act, instead of a duty to inform and consult, MS can't act even in situations with shared competence.
+- Common position: the principle of sincere cooperation forces MS not to act until the Union has adopted a common position, and if a consensus isn't reached, or a matter isn't discussed, MS are still not allowed to act.
+- External action: MS are trustees of the Union's interests, even if they respect and pursue Union interests the mere action is seen as a breach of the principle of sincere cooperation.
+- Competence: the "duty to remain silent" applies even in shared competences.
+- International law: MS are formally sovereign, but in practice their external action is constrained by the Commission, MS are the "masters of the treaties", but only the EU treaties.
+
+*** Copenhagen dilemma
+
+- Copenhagen dilemma: it's easier for the EU to control the respect of EU fundamental values in candidate countries than MS.
+- Art. 7 TEU: political infringement procedure (alternative to the judicial one) for violations of fundamental values of the EU in art. 2 TEU.
+- Originally it could only be used after a "serious and persistent breach" had occurred, but following the election in Austria of an extremist political party, it was amended to cover a "clear risk" of a breach (253, 254).
+- Political nature: EUCJ can't review the merit of the decisions, each step "may" (but doesn't have to) be taken.
+- Outcome: declaration of the breach, application of sanctions in the form of suspension of rights.
+- Criticism: it requires a very high majority, it's an option of last resort, there should be a middle ground between it and the soft power of political persuasion.
+
+*** European Commission v Hungary (2012)
+
+- Hungary: decided to decrease the age for the compulsory retirement of judges in order to add new judges who were more favorable to the party.
+- Commission: uses the infringement procedure, challenges Hungary's decision as it violates the principle of non-discrimination in public employment.
+- Limitations of the infringement procedure: requires an actual infringement, and can't be used against abstract values (which are too vague to be justiciable), but requires an implementation of those values.
+
+** 2022-10-13 - Protection of fundamental values of the EU, effective remedies
+
+*** Rule of law
+
+- Rule of law: can be seen as a super-value, respect of other values relies on the respect of rule of law.
+- Public powers must act according to the law, respecting the values of democracy and fundamental rights, and are controlled by independent and impartial courts.
+- Respect of rule of law: EU institutions monitor the MS, and aid the Commission in assessing risks.
+
+*** Commission framework for the rule of law
+
+- Opinions: are issued by the Commission in case of irregularities, they are non-binding, but if MS respect them the procedure ends.
+- Recommendations: are issued if the State is unwilling or unable to follow the opinion, it contains a list of violations and a deadline.
+- Art. 7 TEU: if the situation isn't resolved yet, then the Commission will trigger art. 7 TEU as a last resort.
+- Criticism: the dialogue could delay the application of art. 7 for too long.
+- Yearly dialogue on rule of law: it's a tool for promotion and prevention, rather than enforcement.
+
+*** Austerity measures in Portugal
+
+- Austerity measures: required the reduction of salaries in the Portuguese court of auditors.
+- Portugal: argues that art. 19(1) TEU should be interpreted as precluding any salary-reduction measures, because they would harm the MS's judiciary's independence.
+- Art. 2 TEU: contains a list of fundamental values, among which the rule of law, and art. 19 TEU is a concrete expression of the value of the rule of law, and it requires that MS ensure "effective legal protection" in fields covered by EU law.
+- Court of auditors: can rule on matters covered by EU law, so its independence must be preserved.
+- Cost-cutting measures: applied to other public employees (didn't target the Court specifically) and are temporary in nature, so they can't be considered as impairing the independence of the Court.
+
+*** Repubblika case
+
+- Malta: joined the EU in 2004, had a constitutional reform concerning the appointment of judges in 2016.
+- Principle of non-regression: States join the EU by committing themselves to respect the values in art. 2 TEU, and subsequent reforms to their legal system can't reduce the protection of rule of law.
+- Consequence: in order to enforce the protection of the fundamental values in art. 2 TEU, it's no longer necessary to find a specific provision that implements them, it's possible to just rely on art. 49 TEU.
+- Rules that would reduce the independence of the judiciary would be a regression of the protection of the rule of law.
+- Judicial Appointments Committee: in principle an independent body reinforces judicial independence, and the national court has not raised doubts regarding the its conditions and procedure.
+
+** 2022-10-17 - Protection of fundamental values of the EU, effective remedies
+
+*** Infringement procedure against Poland
+
+- Interim measures: require Poland to stop the implementation of a reform for the judges in the supreme court.
+- Infringement proceedings: MS must ensure that national courts that interpret and apply EU law must be independent, as per art. 19 TEU, there can't be external (Portuguese court of auditors case) or internal pressures.
+- Principle of irremovability: mandates that judges can't be removed until their terms ends, it's not absolute, but exceptions must have a legitimate objective and be proportionate.
+- Polish reform: causes judges to end their office prematurely, raises concerns with the principle of irremovability.
+
+*** Criticisms of the infringement procedure
+
+- Infringement procedure to protect the fundamental values of the EU requires a violation, and a specific provision (the values in art. 2 TEU are too vague), while art. 7 can be used even if there's only the risk of a violation.
+- Poland and Hungary criticized the infringement procedure approach.
+- Art. 7 is lex specialis compared to the infringement procedure, so using the latter would be side-stepping an already-existing procedure.
+- However, the infringement procedure doesn't prevent the application of art. 7, they're alternative remedies.
+- Organization of the judiciary: is a purely national concern, over which the EUCJ has no jurisdiction.
+- National prerogatives: can be exercised having due regard for EU law.
+
+*** Next Generation EU
+
+- European Council: meets in 2020, decides to introduce measures against the Coronavirus (Next Generation EU) with a conditionality mechanism to ensure the respect of the rule of law.
+- Polish and Hungarian PMs: agreed to pose a veto on the multi-annual financial framework in the EU if the conditionality mechanism was introduced.
+- Multi-annual financial framework: defined every 7 years, requires unanimity and can be blocked even by a single veto.
+- Resolution of the conflict: Next Generation EU is adopted by the European Council with a regulation that contains sanctions in case of violation of the rule of law, but whose implementation is delayed in order to give Hungary and Poland more time.
+- Criticism: the European Council is acting like a legislator in delaying the implementation of the regulation.
+- Poland and Hungary: challenge the regulation before the EUCJ.
+- EUCJ: continued compliance with fundamental values is necessary for the enjoyment of the rights under the treaties.
+- Implications: if a MS violates the fundamental values it's possible to suspend those rights.
+- Expulsion clauses: exist in other international organizations, but not the EU due to its nature of continuous integration, MS can only leave on a voluntary basis, expulsion would cause issues for citizens.
+
+*** Polish constitutional court declaration
+
+- Polish constitutional court: art. 1, 4(3) and 19 TEU may be incompatible with the Polish constitution if the former is interpreted in a way that clashes with the latter, the Polish constitution should always prevail.
+- It's not making a statement of general incompatibility, it's a reaction against the attitude of the Court and tries to limit its mandate.
+- Withdrawal decision: can't be considered because it was taken by judges, even if it's the constitutional court.
+- Art. 1 and 4(3) TEU: EU law and its interpretation by the CJEU can't override the principle of conferral and the Polish Constitution, or harm Poland's sovereignty.
+- Art. 19 TEU: ensuring effective legal protection in the areas covered by EU law can't give national judges the competence to review the process of appointing judges in a way that's inconsistent with the Constitution.
+
+** 2022-10-19 - Leaving the Union
+
+*** Leaving the Union before the Lisbon Treaty
+
+- Exit clause: is a unilateral and voluntary clause for MS who are no longer interested in sharing the EU's values, States can't be expelled.
+- Before the Lisbon treaty, there was no express clause to grant States the right to leave the Union.
+- VCLT: States can leave an international organization if there is an express rule, or if it's implied in the intention of the parties, or the nature of the organization.
+- EU Treaties: mandate a continuous integration process, but since MS are the "masters of the treaties", they can amend them to exclude a State.
+
+*** Lisbon Treaty
+
+- Decision to leave the Union: is taken in accordance with its constitutional requirements, which is significant since usually national law is irrelevant for the purposes of international law.
+- Negotiations: Union and the MS negotiate an agreement containing the arrangements for its withdrawal, and future relationships with the Union.
+- Deadline: Treaties cease to apply after the entry into force of the agreement, or after 2 years.
+- Rejoining the Union: MS can rejoin the Union, but have to go through the accession process again.
+
+*** Intention to leave: constitutional requirements, revocation
+
+- Constitutional requirements: in the Miller case, the UK Supreme Court ruled that the EU law was adopted with an Act of Parliament, and since the government couldn't use the royal prerogative to strip rights granted with an Act of Parliament, the decision to leave had to be taken after enacting another Act of Parliament (858).
+- Revoking the decision to leave: in Wightman, the EUCJ found that besides leaving with a deal or without, MS had a sovereign right to unilaterally withdraw their "intention" to leave, and remain a MS in the EU, otherwise the State would be forced to leave.
+- Abuse of withdrawal: a MS could withdraw its intention to leave, only to notify it again later, enabling it to negotiate its withdrawal indefinitely, the Court maintained that the intention to leave should be voluntary and unilateral and not subject to the agreement of other MS, because it's a "sovereign" right (862).
+
+*** Withdrawal agreement
+
+- Withdrawal agreement: is an ordinary agreement that would be concluded with third countries, must respect EU law, and is strongly related to EU law, since it's concluded between the EU and a leaving MS.
+- Art. 5 of the withdrawal agreement: analogous in content to the principle of sincere cooperation.
+- Part 1, common provisions: the Withdrawal Agreement has primacy and direct effect in national law, the interpretation of EU law by the EUCJ is binding until the end of the transition period, and should be held in "due regard" afterwards (867).
+- Part 2, EU and UK citizens: residence rights, social security, worker rights and professional qualifications will continue to be respected.
+- Part 3, separation issues: provisions to address the conclusion of the application of EU law in various issues (868).
+- Part 4, transition period: determines the duration of the transition period during which EU law will continue to be applied, and the UK will no longer be represented in EU institutions or bodies (868, 869).
+- Part 5, financial settlement: the UK takes part in the EU's budget spending and payments until the end of the budget cycle.
+- Part 6, final provisions: in the case of a dispute the parties first consult the joint committee, and if it's not possible to find an agreement, can bring the dispute before a panel of arbitrators, but if the dispute concerns the application of EU law, the EUCJ has to provide a ruling on the matter.
+
+*** MOX case
+
+- Ireland: was concerned about pollution from a UK plant, the UK and EU are also part of UNCLOS.
+- Commission: finds Ireland's decision use a provision in the UNCLOS treaty to resolve the dispute with an international arbitration tribunal to be a violation of the principle of sincere cooperation, disputes between MS should be resolved by the EUCJ.
+- Arbitration tribunal: initially stays the proceedings until the EUCJ gives its judgment, later renounces its jurisdiction without being forced to do so.
+- This mechanism was codified in the Brexit agreement.
+
+*** Pre-existing rights and obligations
+
+- EU institutions: should consider the position of a leaving State, EU law is still applicable but it's pointless to bring infringement proceedings against a leaving MS.
+- International law: will regulate interactions between MS and the UK, it's less specific than the EU regimes.
+- Hard Brexit: UK didn't want to pay for previous obligations, EU argued that no further obligations will be imposed after the 2-years deadline, but previous obligations must be paid.
+- Dispute settlement in a "hard" Brexit: both Germany and the UK are parties to a convention where States recognize the jurisdiction of the ICJ for disputes concerning the violation of an international treaty, such as the EU Treaties.
+
+*** Future relationships
+
+- Trade agreement: the Agreement was amended to include a commitment to negotiate a free trade agreement between the EU and UK, which won't be as comprehensive as participation in the single market or customs union (871).
+- Customs union: require the parties to agree on common custom rules and tariffs.
+- Unlike the withdrawal agreement, it's closer to international law, and doesn't mention EU law.
+
+** 2022-10-24 - EU citizenship
+
+*** Art. 9 TEU
+
+- Union citizenship: every national of a MS is also a citizen of the Union, Union citizenship doesn't replace national citizenship.
+- In theory national citizenship should always come first.
+
+*** Micheletti case
+
+- Micheletti: had a dual Italian and Argentinian citizenship, he moved to Spain to work as a dentist.
+- Spanish law: if individuals have a dual nationality, but neither is Spanish, the nationality that prevails is the one where one's interests are in.
+- Micheletti: was considered a third-country national, and couldn't enjoy rights granted to EU citizens.
+- Freedom of establishment: is granted to nationals of a MS, according to international law States can determine the conditions for acquisition and loss of citizenship freely, but MS must have due regard for Community law, and can't impose conditions that render Community law ineffective.
+
+*** Rottmann case
+
+- Rottmann: was an Austrian national, and being investigated in Austria, during the investigation he moved to Germany and acquired German nationality, and lost his previous Austrian nationality.
+- German authorities: found out about his criminal proceedings (which initially weren't known), tried to deprive him of his German citizenship.
+- Statelessness: not having either Austrian or German citizenship would deprive him of the status of a Union citizen as well, the EUCJ has jurisdiction on this case.
+- EUCJ: statelessness isn't necessarily against EU law, but national authorities had to take into account the consequences of depriving him of his German citizenship.
+- Principle of proportionality: authorities must consider whether the loss of nationality is proportionate to the offense, the lapse of time since the decision to grant him citizenship, the possibility to recover the original citizenship (401).
+
+*** Economic crisis and citizenship
+
+- Opposition to freedom of movement: some countries are concerned that the freedom of movement for EU citizens will put strain on their social welfare programs, or lead to low-wage workers to migrate to wealthier countries.
+- Dano case: national authorities should only look at the financial situation of the person concerned and not also the benefits that are available.
+- Previous case law: national authorities had to consider if granting social assistance benefits would place a burden on the host State, and should be inspired by solidarity.
+
+*** Investor citizenship schemes
+
+- Investor citizenship schemes: involve the sale of citizenship to third-country nationals, were adopted by Malta and Cyprus.
+- Commission: criticized the Maltese citizenship scheme because it didn't require the investor to have a "genuine link" with the country, which is a requirement mentioned by the ICJ in the Nottebohm case.
+- European Parliament: criticizes the scheme in general because it discriminates on the basis of wealth, and transforms EU citizenship into a commodity.
+- Principle of sincere cooperation: would be violated only if there was a "mass naturalization" that would negatively affect the EU as a whole, it's unlikely since citizenship is bought by few people who are wealthy enough not to require social assistance.
+- Issues: EUCJ's case law doesn't require EU citizenship to enjoy rights flowing from EU citizenship, which diminishes the value of buying citizenship, imposing the effective link requirement may lead to loss of existing citizenship, and give MS the potential to discriminate against buyers.
+
+*** Gibraltar case
+
+- UK: only allowed nationals resident in the UK to vote in the European Parliament elections.
+- Gibraltar citizens: were excluded from voting, even though most of EU law applies there, one citizen brought an action before the ECtHR.
+- ECHR: the Convention only protects national elections, the EU elections are supranational, but the Court still condemned the UK.
+- Spain: tried to challenge the extension of the right to vote before the EUCJ.
+- EUCJ: the definition of who can vote and can stand as a candidate in elections to the European Parliament falls into the competence of each MS, there are no provisions in the Treaties, and the UK's decision to extend the right to vote and to stand as a candidate to the citizens in Gibraltar wasn't against the law.
+
+** 2022-10-26 - EU citizenship
+
+*** Citizenship rights and the Head of State
+
+- Slovak authorities: deny entry to the president of Hungary, Hungary starts an infringement procedure.
+- International law: States are allowed to deny entry of another head of State in their territory.
+- EU law: allows limitations of freedom of movement, but only in certain cases, according to Hungary their president shouldn't be treated differently.
+- Diplomatic relationships between MS: are outside the scope of EU law, MS act as sovereign States, international law prevails over EU law in this case.
+- Status of head of law: has a specific character different from ordinary EU citizens, is regulated by international law, its access to other MS is subject to different conditions.
+- Principle of sincere cooperation: if diplomatic relationships deteriorate to the point where the principle of sincere cooperation is being undermined, then MS would no longer be free to act.
+
+*** Rights and duties of EU citizens
+
+- EU law: applies to nationals of MS, EU law can give rights and impose obligations, rights stemming from EU law can be invoked before national courts against other individuals.
+- General international law: applies to States and international organizations, only exceptionally confers rights to individuals (international investments, human rights), those rights can't be invoked before national courts against other individuals.
+- Van Gend en Loos: Community is a new legal order of international law, its subjects include MS and individuals, grants individuals both obligations and rights.
+- EU citizenship: EU citizens are equal, nationals of a MS are also EU citizens, citizenship of the Union is additional.
+
+*** Political rights
+
+- EU elections: have the right to vote or stand as a candidate at elections in the MS they reside in, under the same conditions as nationals of that MS.
+- Representative democracy: foundation of the functioning of the EU, EU citizens are directly represented in the European Parliament.
+- Municipal elections: EU citizens can vote and stand as candidates in municipal elections in the MS they reside in, under the same conditions as nationals of that MS.
+- European citizens' initiative: one million citizens residing in one quarter of the MS can submit proposals to the Commission.
+
+*** Rights related to EU administrative law, petitions to the Parliament
+
+- Right to good administration: applies to "persons" and not just citizens, binds EU institutions to handle administrative affairs impartially, fairly, and in reasonable time.
+- Right of access to documents: citizens and natural and legal persons residing or having a registered office in a MS can access the documents of the European Parliament, Council, and Commission.
+- Ombudsman: citizens and natural and legal persons residing or having a registered office in a MS can report cases of maladministration to the Ombudsman of the Union, except for the EUCJ acting in its judicial role, the Ombudsman doesn't resolve the specific case, but works towards finding a solution for the future.
+- Petition to the Parliament: applies to citizens and natural and legal persons residing in the EU, they can submit complaints or requests to the European Parliament.
+
+*** Freedom of movement and residence
+
+- Freedom of movement and residence: is granted to EU citizens, may be granted to third country nationals legally resident in the territory of a MS.
+- Third country nationals: can be discriminated against since their State of origin is not part of the EU agreements, so they don't have to have the same rights as EU citizens.
+
+** 2022-10-27 - Cilevics case
+
+*** Introduction
+
+- Internal market: originally it was purely economic, later it incorporated social and economic aspects, imposes obligations on MS.
+- Provides rights to individuals, but only in non-purely-internal situations, rights can be limited, but exceptions must be interpreted in a strict manner.
+- Four freedoms: free movement of goods, capital, freedom to establish and provide services, free movement of people.
+- Preliminary ruling for interpretation: can be requested by a national judge who has to apply EU law but has doubts as to its interpretation, the EUCJ's interpretation is binding on the referring court.
+- Cilevics case: a constitutional court asked the EUCJ for an interpretation.
+- National identity clause: art. 4(2) TEU, concerns the fundamental political and constitutional structures of MS, was introduced as a safeguards against the limitation of sovereignty due to judicial activism, it's often used to not respect EU law.
+
+*** Cilevics case
+
+- Latvia: passes a law requiring higher education institutions to use Latvian, except for institutions regulated by special statutes, may seem like a purely internal affair, but limits the freedom of establishment, exceptions must be interpreted strictly.
+- Principle of proportionality: it's possible to limit the fundamental freedoms in the internal market in order to protect the national language, but the measure must be necessary and proportionate.
+- AG: tries to define the scope of the national identity clause, only concerns the "core constitutional elements" of a MS.
+- EUCJ: refers to its case law on the link between the protection of national identity and national language, doesn't elaborate further on the exact contents and limits of the provision.
+- Competent court: national courts are in a better position to define "national identity" and apply the proportionality test.
+- AG: the EUCJ should provide guidance to the national court, in this case the exceptions are so limited that the measure is likely disproportionate.
+- EUCJ: says that a complete lack of exceptions would be disproportionate, but doesn't provide more specific guidelines.
+- Unresolved question: whether the EUCJ could apply the proportionality test by itself, and to what extent.
+
+** 2022-11-07 - Freedom of movement, limitations and conditions in times of crisis
+
+*** Limitations to the freedom of movement and residence
+
+- Grounds for restrictions: national security, public health, public order, must be applied consider the principle of proportionality.
+- Necessity: limitations must be necessary, other measures can't be used.
+- Limited scope: measures can't have indefinite duration, or be applied to the entire population.
+- Actual threat: threat that don't exist or persist in the present moment aren't relevant.
+
+*** Duration of residence
+
+- Up to 3 months: right of residence only requires only a valid ID.
+- More than 5 years: after continuous residence, EU citizens obtain the right of permanent residence, there is already a strong connection to the MS, no further conditions are be required.
+- Between 3 months and 5 years: must be a worker, self-employed, a student, or have sufficient resources not to become a burden on the social assistance system of the MS.
+- "Burden": meant to discourage welfare tourism, whether one is a burden is defined on a case-by-case basis.
+
+*** Brey case
+
+- Right to freedom of movement is a fundamental principle of EU law, conditions must be constructed narrowly, with the limits imposed by the principle of proportionality.
+- Discretion by MS can't compromise the objective of the Directive, which is to facilitate the movement of EU citizens in MS, and its practical effectiveness.
+- National authorities: must assess each case individually and as a whole, the Directive imposes a degree of financial solidarity.
+
+*** Dano case
+
+- Directive is meant to prevent economically inactive Union citizens from using the host MS's welfare system for their subsistence, and become "unreasonable burdens".
+- MS have the discretion to refuse to grant social benefits to EU citizens who are exercising the freedom of movement only to obtain another MS' social assistance.
+- Decision was taken at the end of the transitional period for Romania and Bulgaria, when their citizens would be allowed to move freely.
+
+** 2022-11-09 - Rights of third country nationals
+
+*** Chen case
+
+- Chen: gives birth to her daughter in Ireland, her daughter acquires Irish citizenship, the family tries to move to the UK but was refused permission.
+- EUCJ: MS can't restrict the effects of the grant of the nationality of another MS by imposing additional conditions for recognition of that nationality.
+- Consequence: the UK can't refuse Chen's daughter, an Irish citizen, the exercise of fundamental freedoms just because her nationality was acquired to secure residence in another MS as permitted by Community law.
+- Child's right of residence: would be deprived of any useful effect if the carer couldn't reside with them in the MS, this is necessary to avoid breaking up families, and not a real recognition of rights.
+
+*** Partnerships
+
+- "Family members": include partners only if the host State recognizes partnerships (Directive 2004/38/EC).
+- Family law: is a matter where MS remain sovereign, EU law can't impose the recognition of same-sex couples.
+
+*** Long residence permits
+
+- Directive 2003/109/EC: regulates long residence permits for third-country nationals.
+- Art. 4: TCNs who have resided legally and continuously in a MS's territory for 5 years can submit an application to obtain long-term resident status.
+- Art. 11: long-term residents enjoy equal treatment with nationals in various fields.
+
+*** Kamberaj case
+
+- Kamberaj: tried to make an application to access social housing, the budget favored Italian and EU citizens over TCNs, argued that this situation was discriminatory.
+- EUCJ: access to social housing is recognized in the Charter, long-term residents must be granted the same treatment as nationals with regards to access to social housing.
+
+*** Simutenkov case
+
+- Communities-Russia agreement: entered into force in 1997, forbids any discrimination against Russian nationals as regards working conditions, remuneration and dismissal.
+- Direct effect: provisions in agreements with third countries are directly applicable if they contain an obligation that is clear, precise, and not subject to implementation.
+- Obligation as to results: individuals can rely on the anti-discrimination clause since it's directly applicable.
+- Newer agreements aren't directly effective on purpose, and require implementing measures, because each non-discrimination clause is a burden that the State wants to have control over.
+
+*** Dhahbi case
+
+- Tunisia: concluded an agreement with the EU, which included a non-discrimination clause regarding access to social security.
+- Dhahbi: accuses the Italian government of discrimination, the Court of Cassation refused to refer a preliminary question on the interpretation of EU law.
+- He brings an action before the ECHR for the violation of his right to a fair hearing (the Court didn't explain why it refused his request), and for discrimination (he was denied access to social security).
+- ECHR: finds that the Cassation must justify its refusal to submit a referral, and Dhahbi was being discriminated against.
+- ECHR can apply anti-discrimination clauses, but it requires exhausting all the internal remedies first, and then enforcing its judgment.
+
+** EU institutions (2022-11-10)
+
+*** Principles concerning the EU institutions
+
+- Art. 13 TEU: lists the bodies in the EU institutional framework and the principles.
+- Consistency: institutions can't interfere with each other.
+- Effectiveness and continuity: institutions must be able to exercise their power.
+- Conferral: institutions can't act outside of their mandate.
+- Mutual sincere cooperation: institutions must help each other achieve their goals.
+- Differentiation: rules can be differentiated, depending on the domain the institution is operating in.
+- Institutional balance: the various powers are divided between the institutions, no institution can dominate.
+
+*** European Council
+
+- Treaty of Lisbon: turned it into an official institution (70).
+- Composition: heads of State who have executive functions, heads of government.
+- Purpose: is the highest political institution, and sets the overall political direction, can provide guidance in several sensitive field (71).
+- Lack of legislative power: has no legislative power, but can influence legislation through deadlines and guidelines (71).
+- Controls the accession procedure by opening the negotiations and deciding on eligibility criteria (72), can sanction States (art. 7(2) TEU).
+- President: organizes the European Council's work, ensures consensus, reports to the Parliament, represents the EU without prejudice for the High Representative (68).
+
+*** Council
+
+- Role: main decision-making organ in the EU.
+- Composition: ministers from the MS' governments (as opposed to Presidents and Prime Ministers in the "European Council"), does not have a fixed membership, the specific composition varies on the subject matter being discussed (59).
+- Legislative powers: ordinary legislative procedure (same role as the European Parliament), special legislative procedures (only required to consult the Parliament) (60).
+- Policy-making powers: adoption of non-legislative acts (competition and State aid rules, foreign policy measures), control over international Treaties (but the Parliament must consent to most treaties, and they can be negotiated by the Commission).
+- Coordination powers: can coordinate MS economic, employment and social policies using soft law instruments (60).
+- President: is chosen on a rotating basis, schedules and chairs all of the Council's meetings (64).
+- Coreper: committee of permanent representatives, meets frequently to ensure continuity, can only adopt procedural decisions in preparation for the Council's work, the Council only discusses issues the Coreper wasn't able to reach a consensus on (66, 67).
+
+*** European Parliament
+
+- Term: elected every 5 years, it's fixed and there can't be early elections even if the Commission resigns due to the vote of censure by the Parliament.
+- Incompatibility: MEPs can't hold posts in other EU institutions, or be members of their national parliaments (53).
+- EU citizens who live in another MS can vote and run for elections on the same conditions as nationals in that MS, but electoral law is left to national provisions.
+- Citizens who live in associated territories of MS have the right to vote in EU elections (54).
+- Legislative functions: are exercised with the Council, its competences have increased over time.
+- Political control: the Parliament has political control in the form of consent or veto powers over a series of acts, or the duty of other institutions to consult it (55, 56).
+
+*** EU Commission
+
+- Purpose: promote the interests of the EU.
+- Composition: 27 commissioners, one per MS, there were plans to reduce the number but concerns about the legitimacy of the institution prevailed.
+- President: is one of the commissioners, decides the guidelines for the Commission, and can reshuffle the Commission or require individual commissioners to resign.
+- High Representative: is a commissioner, answers to the Council as regards foreign policy.
+- Appointment procedure: the president is nominated by the European Council, and elected by the Parliament, then the individual Commissioners are appointed individually with the agreement of the Commission President and the European Council, and the approval of the Parliament.
+- Control of the Commission: European Parliament can issue a motion of no confidence, President can force a commissioner to resign or reshuffle the Commission, these measures haven't been used, the commissioners always spontaneously resigned.
+
+*** Commission: powers
+
+- Promotes the general interest of the EU, ensures the application of Treaties, oversees the application of EU law.
+- Introduces proposals for EU legislation, adopts delegated acts.
+- Negotiates international treaties and represents the EU on the international level, the High Representative conducts the EU's external policy as mandated by the Council.
+- Administers the budget, which has been allocated by the Council and European Parliament.
+- Applies EU competition law (investigates cartels and monopolies) and EU State aid law.
+
+*** EU representation
+
+- Representation is split between the President of the European Council, Commission President, and High Representative.
+
+** 2022-11-14 - ECB, EU-Turkey statement
+
+*** European Central Bank
+
+- EMU: Economic and Monetary Union, introduces a common currency and a central policy to maintain price stability.
+- Monetary policy: exclusive competence of the EU, is separate from the fiscal or economic policy.
+- Economic policy: competence of the MS, there is a framework for coordination (585), coordination is necessary for the stability of the single currency (587).
+- ECB: controls inflation and maintains price stability, can't be a lender of last resort to MS, MS are supposed to remain responsible for their own debt (592).
+- Governing Council: is the main decision-making body, includes the Executive Board, and the governors of central banks from eurozone countries.
+- Executive Board: handles the day-to-day running of the ECB, includes the ECB President, Vice-President, and 4 other members appointed by eurozone countries.
+- General Council: has an advisory role, consists of the ECB President, Vice-President, and governors of central banks of all EU countries.
+
+*** EU-Turkey statement
+
+- Background: the statement was adopted in 2016, during the migration crisis in the Balkans, after a European Council summit.
+- Irregular immigrants from Turkey to Greece will be returned to Turkey.
+- For every Syrian immigrant returned to Turkey, one Syrian immigrant will be admitted into the EU.
+- EU promised to finance projects to aid the refugees, and continue the accession process.
+- Nature of the statement: can't be an international agreement, since their conclusion is controlled by the Council, and extraordinary expenditures have to be approved by the Parliament, the European Council can only negotiate.
+- EU law perspective: calling it an international agreement would violate the institutional balance, principle of conferral, and rule of law.
+- VCLT perspective: this is a treaty since it contains obligations for the parties, treaties can have any form, including oral agreements.
+- Alternative interpretation: it can be seen as an agreement between all MS and Turkey, concluded outside the framework of EU law.
+
+*** Case T-192/16
+
+- EU-Turkey statement: was published as a press release, must be examined to establish whether it can be attributed to the European Council, and then whether it violated the TFEU rules on the conclusion of an international agreement.
+- Press statement: uses a simplified and non-technical language due to its intended target audience, while it mentions the "EU" and "Members of the European Council", it doesn't have any legal binding value.
+- Meeting of the European Council and international summit with Turkey were organized as two separate events, the Heads of State and Government didn't meet the Turkish President as the European Council.
+- Given this context, the statement wasn't adopted by the European Council, so it's a treaty concluded by all MS, and the EUCJ doesn't have jurisdiction, and can't rule on the lawfulness of treaties concluded by MS.
+- Criticism: the MS were using EU funds, the Court's decision undermines the EU's identity as an autonomous entity rather than an ordinary international organization.
+
+*** Criticisms of the statement
+
+# https://www.asileproject.eu/why-the-eu-turkey-statement-should-never-serve-as-a-blueprint/
+
+- EU institutions: published the statement as a press release, and progress reports related to its implementation, but denies its authorship.
+- Uncertainty: it's unclear who authored the statement, whether it's binding or soft law.
+- Enforcement: there is no meaningful supervision, it's unclear who is responsible for violations of human rights due to the legal uncertainty of the agreement.
+- Ineffectiveness: few immigrants were resettled, the effectiveness in preventing unlawful immigration is dubious.
+- Crisis management: informal agreements which violate the founding principles of the institutions aren't uncommon.
+
+*** ECB
+
+- Outright Monetary Transaction program: if a MS was having liquidity problems, the ECB would buy State bonds in the secondary market if the MS complied with certain conditions (592, 593).
+- It was never used, but its mere existence had a positive effect on the markets.
+- European Financial Stability Mechanism: was created within the EU system, on the basis of art. 122 TFEU, which allows the EU to help States in extraordinary circumstances.
+- European Financial Stability Fund: created by MS outside of the EU legal framework, countries in crisis could receive loans.
+- Limitations: EFSM and EFSF were temporary in nature and limited in capacity, didn't reassure the markets (593, 594).
+- Treaty amendment: used the simplified procedure, allowed the MS to create a permanent crisis mechanism to safeguard the stability of the Euro.
+- European Stability Mechanism: is a permanent institution, grants financial assistance with a conditionality mechanism, is established outside of the EU Treaties, but involves the EU institutions.
+- Issues with the ESM: since it's independent from the EU but still makes use of its institutions it undermines democratic legitimacy, transparency, judicial control, enforcement (594).
+
+** 2022-11-16 - PSPP
+
+*** Gauweiler case
+
+# Cf. [[https://www.thefederalist.eu/site/index.php/en/essays/2048-a-clash-of-courts-german-and-european-judges-dispute-the-new-role-of-the-ecb-and-the-future-of-the-integration-process]]
+
+- German Constitutional Court: asked the EUCJ for a preliminary ruling on the legality of the OMT program, the OMT program was never used in practice, the action was brought to assess whether it could be used.
+- Arguments: OMT finances the debt of struggling countries, which makes it an economic policy instrument, which is outside of the ECB's purely monetary competences, and buying State bonds violated the prohibition to finance MS.
+- Monetary policy: OMT is supposed to restore stability and reduce spread between MS bonds in the eurozone, making it a monetary instrument.
+- Prohibition to finance MS: buying bonds is done on the secondary market, it's not a direct purchase, and must be done in a way that doesn't encourage MS to take on more debt, and not unconditionally.
+
+*** Weiss case
+
+# Cf. [[https://www.eliamep.gr/wp-content/uploads/2020/05/NEW_PolicyPaper-No116-Pavlos-Eleftheriadis_REVISED-v-2-PE-15_05_20-.pdf]]
+
+- OMT: was replaced by Public Sector Purchase Program (PSPP) or Quantitative Easing (QE) program.
+- Preliminary reference: is requested by the German Supreme Court, the EUCJ confirms the validity of the PSPP program in that it doesn't go beyond the mandate of the ECB, doesn't violate the prohibition to buy State bonds, and is proportionate.
+- German Supreme Court: declares the EUCJ's judgment ultra vires, since it's extending the competence of the EU and violating constitutional provisions, and that it shouldn't be respected.
+- EUCJ's reaction: only the EUCJ can determine if a piece of EU legislation is invalid, and the national courts aren't free to decide by themselves, otherwise there would be no consistency.
+- Commission's reaction: restated the principle of primacy, and how EUCJ judgments are binding on all countries.
+
+*** EU competences
+
+- Principle of conferral: MS confer competences to the EU to attain common objectives, the competences not conferred remain with the MS, the institutions of the EU must act within the powers conferred by the Treaties (110, 111).
+- Division of competences: the competences can be exclusive, shared or supporting (113).
+- The EU doesn't have the competence to give itself further competences, new powers always require a Treaty revision.
+- Vertical division of powers: the Union must empowered to take any measure, both binding and non-binding.
+- Horizontal division of powers: any Union measure must respect the limit and procedures in the Treaty.
+- Institutional balance: the institutions in the EU must respect the division of powers.
+- Implied powers: if Treaty articles confer a certain task to an institution, without specifying the powers that should be conferred, in order to make that provision effective, the powers are implied.
+- Judicial review: the Court of Justice declares measures that violate the principle of conferral invalid, national supreme courts can review EU measures too and declare that they are ultra vires.
+
+*** Exclusive competences
+
+- "Exclusive": only the Union can adopt legally binding acts, and States may only be authorized to adopt implementing measures (113).
+- Urgent measures: if the EU fails to adopt measures, MS can consult the Council in order to protect the common interests.
+- Exhaustive list: includes the customs union, competition rules for the internal market, monetary policy for the Euro.
+
+*** Shared competences
+
+- Shared competences: if a competence isn't listed as exclusive or supporting, it's presumed to be shared in character, the list is non-exhaustive (114), they represent the majority of competences.
+- Preemption: if the EU adopts rules on a certain matter, MS can no longer legislate on the specific elements the EU has regulated (the preemption doesn't apply to the whole area).
+- Limitations: some fields are completely excluded from preemption, and in certain areas the EU only sets minimum standards (115).
+
+*** Supporting competences
+
+- "Supporting": the EU promotes cooperation in the action of MS, without binding effects.
+- Scope: matters that are too close to national interests or identity, or too politically sensitive (115).
+
+*** Common Foreign and Security Policy
+
+- CFSP: legislation is excluded, and guidelines and cooperation is used instead.
+- Intergovernmentalism: policies are defined and implemented by the European Council.
+- Judicial review: is generally excluded, save for restrictive measures against natural or legal persons adopted by the CFSP, and to ensure that CFSP measures aren't used in competences under the general regime (116).
+
+*** Subsidiarity
+
+- Scope: only to non-exclusive competences.
+- Definition: powers should be attributed to the level of government where it can be exercised most effectively.
+- Purpose: balances centralization and the MS' sovereignty, can be used for ex ante and ex post review.
+- Necessity test: the objectives can't be achieved by individual MS at their national, regional or local level.
+- Added value test: Union action can achieve those objectives, unless it's shown that the objectives can be better achieved using international law (118).
+- Acts must contain a detailed statement on the principle of subsidiarity, in order to facilitate its judicial review.
+
+*** Proportionality
+
+- Definition: EU action must be suitable to achieve an objective, and not go beyond what is necessary to achieve it.
+- Choice between measures: the least onerous measure should be taken, and disadvantages can't be disproportionate to benefits.
+- Discretion: the legislature enjoys wide discretion, and legality is affected only if the measure is manifestly inappropriate.
+- Limits to discretion: choices must be based on objective criteria, and discretionary power is exercised following guidelines.
+
+** 2022-11-17
+
+*** International law sources
+
+- Jus cogens: is recognized by the VCLT, refers to general rules that are at the top of the hierarchy, and can only be derogated by another piece of just cogens.
+- Customs: are binding for all subjects of international law.
+- Conventions: are binding and prevail over customs, but only between signing parties.
+- Decisions: can be taken on the basis of treaties.
+- Soft law: isn't binding, is used when the States are unable to agree on a binding instrument.
+
+*** EU law sources
+
+- Primary law: includes the Treaties, the Charter of Fundamental Rights, and the general principles developed by the EUCJ (108).
+- Treaties: define the institutional framework of the EU, describe competences and powers, define the amendment procedure, the accession procedure, and various protocols.
+- General principles of law: they're developed by the case law of the EUCJ, and can draw on common constitutional traditions among MS.
+- Human rights: their protection is considered a general principle, originally they weren't considered because Treaties were purely economic in nature.
+- International agreements: concluded with non-EU countries or international organizations.
+- Secondary law: can be adopted by the Commission (and in specific cases, Council) in the conditions laid down in the Treaties or other secondary law.
+- Binding secondary law: regulations, directives, decisions.
+- Non-binding secondary law: opinions, recommendations, other soft law instruments.
+- Hierarchy: secondary law must comply with primary law and international agreements, failing that the act is ultra vires and can be annulled (109).
+
+*** Treaty revision
+
+- Treaties can be amended using the ordinary or simplified procedures.
+- The ordinary procedure has two stages, the first of which (the Convention) is optional, and the second is the intergovernmental one.
+
+*** Ordinary revision procedure
+
+- Scope: unrestricted, but unlikely to be used if a less cumbersome procedure is applicable.
+- Initiative: amendments can be proposed by the European Parliament, Commission, any MS government, and are notified to national parliaments.
+- European Council: consults with the Parliament, Commission, the ECB (if the amendments concern the monetary policy), and decides by a simple majority if the procedure should continue.
+- Convention: is composed of representatives from national parliaments, the heads of State or government, the European Parliament and the Commission, and adopts decisions by consensus.
+- Intergovernmental stage: a conference of representatives of the MS' governments adopts the amendments.
+- Ratification: the adopted amendments have to be ratified by the MS' parliaments.
+- Simplified variant: the European Council, with the consent of the European Parliament, can skip the Convention stage, if the amendments are limited in scope (144, 145).
+
+** 2022-11-21
+
+*** Special revision procedures
+
+- Scope: limited to Part Three of the TFEU (policy areas of the EU), can't be used to increase competences.
+- European Council: decides unanimously on the amendments, after consulting with the Commission, Parliament, and ECB (for institutional changes in the monetary area).
+- Ratification: by all the MS is still necessary.
+- European Stability Mechanism: has been introduced using this procedure.
+
+*** Limitations on the amendment of treaties
+
+- Defrenne case: EU Treaties can only be amended using the procedure in art. 48 TEU.
+- International law: there are no constitutional concerns, the treaty that is concluded later always prevails.
+- Jus cogens: its respect is a general limitation for the amendment of any treaty, including EU Treaties.
+- Principle of non-regression: amendment of EU Treaties can't lower the protection of fundamental values.
+- Respect of EU law: when MS are amending the Treaties they still are MS, and are not above EU law, which makes it an autonomous legal order.
+- States as the "masters of the treaties": if all MS decide on an amendment, legal recourse (Commission and Court of Justice use the infringement procedure against all MS) may be useless.
+- EU law is based on international instruments, MS are still capable of forcing their political will against EU institutions.
+
+*** Pringle case
+
+- Pringle: is a member of the Irish parliament, argued that the simplified amendment procedure shouldn't have been used, and that the ESM Treaty violated the Union's competence concerning the Economic and Monetary Union.
+- Simplified procedure: the formal changes were inside the scope of the simplified amendment procedure, but the Court had to verify whether the substantive changes were as well.
+- ESM's purpose: safeguards the stability of the Euro area (not the stability of prices), and is a financial measure (not a monetary one), so it falls outside the EU's exclusive competences.
+- Purpose of amending the Treaty: it clarified a pre-existing competence of the MS, who are free to collaborate in economic policies (where the EU has coordinating competence), as long as they comply with EU law (595).
+- Dual nature of the ESM: it's a Treaty concluded by MS among themselves, but allocates some tasks to the EU institutions, the Court stated that the allocation is possible as long as it's not done in an area of exclusive competence, or alters the institutions' essential character (596).
+- The Court supported the emergency mechanism because opposing it would've worsened the economic crisis (597).
+- Political reason for codification: codify the principles for financial assistance, in particular strict conditionality.
+- Legal reason for codification: make sure that the ESM integrates with EU law and institutions without issues.
+
+*** Conference on the future of Europe
+
+- Union competences: crises have led to changes in the Union's competences, legal workarounds had to be created around the existing system of competences, a reform may be necessary.
+- Decision-making procedures: the number of MS necessitates efficient decision-making, but it must be balanced by measures to ensure legitimacy and accountability, and deal with the issue of MS abusing their voting powers due to democratic backsliding.
+- External relations: there is popular support for stronger EU action in the international stage, and to protect Union interests against external interference.
+- Reform of the Treaties: is unlikely due to the political circumstances (rise of populism), and constitutional courts are opposed to further integration.
+
+** 2022-11-23
+
+*** Judicial protection of human rights
+
+- European Communities: were created as an international organization with purely economic purposes, there was no need for rules concerning human rights, especially since MS were parties to the ECHR.
+- EUCJ: starts recognizing the principles of direct effect and primacy, MS are concerned that EU law could violate constitutional values, including human rights.
+- German and Italian constitutional courts: asserted their right to review EU law in order to ensure its consistency with constitutional law.
+- EUCJ: reacts to the decision of the constitutional courts by affirming the principle of respect for human rights.
+- Stauder case: fundamental rights are a part of the general principles of Community law, and are protected by the Court.
+- Internationale Handelsgesellschaft: the protection of fundamental rights is inspired by constitutional traditions common to the MS.
+- Nold: international treaties for the protection of human rights which MS are parties to can supply guidelines for Community law.
+- Johnston: the principles of the ECHR must be taken into consideration in Community law.
+- Kadi: respect for human rights is a condition for the lawfulness of Community acts, and international agreements can't prejudice the constitutional principles of the EC Treaty.
+- Art. 6 TEU: mentions the Charter, accession to the ECHR, and "constitutional traditions common to the MS".
+- Protection of human rights can't increase the competences of the EU.
+
+*** Accession to the ECHR
+
+- All MS have joined the ECHR, and there were various proposals for the European Community to join the ECHR.
+- EUCJ: found that the treaties didn't provide any competence for the European Community to enact rules on human rights, and so it couldn't join the ECHR either.
+- Lisbon Treaty: mandated accession to the ECHR, a new draft agreement for accession was made.
+- EUCJ: found the draft agreement incompatible with EU law, since accession to the EUCJ would mean that EU acts could be reviewed by an institution outside of the EU.
+- EUCJ is relying more on the Charter and less on the ECHR, to establish the independence of the EU legal order.
+
+*** European Charter of Fundamental Rights
+
+- External scrutiny: accession to the ECHR, first proposed and then mandated by the Lisbon Treaty.
+- Internal scrutiny: creation of a Community "bill of rights" for the EUCJ to ensure compliance of legislation and policies with fundamental rights.
+- Charter: was initially proclaimed in 2000, but only came into direct effect in 2009 with the Lisbon Treaty.
+- Application: to EU institutions, bodies, and MS when they implement EU law.
+
+*** International agreements and the EU
+
+- International agreements: the EU can conclude them with third countries and international organizations.
+- They're a sui generis source of law, but they can have direct effect, and secondary legislation must comply with them.
+- EU can conclude agreements in order to achieve Treaty objectives, or to comply with a legally binding Union act, and the agreements are binding on the institutions and MS.
+
+*** Agreements concluded by the EU
+
+- Exclusive competence in international agreements: only the EU negotiates and concludes the agreement.
+- Shared competence in international agreements: both the EU and MS conclude the so-called "mixed" agreement, MS must give their consent, an internal EU act may be used to define the obligations between the EU and MS.
+
+*** Agreements concluded by MS
+
+- Agreements concluded by individual MS with third countries before the accession to the EU can still be enforced even if they're inconsistent with EU law, to prevent a breach of the international commitment.
+- Agreements concluded after the accession must not be concluded, or amended and replaced, if they're inconsistent with EU law.
+- Agreements concluded by all the MS with third countries: must be taken into consideration by the EU institutions when interpreting and implementing EU law, due to the principle of sincere cooperation.
+- MS acting as trustees: if agreements can be concluded only by States, the EU can name a MS to act on its behalf.
+- Agreements between MS: if they're inconsistent with EU law, they're invalid since EU law prevails, they can be used to support, strengthen or implement EU law (ESM, Schengen Agreement, Dublin Convention).
+
+** 2022-11-24
+
+*** Structure of EU acts
+
+- Heading: specifies the institution that adopted the act, its date, number and title, and relationship with other acts.
+- Recitals: contain the motivation of the act, the affected policy areas, intended goals, respect of the principles of subsidiarity and proportionality.
+- Legal basis: justifies the adoption of the act, usually is a single article dealing with the most important policy area (111).
+- Publicity: EU law is published in the Official Journal of the EU, publication, entry into force and application are distinct.
+- Application: the whole act can be delayed to allow the recipients to comply with the obligations, individual provisions can be applied before applying the whole act.
+
+*** Binding acts
+
+- Binding acts: are regulations, directives and decisions, they can contain obligations.
+- Legislative acts: are acts adopted using the legislative procedure, they're always binding, but not all binding acts are adopted using the legislative procedure.
+- Choice of form: mandated by Treaties in some areas, otherwise the institutions are free to choose, but should use the least intrusive form (104).
+
+*** Regulations
+
+- Characteristics: binding in their entirety, directly applicable in all MS, analogous to a national law.
+- Direct effect: they don't have to be transposed into law, but can mandate national provisions for their implementation (104).
+
+*** Decisions
+
+- Characteristics: binding in their entirety, but only to their addressees, have direct effect (105, 106).
+
+** 2022-11-28
+
+*** Directives
+
+- Characteristics: impose an obligation of results, only MS can be their recipients.
+- Framework law: follows the principle of subsidiarity, the EU only defines the policy objectives, States amend their national law accordingly (104).
+- Entry into force: 20 days after their publication, beginning of the obligation to transpose the directive into national law.
+- Deadline for implementation: after it expires, the Commission can start infringement proceedings if the State hasn't implemented the directive yet.
+- Unimplemented directives: unconditional and sufficiently precise provisions can have direct effect to safeguard the useful effect of the directive (cf. Van Duyn case), the Court can impose financial penalties (105).
+
+*** Directives: case law
+
+- Marleasing SA: directives can be used for consistent interpretation purposes, as long as they don't contrast with the literal meaning of national law.
+- Frankovich: States are liable for damages if a directive recognizes rights to individuals, and isn't implemented in time.
+
+** 2022-11-30
+
+*** Recommendations and opinions
+
+- Characteristic: they have no binding force in themselves, but non-compliance may cause the adoption of binding acts (107).
+- Soft law instruments: are used in areas of regulation that are too sensitive for traditional command and control mechanisms.
+- Judicial review: applies to any instrument that creates legal obligations, regardless of the name (108).
+- Opinions: have to be requested, they represent the institution's opinion on an issue.
+- Recommendations: are given to addressees, and define a certain course of action.
+- The distinction between opinions and recommendations is not official, and the "reasoned opinion" in infringement procedures has an addressee and a deadline, which makes it more of a "recommendation".
+- Grimaldi case: even though recommendations aren't binding, due to the principle of sincere cooperation they should be taken into account when interpreting national law.
+- Binding "opinions": by the Parliament in the legislative procedure, by the EUCJ on draft agreements that the EU wants to conclude with third countries.
+
+*** Primacy of EU law
+
+- Costa v. ENEL: the Court held that Community law can't be overridden by national law, due to its special and original nature.
+- Principle of primacy: it isn't found in the treaties, and was developed by the EUCJ.
+- Relationship with direct effect: they're strongly connected, but don't necessarily follow from each other, and together they ensure the respect of EU law (175).
+- Primacy and validity: primacy does not affect the validity of national law, it only requires that the conflicting provision is not applied in the specific case (but courts may reach different conclusions).
+- Dualistic approach: there are two separate legal orders, the institutions in one legal order can't affect the norms in the other.
+- Primacy includes all sources of EU law, which prevails over subsequent national legislation.
+- National judges and administrative authorities don't have to ask the EUCJ whether they can set aside national laws, and can do so at any point, and irrespective of prohibitions in national laws (176, 177).
+
+*** (cont.) Reaction by MS
+
+- MS have resisted the idea of absolute primacy with various arguments.
+- MS as "Masters of the Treaties": the foundation of EU law is the Treaties, not its special and original nature, it's an international law organization, MS aren't bound in an absolute manner (178).
+- EU law and Constitutions: EU law is under or beyond national constitutions, but not above.
+- Constitutional courts: can review EU acts to determine if the EU has violated the principle of conferral (179).
+- Protection of rights from EU institutions is another reason for opposition against absolute EU primacy (180).
+
+*** Principle of consistent interpretation
+
+- Also known as indirect effect, it's analogous to the duty of constitutionally consistent interpretation.
+- Applies in general to all EU law and all national law, for all national authorities.
+- Weak direct effect: EU law merely confirms an interpretation that was possible under national law.
+- Medium direct effect: EU law determines the choice between various interpretations.
+- Strong direct effect: EU law imposes a certain interpretation of national law.
+- Limitations: consistent interpretation must be balanced with general principles (legal certainty, legitimate expectations, non-retroactivity) and can't be contra legem (contradict national law).
+
+*** Direct effect
+
+- Direct effect: the EU provision becomes the immediate source of law, and doesn't require implementing measures in the national legal order.
+- Van Gend en Loos: private parties can invoke provisions from the EEC Treaty, the Court of Justice recognizes that Community law creates obligations and rights for individuals.
+- Van Gend en Loos rule: the treaty rule was a clear, unconditional prohibition that didn't require further implementation (no discretion for MS to adapt it).
+- Conditions for direct effect vary on the source of law, but in general, only provisions that only contain aim-setting norms, that establish new institutions, or that are subject to considerable discretion by MS are excluded.
+
+*** Direct effect: sources of law
+
+- Treaties: the key Treaty provisions (freedoms, competition law, State aid, equal pay) have direct effect in all types of legal relationship.
+- Charter: they can have direct effect in vertical ascending relationships (they limit State power) and sometimes horizontal relationships (discrimination, paid leave), but they tend to be too vague for the direct effect doctrine.
+- Regulations: they may or may not be directly applicable (i.e., not require implementing measures), direct effect is presumed, and applies to all legal relationships (vertical and horizontal) (163).
+- Decisions: addressed decisions have direct effect if they're clear, precise and unconditional, but only in vertical relationships.
+
+*** Direct effect: directives
+
+- Treaties and regulations: enjoy full direct effect.
+- Decisions and directives: the type of legal relationship matters (164).
+- Van Duyn: directives can be vertically directly effective (citizens can use a directive against the State).
+- Estoppel doctrine: directives can't be directly effective in reverse vertical relationships (a State must implement a directive in order to enforce it).
+- Marshall: directives can't be directly effective in horizontal relationships because they only impose obligations on MS.
+- However, there is a number of exceptions that increase the scope of direct effect for directives.
+- Scope of vertical relationships: relationships with any organization or body under the control of the State, and the State itself acting in private capacity are always considered vertical, and not horizontal.
+- Mangold: if a directive contains a general principle of law, the principle is applicable horizontally.
+- Indirect effect: also known as consistent interpretation, the same result that would be achieved by the direct effect of a directive in a horizontal relationship can be achieved by consistent interpretation.
+
+** 2022-12-01
+
+*** Judicial control
+
+- Jurisdictional control: is strictly related to the rule of law, which can be enforced both at the supranational (EU) and national (MS) level, based on the principle of sincere cooperation (cf. preliminary ruling mechanism).
+- EU judicial institutions: Court of Justice, and General Court (court of first instance) (283, 284).
+- Advocate generals: deliver impartial opinions on points of law, which aren't legally binding.
+- Private applicants: direct access to the Court of Justice is subject to stringent requirements, it's possible to challenge EU acts before a national judge who can then use the preliminary reference mechanism.
+- Jurisdiction: the Court has full jurisdictions in most EU matters, except for Common Foreign and Security Policy matters, and acts of the European Council and Council determining that a MS has committed a serious and persistent breach of fundamental values.
+
+*** Action for damages
+
+- Aim: obtain award in damages, not a declaratory action.
+- Standing: any party, including natural and legal persons, with no limitations on standing.
+- Time limit: 5 years from the event giving rise to liability.
+- Despite the generous conditions, it's rarely successful due to the strict interpretation of the conditions.
+- Conditions: unlawful act by an institution, actual damage suffered by the applicant, causal link between the act and the damage.
+- Unlawful act: if the institution has discretion the breach needs to be manifest and grave, if the institution has no discretion the mere infringement of EU law is enough for liability.
+
+*** Infringement procedure
+
+- Purpose: restore the rule of law, not compensate the victims (but can be used together with the action for damages), or punish the MS (but it's possible to impose sanctions).
+- Applicants: usually the Commission (which is neutral), MS can be applicants but rarely are for political reasons.
+- Frankovich doctrine: private parties can sue MS in damages before national courts (289).
+- Commission: can start proceedings if if considers that a "Member State" has failed to "fulfill a Treaty obligation".
+- "State": includes any public body or private entity controlled by the State.
+- "Failure to fulfill a Treaty obligation": includes actions, omissions, and obligations imposed by secondary legislation, international agreements, and general principles of law.
+
+*** Infringement procedure: phases
+
+- The Commission enjoys full discretion in whether and when it should start proceedings, it can rank infringements and choose not to pursue some of them (291), these choices can't be challenged.
+- Administrative stage: the Commission sends a letter of formal notice, defines the subject matter so that the State can respond with observations, responds back with a detailed opinion (which may enlarge the scope of the subject matter), and the State has to comply with the opinion by a certain deadline.
+- Judicial stage: is triggered if the State doesn't comply with the opinion, the Court will declare whether the State has breached EU law, and can adopt interim measures.
+- The Court only cares about the objective breach of EU law, State defenses are generally unsuccessful (292).
+
+*** Infringement proceedings: sanctions
+
+- Failure to comply with the Court's judgment results in the imposition of a penalty (292), calculated on the basis of the population and economic relevance of the State in the EU, and duration of severity of the breach.
+- Sanctions are executed by withholding money that would've been granted to the MS.
+
+** 2022-12-05
+
+*** Annulment action
+
+- Time limit: two months from the publication or knowledge of the act, to limit uncertainty (294).
+- Reviewable acts: must be "legally binding", includes legislative and non-legislative acts, excludes recommendations and opinions.
+- Non-formalistic approach: form or title are irrelevant, only the production of legal effect is relevant, each act must be interpreted individually.
+- Acts must come from EU institutions, MS can't be defendants (295).
+
+*** Annulment action: standing
+
+- Privileged applicants: the Member States, Parliament, Commission and Council can bring proceedings unconditionally (296).
+- Semi-privileged applicants: Court of Auditors, ECB and Committee of the Regions can only bring proceedings if their prerogatives are at stake.
+- Non-privileged applicants: include natural and legal persons, there are strong limits to their participation to avoid overloading the court of justice (297).
+- Non-privileged applicants who are addressees have automatic standing, non-addressees need to meet the general standing test, or the Lisbon standing test (297).
+
+*** Annulment action: general standing test
+
+- Non-addressees can challenge acts of "direct and individual concern".
+- Individual concern: the attributes or circumstances of a certain person differentiate them from everyone else, as if they were directly addressed (298).
+- If the person is part of an "open category" of people, and others could join this category at any time, they are not individually concerned (299).
+- The test is restrictive, and individuals who don't meet it can try to bring proceedings before a national court, and ask for a preliminary reference (302).
+- However, it's not always possible to start proceedings, and it's not guaranteed that the judge will ask for a preliminary ruling, leading to situations of denial of justice (304).
+- Direct concern: there is a direct casual relationship between the act and the effect on the applicant, and the applicant has no discretion in adopting or implementing it.
+
+*** Annulment action: Lisbon test
+
+- Lisbon Treaty: introduced the possibility for non-addressees to bring an action against "regulatory acts" that are of direct concern and that don't require implementing measures.
+- The Lisbon test doesn't require individual concern, which should improve the ability of non-privileged applicants to challenge EU acts (305).
+- Regulatory act: the Court defined them as acts of general application (as opposed to individual acts), and non-legislative (not adopted according to the OLP or SLP).
+- Direct concern: there is no discretion on part of the addressee in implementing the act.
+- Doesn't require implementing measures: if implementation is required, then one should bring an action against who implemented it, this requirement is interpreted in a formalistic way (absolutely no implementing measures).
+
+*** Annulment action: grounds for annulment
+
+- Lack of competence: the institution lacked the power to adopt an act, and didn't have an appropriate legal basis.
+- Infringement of an essential procedural requirement: breach of a rule that could influence the content of the act.
+- Infringement of the Treaties, or rules related to their application: includes the Treaties, international agreements, customary international law, general principles of EU law, rules of secondary EU law.
+- Misuse of powers: the act isn't a proper use of the powers assigned to the EU, this has to be proven by the applicant.
+
+*** Annulment action: effects
+
+- Ex tunc: the effect of annulment is from the adoption of the act, and it will be treated as if it had never existed (312).
+- Exceptions: the court can preserve some effects of the act to protect the legitimate expectations of the parties.
+
+*** Action for failure to act
+
+- Complement to the action for annulment, it's used when an institution failed to adopt an act when it was required to do so (312).
+- Prerequisite: the institution must have been called upon to act (312).
+- Time limit: two months after the pre-litigation phase.
+- Applicants: are divided in privileged (EU institutions, MS) and non-privileged (private parties).
+- Purely declaratory nature: it only results in a declaration that the law has been breached, without the further effects that other remedies would have.
+
+*** Preliminary reference
+
+- Preliminary reference procedure: is non-contentious, and a form of collaboration between national courts and the Court of Justice, it's not based on a hierarchical relationship, but the separation of tasks.
+- Purpose: ensure that EU law is applied uniformly (316).
+- "Court or tribunal of a Member State": certain factors (established by law, permanent, binding jurisdiction, independent, procedure must be inter partes, court must apply the rule of law, must be independent) (317, 318).
+- Courts performing administrative functions can't ask for a reference.
+- Administrative bodies that perform a judicial function can ask for a reference.
+- Arbitration bodies can request references if they're permanent and they have obligatory jurisdiction by law.
+- Other requirements: the court and tribunals can only refer a question if there's a pending case, and the proceedings will result in a judicial decision (318).
+
+*** Preliminary references: on interpretation and on validity
+
+- Interpretation: can concern both binding and non-binding acts, including the interpretation of general principles, and international treaties.
+- The Court can't declare national law invalid (outside of infringement proceedings), but national judges can ask for an interpretation to determine whether national legislation is against EU law (318).
+- Validity: can only concern binding acts, only the Court can declare a EU act invalid, national judges can always confirm the validity of EU acts (and not make a reference) (319).
+- Preliminary references on validity are an alternative for annulment proceedings, but there are limits (the measures may not require national implementing acts, the applicant would have to break the law, national law makes it difficult or impossible to challenge national measures implementing EU law).
+- The Court thinks it's the national courts' duty to ensure effective judicial protection in fields covered by EU law.
+
+*** Preliminary references: discretion to refer
+
+- National courts "may" make a reference, and the Court of Justice can't interfere in this discretion (321).
+- Limitations: there is no real dispute (the proceedings were started only to trigger a reference on a certain point of EU law), the referred question is irrelevant to the case, or hypothetical, or unclear or unsubstantiated (322).
+- Obligation to refer: if there would be no remedy against a court (supreme courts, small courts with no appeal).
+- Exceptions: Court already answered the question in a previous case, or the provisions are sufficiently clear and there's no reasonable doubt (which jeopardizes the uniform application of EU law).
+- Illegal EU acts: national Courts still need to refer if they think the EU act is illegal and don't want to apply it, because only the Court of Justice can determine the legality of an act.
+- Liability: if the Court violates its duty to submit a reference, the individual can claim damages from the State for its violation of EU law.
+- Parties only have an advisory role, only the Court decides whether to refer the question.
+
+*** Preliminary references: effects
+
+- Interpretation: binding on the referring court and other courts deciding the same case in the same proceedings, authoritative for other courts and public authorities, but national Courts can always submit a new reference to try and change the Court of Justice's opinion.
+- Act is declared invalid: in theory is only binding on the referring court, in practice it achieves the same result as the action for annulment.
+- Act is declared valid: has no erga omnes effect, since other arguments could be used to question the validity of the act.
