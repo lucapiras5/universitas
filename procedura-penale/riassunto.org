@@ -93,5 +93,61 @@
 - funzione nel procedimento, non usata dal legislatore
 - gradi del giudizio, fasi del giudizio
 
-** 7. Attribuzioni del tribunale
+** 7. Attribuzioni del tribunale (18)
+
+- attribuzione: sottocategoria competenza, tribunale in composizione monocratica o collegiale
+- soppressione del pretore, composizione monocratica come regola
+- ripartizione reati: criteri quantitativo e qualitativo, complementarietà
+- connessione ex art. 12: applicazione regole del procedimento davanti a giudice collegiale a tutti i reati, celebrazione udienza preliminare anche per casi di citazione diretta
+
+** 8. Riunione e separazione dei processi (22)
+
+*** Riunione
+
+- connessione: opera da inizio "procedimento", riunione e separazione operano da inizio "processo", raccoglie processi davanti stesso ufficio giudiziario
+- riunione: opera insieme a connessione, raccoglie processi davanti a stesso giudice, evitano decisioni contrastanti
+- requisiti: processi davanti a stesso ufficio giudiziario, processi in stesso stato e grado, riunione non causa ritardo, casi indicati dalla legge (connessione, art. 371(2)(b))
+- riunione: atto dovuto
+
+*** Accorpamento
+
+- accorpamento: se processi pendono davanti a composizioni diverse dello stesso tribunale, stesse condizioni della riunione, in capo al tribunale in composizione collegiale
+
+*** Separazione
+
+- separazione: giudice separa processo cumulativo se per alcuni imputati si deve attendere, e per altri si può procedere subito alla trattazione, giudice la esclude se riunione è necessaria per accertamento dei fatti
+- accordo tra le parti: giudice la ammette se è utile per accelerare il processo
+
+** 9. Verifica della giurisdizione e competenza (24) 
+
+- verifica: evita rischi di regressione
+- difetto di giurisdizione: situazioni, ordinanza durante fase preliminare, sentenza durante processo
+- incompetenza: per materia (più grave, rilevabile solo durante processo), per territorio e per connessione (entro conclusione udienza preliminare, o se respinta, entro trattazione questioni preliminari)
+- giudizio abbreviato: esclude questioni su competenza territoriale
+- incompetenza per eccesso: meno grave, termine
+- incompetenza per materia derivante da connessione: TODO
+- principio di conservazione degli atti: prove acquisite rimangono efficaci, misure cautelari devono essere riconfermate
+- conflitto fra giudici: positivo o negativo, stesso fatto e stessa persona, giurisidizione o competenza
+- rilevazione: da parte o da giudice, non ha effetti sospensivi
+- risoluzione: iniziativa dei giudici, sentenza della Cassazione, conservazione atti
+
+** 10. Verifica ripartizione attribuzioni (28)
+
+- rilevazione: entro limiti contenuti, udienza preliminare o termine per trrattazione questioni preliminari
+
+** 11. Cause personali di estromissione del giudice (31)
+
+- astensione (giudice ha l'obbligo di non esercitare la funzione giurisdizionale), ricusazione (parti ne richiedono l'estromissione)
+- cause di incompatibilità: leggi di ordinamento giudiziario, codice (relazioni di parentela, affinità o connugio, atti compiuti)
+- atti compiuti: divieto di essere giudice negli altri gradi, di partecipare al giudizio se si è partecipato in precedenza al procedimento, GIP non può essere GUP, altri ruoli che possono compromettere imparzialità (PM, PG, difensore, etc.)
+- cause di astensione e ricusazione: comuni, eccezioni TODO
+- procedimento di astensione: dichiarazione al presidente, senza formalità
+- procedimento di ricusazione: carattere giurisdizionale, dichiarazione di inammissibilità, divieto di pronunciare sentenza
+- accoglimento ricusazione: divieto compiere atti, efficacia atti già compiuti, sostituzione giudice
+- efficacia ordinanze: TODO
+- rigetto ricusazione: condanna a pena pecuniaria facoltativa
+
+** 12. Rimessione del processo (39)
+
+
 
