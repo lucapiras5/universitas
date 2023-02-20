@@ -1,0 +1,39 @@
+#+TITLE: Diritto Amministrativo -- Lezioni febbraio 2023
+#+AUTHOR: Luca Piras
+
+* 2022-02-20
+- Introduzione alla seconda parte del corso.
+- Organizzazione della PA: risorse che utilizza per svolgere le sue funzioni.
+- Persone fisiche: non rilevano per quanto tali all'interno della PA, ma solo in quanto persone che ricoprono un certo ruolo.
+- Persone giuridiche: non è necessaria per il diritto pubblico, le "figure soggettive" ...
+- La personalità giuridica per il diritto privato riguarda la capacità di essere titolari di diritti, la soggettività amministrativa riguarda ...
+** Pluralità delle PA
+- Le PA sono una pluralità ("pubbliche amministrazioni").
+- La Costituzione menziona una serie di soggetti (comuni, province, città metropolitane, regioni...).
+- L'aumento del numero dei compiti dello Stato rende necessaria una maggiore specializzazione delle funzioni dei ministeri.
+- Le /amministrazioni indipendenti/ sono distinte dalle politiche del ministero di riferimento.
+  - Ad es., la Consob.
+- La pubblicizzazione di soggetti privati era diffusa nel passato, e ha portato alla creazione di nuove PA.
+  - Attualmente sarebbe impossibile, a causa della Costituzione.
+  - Ad es., le "leggi crispine" che trasformavano le istituzioni di beneficenza private in soggetti pubblici.
+  - Ad es., gli ordini professionali attualmente sono enti pubblici, inizialmente erano nati come istituzioni private, ma il legislatore ha deciso
+** Riduzione della pluralità
+- I ministeri sono stati accorpati.
+- Molti enti pubblici sono stati privatizzati. Ad es., in fondazioni, etc.
+- Spesso la privatizzazione è stata un'operazione solo formale.
+** Atipicità
+- Gli enti amministrativi sono largamente atipici.
+- Ad es., le amministrazioni indipendenti sono regolate ciascuna dalla propria legge, ed i tentativi di creare una legge quadro sono falliti.
+** Ambito soggettivo
+- Il problema delle norme del diritto legislativo è il loro ambito di applicazione soggettiva.
+- In tempi più recenti, il legislatore indica espressamente l'ambito di applicazione della norma.
+- L'ISTAT pubblica un elenco annuale delle PA.
+- Se l'ente pubblico non è indicato espressamente, vengono usati una serie di indizi:
+  - Nomina pubblica degli organi.
+  - Finanziamento pubblico.
+    - Deve essere considerato insieme agli altri fattori.
+    - Molti organi privati sono finanziati con fondi pubblici, ma non perdono la loro natura privata.
+  - Poteri di vigilanza da parte del potere pubblico.
+  - Esistenza necessaria.
+    - L'ente pubblico serve a svolgere funzioni di interesse generale, e non può disporre liberamente in maniera autonoma della sua esistenza.
+- Il legislatore europeo preferisce un'interpretazione sostanzialistica per definire l'ambito di applicazione delle norme.
