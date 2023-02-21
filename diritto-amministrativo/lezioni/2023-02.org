@@ -37,3 +37,55 @@
   - Esistenza necessaria.
     - L'ente pubblico serve a svolgere funzioni di interesse generale, e non può disporre liberamente in maniera autonoma della sua esistenza.
 - Il legislatore europeo preferisce un'interpretazione sostanzialistica per definire l'ambito di applicazione delle norme.
+* 2022-02-21
+- Riassunto:
+  - Il legislatore spesso rinvia alla legge sull'impiego nella PA, che include un elenco delle PA, o dal 2009, all'elenco delle PA individuate dall'ISTAT.
+  - Se manca l'individuazione espressa, si fa ricorso agli indici di pubblicità.
+** Classificazione degli enti pubblici:
+- Enti pluri-funzionali e mono-funzionali: coincide con la distinzione fra enti territoriali ...
+- Enti territoriali:
+  - Sono costituzionalmente necessari.
+  - Il territorio è un elemento costitutivo dell'ente.
+  - Le collettività all'interno del territorio eleggono gli organi dell'ente.
+  - Sono a fini generali, e si occupano del bene collettivo del territorio di competenza.
+  - Ad es., il comune.
+- Enti mono-funzionali:
+  - Non si occupano di un territorio, ma di una funzione specifica.
+  - Ad es., l'università.
+- Enti a base associativa:
+  - I partecipanti all'ente sono uguali fra di loro.
+  - Ad es., le camere di commercio, le associazioni professionali.
+- Enti a base istituzionale: i partecipanti sono organizzati in maniera gerarchica.
+- Enti a fini strumentali: sono enti specializzati per svolgere una funzione di supporto per un altro ente.
+- Enti indipendenti: non svolgono una funzione di supporto per altri enti.
+- Ente non-economico: svolge solo funzioni pratiche o burocratiche.
+- Ente economico:
+  - Svolge attività di tipo industriale.
+  - A seguito del processo di privatizzazione negli anni '90 sono stati trasformati in S.p.A.
+  - Si applicano regole di carattere privatistico (ad es., le regole sull'impiego).
+*** Vicende degli enti pubblici
+- Istituzione ed estinzione:
+  - Richiedono l'uso di una norma.
+  - Dibattito sugli enti inutili.
+- Accorpamento:
+  - Per raggiungere maggiori livello di efficienza ed economicità si procede all'unione di più enti in uno.
+  - Ad es., la fusione di più comuni, la riduzione del numero di camere di commercio (camera di commercio della Romagna).
+- Successione:
+  - È una conseguenza dell'accorpamento.
+  - Può essere funzionale o territoriale.
+- Privatizzazione:
+  - Un ente viene trasformato in un soggetto privato.
+  - È formale se il soggetto privato rimane ad esistenza necessaria.
+  - È sostanziale se il soggetto privato può decidere se smettere di esistere, oppure no.
+  - Viene usata per esigenze di organizzazione interna, per ragioni di convenienza.
+  - Le c.d. società legali esistono solo perché sono previste da una legge.
+*** Teoria dell'immedesimazione organica, organi
+- Immedesimazione organica: gli atti ed effetti sono imputati all'ente, indipendentemente da quale suo organo siano svolti.
+- Le norme di organizzazione di ogni figura soggettiva (legge o atti interni alla figura soggettiva) individuano quali atti giuridici possono essere adottati, e da quali organi.
+- Ad es., all'interno dell'università le lezioni sono attività materiali, ma la valutazioni degli esami o il conferimento della laurea sono attività giuridiche.
+- Attività di amministrazione:
+  - Si divide in attiva, consultiva e di controllo.
+  - Ogni attività viene svolta da uno o più organi.
+- Riparto delle competenze:
+  - È necessario determinare quale organo ha quali competenze.
+  - Uno dei vizi degli atti è il fatto che sono stati adottati da un soggetto non competente.
