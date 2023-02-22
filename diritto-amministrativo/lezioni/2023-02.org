@@ -63,7 +63,7 @@
   - Svolge attività di tipo industriale.
   - A seguito del processo di privatizzazione negli anni '90 sono stati trasformati in S.p.A.
   - Si applicano regole di carattere privatistico (ad es., le regole sull'impiego).
-*** Vicende degli enti pubblici
+** Vicende degli enti pubblici
 - Istituzione ed estinzione:
   - Richiedono l'uso di una norma.
   - Dibattito sugli enti inutili.
@@ -79,7 +79,7 @@
   - È sostanziale se il soggetto privato può decidere se smettere di esistere, oppure no.
   - Viene usata per esigenze di organizzazione interna, per ragioni di convenienza.
   - Le c.d. società legali esistono solo perché sono previste da una legge.
-*** Teoria dell'immedesimazione organica, organi
+** Teoria dell'immedesimazione organica, organi
 - Immedesimazione organica: gli atti ed effetti sono imputati all'ente, indipendentemente da quale suo organo siano svolti.
 - Le norme di organizzazione di ogni figura soggettiva (legge o atti interni alla figura soggettiva) individuano quali atti giuridici possono essere adottati, e da quali organi.
 - Ad es., all'interno dell'università le lezioni sono attività materiali, ma la valutazioni degli esami o il conferimento della laurea sono attività giuridiche.
