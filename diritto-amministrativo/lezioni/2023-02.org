@@ -89,3 +89,60 @@
 - Riparto delle competenze:
   - È necessario determinare quale organo ha quali competenze.
   - Uno dei vizi degli atti è il fatto che sono stati adottati da un soggetto non competente.
+* 2022-02-22
+** Organi individuali e collegiali
+- Il legislatore è libero di scegliere fra organi individuali e collegiali.
+- *Organi individuali*:
+  - Se prevale l'esigenza di celerità o informalità nelle scelte.
+  - Ad es., il dirigente degli ospedali e aziende sanitarie, introdotti con la riforma della legislazione sanitaria degli anni '90.
+- *Organi collegiali*:
+  - L'organo è maggiormente idoneo a rappresentare interessi diversi, e potenzialmente in conflitto, o non coincidenti, e trovare una soluzione di compromesso.
+  - Gli interessi diversi si possono avere sia nel caso in cui l'organo è eletto, sia nel caso in cui sia nominato. 
+  - Gli organi collegiali possono essere scelti anche per maggiore ponderazione della valutazione, o valutazione da più soggetti che hanno preparazioni tecniche diverse.
+  - Ad es., la commissione per la valutazione della laurea, la commissione per l'assunzione.
+** Assunzione delle decisioni negli organi collegiali
+- Garantisce il corretto funzionamento dell'organo.
+- Prepara le *sedute* dell'organo collegiale, e definisce l'*ordine del giorno* (argomenti su cui i componenti del collegio deliberano).
+- I componenti hanno *ampio diritto di accesso* alle informazioni utili per assumere le deliberazioni.
+- Ogni organo ha le proprie regole sul *quorum* necessario per la decisione.
+- *Quorum costitutivo*:
+  - I *collegi perfetti* sono i collegi che possono funzionare solo con la totalità dei membri.
+  - Si prevedono regole per la sostituzione dei membri che sono assenti, per evitare la paralisi dell'organo.
+- *Quorum deliberativo*:
+  - Astensione: può essere ignorata (chi si astiene non viene considerato ai fini del quorum deliberativo) o equiparata ad un voto negativo.
+** Organi interni ed esterni
+- *Esterni*: gli organi di amministrazione attiva compiono atti con rilevanza esterna.
+- *Interni*: gli organi consultivi e di controllo compiono atti che hanno rilevanza solo all'interno.
+** Organi permanenti e temporanei
+- *Permanenti*: esistono stabilmente nella figura soggettiva.
+- *Temporanei*:
+  - Vengono creati ad hoc per una singola decisione, e vengono sciolti dopo che la decisione è stata presa.
+  - Ad es., le commissioni di esame, di laurea, ecc.
+- *Commissario ad acta*.
+** Relazioni intersoggettive ed inter-organiche
+*** Relazioni intersoggettive
+- *Relazione di autonomia politica*:
+  - Ogni figura soggettiva deve rispettare gli spazi di autonomia riconosciuti dalla Costituzione e dalle leggi alle altre figure soggettive.
+  - Ad es., il comune è un ente autonomo rispetto agli altri enti territoriali.
+  - In caso di *violazione* della sfera di autonomia, esistono dei rimedi.
+  - Ad es., la *Corte Costituzionale* è anche giudice dei *conflitti di attribuzione tra Stato e Regioni*.
+  - Se nell'esercizio del potere amministrativo Stato e Regioni invadono le reciproche sfere di competenza, la Corte può risolvere il conflitto.
+  - Per gli *enti territoriali minori*, il *giudice amministrativo* è competente per i conflitti riguardanti l'esercizio del potere.
+  - I rapporti intersoggettivi sono improntati al *principio di collaborazione e buona fede*.
+  - Ad es., nel caso della costruzione di un'autostrada, la decisione interessa più comuni, e viene presa ad un livello più elevato.
+- *Autonomia funzionale*:
+  - Le *università* hanno una serie di prerogative, previste dalla Costituzione.
+- *Relazione di indipendenza*:
+  - Riguarda il rapporto fra *amministrazioni indipendenti* ed il resto della PA.
+- *Rapporto di direzione*: ...
+- *Rapporto di strumentalità*:
+  - Ad es., le scuole sono enti pubblici, ma sono strettamente dipendenti dal Ministero dell'istruzione.
+*** Relazioni interorganiche
+- *Rapporto di gerarchia*:
+  - È la relazione più stretta fra due organi, dove uno è gerarchicamente sovraordinato ad un altro organo.
+  - L'organo sotto-ordinato ha una propria indipendenza, ed è comunque capace di emanare atti giuridici.
+  - L'*organo sovraordinato ha pieni poteri*, e può impartire *ordini e direttive*, può *delegare funzioni*, può *avocare funzioni* e *annullare atti*.
+  - Nel rapporto di direzione l'avocazione non è ammessa.
+  - Il *ricorso gerarchico* è un ricorso rivolto al superiore gerarchico, per chiedere l'annullamento dell'atto emanato dall'inferiore.
+  - L'annullamento può essere eseguito anche d'ufficio, in autotutela.
+  - È utilizzato più raramente in tempi recenti.
