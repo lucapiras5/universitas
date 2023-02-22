@@ -1,7 +1,7 @@
 #+TITLE: Diritto Amministrativo -- Lezioni febbraio 2023
 #+AUTHOR: Luca Piras
 
-* 2022-02-20
+* 2023-02-20
 - Introduzione alla seconda parte del corso.
 - Organizzazione della PA: risorse che utilizza per svolgere le sue funzioni.
 - Persone fisiche: non rilevano per quanto tali all'interno della PA, ma solo in quanto persone che ricoprono un certo ruolo.
@@ -37,7 +37,7 @@
   - Esistenza necessaria.
     - L'ente pubblico serve a svolgere funzioni di interesse generale, e non può disporre liberamente in maniera autonoma della sua esistenza.
 - Il legislatore europeo preferisce un'interpretazione sostanzialistica per definire l'ambito di applicazione delle norme.
-* 2022-02-21
+* 2023-02-21
 - Riassunto:
   - Il legislatore spesso rinvia alla legge sull'impiego nella PA, che include un elenco delle PA, o dal 2009, all'elenco delle PA individuate dall'ISTAT.
   - Se manca l'individuazione espressa, si fa ricorso agli indici di pubblicità.
@@ -89,7 +89,7 @@
 - Riparto delle competenze:
   - È necessario determinare quale organo ha quali competenze.
   - Uno dei vizi degli atti è il fatto che sono stati adottati da un soggetto non competente.
-* 2022-02-22
+* 2023-02-22
 ** Organi individuali e collegiali
 - Il legislatore è libero di scegliere fra organi individuali e collegiali.
 - *Organi individuali*:
