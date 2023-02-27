@@ -146,3 +146,60 @@
   - Il *ricorso gerarchico* è un ricorso rivolto al superiore gerarchico, per chiedere l'annullamento dell'atto emanato dall'inferiore.
   - L'annullamento può essere eseguito anche d'ufficio, in autotutela.
   - È utilizzato più raramente in tempi recenti.
+* 2023-02-27
+** Relazioni di controllo
+- Potere di sostituzione [...].
+- Esistono numerose norme che rappresentano l'implementazione concreta del potere di controllo.
+** Relazioni temporanee
+*** Delega
+- L'imputazione organica degli effetti si ha in ordine al delegato.
+- Il delegante ha dei poteri di controllo sul delegato.
+- Nell'ambito della delega interorganica (non nella intersoggettiva, per esigenze di certezza del diritto), la giurisprudenza ammette la possibilità di esercitare poteri nell'ambito dei poteri delegati.
+- Ad es., prima della riforma del titolo V lo Stato poteva delegare funzioni alle Regioni.
+- Le deleghe intersoggettive devono essere previste dalla legge.
+*** Avvalimento di uffici
+- Lo Stato utilizza gli uffici dei Comuni per finalità di interesse statale.
+- È un'alternativa più economica al posto di creare un nuovo ente.
+*** Sostituzione
+- Se un livello di governo non prende una decisione entro un termine perentorio, la competenza passa al livello di governo superiore.
+- La norma che prevede il potere di sostituzione può istituire anche un organo straordinario, ad acta.
+  - Ad es., il commissario straordinario che viene nominato quando vengono sciolti gli organi del Comune.
+  - Assume tutti i poteri degli organi sciolti, ma solo per il tempo necessario per procedere alla loro riformazione.
+** Uffici
+- La nozione di "ufficio" fa parte della teoria dell'organizzazione.
+- Specializzazione degli uffici: varia in base alla dimensione dell'ente, enti più grandi hanno uffici più specializzati.
+- Tutti gli organi sono uffici, ma non tutti gli uffici sono organi.
+** Rapporto d'ufficio
+*** Base volontaria o obbligatoria
+- Normalmente si forma su base volontaria, ma in casi eccezionali può essere su base obbligatoria.
+- Ad es., il servizio militare limitava la libertà personale dei cittadini per un anno.
+- Le giurie popolari sono a carattere obbligatorio, ma riguardano il potere giurisdizionale.
+- Attualmente non sembra esistano casi di rapporti d'ufficio su base volontaria.
+*** Rapporti d'ufficio professionale
+- Se è un rapporto di lavoro dipendente.
+- Il rapporto di impiego può essere pubblico o privato.
+*** Rapporti d'ufficio onorari
+- Si stabiliscono a seguito di *elezione* (uffici onorari a carattere elettivo) o *nomina politica*.
+- Ad es., nel comune l'ufficio di sindaco, nelle università gli organi di vertice sono elettivi.
+- Non esistono uffici onorari perenni, sono sempre *temporanei*.
+- Si prevedono *limiti al rinnovo dei mandati* per evitare che si concentrino eccessivamente i poteri.
+  - Normalmente si prevede il limite del secondo mandato, che idealmente porta la persona a comportarsi in maniera da essere rieletta nel secondo mandato.
+  - In alcuni casi si prevede un "mandato secco", più lungo ma non rinnovabile, e può avere effetti controproducenti.
+- La nomina pubblica non è puramente fiduciaria, ma la *legge può imporre requisiti* di professionalità, indipendenza, etc.
+  - Nel secondo caso, chi è in possesso dei requisiti può sindacare la nomina davanti al giudice amministrativo.
+- *Titolarità*: chi è titolare dell'ufficio.
+- *Reggente*: chi sostituisce il titolare dell'ufficio che non può esercitare le proprie funzioni in maniera permanente.
+- *Supplenti*: sono persone che assumono temporaneamente la titolarità dell'ufficio.
+- *Sostituzione*: [...]
+*** Doveri d'ufficio
+- Sorgono dopo che si assume la titolarità dell'ufficio.
+- Devono essere svolti con disciplina ed onore (?), e
+- Il *dovere di esclusività* serve a garantire che le persone si dedichino alla PA.
+- Esiste un *divieto generale di agire in conflitto di interessi*.
+  - La *astensione* opera caso per caso.
+  - La *inconferibilità o ineleggibilità* impedisce alla persona di essere scelta per una certa carica.
+  - La *incompatibilità* impone alla persona di scegliere tra una carica pubblica, e quella che ha già.
+- Sanzioni disciplinari: sono previste se la persona non rispetta i suoi doveri d'ufficio.
+*** Proroga degli organi amministrativi
+- Incostituzionalità della prassi amministrativa [...].
+- Gli atti emanati da organi scaduti sono nulli [...].
