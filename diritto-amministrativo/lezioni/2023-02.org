@@ -203,3 +203,50 @@
 *** Proroga degli organi amministrativi
 - Incostituzionalità della prassi amministrativa [...].
 - Gli atti emanati da organi scaduti sono nulli [...].
+* 2023-02-28
+** Funzionario di fatto
+- Casi in cui i provvedimenti sono nulli e annullabili [...].
+- Beneficiari di effetti favorevoli: l'affidamento dei terzi va tutelato, ed il provvedimento viene considerato efficace [...].
+# Solo in alcuni casi?
+- Voto in collegi: non perfetti (prova di resistenza), imperfetti [...].
+# Effetti del voto in assenza di investitura legittima?
+** Enti territoriali
+*** Stato
+- Inteso come PA statale, fa capo al Governo della Repubblica.
+- I concetti di "amministrazione disaggregata" e di "soggettività giuridica" (invece di "personalità") riguardano solo lo Stato.
+  - Non anche le Regioni, etc.
+  - Data l'ampiezza territoriale e di competenze dello Stato, esistono all'interno della "PA disaggregata" delle "soggettività giuridiche" che fanno parte dello Stato, ma hanno anche una propria soggettività.
+  - Ad es., i ministeri, che fanno parte del Governo.
+*** Governo: Consiglio dei Ministri
+- Il *governo* è il vertice del potere esecutivo.
+- Il *Consiglio dei Ministri* ha anche funzioni propriamente amminstrative.
+- Ad es., l'approvazione dei regolamenti governativi sono approvati dal Consiglio dei Ministri.
+- Ad es., le delibere con cui si determinano i livelli minimi del sistema sanitario.
+*** Governo: Presidente del Consiglio dei Ministri
+- Ha un ruolo principalmente politico, garantire l'unità politica.
+- Ha le normali funzioni dell'organo di vertice, convoca le sedute dell'organo collegiale, etc.
+- La legge gli attribuisce una serie di funzioni amministrative trasversali, non attribuibili ad un singolo ministero.
+- Le funzioni amministrative sono delegate a sotto-segretari, o ai ministri senza portafoglio.
+- Alla costituzione di ogni governo viene nominato il sotto-segretario del PCDM, che svolge anche la funzione del sotto-segretario del CDM.
+*** Governo: singoli ministeri
+- Sono distinti per materia.
+- Il *numero e nome* dei ministeri è previsto dalla legge (d.lgs. 300/1999), non dalla Costituzione (altrimenti sarebbe troppo difficile modificarli).
+- Il numero e nome vengono cambiati all'inizio del governo, con un decreto-legge che viene confermato con legge.
+- Spesso viene cambiato solo il nome per funzioni "promozionali".
+*** Ministri senza portafoglio
+- Sono *ministri senza un dicastero*, non hanno un apparato organizzativo.
+- Svolgono una funzione principalmente politica nei confronti degli altri ministeri.
+- Si distinguono in due tipi:
+  - *Non stabili*, se possono esistere o meno senza conseguenze.
+  - *Stabili*, se *vengono confermati stabilmente*, e sono posti a capo dei dipartimenti della presidenza del CDM.
+- La legge spesso menziona i ministri senza portafoglio "stabili", anche se la loro esistenza non è dovuta alla legge, ma alla prassi. [...]
+# Soluzione al problema?
+*** Sottosegretari nei ministeri
+- La legge prevede solo un limite massimo al numero dei segretari, ma può essere derogato con legge ordinaria.
+- Ogni governo stabilisce il numero e le attribuzioni dei segretari.
+*** Ministri interim
+- Assumono la funzione di ministro quando il ministro non può.
+- Ad es., il ministro è chiamato a svolgere funzioni a livello europeo, etc.
+- Il presidente del consiglio può svolgere lui stesso la funzione di ministro interim.
+*** Uffici di diretta collaborazione
+- Sono nominati su base fiduciaria.
