@@ -1,0 +1,26 @@
+#+TITLE: Diritto Amministrativo -- Lezioni marzo 2023
+#+AUTHOR: Luca Piras
+
+* 2023-03-01
+** Dislocazioni periferiche
+- Alcuni ministeri hanno dislocazioni periferiche.
+  - Ad es., le prefetture e questure per il ministero degli interni, le sovrintendenze, etc.
+- Le prefetture hanno la funzione di *rappresentare il governo*, e *coordinare gli uffici periferici* in modo da garantire l'unitarietà di indirizzo.
+** Coordinamento
+- Esistono forme di *coordinamento procedimentale* e di *coordinamento organizzativo*.
+- Il PCDM è un organo stabile, e dirige e coordina il CDM.
+- [...]
+** Ragioneria dello Stato
+- La ragioneria è unica, esistono ragionerie ministeriali e locali.
+** Avvocatura dello Stato
+- Serve a difendere le amministrazioni dello Stato in giudizio, incluse le amministrazioni indipendenti.
+- Ad es., le multe imposte dalle amministrazioni indipendenti sono quasi sempre oggetto di ricorso, per la loro entità.
+** Agenzia del demanio e tesorerie
+- L'agenzia del demanio si occupa della gestione dei beni dello Stato.
+- I beni non sono di proprietà dei ministeri.
+- La tesoreria è unitaria, e serve a garantire l'unitarietà dei flussi di spesa.
+** Consiglio di Stato
+- In molti casi, prima che il CDM possa deliberare un atto, in alcuni casi deve ottenere un parere preventivo, sempre non vincolante, da parte del Governo.
+- Sezioni, quarta sezione per la giustizia [...].
+** CNEL
+- [...]
