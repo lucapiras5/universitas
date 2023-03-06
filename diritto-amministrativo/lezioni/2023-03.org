@@ -24,3 +24,15 @@
 - Sezioni, quarta sezione per la giustizia [...].
 ** CNEL
 - [...]
+* 2023-03-06
+** Amministrazioni indipendenti
+- Sono sottratte dal controllo politico.
+- Non hanno la natura di giudice, non possono invocare la Corte costituzionale.
+- Sono titolari di una legittimazione processuale straordinaria, e possono impugnare le decisioni della PA che incidono su materie di loro competenza.
+- Garanzie di nomina, revoca limitata [...].
+- Durata di nomina lunghe, per superare la durata degli organi di indirizzo politico.
+- Incompatibilità con altri incarichi [...].
+- Autonomia finanziaria:
+  - Non sono finanziate solo con il bilancio pubblico, per evitare "ricatti" da parte della PA.
+  - Sono finanziate anche dalle imprese regolate.
+- Norme europee prevedono l'istituzione di autorità indipendenti, la competenza a livello centrale (europeo) al raggiungimento di certi limiti [...].
