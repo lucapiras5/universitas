@@ -36,3 +36,40 @@
   - Non sono finanziate solo con il bilancio pubblico, per evitare "ricatti" da parte della PA.
   - Sono finanziate anche dalle imprese regolate.
 - Norme europee prevedono l'istituzione di autorità indipendenti, la competenza a livello centrale (europeo) al raggiungimento di certi limiti [...].
+* 2023-03-07
+** Regioni a statuto speciale
+Gli Statuti speciali precedono la riforma del 2001.  Se prevedono un livello di autonomia minore rispetto alla riforma, sono equiparati, se il livello è maggiore, è mantenuto.
+** Regioni a statuto ordinario
+La Costituzione *obbliga* l'uso del suffragio universale per l'elezione del *presidente*, e lo *permette* per l'elezione del presidente della giunta [...].
+
+Sono previste alcune forme di incompatibilità, ed il principio *simul stabunt, simul cadent*, per cui:
+
+- Se decade il presidente della Regione, decade anche il consiglio regionale.
+- Se più della maggioranza dei componenti del consiglio si dimette, o vota per una mozione di sfiducia contro il presidente, decadono entrambi.
+
+La previsione di *premi di maggioranza* dovrebbe prevenire l'insorgere di conflitti politici.
+** Regioni come amministrazioni
+Sono state istituite con la Costituzione, tradizionalmente [... non esistevano/esistevano solo come limiti territoriali?] e originariamente erano pensate come amministrazioni semplici.
+
+Gli *assessori* ha una serie di *deleghe* dal presidente della giunta.  **Non sono prestabilite dalla legge*, ma dalle decisioni politiche del presidente.  Un assessore può avere più deleghe.
+
+L'amministrazione regionale è basata su *uffici chiamati "direzioni"* che sono stabiliti dalla legge.  La *direzione generale* non è necessaria, ma se è presente coordina le varie regioni.
+
+Regioni di grandi dimensioni riprendono modello statale [...].
+
+Esistono enti pubblici regionali, ad es. le *ASL*, le agenzie per la valutazione dell'impatto ambientale, etc.
+
+Il *difensore civico* è obbligatorio a livello regionale.  Molti comuni preferiscono delegare la funzione di difensore civico comunale al difensore civico regionale.
+
+[...].
+** Poteri del governo
+Il *potere di scioglimento* è circondato da garanzie.
+
+Il *potere di sostituzione* è usato:
+
+- Quando il diritto europeo impone obblighi, e le Regioni ed enti locali rimangono inerti.
+- Per ragioni di incolumità della salute pubblica.
+
+Il *potere di diffida* [...].
+
+Il *potere di annullamento straordinario* non può essere usato nei confronti delle regioni, perché si pone in contrasto con l'autonomia prevista dalla Costituzione.
