@@ -1,0 +1,178 @@
+#+TITLE: Seminari informatica forense A.A. 2022/2023
+
+* Violenza di genere, Codice rosso e braccialetto elettronico (5 aprile 2023)
+
+** Thomas Casadei
+
+# ...
+- Introdotto per risolvere il problema del sovraffollamento carcerario, cfr. critica UE e caso Torregiani.
+- Può essere usato per prevenire concretamente l'avvicinamento per prevenire la violenza di genere, che è caratterizzata dalla reiterazione.
+- Coinvolgimento di tutti le istituzioni..
+
+** Antonio Gammarota
+
+- In teoria, si prevedono semplificazioni che permettono il giudizio immediato, ma in pratica il processo si svolge 1--2 anni dopo il fatto.
+- Misure preventive amministrative: ..., ammonimento del questore.
+- Misure cautelari non custodiali, strumenti di controllo in funzione specialpreventiva e dissuasiva.
+- Braccialetto elettronico: non impedisce il movimento fisico, ha solo efficacia dissuasiva, ed è inefficace se la persona non si lascia intimidire.
+- Esistono braccialetti elettronici a sufficienza, il limite al loro uso è il costo e l'organizzazione necessaria.
+- Si prevedono sanzioni detentive per il mancato rispetto della misura.
+- Impulso spetta alla forza di polizia, si richiede il braccialetto elettronico al C.E.M.
+- Monitoraggio:
+- Tracciamento: il braccialetto tiene traccia degli spostamenti, solleva allarme quanndo il soggetto entra in zone di esclusione, o esce da zone di inclusione.
+- Tracciamento di prossimità: anche la vittima ha un braccialetto elettronico e rilevatore di prossimità, che si attiva quando l'aggressore si avvicina alla vittima.
+- Mobile angel: collegamento diretto fra la vittima e le forze di polizia, è preimpostato, non è previsto né regolato dalla legge, prescinde da un provvedimento applicativo; è essenzialmente la stessa cosa di chiamare la polizia da privato.
+- Ipotesi di riforma: sono decadute, si prevedeva l'eliminazione della necessità di verificare la disponibilità dei braccialetti, di prevedere la possibilità di usare la flagranza differita.
+
+** Ulrico Bardari
+
+- Monitoring unit: rimane dentro la casa del soggeto
+- Personal identification device: il "braccialetto elettronico".
+- GPS tracking device: permette di stabilire anche la posizione del soggetto.
+- Home station: ...
+- Monitoraggio RF: fra PID e MU.
+- Si può avere una MU singola e più PID, o più MU e un PID.
+- Coprifuoco: zone di esclusione.
+
+* Criptovalute
+
+** Jacopo Della Torre
+
+*** Nozione di criptovalute, uso criminale
+
+- Criptovalute: funzionano senza un intermediario centrale che garantisca il valore dei beni, o garantisca le transazioni.
+- Blockchain: garantisce le transazioni, è stata definita dal legislatore (art. 8-ter d.l. 135/2018).
+- Rapporto criptovalute-criminalità: le criptovalute sono difficili da regolare, sono altamente decentralizzate e disponibili ovunque, sono anonime.
+- Chainalysis: stima l'uso delle criptovalute tra il 2020 e 2021 nel mercato illegale in 20 miliardi.
+- Febbraio 2022: sequestro di $3.6 mld, uno dei sequestri più importanti.
+
+*** Sfide investigative
+
+- Deanonimizzazione delle transazioni: le transazioni Bitcoin sono pubbliche, le transazioni Monero sono più private.
+- Sistemi di analisi della blockchain: si consiglia l'utilizzo anche ai privati per l'adempimento degli obblighi di controllo antiriciclaggio.
+- Deanonimizzazione ex post: va ad incidere sui dati personali,
+- Deanonimizzazione live: in teoria è paragonabile ad un'intercettazione, non ci sono casi giurisprudenziali che la analizzano.
+- U.S. v. Gratkowki: la blockchain è pubblica, non serve un decreto autorizzativo per analizzare la blockchain e determinare l'identità del proprietario.
+- Sequestro di criptovalute: serve spostare la criptovaluta su un conto "statale" per evitare che venga spesa, difficoltà di sequestro all'estero, etc.
+- Disciplina antiriciclaggio: viene usata per prevenire l'uso illegittimo delle criptovalute, obblighi per i gestori di servizi relativi alle criptovalute.
+- Cassazione: ritiene che i reati di riciclaggio, antiriciclaggio, etc. sono configurabili anche con l'utilizzo di criptovalute.
+- Regolamento Mi-CA ...
+- Cooperazione: fra Stati, per quanto riguarda le investigazioni (secondo protocollo addizionale, Convenzione di Budapest).
+- Specializzazione: ad es., Virtual Asset Exploitation Unit nella FBI istituita nel 2022.
+- Diritti fondamentali: rispetto del principio di legalità, parità delle armi, difesa.
+
+** Emanuele Florindi
+
+*** Follow the money, fasi del riciclaggio
+
+- All The President's Men, Deep Throat; Metodo Falcone: "follow the money".
+- Placement:
+  - Fase più pericolosa, consiste nella collocazione fisica del denaro nel circuito bancario.
+  - Più difficile oggi, esistono sistemi di tracciamento, i direttori di banca fanno domande sulla provenienza del denaro, etc.
+- Layering:
+  - Fase di pulizia del denaro, "lavaggio" del denaro sporco.
+  - Fase più modificata dalle criptovalute.
+- Integrato:
+  - Fase più pericolosa per la società civile, il denaro riciclato è meno "costoso" del denaro legale.
+- Riciclaggio digitale parziale.
+- Riciclaggio digitale totale: elimina la fase di placement, serve solo giustificare il pagamento digitale iniziale.
+
+*** Alt-coin tradizionale, modalità di riciclaggio digitale
+
+- Alt-coin: valute diverse dal denaro, le "alt-coin" tradizionali (ricarica telefonica, buoni pasto, carte di ricarica Amazon, valute virtuali nei videogiochi, etc.) sono facilmente acquistabili, non richiedono un documento, sono trasferibili senza controlli.
+- Libri falsi su Amazon: libri falsi contenenti sequenze casuali di lettere vengono pubblicati usati per muovere denaro, vengono scoperti perché venivano venduti per migliaia di dollari, usato principalmente negli Stati Uniti.
+- AirBnB: usato in Russia e all'estero.
+- Uber fantasma: si usa in Russia, mediante GPS spoofing.
+- Counter-Strike: la vendita di oggetti era usata per riciclare denaro.
+
+*** Consigli per la verifica
+
+- Transazioni E-Bay: transazioni non seguite da trasferimento di beni, o transazioni per valori sproporzionati al bene di uso comune, in maniera ripetuta (per escludere l'eventualità che una persona sia disposta a pagare una cifra elevata per un oggetto).
+- Incongruità negli spostamenti: ad es., un soggetto si trova contemporaneamente, o si sposta troppo rapidamente, in due posti diversi.
+- Incongruità nei consumi: ad es., un locale è affittato a più persone, ma i consumi non aumentano in maniera proporzionata al numero di persone.
+
+*** Criptovalute
+
+- Latenza: almeno 10 minuti per il Bitcoin.
+- Irrevocabilità: della transazione, serve un rapporto fiduciario fra i due utenti, nel dark web si usa un soggetto terzo, gli escrow service.
+- Escrow service: introduce un ulteriore livello di anonimato fra i due soggetti.
+- Alt-coin: riducono il tempo di creazione di un blocco a 1 minuto.
+- Wallet: non contiene criptovalute, ma solo le chiavi di accesso.
+- [[demoblockchain.org][demoblockchain.org]]
+- Nonce: generato casualmente, fino a quando l'hash del blocco ha un certo numero di zeri all'inizio.
+- Merkle tree: ogni blocco convalida tutti i blocchi precedenti.
+- Trasparenza: l'intera blockchain è trasparente, affinché si possano verificare le transazioni.
+- Chiave pubblica e privata: la chiave pubblica è per ricevere pagamenti, la chiave privata è per effettuarli, possono essere rappresentati con QR code.
+- Chiave privata: non viene salvata, non è derivabile dalla chiave pubblica, se si trova solo la chiave pubblica si può solo dimostrare che una certa persona sta ricevendo pagamenti, se si sequestra la chiave privata non si sequestrano automaticamente i Bitcoin, dopo aver sequestrato la chiave serve anche spostare i Bitcoin in un server privato.
+- Software wallet: gestiscono i pagamenti, possono introdurre un sistema di pseudo-anonimizzazione che generano una nuova chiave per ogni transazione, e quindi diventa più difficile tracciare i pagamenti e ricondurli ad una persona.
+- Hardware wallet: maggiore livello di sicurezza, ma può essere perso o sequestrato.
+
+*** Wallet: aspetti operativi
+
+- Durante una perquisizione, serve fare attenzione a fogli con codici QR, stringhe, wallet hardware.
+- Serve acquisire i contatti Whatsapp e Signal.
+
+*** Criminalità e criptovalute
+
+- Tracciabilità: è possibile recuperare qualsiasi transazione Bitcoin, ed è possibile verificare tutte le operazioni effettuate da un indirizzo, questo scoraggia il loro utilizzo.
+- Monero: è creato appositamente per garantire la privacy.
+- È difficile bloccare l'uso di criptovalute private, anche perché è difficile rilevarne l'uso, sarebbe meglio concentrarsi sull'analisi e deanonimizzazione.
+
+** Giulia Lasagni
+
+*** PPP, problemi relativi
+
+- Public-private partnership: cooperazione fra pubblico e privato, il privato si trova nella posizione migliore per avere le informazioni rilevanti per il contrasto al riciclaggio, il problema è l'interesse che ha a condividere le informazioni con l'autorità pubblica.
+- Sanzioni: possono essere usate per condizionare le banche a condividere informazioni, si pone il problema delle banche che comunicano tutto alle banche per evitare sanzioni, ma l'eccesso di dati genera inefficienza.
+- Standard di segnalazione: non sono omogenei, difficoltà di definizione di "operazione sospetta", dipende dal contesto e varia nel tempo.
+  - Ad es., durante la pandemia il prelievo al bancomat veniva considerato un'operazione sospetta, perché violava l'obbligo di restare a casa.
+  - I docenti universitari che ricevono pagamenti dall'estero e si spostano spesso sono considerati soggetti sospetti.
+  - Liste di "sospetto intermedio", vengono aggiornate constantemente.
+- Risorse limitate: le financial intelligence unit (FIU; in Italia, la Banca d'Italia) hanno risorse limitate.
+- Altre criticità: le banche possono cercare di aggirare gli standard probatori, la ricerca di informazioni può violare i diritti fondamentali.
+
+*** Classificazione delle PPP
+
+- Tipi di PPP:
+  - Investigative PPP: condividono informazioni personali.
+  - Compliance PPP: condividono modelli per l'analisi dei dati.
+- Autorità con cui si collabora:
+  - Autorità giudiziarie o di polizia.
+  - FIUs.
+- Obiettivo:
+  - Operazioni di intelligence.
+  - Raccolta di prove.
+
+*** Esempi di programmi di PPP
+
+- Joint Money Laundering Intelligence (Regno Unito, 2015)
+  - Condivisione di informazioni personali a fini di intelligence/
+  - Informazioni rimangono all'interno della PPP.
+- FinCEN Exchange Program (Stati Uniti, 2017)
+  - Su base volontaria, le banche si scambiano informazioni e modelli di rischio.
+  - Scopi: migliorare la qualità delle segnalazioni, evitare scambi di
+- Francia: condivisione dei dati dal 2016, conversione in PPP dal 2019.
+- Europa e resto del mondo: altri programmi analoghi.
+- Italia: non esiste ancora un PPP formalizzato.
+- Unione Europea: linee-guida del 2022, indicano le prassi che si sono affermate, sono generiche per quanto riguarda la protezione dei dati personali.
+
+*** PPP e criptovalute
+
+- PPP specifica: esistono PPP specifiche per particolari tipi di reato, sarebbe possibile crearne una specifica per le criptovalute.
+  - Serve determinare quali operatori coinvolgere, perché sono nella posizione migliore per quanto riguarda le informazioni da condividere.
+- ...
+
+*** Scenari possibili e criticità
+
+- Compliance PPP: aumentano l'efficienza di segnalazione delle operazioni.
+- Investigative PPP:
+  - Problema delle de-risking practices, per cui i soggetti sottoposti ad investigazioni sono discriminati dal punto di vista dei servizi offerti.
+  - Scambio di informazioni consiste in trattamento dei dati, ma senza una copertura legislativa, viola il diritto alla privacy (in generale, e all'interno della procedura penale, quando la violazione della privacy rende inammissibile la prova?).
+- Intelligenza artificiale: per l'analisi delle operazioni sospette.
+
+** Domande
+
+- Svalutazione della criptovaluta:
+  - Si potrebbe rimettere alla difesa la scelta se vendere o meno le criptovalute, invece di applicare l'art. 260 co. 3 cpp. in maniera indiscriminata, dato che il valore della criptovaluta varia in continuazione ed in maniera imprevedibile.
+  - Se il valore della criptovaluta aumenta, sarebbe comunque un profitto illecito, e rimarrebbe sequestrato.
+  - Se il valore diminuisce, l'autorità potrebbe essere disincentivata a fare sequestri, dato che il soggetto potrebbe chiedere un risarcimento per il valore perso se venisse riconosciuto innocente in seguito.
