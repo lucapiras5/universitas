@@ -176,3 +176,9 @@
   - Si potrebbe rimettere alla difesa la scelta se vendere o meno le criptovalute, invece di applicare l'art. 260 co. 3 cpp. in maniera indiscriminata, dato che il valore della criptovaluta varia in continuazione ed in maniera imprevedibile.
   - Se il valore della criptovaluta aumenta, sarebbe comunque un profitto illecito, e rimarrebbe sequestrato.
   - Se il valore diminuisce, l'autorità potrebbe essere disincentivata a fare sequestri, dato che il soggetto potrebbe chiedere un risarcimento per il valore perso se venisse riconosciuto innocente in seguito.
+
+* Digital forensics nel contesto di guerra
+
+- FTK Imager è stato compromesso varie volte.
+- Cellebrite e Signal [...].
+- Non esiste una sicurezza e affidabilità al 100%, serve valutare il contesto della prova.
