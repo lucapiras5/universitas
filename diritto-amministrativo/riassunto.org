@@ -1,0 +1,788 @@
+#+TITLE: Diritto Amministrativo
+
+* C 03 - Rapporto giuridico amministrativo
+
+** 1. Interessi pubblici, funzioni, attività amministrativa
+
+- Tipi di interessi: privati, collettivi, diffusi
+- Interessi pubblici: riconosciuti da Costituzione o legge, curati da apparati istituiti dalla legge, bilanciati fra di loro, graduabili in base alla importanza
+- *Funzioni amministrative*:
+  - Legge conferisce i compiti, e le risorse e poteri necessari agli apparati amministrativi
+- *Attività amministrativa*:
+  - Attività materiali o giuridiche
+  - Doverose, responsabilità per mancato esercizio
+  - Riguarda l'attività complessiva, non i singoli atti e provvedimenti
+  - Amministrazione di risultato, amministrazione per atti
+  - Attività amministrativa in forma privatistica, elusione del regime di diritto amministrativo
+
+** 2. Potere, provvedimento, procedimento
+
+- Potere:
+  - Potere amministrativo, legislativo, giurisdizionale
+  - Manifestazione di volontà unilaterale, produce effetti giuridici per i destinatari
+  - Si aggiunge alla capacità giuridica di diritto comune
+  - Potere in astratto (elementi costitutivi, inesauribile, mancanza assoluta del potere)
+  - Potere in concreto (situazione di fatto conforme al potere in astratto, esercizio doveroso del potere)
+  - Unilateralità: derogabile, possibilità di accordi
+  - Inesaurbilità: limitata da termini perentori di conclusione del procedimento
+- Atto e provvedimento:
+  - Definizione elaborata dalla dottrina
+  - Atti autoritativi: sottoposti a controllo giurisdizionale, annullabili (vizi, lesione interessi legittimi), produzione unilaterale di effetti
+  - Atti non autoritativi: regime privatistico
+  - Atto: ogni dicihiarazione di volontà, includono anche atti strumentali e accessori
+  - Provvedimento: atto che cura interessi pubblici e produce effetti giuridici
+- Procedimento:
+  - Sequenza di atti e operazioni previste dalla legge
+  - Si conclude con emanazione di un provvedimento imperativo
+
+** 3. Rapporto giuridico amministrativo
+
+- Rapporto bilaterale
+- Riconducibile a diritto potestativo stragiudiziale:
+  - Categoria del diritto privato
+  - Dichiarazione di volontà che modifica unilateralmente la sfera giuridica di altri
+  - Accertamento giudiziale in via posticipata
+- Specificità:
+  - Potere amministrativo trova fondamento nella legge, non in un accordo fra privati
+  - Apprezzamento discrezionale del contenuto ed effetti del provvedimento, giudice può solo annullare il provvedimento
+
+** 4. Norma attributiva del potere
+
+- *Soggetto competente*:
+  - Specifico soggetto e organo a cui il potere è attribuito
+- *Fine pubblico*:
+  - Espresso o implicito, deve essere rispettato (eccesso di potere)
+- *Requisiti sostanziali*:
+  - Situazione in cui va esercitato il potere
+  - Poteri integralmente vincolati, in bianco (discrezionalità)
+  - Concetti giuridici indeterminati: empirici (valutazione tecnica), di valore (sensibilità soggettiva)
+  - Diritto di ultima decisione: interpretazione dei concetti giuridici indeterminati da parte del giudice
+- *Requisiti formali*:
+  - Forma degli atti, procedimento da seguire
+- *Termini*:
+  - Termine per l'avvio, per la conclusione del procedimento, termini endoprocedimentali
+  - Natura ordinatoria, poteri sostitutivi, sanzioni disciplinari
+- *Effetti*:
+  - Costituzione, modificazione ed estinzione di situazioni giuridiche
+- *Interessi legittimi*:
+  - Menzionati di rado, difficoltà di distinguerli dagli interessi di fatto
+
+** 5. Potere discrezionale
+
+*** Discrezionalità
+
+- Caratteristica tipica del potere amministrativo
+- Situazioni concrete: presentano sempre un grado di contingenza ed imprevedibilità
+- Privato: non può valutare da solo gli interessi, casi di controllo successivo (SCIA)
+- Potere vincolato: atto ha natura dichiarativa e non costitutiva degli effetti, i poteri "propri" sono discrezionali
+- Fine pubblico: deve essere rispettato dall'amministrazione (i privati sono liberi nei fini)
+- *Bilanciamento*:
+  - Interesse pubblico primario (interesse da realizzare)
+  - Interessi secondari rilevanti (pubblici o privati, indicati dalla legge o che emergono con l'istruttoria)
+- Elementi della discrezionalità:
+  - Se: esercitare il potere
+  - Contenuto: del provvedimento (condizioni, prescrizioni)
+  - Modalità: di adozione del provvedimento (nei limiti imposti dalla legge)
+  - Quando: momento più opportuno per esercitare il potere (rispettando il termine massimo)
+- Potere vincolato: in astratto, in concreto
+- Autovincolo: predeterminazione dei parametri per l'esercizio della discrezionalità
+
+*** Merito amministrativo
+
+- Dimensione residuale: ambito di valutazione dopo l'applicazione dei limiti e criteri
+- Controlli amministrativi:
+  - Di legittimità: merito insindacabile, riserva di amministrazione
+  - Di merito: pochi casi tassativi
+- Responsabilità del funzionario:
+  - Per atti commessi con dolo e colpa grave, merito è insindacabile
+
+*** Valutazioni tecniche
+
+- Valutazioni tecniche e scientifiche: margini di opinabilità, riguardano l'accertamento dei fatti, non il merito amministrativo
+- Discrezionalità tecnica: termine improprio, manca volontà
+- Controllo del giudice: valutazione estrinseca (vizi logici), intrinseca (limitata, attendibilità dei metodi)
+- Discrezionalità mista: valutazione tecnica sia per l'accertamento del fatto, sia per la valutazione degli interessi
+- Meri accertamenti tecnici: fatti verificabili in maniera univoca
+
+** 6. Interesse legittimo
+
+*** Rilevanza
+
+- Menzionato nella Costituzione, situazione giurudica soggettiva fondamentale
+- Giurisidzione amministrativa: interessi legittimi, eccezionalmente diritti soggettivi
+- Introduzione: 1889, legge che attribuisce al Consiglio di Stato il potere di decidere ricorsi contro atti e provvedimenti illegittimi che hanno per oggetto interessi
+
+*** Ricostruzioni
+
+- Diritto affievolito:
+  - Provvedimento autoritativo illegittimo: degrada il diritto soggettivo in interesse legittimo
+  - Diritti in attesa di espansione: spettano già al soggetto, il loro esercizio è subordinato all'esercizio di un potere dell'amministrazione
+- Interesse occasionalmente protetto:
+  - Interesse legittimo esiste solo se esiste un interesse pubblico
+  - Conformità dell'attività alla norma di azione, e possibilità di influenzare il potere in maniera a sé favorevole
+- Ricostruzioni moderne:
+  - Cass. n. 500/1999: natura sostanziale dell'interesse legittimo, risarcimento in caso di lesione
+  - Azione di adempimento: condanna dell'amministrazione a emanare il provvedimento richiesto
+  - Vincoli all'esercizio del potere: tutela dell'interesse privato
+- Definizione sintetica:
+  - Situazione giuridica soggettiva, collegata all'esercizio del potere della PA
+  - Attribuisce poteri e facoltà per influire sull'esercizio del potere (partecipazione, doveri comportamentali della PA)
+  - Pretesa all'esercizio legittimo, e per quanto possibile favorevole, dell'azione
+
+** 7. Interessi legittimi oppositivi e pretensivi
+
+-
+
+** 8. Distinzione fra diritti soggettivi e interessi legittimi
+
+-
+
+* C 04. Provvedimento
+
+** 12. Invalidità
+
+*** Nozione
+- Difformità fra legge e provvedimento:
+  - Irregolarità: atto regolarizzabile
+  - Invalidità: atto annullabile, nullo
+- Diritto amministrativo:
+  - Nullità: casi tassativi
+  - Annullabilità: provvedimento illegittimo, produce comunque effetti
+*** Tipi di invalidità
+- Invalidità totale:
+  - Intero atto
+- Invalidità parziale:
+  - Estensione a parti strettamente dipendenti
+- Invalidità propria:
+  - Vizi atto stesso
+- Invalidità derivata:
+  - Caducante (consequenzialità diretta e necessaria, travolge automaticamente atto derivato)
+  - Invalidante (impugnazione atto derivato per far valere invalidità atto originale)
+- Invalidità originaria:
+  - Dalla creazione atto
+- Sopravvenuta: legge retroattiva, interpretazione autentica, illegittimità costituzionale
+*** Giurisprudenza
+- Eccesso di potere: inteso come sviamento di potere, cattivo esercizio del potere, giudice amministrativo
+- Carenza di potere: mancanza norma di relazione, lesione diritto soggettivo, giudice ordinario
+
+** 13. Annullabilità
+
+- Tutela giurisdizionale: non limitabile a determinate materie, atti
+- Conseguenze annullamento:
+  - Efficacia retroattiva, differibile per prevenire danni maggiori
+  - Vizio procedurale, vizio sostanziale
+- Profili processuali: termine breve, principio dispositivo
+
+** 14. Incompetenza
+
+- Sottospecie violazione di legge, maggiore disvalore
+- Tipi:
+  - Relativa: organo competente appartiene a stessa branca, settore, plesso organizzativo, inteso anche come più enti preposti alla stessa funzione
+  - Assoluta: carenza di potere
+  - Per materia, per grado, per territorio
+
+** 15. Violazione di legge
+
+- Categoria residuale
+- Vizi formali, vizi sostanziali
+- Divieto di annullabilità:
+  - Potere vincolato in astratto/concreto, assenza del vizio non cambierebbe contenuto
+  - Poteri discrezionali in astratto, omessa comunicazione di avvio, destinatario non dimostra che mancata comunicazione ha influito su contenuto
+  - Difetto di motivazione: sempre considerato vizio invalidante
+  - Atti meramente illegittimi: illegittimi, ma non annullabili
+- Tutela risarcitoria: non percorribile
+
+** 16. Eccesso di potere
+
+- Provvedimenti discrezionali, violazione vincolo fine pubblico
+- Difficile da provare, figure sintomatiche
+*** Figure sintomatiche
+- Errore o travisamento fatti: erronea percezione realtà materiale, anche involontaria
+- Difetto di istruttoria: istruttoria incompleta, atto può avere stesso contenuto
+- Difetto di motivazione:
+  - Motivazione insufficiente, valutazione caso per caso
+  - Punto di fatto/diritto risolutivo, basta riferimento sintetico
+  - Illogica o contraddittoria, poco chiara
+  - Mancanza motivazione: violazione di legge
+- Contraddittorietà:
+  - Interna: fra premesse e conclusione
+  - Esterna: fra provvedimenti diversi
+- Disparità di trattamento:
+  - Trattazione casi uguali in maniera uguale, casi diversi in maniera diversa
+  - Richiede discrezionalità
+- Violazione norme interne:
+  - Mancato rispetto circolari, prassi, atti di pianificazione, autovincoli
+  - Mancanza giustificazione per mancato rispetto
+- Ingiustizia grave e manifesta:
+  - Rimedio equitativo
+*** Natura giuridica
+- Presunzioni civilistiche
+
+** 17. Nullità
+
+*** Ipotesi tassative
+
+- Mancanza elementi essenziali: definizione rimessa ad interprete
+- Carenza di potere, incompetenza assoluta
+- Violazione o elusione giudicato
+- Casi previsti dalla legge:
+  - Atti adottati da organi collegiali scaduti, dopo prorogatio
+  - Violazione diritto europeo
+
+*** Azione di nullità
+
+- Giurisdizione esclusiva giudice amministrativo
+
+** 18. Rimedi
+
+*** Annullamento d'ufficio
+
+- Soggetti: stesso organo (autoannullamento), altro organo (annullamento gerarchico), ministro (annullamento straordinario)
+- Presupposti:
+  - Illeggittimità
+  - Interesse pubblico, diverso da ripristino legittimità
+  - Valutazione interessi destinatario, controinteressati
+  - Annullamento entro termine ragionevole
+
+*** Convalida
+
+- Eliminazione vizio provvedimento, disposta da stessa amministrazione
+- Effetto retroattivo
+- Convalida di incompetenza: ratifica
+
+*** Sanatoria
+
+- Presupposto o atto mancante si realizzano in seguito
+
+*** Conferma e atto confermativo
+
+- Amministrazione ritiene atto non viziato
+- Conferma: provvedimento autonomo, contenuto identico, impugnabile
+- Atto meramente confermativo: diniego di riesame, non ha valenza provvedimentale, non impugnabile
+
+*** Conversione
+
+- Istituto civilistico, controverso
+
+*** Revoca
+
+- Manifestazione potere autotutela
+- Sopravvenienza:
+  - Motivi pubblico interesse: opportunità nuovo provvedimento
+  - Mutamento situazione di fatto: non prevedibile
+- Nuova valutazione interese pubblico originario:
+  - Presupposto: erronea valutazione iniziale
+  - Critiche: constrasta con principio legittimo affidamento
+- Conseguenze:
+  - Efficacia ex nunc, inidoneità produzione ulteriori effetti
+  - Indennizzo
+- Mero ritiro: provvedimenti non ancora efficaci
+
+*** Recesso
+
+- Recesso da contratti: solo casi previsti dalla legge
+
+* C 05. Procedimento
+
+** 1. Nozione e funzioni
+
+*** Nozione
+
+- Fattispecie a formazione progressiva: effetti realizzati solo dopo completamento sequenza, altrimenti solo elementi prodromici
+- Diritto pubblico:
+  - Procedimento: modalità ordinaria esercizio poteri statali
+  - Trasparenza e garanzia privati
+- Diritto amministrativo:
+  - Concezione autoritaria tradizionale, irrilevanza procedimento
+  - Ricostruzioni moderne: procedimento come esercizio potere, mezzo di introduzione interessi rilevanti
+
+*** Funzioni
+
+- Controllo esercizio potere: verifica atti e procedura
+- Valutazione interessi: incisi da provvedimento, valore collaborativo
+- Garanzia contraddittorio:
+  - Verticale: provvedimenti individuali con effetti restrittivi
+  - Orizzontale: fra privati
+- Democrazia procedimentale: procedimento legittima attività amministrativa
+- Coordinamento amministrazioni: amministrazioni curano più interessi, collegamento debole e forte
+
+** 2. Leggi generali
+
+- L. 241/1990:
+  - Non definisce procedimento
+  - Disciplina istituti fondamentali procedimento
+- Campo di applicazione soggettivo:
+  - Amministrazioni statali, enti pubblici nazionali
+  - Società partecipate, gestori di servizi pubblici
+  - Regioni, enti locali: livelli superiori di tutela
+- Campo di applicazione oggettivo:
+  - Applicata a procedimenti individuali
+  - Non applicata a atti normativi, atti amministrativi generali
+  - Alcuni procedimenti: regolati da leggi speciali
+- Nuovo rapporto con cittadini:
+  - Favore partecipazione, strumenti consensuali
+  - Partecipazione portatori interessi diffusi
+  - Superamento segreto amministrativo, accesso documenti
+  - Superamento impersonalità amministrativa, responsabile procedimento
+  - Strumenti per collaborazione e coordinamento tra amministrazioni
+
+** 3. Fasi del procedimento
+
+- Iniziativa, istruttoria, conclusione
+
+** 4. Iniziativa
+
+- Obbligo di procedere (inizio procedimento), obbligo di provvedere (conclusione procedimento)
+- Istanza di parte:
+  - Privato: richiesta provvedimento favorevole
+  - Altre amministrazioni: proposte ad amministrazione competente
+- Procedimento d'ufficio:
+  - Attività preistruttorie: svolte d'ufficio, fatti che integrano violazioni
+  - Denunce o istanze di privati: valutazione discrezionale fondatezza
+- Comunicazione avvio procedimento:
+  - Soggetti destinatari che subiscono effetti diretti
+  - Indicazione amministrazione, oggetto procedimento, responsabile, termine conclusione, ufficio per visione atti
+  - Mancata comunicazione: annullabile, limitazioni provvedimenti vincolati
+  
+** 5. Istruttoria
+
+- Acquisizione:
+  - Fatti (requisiti ammissibilità, legittimazione, presupposti)
+  - Interessi da valutare
+- Responsabile procedimento:
+  - Principio inquisitorio, non vincolato da allegazioni parti
+  - Principii efficienza, economicità
+- Pareri: obbligatori, vincolanti, facoltativi
+- Silenzio-assenso:
+  - Rilascio assensi, concerti, nullaosta fra amministrazioni
+  - Termini brevi, sospensione solo per esigenze istruttorie
+- Modalità collaborative:
+  - Incontri con destinatario e controinteressati
+  - Conferenza di servizi
+- Verbalizzazione: attività istruttorie, valida fino a querela di falso
+- Partecipazione:
+  - Comunicazione al destinatario: funzionale a partecipazione
+  - Accesso procedimentale: visione atti procedimento
+  - Valutazione memorie e documenti: obbligatoria, motivazione
+- Preavviso di rigetto:
+  - Procedimenti ad istanza di parte, amministrazione ritiene di rigettare istanza
+  - Destinatario: invitato a fornire osservazioni, motivazione mancato accoglimento
+  - Diniego: extrema ratio
+
+** 6. Conclusione
+
+*** Decisione finale
+
+- Non presa da responsabile procedimento
+- Organo competente per decisione: individuale, collegiale
+- Atti: semplici, complessi (più volontà)
+- Tempus regit actum
+
+*** Termine procedimento
+
+- Termine generale: 30 giorni, derogabile da amministrazioni
+- Pubblicazione tempi effettivi conclusione procedimenti
+- Termini: ordinatori, perentori (decadenza, espressi, interpretazione)
+- Ritardo:
+  - Potere sostitutivo: d'ufficio o su istanza di parte, soggetto competente, termine dimezzato
+  - Danno, indennizzo automatico
+
+*** Silenzio
+
+- Provvedimento espresso: conclusione normale procedimento
+- Silenzio-inadempimento: mancato rispetto termine, rimane dovere di concludere
+- Silenzio-diniego: rigetto domanda, ipotesi tassative, valore provvedimentale (impugnabile)
+- Silenzio-assenso:
+  - Applicazione generale (eccetto SCIA, interessi pubblici, provvedimento formale)
+  - Valore provvedimentale, impugnabile
+  - Difetti: applicabile a procedimenti discrezionali, rischio annullamento in autotutela
+  - Certificazione decorso termine
+
+*** Accordi integrativi, sostitutivi
+
+- Oggetto: contenuto discrezionale provvedimento
+- Proposta: privato, responsabile procedimento
+- Non obbligatori per amministrazione
+- Tipi:
+  - Integrativi: incide su contenuto provvedimento, non forma
+  - Sostitutivi: sostituzione provvedimento, amministrazione determina limiti negoziazione
+- Recesso: sopravvenuti motivi interesse pubblico, indennizzo per danni
+- Motivazione, natura di provvedimenti
+
+** 7. Procedimenti semplici, complessi, collegati
+
+- Procedimenti semplici (singolo provvedimento), complessi (più fasi)
+  - Unitarietà procedimento: produzione effetti giuridici esterni
+  - Collegamento: in sequenza, in parallelo
+- Procedimenti di primo, secondo grado (controlli)
+- Procedimenti finali, strumentali
+- Procedura interna all'amministrazione: distinta da procedimento
+
+** 8. Conferenza di servizi, altre forme di coordinamento
+
+*** Conferenza di servizi
+- Riunione rappresentanti uffici
+*** Istruttoria
+- Facoltativa, esame contestuale interessi pubblici
+- Convocazione: amministrazione che cura interesse pubblico prevalente
+*** Decisoria
+- Sostituzione singoli atti amministrazioni
+- Non equiparabile ad organo collegiale, amministrazioni rimangono indipendenti
+- Forma asincrona: acquisizione determinazioni entro termine
+- Forma simultanea: determinazioni complesse
+- Mancata partecipazione a conferenza: silenzio-assenso, responsabilità amministrativa
+- Decisione:
+  - Unanimità: non richiesta, immediatamente efficace
+  - Valutazione qualitativa, non quantitativa
+  - Amministrazioni dissenzienti: impugnazione provvedimento
+*** Preliminare
+- Attività complesse, studio di fattibilità privato
+*** Autorizzazione unica
+- Procedimento unico, partecipazioni amministrazioni interessate, provvedimento unico
+*** Sportello unico
+- Fa da tramite fra amministrazioni competenti
+- Riceve domanda del privato, fornisce informazioni, coordina amministrazioni
+
+* C 06. Controlli
+
+** 1. Premessa
+
+- Funzione accessoria e strumentale
+- Controlli si applicano a società private, amministrazioni
+- Qualificazione controlli:
+  - Titolare: posizione di terzietà, indipendenza, qualifiche tecniche
+  - Destinatario: controlli affidati a organi interni, esterni
+  - Oggetto: singoli atti, attività
+  - Parametro di valutazione: tecnico, legale
+  - Misure: ordini, annullamento/riforma atti, sanzioni, potere sostitutivo, etc.
+- Controlli collaborativi
+
+** 2. Controlli su atti e attività
+
+*** Controllo su atti
+
+- Preventivo o successivo, legittimità o merito
+- Legittimità: impedisce produzione atti, produce annullamento atto
+- Controllo preventivo di legittimità
+  - Utilizzato tradizionalmente, incompatibile con principio autonomistico
+  - Attualmente limitato a pochi atti
+
+*** Controllo su attività:
+
+- Solo successivo
+- Controllo regolarità contabile, finanzaria, efficienza, efficacia, economia
+
+** 3. Controlli gestionali
+
+- Amministrazione di risultato
+- Controllo regolarità amministrativa e contabile: principi revisione aziendale
+- Controllo di gestione: efficacia, efficienza ed economicità attività amministrativa
+- Valutazione dirigenza pubblica: prestazioni dirigenti
+- Valutazione e controllo strategico: adempimento piani
+
+* C 07. Responsabilità
+
+** 1. Premessa
+
+- Affermazione responsabilità Stato
+- Modelli di responsabilità: soggettiva, oggettiva indiretta
+- Bilanciamento: pieno risarcimento, scoraggiare illeciti, evitare burocrazia difensiva
+
+** 2. Art. 28 Cost.
+
+- Costituzione:
+  - Responsabilità personale del dipendente e solidale dell'amministrazione
+- Prima della Costituzione:
+  - Responsabilità amministrazione, si rivale in regresso
+  - Casi di responsabilità personale dipendente
+  - Esenzioni da responsabilità (attività pericolose, cose in custodia), progressivamente superate
+
+** 3. Responsabilità civile da comportamento illecito
+
+- Dipendente: responsabilità diretta, solidale con amministrazione, regresso con responsabilità amministrativa
+- Condotta:
+  - Meri comportamenti (violazione affidamento), provvedimenti
+  - Atti, omissioni, ritardo ingiustificato
+  - Organo collegiale: responsabilità in solido, dissenso
+- Nesso di occasionalità:
+  - Abuso di attribuzioni dipendente
+- Elemento soggettivo:
+  - Dipendente: dolo, colpa grave (colpa lieve permette azione solo contro amministrazione)
+  - Divieto sindacato merito
+  - Colpa: violazione leggi e regolamenti, regole generali digiligenza e prudenza
+- Danno ingiusto:
+  - Lesione diritto soggettivo
+  - Interesse legittimo oppositivo
+  - Interesse legittimo pretensivo: tradizionalmente non riconosciuto
+
+** 4. Risarcibilità lesione interessi legittimi
+
+- Cass. n. 500/1999: art. 2043, lesione di interesse giuridicamente rilevante, anche interessi legittimi
+- Interessi legittimi pretensivi:
+  - Certezza: risarcimento pieno
+  - Mera aspettativa: non tutelata
+  - Perdita di chance: probabilità ma non certezza, serietà
+- Accertamento colpa:
+  - Illegittimità provvedimento: solo indice presuntivo, non è sufficiente
+  - Danneggiato: dimostrazione altre circostanze che rendono errore inescusabile
+  - Amministrazione: dimostrazione errore scusabile (norma incerta, contrasti giurisprudenziali, etc.)
+- Danno da ritardo:
+  - Certezza tempo azione amministrativa
+  - Violazione termini, risarcimento a prescindere legittimità provvedimento
+  - Indennizzo per ritardo
+- Azione risarcitoria:
+  - Giurisdizione giudice amministrativo, proponibile insieme ad annullamento
+- Responsabilità contrattuale PA:
+  - Superamento privilegi tradizionali
+  - Responsabilità precontrattuale: violazione affidamento incolpevole
+
+** 6. Responsabilità erariale
+
+- Danno erariale:
+  - Diretto: danni causati da dipendente a PA
+  - Indiretto: azione di regresso
+- Ambito applicazione soggettivo:
+  - Dipendenti PA, enti pubblici, enti pubblici economici
+  - Società pubbliche: solo se in-house, o con regime pubblicistico
+- Natura personale:
+  - Collegi: solo votanti favorevoli
+- Elemento soggettivo:
+  - Dolo, colpa grave
+  - Divieto sindacato merito scelte discrezionali
+- Danno obliquo:
+  - Danno a PA/enti diversi da quello di appartenenza
+- Quantificazione danno:
+  - Decremento patrimoniale, mancata entrata, danno all'immagine
+  - Sottrazione vantaggi conseguiti, potere riduttivo
+  - Accertato con giudizio davanti a Corte dei conti
+
+* C 08. Organizzazione
+
+** 6. Enti pubblici
+
+** 7.
+
+
+* C 10. Personale
+
+
+
+* C 11. Beni
+
+** 1. Disciplina pubblicistica dei beni
+
+- Beni: per necessità funzionali, per metterli a dispozione della comunità
+- Regime dei beni pubblici: regolato da codice civile, non imposto da Costituzione
+- Beni pubblici: demanali (solo regole pubblicistiche), patrimoniali (disponibili, non)
+- Beni privati: soggetti per alcuni aspetti a regole pubblicistiche
+- Passaggio da Stato proprietario a Stato regolatore
+- Regime pubblicistico: giustificato da fallimento di mercato (mercato non può produrli in quantità sufficiente per tutti, limitazione del loro uso)
+
+** 2. Beni di interesse privato, pubblico
+
+*** Beni di interesse privato
+- Interesse pubblico esterno al bene
+- Beni privati: regole di diritto privato, poteri conformativi (disciplina urbanistica, tutela dell'ambiente, sicurezza del consumatore)
+- Beni patrimoniali disponibili: appartengono alla PA, regime privatistico, procedura a evidenza pubblica per l'acquisto e vendita
+*** Beni di interesse pubblico
+- Interesse pubblico è immanente al bene
+- Beni culturali: individuati da legge, autorizzazioni (esecuzione di lavori), vincoli (inalienabili, diritto di prelazione)
+- Aree naturali protette: conservazione ambiente, vincoli (attività economiche, costruzione, soggiorno...)
+- Reti: beni privati di interesse pubblico (accesso alla rete per i gestori, definizione di tariffe per i consumatori), regolamentazione per evitare abusi monopolistici, di proprietà dello Stato e enti locali (divieto di cessione a privati)
+
+** 3. Beni patrimoniali indisponibili e beni demaniali
+
+*** Beni patrimoniali indisponibili
+- Alienabili, ma rimangono soggetti a vincolo di destinazione
+- Non espropriabili, perché necessari per adempiere ad un pubblico servizio
+- Somme di denaro per servizi pubblici essenziali
+*** Beni demaniali
+- Tipi di demanio:
+  - Necessario: possono appartenere solo a Stato
+  - Eventuale: sono demaniali se appartengono a Stato, regioni, province o comuni
+- Non alienabili, espropriabili, usucapibili
+- Destinati alla fruizione pubblica, oggetto di concessione amministrativa
+- Perdita dello status:
+  - Beni naturali: mutamenti di fatto
+  - Beni artificiali: provvedimento di sdemanializzazione
+
+* C 12. Contratti
+
+** 1. Premessa
+
+- Contratti pubblici: rilevanti per l'economia
+- Formazione volontà contrattuale: procedura competitiva ad evidenza pubblica, provvedimento finale
+- Esecuzione contratto: regolata dal diritto privato
+- Evoluzione storica:
+  - Concezione tradizionale: formale, limita discrezionalità
+  - Diritto europeo: informale, maggiore discrezionalità
+*** Disciplina contratti pubblici
+- Codice 2016: recepisce diritto europeo
+- Leggi regionali: spazi limitati di adattamento
+- Capitolati: disciplina di dettaglio dei contratti (generali), tecnica (speciali)
+- Legge anti-corruzione: obblighi di trasparenza
+- Codice penale: reati specifici
+- Codice processo amministrativo: procedura speciale
+*** ANAC
+- Controllo e regolazione contratti pubblici
+- Emanazione di modelli:
+  - Bando, capitolato, contratto), strumenti di regolazione flessibile
+  - Impugnabili davanti al giudice amministrativo
+- Valutazione requisiti: stazioni appaltanti (capacità tecniche), imprese (affidabilità)
+- Albo componenti commissioni aggiudicatrici: sorteggio
+- Impugnazione atti che violano normativa in contratti pubblici
+
+** 2. Principi generali e ambito di applicazione
+
+*** Principi generali
+
+- Economicità, efficacia, tempestività, correttezza
+- Libera concorrenza, non-discriminazione, trasparenza, pubblicità
+- Divieto di sfavorire o svantaggiare operatori
+- Valutazione interessi ambientali (appalti verdi), sociali, lavoro (appalti sociali)
+
+*** Ambito di applicazione: soggetti
+
+- Soggetti a cui si applica il codice
+- Amministrazioni aggiudicatrici:
+  - Committenti operanti fuori dal mercato, regime più garantista
+  - PA statali, enti pubblici territoriali, enti pubblici non economici
+  - Organismi di diritto pubblico (formalmente privati, sostanzialmente pubblici)
+- Imprese pubbliche operanti:
+  - Azioni ispirate a logica economica, regime meno stringente
+  - Amministrazioni aggiudicatrici hanno influenza dominante (maggioranza capitale, voti, organi di direzione o controllo)
+- Imprese private:
+  - Se hanno diritti speciali o esclusivi
+
+*** Ambito di applicazione: contratti
+
+- Contratti esclusi dalla disciplina generale: in tutto, in parte
+- Contratti estranei: attività esterne alle direttive europee, disciplina privatistica
+- Contratti sopra/sotto soglia: procedura integrale, semplificata
+- Oggetto del contratto:
+  - Realizzazione di lavori, fornitura di beni e servizi
+  - Concessione di lavori: realizzazione e gestione opera
+
+** 3. Procedure di affidamento
+
+*** Programmazione
+
+- Programmi: lavori pubblici (triennale), acquisto beni e servizi (biennale)
+- Valutazione risorse finanziare, consultazioni di mercato, dibattito pubblico per grandi opere
+
+*** Avvio del procedimento
+
+- Delibera a contrarre: atto interno, individua elementi del contratto e criteri di selezione
+- Bando di gara:
+  - Secondo i bandi-tipo dell'ANAC, deroghe deve essere motivate
+  - Informazioni: oggetto contratto, procedura (requisiti imprese, criteri valutazione offerte)
+  - Pubblicazione: massima diffusione
+  - Rispetto par condicio, ragionevolezza requisiti, impugnabile solo se immediatamente escludente
+- Strumenti a favore partecipazione:
+  - Consorzi stabili
+  - Raggruppamenti temporanei di imprese (verticali, orizzontali)
+  - Avvalimento risorse altra impresa
+
+*** Selezione dei partecipanti
+
+- Procedure aperte: tutti possono fare un'offerta
+- Procedure ristrette: operatori chiedono di partecipare, presentano offerte se invitati
+- Procedure negoziate:
+  - Casi eccezionali, PA sceglie gli operatori e negozia le condizioni in maniera meno formale
+  - Bando non necessario: unico fornitore, casi estremi di urgenza
+- Prequalifica:
+  - Usata in procedure ristrette e negoziate
+  - Valutazione requisiti minimi oggettivi, non discriminatori, proporzionati
+  - Tassatività clausole di esclusione, soccorso istruttorio
+
+*** Valutazione delle offerte
+
+- Prezzo più basso
+- Miglior rapporto qualità-prezzo: bando indica criteri di valutazione
+- Commissione aggiudicatrice:
+  - Nomina componenti: albo ANAC, criterio rotazione, comunicazione ad ANAC
+  - Valutazione offerte: prima qualità, poi prezzo
+
+*** Aggiudicazione
+
+- Controllo regolarità procedure di gara, approvazione o silenzio-assenso
+- Formazione graduatoria, aggiudicazione al miglior offerente
+- Valutazione effettivo possesso requisiti impresa aggiudicatrice
+- Stipula del contratto:
+  - Entro 60 giorni da aggiudicazione
+  - Non prima di 35 giorni da comunicazione aggiudicazione ad imprese concorrenti, possibilità impugnazione procedura
+
+*** Offerte anomale
+
+- Fase ulteriore, presenza offerte troppo basse, impresa fuori mercato o in perdita
+- Contraddittorio con impresa, motivazione impresa
+
+*** Procedure flessibili
+
+- Dialogo competitivo:
+  - Stazione appaltante non ha conoscenze necessarie
+  - Bando indica oggetto in maniera generica
+  - Dialogo con ogni impresa, definizione aspetti appalto
+  - Valutazione offerte e aggiudicazione bando
+- Partenariato per l'innovazione:
+  - Lavori, beni o servizi non presenti sul mercato
+- Aste elettroniche:
+  - Offerte confrontabili meccanicamente
+- Accordi quadro:
+  - Contratto relativo a più appalti nel tempo
+  - Individuazione una impresa, più imprese (rotazione)
+  - Stipulati da centrali di committenza, maggiore efficienza acquisti PA, utilizzabile se più efficiente di contratti individuali
+  - Soggetti aggregatori: gare pubbliche, pochi soggetti specializzati
+
+** 4. Esecuzione del contratto
+
+- Principi generali diritto privato
+
+*** Invariabilità contratto
+
+- Rispetto procedura gara
+- Varianti in corso opera:
+  - Casi tassativi, aumento massimo (quinto del valore)
+  - Risoluzione del contratto e nuova gara
+- Revisioni dei prezzi:
+  - Bilanciamento tra contenimento prezzi e remuneratività contratto
+  - Previste dall'inizio in maniera chiara, precisa e inequivocabile
+- Subappalto:
+  - Previsto dall'inizio, dimostrazione requisiti subappaltante
+
+*** Direttore dei lavori
+
+- Contratti di importo minore: può coincidere con responsabile procedimento
+- Interlocutore con impresa aggiudicataria
+- Garanzia regolarità lavori, emanazione ordini per questioni tecniche o economiche
+- Tenuta riserve (eccezioni e contestazioni che comportano costi maggiori)
+- Collaudo: verifica conformità prestazioni eseguite a prestazioni pattuite
+
+*** Recesso, risoluzione
+
+- Recesso:
+  - Stazione appaltante scioglie vincolo contrattuale
+  - Pagamento lavori eseguiti, materiali utili, indennizzo
+- Risoluzione:
+  - Grave inadempimento, irregolarità, ritardi nei lavori
+
+** 5. Mezzi di tutela
+
+*** Standstill period
+
+- Termine di 35 giorni dopo comunicazione aggiudicazione appalto
+- Garantisce possibilità impugnazione
+
+*** Rito speciale
+
+- Rito speciale appalti pubblici: termini ridotti, giurisdizione esclusiva
+- Poteri giudice:
+  - Dichiarazione inefficacia contratto: aggiudicazione senza bando, stipula prima scadenza termini dilatori
+  - Conservazione efficacia contratto: esigenze imperative di interesse generale
+- ANAC: legittimazione straordinaria ad impugnare atti in violazione codice
+
+*** Strumenti di tutela non giurisdizionale
+
+- Transazione, arbitrato: diritti soggettivi, camera arbitrale ANAC
+- Accordo bonario: riserve superiori a 10% valore contrattuale, definizione con arbitrato
+- ANAC: emanazione parere, richiede contraddittorio parti
