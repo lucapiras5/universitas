@@ -182,3 +182,60 @@
 - FTK Imager è stato compromesso varie volte.
 - Cellebrite e Signal [...].
 - Non esiste una sicurezza e affidabilità al 100%, serve valutare il contesto della prova.
+
+* Cybersicurezza
+
+** Cybersicurezza
+
+- Regolamento europeo con definizione di cibersicurezza.
+- Nuove forme di aggressione: manipulazione del discorso pubblico,
+- Manuale di Tallin 2.0, potere di controattacco degli stati.
+- Cyber-criminalità organizzata: non esiste in un luogo fisico, si riunisce su internet.
+- Autorità competenti:
+  - Se i cybercriminali hanno protezione di Stato, si ha dimensione diplomatica.
+  - Altrimenti, si usa la repressione tradizionale, ma si pone il problema della giurisdizione.
+- Presenza di kit e tecnologie come ChatGPT che permettono a chi non ha conoscenze tecniche di compiere cybercrimini.
+- Repressione:
+  - Repressione ordinaria: per quanto possibile.
+  - Formazione del pubblico: sensibilizzazione per evitare che diventino vittime di cyberreati.
+  - Effetto idra: catturare un cybercriminale non ferma gli altri.
+- Prevenzione:
+  - Visbilità: quali sistemi possono essere colpiti all'interno di un'azienda.
+  - Capacità: il livello di preparazione degli operatori di cybersicurezza.
+  - PMI italiane: bersaglio ideale per attacchi.
+
+** Quadri normativi comunitari
+
+*** Primi interventi legislativi
+
+- Istitzuione di un mercato interno libero e concorreniale per i servizi delle telecomunicazioni e la creazione di reti.
+- Convenzione di Budapest, etc.
+
+*** Strategia del 2013, Direttiva NIS
+
+- Definizione di cybersicurezza:
+  - Precauzioni ed interventi per proteggere il cyberdominio civile e militare.
+  - Fa riferimento all'information security, paradigma che nel tempo si è arricchito di contenuti.
+- Direttiva NIS:
+  - Obbligo di adottare una strategia nazionale per ogni Stato, colaborazione strategica fra Stati.
+  - Creazione di una rete di gruppi di intervento in caso di incidente, la rete CSIRT.
+- Modello Digital Single Market:
+  - Regolamenti GDPR, PSD 2, eIDAS, NIS.
+- Strategia del 2017:
+#  - ...
+- Cybersecurity Act (2019/881)
+  - ENISA: agenzia europea sulla sicurezza informatica, gestione della cybersicurezza a livello sovranazionale, creazione di schemi di certificazione europei.
+- Strategia 2020:
+  - Sicurezza informatica: rafforzare la fiducia nell'innovazione, connessioni, etc., e salvaguardare le libertà fondamentali (privacy, espressione, informazione...).
+
+** Francesco Fabbri: Perimetro di sicurezza nazionale cibernetica
+
+- NTT Data.
+- Introduzione del PSNC nel D.L. n. 105/2019.
+- PSNC: riguarda la protezione e garanzia di elevata sicurezza informatica per i servizi essenziali dello Stato.
+- Definizione di servizi essenziali dello Stato.
+- Successivi provvedimenti normativi:
+  - DPCM 131/2020: criteri per identificare i soggetti nel PSNC, adempimenti fondamentali per i soggetti.
+  - DPCM 81/2021: procedure per la notifica degli incidenti, misure di sicurezza per garantire livelli di sicurezza adeguati.
+  - DPR 54/2021: modalità e criteri per la valutazione dei fornitori, procedure, modalità e termini da parte della autorità compententi.
+  - 

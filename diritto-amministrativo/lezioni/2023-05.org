@@ -1,0 +1,53 @@
+* 2022 maggio 15
+
+** Impugnazioni in generale
+
+ - Il codice del processo organizzativo riordina la materia delle impugnazioni.
+ - Esistono rinvii al codice di procedura civile, tranne per le norme non applicabili.
+
+** Impugnazione
+
+- Termine breve: sentenza notificata (a difensore), 60 gg.
+- Termine lungo: sentenza non notificata, 6 mesi dal deposito della sentenza.
+- Notifica: da parte del soggetto che ha fatto il ricorso, che ha vinto, e che ha interesse a far decorrere il termine breve.
+- La parte che impugna la sentenza deve depositare una copia della sentenza impugnata, e la prova delle eseguite notificazioni.
+
+*** Contraddittorio in appello
+
+- Problemi: quali sono le parti necessarie, quali sono le modalità.
+- Notificazione: la impugnazione deve essere notificata ad almeno una delle parti interessate a contraddire, se la notificazione non è stata eseguita nei confronti di tutte le parti il contraddittorio viene integrato dal giudice.
+- Cause scindibili: bisogna verificare se chi non è stato notificato ha interesse a contraddire, se un co-soccombente non ha impugnato significa non era interessato alla riforma della sentenza.
+
+*** Impugnazione incidentale
+
+- Nozione: impugnazione proposta da chi ha vinto in primo grado
+- Cause inscindibili, scindibili ...
+- Termine: 60 gg.
+
+*** Oggetto dell'impugnazione
+
+- Due interpretazioni: intero petitum, singoli capi.
+- Terza interpretazione: si considera la qualità dei singoli motivi, se formali o sostanziali.
+- Codice: singoli punti della sentenza.
+
+*** Altri punti
+
+- Intervento in secondo grado: giudizio civile, amministrativo.
+- Sospensione degli effetti della sentenza: con misura cautelare.
+
+** Consiglio di Stato
+
+- Adunanza Plenaria: può indicare un principio di diritto.
+- Disciplina: regole generali sull'appello, regole specifiche per il CdS.
+
+** Nova in appello
+
+- Divieto di nuovi documenti e nuove prove.
+- Resta salva la possibilità di proporre motivi aggiunti, riguardano vizi conosciuti dal ricorrente solo nella fase del secondo grado.
+  - Questo viola il principio del doppio grado di giudizio, dato che le decisioni del CdS non sono impugnabili.
+
+** Sentenze del CdS
+
+- Carattere rinnovatorio ...
+- Casi specifici di annullamento con/senza (?) rinvio
+- Regola generale

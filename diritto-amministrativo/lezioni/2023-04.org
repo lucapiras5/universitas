@@ -1,0 +1,67 @@
+#+TITLE: Diritto amministrativo -- aprile 2023
+
+* 2023.04.04
+
+** Inquadramento generale
+
+# ...
+
+I provvimenti amministrativi quasi sempre ledono un interesse legittimo, ma eccezionalmente ledono anche un diritto soggettivo.
+
+Art. 134 cod. proc. amm.: lista di materie di competenza esclusiva del giudice amministrativo.
+
+Il giudice ordinario ha giurisdizione esclusiva per i rapporti di lavoro all'interno della PA.
+
+A differenza dell'esposto, il ricorso amministrativo obbliga la PA ad esprimersi entro 90 gg., a pena di formazione di silenzio-assenso.
+
+Il *ricorso straordinario* prevede un termine di 120 gg. dal provvedimento, a differenza del termine ordinario di 60 gg.
+
+Dopo la scadenza del ricorso straordinario, l'unico rimedio possibile è l'autotutela, ma non è obbligatoria, e l'ammisnitrazione può ignorarlo.
+
+Il *danno da provvedimento amministrativo illegittimo* deve essere richiesto entro un termine di 120 giorni.  Si può cercare di far avanzare il termine 
+
+** Classificazione dei ricorsi amministrativi
+
+- Due tipi: ordinari (contro provvedimenti non-definitivi) e straordinari (provv. definitivi).
+- Definitività del provvedimento amministrativo: non è definita espressamente, ma in maniera circolare.
+- Ricorso in opposizione, ricorso gerarchico proprio e improprio.
+
+*** Ricorso in opposizione
+
+- Proposto davanti alla stessa amministrazione che ha emanato l'atto.
+- Come l'autotutela, ma obbliga la PA a rispondere.
+
+*** Ricorso gerarchico
+
+- Proprio: rimedio generale, sempre ammesso dalla legge.
+- Improprio: rimedio ammesso solo nei casi 
+
+*** Ricorso al Presidente della Repubblica
+
+- È l'unico rimedio straordinario.
+- Tradizionalmente era il ricorso al Re, capo dell'esecutivo.
+- Dopo la trasformazione dell'ordinamento da monarchico a repubblicano
+- Sono concretamente decisi da una sezione apposita del Consiglio di Stato.
+
+** Ricorso gerarchico
+
+- Rimedio generale, sempre ammesso, anche se non previsto dalla legge.
+- R.G. proprio: utilizzabile solo in caso di rapporto di subordinazione gerarchica generale, ed *esterna*.
+- R.G. improprio: previsto dalla legge, in casi tassativi.
+- Presupposto comune: provvedimento *non definitivo*.
+- *Provvedimenti definitivi*: per natura, per legge, o nel caso più frequente, perché è stato *già oggetto di ricorso amministrativo*, provvedimenti urgenti (ad es., requisizione).
+- Provvedimento non definitivo: la PA ha ancora un margine di discrezionalità.
+# - Facoltativo: ...
+- *Recessivo rispetto al R.Giu.*:
+  - R.Giu. davanti al TAR può essere proposto in pendenza del R.Ger., che diventa improcedibile.
+  - R.Ger. proposto dopo il R.Giu., è inammissibile.
+  - Prevale sempre il R.Giu. presentato dal controinteressato, ed il giudizio si sposta daanti al giudice amministrativo.
+- *Provvedimenti*:
+# - 
+- *Disapplicazione*: richiesta al giudice ordinario, la decisione non ha effetti erga omnes.
+# - Ricorso in ottemperanza
+- Carattere di provvedimento, può essere impugnato di nuovo.
+
+** Ricorso al TAR
+
+- Termine breve: *60 gg.* a pena di *decadenza*, l'interesse legittimo permane, ma prevale

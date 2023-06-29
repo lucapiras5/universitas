@@ -1,0 +1,18 @@
+#+STARTUP: showeverything
+
+* Diritto Amministrativo
+
+** 2. Principi costituzionali
+
+*** Legalità
+
+Nozione: attività amministrativa deve seguire i fini determinati dalla legge.
+
+Fonte: Costituzione (giustiziabilità atti amministrativi), Trattati Europei.
+
+Legalità-garanzia: tutela situazioni giuridiche soggettive davanti a potere amministrativo.
+
+Legalità-indirizzo: attività amministrativa segue indicazioni della legge.
+
+Preferenza per la legge: gli atti della PA non possono contrastare con la legge, origine (concezione dualistica sovranità).
+
